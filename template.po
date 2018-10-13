@@ -520,6 +520,24 @@ msgstr ""
 msgid "Avg. daily profitability"
 msgstr ""
 
+msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "Workers"
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
 msgid "Online, but not mining."
 msgstr ""
 
@@ -991,9 +1009,6 @@ msgstr ""
 msgid "Log out"
 msgstr ""
 
-msgid "Workers"
-msgstr ""
-
 msgid "of"
 msgstr ""
 
@@ -1052,6 +1067,9 @@ msgid "Export data"
 msgstr ""
 
 msgid "24h logs"
+msgstr ""
+
+msgid "Diagnostic"
 msgstr ""
 
 msgid "Address editor"
@@ -2356,9 +2374,6 @@ msgstr ""
 msgid "Learn more about statistics and data export"
 msgstr ""
 
-msgid "Diagnostic"
-msgstr ""
-
 msgid "2FA is not activated"
 msgstr ""
 
@@ -2471,6 +2486,9 @@ msgid "All workers are online"
 msgstr ""
 
 msgid "All hardware successfully detected"
+msgstr ""
+
+msgid "Check whole diagnostic"
 msgstr ""
 
 msgid "Market view"
