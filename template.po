@@ -3193,24 +3193,6 @@ msgstr ""
 msgid "Please enable 2FA first"
 msgstr ""
 
-msgid "Admin - Orders"
-msgstr ""
-
-msgid "Admin - Dashboard"
-msgstr ""
-
-msgid "Admin - Customers"
-msgstr ""
-
-msgid "Admin - Ambassadors"
-msgstr ""
-
-msgid "Admin - Ambassadors tasks"
-msgstr ""
-
-msgid "Admin - Ambassadors logs"
-msgstr ""
-
 msgid "The values of tags are used in workers config section."
 msgstr ""
 
