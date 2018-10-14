@@ -1,0 +1,3281 @@
+msgid "ASIC's default username is"
+msgstr "Privzeto uporabniško ime za ASIC je"
+
+msgid "ASIC's default password is"
+msgstr "Privzeto geslo za ASIC je"
+
+msgid "Offline"
+msgstr "Odsoten"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "CPU mining disabled"
+msgstr "CPE rudarjenje onemogočeno"
+
+msgid "CPU mining enabled"
+msgstr "CPE rudarjenje omogočeno"
+
+msgid "Profit switch disabled"
+msgstr "Zamenjava na bolj donosni kovanec onemogočena"
+
+msgid "Profit switch enabled"
+msgstr "Zamenjava na bolj donosni kovanec omogočena"
+
+msgid "CPU mining"
+msgstr "CPE rudarjenje"
+
+msgid "Without notes"
+msgstr "Brez zapiskov"
+
+msgid "Delete"
+msgstr "Izbriši"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Reboot machine"
+msgstr "Ponovno zaženi napravo"
+
+msgid "Restart software"
+msgstr "Ponovno zaženi program"
+
+msgid "Switch miner"
+msgstr "Zamenjaj program"
+
+msgid "Profit switch"
+msgstr "Samodejna izbira kovanca"
+
+msgid "Config"
+msgstr "Konfiguracija"
+
+msgid "Idle"
+msgstr "Nedejaven"
+
+msgid "Switching"
+msgstr "Zamenjavanje"
+
+msgid "Online"
+msgstr "Prisoten"
+
+msgid "Error"
+msgstr "Napaka"
+
+msgid "Mining"
+msgstr "Rudarjenje"
+
+msgid "Last seen:"
+msgstr "Nazadnje viden:"
+
+msgid "Uptime"
+msgstr "Čas delovanja"
+
+msgid "Earnings"
+msgstr "Prihodki"
+
+msgid "Max. temp"
+msgstr "Maks. temp."
+
+msgid "Max. fans"
+msgstr "Maks. vent."
+
+msgid "Watt"
+msgstr "Vatov"
+
+msgid "Note"
+msgstr "Zapiski"
+
+msgid "Without note"
+msgstr "Brez zapiskov"
+
+msgid "chars left"
+msgstr "preostalih znakov"
+
+msgid "No, keep it"
+msgstr "Ne, ohrani"
+
+msgid "Yes, delete it"
+msgstr "Da, izbriši"
+
+msgid "Restart"
+msgstr "Ponovni zagon programa"
+
+msgid "Yes, restart it"
+msgstr "Da, ponovno zaženi"
+
+msgid "Reboot"
+msgstr "Ponovni zagon naprave"
+
+msgid "Yes, reboot it"
+msgstr "Da, ponovno zaženi"
+
+msgid "workers"
+msgstr "delavci"
+
+msgid "No, keep them"
+msgstr "Ne, ohrani"
+
+msgid "Yes, delete them"
+msgstr "Da, izbriši"
+
+msgid "Shut down"
+msgstr "Ugasni napravo"
+
+msgid "Yes, shut them down"
+msgstr "Da, ugasni jih"
+
+msgid "Yes, reboot them"
+msgstr "Da, ponovno zaženi naprave"
+
+msgid "Yes, restart them"
+msgstr "Da, ponovno zaženi programe"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Avg"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Mon"
+msgstr "Pon"
+
+msgid "Tue"
+msgstr "Tor"
+
+msgid "Wed"
+msgstr "Sre"
+
+msgid "Thu"
+msgstr "Čet"
+
+msgid "Fri"
+msgstr "Pet"
+
+msgid "Sat"
+msgstr "Sob"
+
+msgid "Sun"
+msgstr "Ned"
+
+msgid "Zoom"
+msgstr "Pogled"
+
+msgid "Hardware"
+msgstr "Strojna oprema"
+
+msgid "Speed"
+msgstr "Hitrost"
+
+msgid "Power"
+msgstr "Moč"
+
+msgid "Temp"
+msgstr "Temp."
+
+msgid "Fans"
+msgstr "Vent."
+
+msgid "Crypto"
+msgstr "Kripto"
+
+msgid "Efficiency"
+msgstr "Učinkovitost"
+
+msgid "Estimated monthly earnings"
+msgstr "Predviden mesečni zaslužek"
+
+msgid "Pool"
+msgstr "Bazen"
+
+msgid "Undetected hardware"
+msgstr "Neznana strojna oprema"
+
+msgid "Invalid tag used"
+msgstr "Neveljavna značka"
+
+msgid "Hot"
+msgstr "Vroče"
+
+msgid "Very hot"
+msgstr "Zelo vroče"
+
+msgid "Open terminal"
+msgstr "Odpri terminal"
+
+msgid "Open local terminal"
+msgstr "Odpri lokalni terminal"
+
+msgid "Open remote terminal"
+msgstr "Odpri oddaljeni terminal"
+
+msgid "Open Web"
+msgstr "Odpri spletno stran"
+
+msgid "Open SSH"
+msgstr "Odpri SSH"
+
+msgid "Unknown"
+msgstr "Neznano"
+
+msgid "sec"
+msgstr "s"
+
+msgid "min"
+msgstr "min"
+
+msgid "GPU"
+msgstr "GPE"
+
+msgid "No data on hardware available for this worker."
+msgstr "Manjkajoči podatki o strojni opremi."
+
+msgid "No data on mining available for this worker."
+msgstr "Manjkajoči podatki o rudarjenju."
+
+msgid "CPU"
+msgstr "GPE"
+
+msgid "No data on CPU available for this worker."
+msgstr "Manjkajoči podatki o CPE."
+
+msgid "hashrate"
+msgstr "hitrost rudarjenja"
+
+msgid "Hashrate"
+msgstr "Hitrost rudarjenja"
+
+msgid "No data"
+msgstr "Ni podatkov"
+
+msgid "All"
+msgstr "Vse"
+
+msgid "Temperature"
+msgstr "Temperatura"
+
+msgid "VERY HOT"
+msgstr "ZELO VROČE"
+
+msgid "HOT"
+msgstr "VROČE"
+
+msgid "Driver error"
+msgstr "Napaka v gonilnikih"
+
+msgid "'s notes"
+msgstr "- Zapiski"
+
+msgid "th"
+msgstr "."
+
+msgid "st"
+msgstr "."
+
+msgid "nd"
+msgstr "."
+
+msgid "rd"
+msgstr "."
+
+msgid "Today"
+msgstr "Danes"
+
+msgid "Yesterday"
+msgstr "Včeraj"
+
+msgid "Temperature trigger - Change fans"
+msgstr "Sprožilec za temperaturo - Sprememba v hitrosti ventilatorjev"
+
+msgid "Temperature trigger - Shut down"
+msgstr "Sprožilec za temperaturo - Ugasni napravo"
+
+msgid "Temperature trigger - Reboot"
+msgstr "Sprožilec za temperaturo - Ponoven zagon naprave"
+
+msgid "Temperature trigger - Restart"
+msgstr "Sprožilec za temperaturo - Ponoven zagon programa"
+
+msgid "Unresponsive trigger"
+msgstr "Sprožilec za neodvisnost"
+
+msgid "Time trigger - Change fans"
+msgstr "Časovni sprožilec - Spremeni hitrost ventilatorjev"
+
+msgid "Time trigger - Shut down"
+msgstr "Časovni sprožilec - Ugasni napravo"
+
+msgid "Time trigger - Reboot"
+msgstr "Časovni sprožilec - Ponoven zagon naprave"
+
+msgid "Time trigger - Restart"
+msgstr "Časovni sprožilec - Ponoven zagon programa"
+
+msgid "Idle trigger - Shut down"
+msgstr "Sprožilec za nedejavnost - Ugasni napravo"
+
+msgid "Idle trigger - Reboot"
+msgstr "Sprožilec za nedejavnost - Ponoven zagon naprave"
+
+msgid "Idle trigger - Restart"
+msgstr "Sprožilec za nedejavnost - Ponoven zagon programa"
+
+msgid "Hashrate trigger - Shut down"
+msgstr "Sprožilec za hitrost - Ugasni napravo"
+
+msgid "Hashrate trigger - Reboot"
+msgstr "Sprožilec za hitrost - Ponoven zagon naprave"
+
+msgid "Hashrate trigger - Restart"
+msgstr "Sprožilec za hitrost - Ponoven zagon programa"
+
+msgid "Efficiency trigger - Shut down"
+msgstr "Sprožilec za učinkovitost - Ugasni napravo"
+
+msgid "Efficiency trigger - Reboot"
+msgstr "Sprožilec za učinkovitost - Ponoven zagon naprave"
+
+msgid "Efficiency trigger - Restart"
+msgstr "Sprožilec za učinkovitost - Ponoven zagon programa"
+
+msgid "Scheduler has started"
+msgstr "Scheduler se je pričel"
+
+msgid "Scheduler has ended"
+msgstr "Scheduler se je zaključil"
+
+msgid "High temperature"
+msgstr "Visoka temperatura"
+
+msgid "Efficiency drop"
+msgstr "Padec učinkovitosti"
+
+msgid "Worker went offline"
+msgstr "Delavec se je odklopil"
+
+msgid "Worker came back online"
+msgstr "Delavec se je priklopil"
+
+msgid "ASIC alert"
+msgstr "ASIC obvestilo"
+
+msgid "Hashrate drop"
+msgstr "Padec v hitrosti rudarjenja"
+
+msgid "Mining client changed (GPU)"
+msgstr "Menjava programa za rudarjenje (GPU)"
+
+msgid "Mining client changed (CPU)"
+msgstr "Menjava programa za rudarjenje (CGPU)"
+
+msgid "Profit switch updated"
+msgstr "Zamenjava na bolj donosni kovanec posodobljena"
+
+msgid "Manual shut down"
+msgstr "Ročni izklop naprave"
+
+msgid "Manual restart"
+msgstr "Ročni ponovni zagon programa"
+
+msgid "Manual reboot"
+msgstr "Ročni ponovni zagon naprave"
+
+msgid "Config updated"
+msgstr "Nastavitve posodobljene"
+
+msgid "ClockTune updated"
+msgstr "ClockTune posodobljen"
+
+msgid "profitability"
+msgstr "donosnost"
+
+msgid "day"
+msgstr "dan"
+
+msgid "Daily profitability"
+msgstr "Dnevna donosnost"
+
+msgid "Your first data will be ready soon"
+msgstr "Prvi podatki bodo kmalu na voljo"
+
+msgid "please check again in few minutes"
+msgstr "prosimo, da znova preveriš čez nekaj minut"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "March"
+msgstr "Marec"
+
+msgid "April"
+msgstr "April"
+
+msgid "June"
+msgstr "Junij"
+
+msgid "July"
+msgstr "Julij"
+
+msgid "August"
+msgstr "Avgust"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Worker's profitability"
+msgstr "Donosnost delavca"
+
+msgid "Delete trigger?"
+msgstr "Izbriši sprožilec?"
+
+msgid "Delete schedule?"
+msgstr "Izbriši načrt?"
+
+msgid "Autoselect"
+msgstr "Samodejna izbira"
+
+msgid "Wallet"
+msgstr "Denarnica"
+
+msgid "Fee"
+msgstr "Provizija"
+
+msgid "Client"
+msgstr "Program"
+
+msgid "Worker"
+msgstr "Delavec"
+
+msgid "Event"
+msgstr "Dogodek"
+
+msgid "View worker"
+msgstr "Več o delavcu"
+
+msgid "No logs"
+msgstr "Ni dnevniških zapisov"
+
+msgid "We didn't detect any special actions for your workers in the last 24 hours."
+msgstr "V zadnjih 24 urah se ni zgodilo nič posebnega, kar bi naš sistem lahko zaznal."
+
+msgid "Manage your workers"
+msgstr "Upravljaj s svojimi delavci"
+
+msgid "Import finished"
+msgstr "Uvoz zaključen"
+
+msgid "Please provide valid worker's name to continue."
+msgstr "Preden lahko nadaljuješ, moraš navesti veljavno ime delavca"
+
+msgid "Global profitability"
+msgstr "Globalna donosnost"
+
+msgid "Profitability per coin"
+msgstr "Donosnost na kovanec"
+
+msgid "Avg. daily profitability"
+msgstr "Pov. dnevna donosnost"
+
+msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr "Vpisal si uporabniško ime in geslo, ki nista privzeta za Antminer ASIC. SSH vpis ni enak kot vpis na spletu, kar pomeni, da je privzeto uporabniško ime in geslo za Antminer <b>root/admin</b>.<br><br>Uporabniško ime in geslo lahko spremeniš na seznamu delavcev, tako da klikneš na funkcijo 'Uredi'. Če si prepričan, da si uporabniško ime in geslo na svoji ASIC napravi spremenil, lahko to sporočilo spregledaš."
+
+msgid "Workers"
+msgstr "Delavci"
+
+msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr "Vpisal si uporabniško ime in geslo, ki nista privzeta za Baikal ASIC. SSH vpis ni enak kot vpis na spletu, kar pomeni, da je privzeto uporabniško ime in geslo za Baikal <b>admin/root</b>.<br><br>Uporabniško ime in geslo lahko spremeniš na seznamu delavcev, tako da klikneš na funkcijo 'Uredi'. Če si prepričan, da si uporabniško ime in geslo na svoji ASIC napravi spremenil, lahko to sporočilo spregledaš."
+
+msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr "Vpisal si uporabniško ime in geslo, ki nista privzeta za DragonMint ASIC. SSH vpis ni enak kot vpis na spletu, kar pomeni, da je privzeto uporabniško ime in geslo za DragonMint <b>admin/dragonadmin</b>.<br><br>Uporabniško ime in geslo lahko spremeniš na seznamu delavcev, tako da klikneš na funkcijo 'Uredi'. Če si prepričan, da si uporabniško ime in geslo na svoji ASIC napravi spremenil, lahko to sporočilo spregledaš."
+
+msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr "Vpisal si uporabniško ime in geslo, ki nista privzeta za Innosilicon ASIC. SSH vpis ni enak kot vpis na spletu, kar pomeni, da je privzeto uporabniško ime in geslo za Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b> ali <b>root/blacksheepwall</b>.<br><br>Uporabniško ime in geslo lahko spremeniš na seznamu delavcev, tako da klikneš na funkcijo 'Uredi'. Če si prepričan, da si uporabniško ime in geslo na svoji ASIC napravi spremenil, lahko to sporočilo spregledaš."
+
+msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr "Vpisal si uporabniško ime in geslo, ki nista privzeta za Dayun ASIC. SSH vpis ni enak kot vpis na spletu, kar pomeni, da je privzeto uporabniško ime in geslo za Dayun <b>root/envision</b>.<br><br>Uporabniško ime in geslo lahko spremeniš na seznamu delavcev, tako da klikneš na funkcijo 'Uredi'. Če si prepričan, da si uporabniško ime in geslo na svoji ASIC napravi spremenil, lahko to sporočilo spregledaš."
+
+msgid "Online, but not mining."
+msgstr "Prisoten, a ne rudari."
+
+msgid "Unidentified hardware"
+msgstr "Neznana strojna oprema."
+
+msgid "High temperature for"
+msgstr "Visoka temperatura za"
+
+msgid "Possible driver issues for"
+msgstr "Težave z gonilniki za"
+
+msgid "No temperature data for"
+msgstr "Brez podatkov o temperaturi za"
+
+msgid "No fans data for"
+msgstr "Brez podatkov o ventilatorjih za"
+
+msgid "No speed data for"
+msgstr "Brez podatka o hitrosti za"
+
+msgid "No info for coin. Send us pool details and we will add support for it."
+msgstr "Brez podatka o kovancu. Pošlji nam podrobnosti bazena in dodali bomo podporo zanj."
+
+msgid "No pool defined"
+msgstr "Brez podatka o bazenu"
+
+msgid "Tags defined in worker's config are invalid"
+msgstr "Značke, ki si jih definiral v konfiguraciji delavca so neveljavne"
+
+msgid "No issues"
+msgstr "Brez napak"
+
+msgid "We didn't detect any issues with your account and workers."
+msgstr "Na tvojem računu in delavcih nismo zaznali nobenih napak."
+
+msgid "2FA set and e-mail confirmed."
+msgstr "2FA je nastavljen in elektronski naslov potrjen."
+
+msgid "All workers are online."
+msgstr "Vsi delavci so prisotni."
+
+msgid "All hardware successfully detected."
+msgstr "Vsa strojna oprema je bila uspešno zaznana."
+
+msgid "No hardware with temperature 75°C or more."
+msgstr "Ni naprave s temperaturo 75°C ali več."
+
+msgid "No invalid tags or undetected pools or coins."
+msgstr "Ni neveljavnih značk ali neznanih bazenov ali kovancev."
+
+msgid "Consumption:"
+msgstr "Poraba:"
+
+msgid "days"
+msgstr "dni"
+
+msgid "more"
+msgstr "več"
+
+msgid "All workers have normal temperature."
+msgstr "Vsi delavci imajo primerno temperaturo."
+
+msgid "All hardware detected."
+msgstr "Vsa strojna oprema je zaznana."
+
+msgid "Last seen"
+msgstr "Nazadnje viden"
+
+msgid "Low"
+msgstr "Min."
+
+msgid "Avg"
+msgstr "Pov."
+
+msgid "Max"
+msgstr "Maks."
+
+msgid "Rename"
+msgstr "Preimenuj"
+
+msgid "Enter"
+msgstr "Vstopi"
+
+msgid "Name new room"
+msgstr "Poimenuj novo sobo"
+
+msgid "Mounting"
+msgstr "Montaža"
+
+msgid "Open in new tab"
+msgstr "Odpri v novem zavihku"
+
+msgid "Mount/Unmount"
+msgstr "Montiraj/Demontiraj"
+
+msgid "worker(s)"
+msgstr "delavec/ci"
+
+msgid "Included in update"
+msgstr "Vključi v spremembe"
+
+msgid "Excluded from update"
+msgstr "Preskoči spremembe"
+
+msgid "Simple overclocking"
+msgstr "Preprosto navijanje"
+
+msgid "Advanced overclocking"
+msgstr "Napredno navijanje"
+
+msgid "Please fill required fields. Thank you!"
+msgstr "Prosimo, da izpolniš polja označena z zvezdico. Hvala!"
+
+msgid "Months"
+msgstr "Mesecev"
+
+msgid "Month"
+msgstr "Mesec"
+
+msgid "2 workers"
+msgstr "2 delavca"
+
+msgid "5 workers"
+msgstr "5 delavcev"
+
+msgid "10 workers"
+msgstr "10 delavcev"
+
+msgid "15 workers"
+msgstr "15 delavcev"
+
+msgid "20 workers"
+msgstr "20 delavcev"
+
+msgid "30 workers"
+msgstr "30 delavcev"
+
+msgid "40 workers"
+msgstr "40 delavcev"
+
+msgid "50 workers"
+msgstr "50 delavcev"
+
+msgid "60 workers"
+msgstr "60 delavcev"
+
+msgid "70 workers"
+msgstr "70 delavcev"
+
+msgid "80 workers"
+msgstr "80 delavcev"
+
+msgid "90 workers"
+msgstr "90 delavcev"
+
+msgid "100 workers"
+msgstr "100 delavcev"
+
+msgid "110 workers"
+msgstr "110 delavcev"
+
+msgid "120 workers"
+msgstr "120 delavcev"
+
+msgid "130 workers"
+msgstr "130 delavcev"
+
+msgid "140 workers"
+msgstr "140 delavcev"
+
+msgid "150 workers"
+msgstr "150 delavcev"
+
+msgid "160 workers"
+msgstr "160 delavcev"
+
+msgid "170 workers"
+msgstr "170 delavcev"
+
+msgid "180 workers"
+msgstr "180 delavcev"
+
+msgid "190 workers"
+msgstr "190 delavcev"
+
+msgid "200 workers"
+msgstr "200 delavcev"
+
+msgid "210 workers"
+msgstr "210 delavcev"
+
+msgid "220 workers"
+msgstr "220 delavcev"
+
+msgid "230 workers"
+msgstr "230 delavcev"
+
+msgid "240 workers"
+msgstr "240 delavcev"
+
+msgid "250 workers"
+msgstr "250 delavcev"
+
+msgid "260 workers"
+msgstr "260 delavcev"
+
+msgid "270 workers"
+msgstr "270 delavcev"
+
+msgid "280 workers"
+msgstr "280 delavcev"
+
+msgid "290 workers"
+msgstr "290 delavcev"
+
+msgid "300 workers"
+msgstr "300 delavcev"
+
+msgid "310 workers"
+msgstr "310 delavcev"
+
+msgid "320 workers"
+msgstr "320 delavcev"
+
+msgid "330 workers"
+msgstr "330 delavcev"
+
+msgid "340 workers"
+msgstr "340 delavcev"
+
+msgid "350 workers"
+msgstr "350 delavcev"
+
+msgid "360 workers"
+msgstr "360 delavcev"
+
+msgid "370 workers"
+msgstr "370 delavcev"
+
+msgid "380 workers"
+msgstr "380 delavcev"
+
+msgid "390 workers"
+msgstr "390 delavcev"
+
+msgid "400 workers"
+msgstr "400 delavcev"
+
+msgid "410 workers"
+msgstr "410 delavcev"
+
+msgid "420 workers"
+msgstr "420 delavcev"
+
+msgid "430 workers"
+msgstr "430 delavcev"
+
+msgid "440 workers"
+msgstr "440 delavcev"
+
+msgid "450 workers"
+msgstr "450 delavcev"
+
+msgid "460 workers"
+msgstr "460 delavcev"
+
+msgid "470 workers"
+msgstr "470 delavcev"
+
+msgid "480 workers"
+msgstr "480 delavcev"
+
+msgid "490 workers"
+msgstr "490 delavcev"
+
+msgid "500 workers"
+msgstr "500 delavcev"
+
+msgid "510 workers"
+msgstr "510 delavcev"
+
+msgid "520 workers"
+msgstr "520 delavcev"
+
+msgid "530 workers"
+msgstr "530 delavcev"
+
+msgid "540 workers"
+msgstr "540 delavcev"
+
+msgid "550 workers"
+msgstr "550 delavcev"
+
+msgid "560 workers"
+msgstr "560 delavcev"
+
+msgid "570 workers"
+msgstr "570 delavcev"
+
+msgid "580 workers"
+msgstr "580 delavcev"
+
+msgid "590 workers"
+msgstr "590 delavcev"
+
+msgid "600 workers"
+msgstr "600 delavcev"
+
+msgid "610 workers"
+msgstr "610 delavcev"
+
+msgid "620 workers"
+msgstr "620 delavcev"
+
+msgid "630 workers"
+msgstr "630 delavcev"
+
+msgid "640 workers"
+msgstr "640 delavcev"
+
+msgid "650 workers"
+msgstr "650 delavcev"
+
+msgid "660 workers"
+msgstr "660 delavcev"
+
+msgid "670 workers"
+msgstr "670 delavcev"
+
+msgid "680 workers"
+msgstr "680 delavcev"
+
+msgid "690 workers"
+msgstr "690 delavcev"
+
+msgid "700 workers"
+msgstr "700 delavcev"
+
+msgid "710 workers"
+msgstr "710 delavcev"
+
+msgid "720 workers"
+msgstr "720 delavcev"
+
+msgid "730 workers"
+msgstr "730 delavcev"
+
+msgid "740 workers"
+msgstr "740 delavcev"
+
+msgid "750 workers"
+msgstr "750 delavcev"
+
+msgid "760 workers"
+msgstr "760 delavcev"
+
+msgid "770 workers"
+msgstr "770 delavcev"
+
+msgid "780 workers"
+msgstr "780 delavcev"
+
+msgid "790 workers"
+msgstr "790 delavcev"
+
+msgid "800 workers"
+msgstr "800 delavcev"
+
+msgid "810 workers"
+msgstr "810 delavcev"
+
+msgid "820 workers"
+msgstr "820 delavcev"
+
+msgid "830 workers"
+msgstr "830 delavcev"
+
+msgid "840 workers"
+msgstr "840 delavcev"
+
+msgid "850 workers"
+msgstr "850 delavcev"
+
+msgid "860 workers"
+msgstr "860 delavcev"
+
+msgid "870 workers"
+msgstr "870 delavcev"
+
+msgid "880 workers"
+msgstr "880 delavcev"
+
+msgid "890 workers"
+msgstr "890 delavcev"
+
+msgid "900 workers"
+msgstr "900 delavcev"
+
+msgid "910 workers"
+msgstr "910 delavcev"
+
+msgid "920 workers"
+msgstr "920 delavcev"
+
+msgid "930 workers"
+msgstr "930 delavcev"
+
+msgid "940 workers"
+msgstr "940 delavcev"
+
+msgid "950 workers"
+msgstr "950 delavcev"
+
+msgid "960 workers"
+msgstr "960 delavcev"
+
+msgid "970 workers"
+msgstr "970 delavcev"
+
+msgid "980 workers"
+msgstr "980 delavcev"
+
+msgid "990 workers"
+msgstr "990 delavcev"
+
+msgid "1000 workers"
+msgstr "1 000 delavcev"
+
+msgid "Balance"
+msgstr "Bilanca"
+
+msgid "Income"
+msgstr "Prihodki"
+
+msgid "Outgo"
+msgstr "Odhodki"
+
+msgid "Value"
+msgstr "Vrednost"
+
+msgid "There were no changes detected on your pools & wallets."
+msgstr "Na tvojih bazenih in denarnicah nismo zaznali sprememb."
+
+msgid "E-mail sent!"
+msgstr "E-pošta poslana!"
+
+msgid "Please check your inbox and confirm your account to proceed."
+msgstr "Prosimo, da preveriš elektronsko pošto in potrdiš svoj račun."
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+msgid "Billing"
+msgstr "Plačila"
+
+msgid "Manage users"
+msgstr "Upravljanje uporabnikov"
+
+msgid "White label"
+msgstr "White label"
+
+msgid "Help"
+msgstr "Pomoč"
+
+msgid "Log out"
+msgstr "Odjava"
+
+msgid "of"
+msgstr "od"
+
+msgid "1 worker remaining until your plan requires an upgrade."
+msgstr "Na voljo imaš le še 1 delavca preden bo potrebna nadgradnja."
+
+msgid "Upgrade your plan to add additional workers."
+msgstr "Za večje število delavcev nadgradi račun."
+
+msgid "workers remaining until your plan requires an upgrade."
+msgstr "prostih delavcev preden bo potrebna nadgradnja."
+
+msgid "Upgrade"
+msgstr "Nadgradi"
+
+msgid "Over limit"
+msgstr "Prekoračen limit"
+
+msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
+msgstr "Tvoj račun ima več delavcev kot ti dovoljuje kupljen plan. Prosimo, da nadgradiš svoj račun ali izbrišeš delavce."
+
+msgid "Upgrade account"
+msgstr "Nadgradi račun"
+
+msgid "Delete workers"
+msgstr "Izbriši delavce"
+
+msgid "Customers"
+msgstr "Stranka"
+
+msgid "Dashboard"
+msgstr "Nadzorna plošča"
+
+msgid "Customers dashboard"
+msgstr "Nadzorna plošča za stranke"
+
+msgid "Customers workers"
+msgstr "Delavci strank"
+
+msgid "General"
+msgstr "Splošno"
+
+msgid "Control room"
+msgstr "Nadzorna soba"
+
+msgid "Global statistics"
+msgstr "Splošna statistika"
+
+msgid "Per worker statistics"
+msgstr "Statistike posameznih delavcev"
+
+msgid "Balance statistics"
+msgstr "Statistika bilanc"
+
+msgid "Export data"
+msgstr "Izvoz podatkov"
+
+msgid "24h logs"
+msgstr "24-urni dnevnik"
+
+msgid "Diagnostic"
+msgstr "Diagnostika"
+
+msgid "Address editor"
+msgstr "Urejevalnik naslovov"
+
+msgid "ClockTune™"
+msgstr "ClockTune™"
+
+msgid "Worker config"
+msgstr "Konfiguracija delavca"
+
+msgid "Alerts"
+msgstr "Obveščanje"
+
+msgid "Triggers"
+msgstr "Sprožilci"
+
+msgid "Balance monitoring"
+msgstr "Spremljanje bilance"
+
+msgid "Wallets"
+msgstr "Denarnice"
+
+msgid "Pools"
+msgstr "Rudarski bazeni"
+
+msgid "Tools"
+msgstr "Orodja"
+
+msgid "Scheduler"
+msgstr "Scheduler"
+
+msgid "Market cap"
+msgstr "Tržna kapitalizacija"
+
+msgid "Mining calculator"
+msgstr "Kalkulator za rudarjenje"
+
+msgid "Coins"
+msgstr "Kovanci"
+
+msgid "AMD strap editor"
+msgstr "AMD strap urejevalnik"
+
+msgid "Bug report"
+msgstr "Prijava hroščev"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Terms"
+msgstr "Pogoji uporabe"
+
+msgid "Privacy"
+msgstr "Politika zasebnosti"
+
+msgid "About"
+msgstr "O nas"
+
+msgid "Software"
+msgstr "Programska oprema"
+
+msgid "API"
+msgstr "API"
+
+msgid "Ambassadors"
+msgstr "Ambasadorji"
+
+msgid "Change log"
+msgstr "Dnevnik sprememb"
+
+msgid "Without a date of expiry"
+msgstr "Brez datuma poteka"
+
+msgid "FREE"
+msgstr "BREZPLAČNO"
+
+msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
+msgstr "Ime delavca lahko vsebuje le<br>črke, številke, \"_\", \"-\"."
+
+msgid "Worker name shouldn't exceed 15 chars."
+msgstr "Ime delavca ne sme biti daljše kot 15 znakov."
+
+msgid "Limit reached, upgrade your plan."
+msgstr "Limit dosežen, nadgradi svoj račun."
+
+msgid "Invalid ASIC IP."
+msgstr "Neveljaven IP ASIC naprave."
+
+msgid "Unable to add worker."
+msgstr "Delavca ni bilo mogoče dodati."
+
+msgid "Worker name already in use."
+msgstr "Delavec s tem imenom že obstaja."
+
+msgid "Unknown error."
+msgstr "Neznana napaka."
+
+msgid "Add your first worker"
+msgstr "Dodaj svojega prvega delavca"
+
+msgid "to manage and monitor its mining activity"
+msgstr "ter upravljaj in spremljaj njegovo rudarjenje"
+
+msgid "Add new worker"
+msgstr "Dodaj novega delavca"
+
+msgid "Worker name"
+msgstr "Ime delavca"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "SSH username"
+msgstr "SSH uporabniško ime"
+
+msgid "ASIC's default username is root"
+msgstr "Primarno uporabniško ime za ASIC je root"
+
+msgid "SSH password"
+msgstr "SSH geslo"
+
+msgid "ASIC's default password is admin"
+msgstr "Primarno geslo za ASIC je admin"
+
+msgid "Groups / Locations (optional)"
+msgstr "Skupine / Lokacije (neobvezno)"
+
+msgid "Add a group ..."
+msgstr "Dodaj skupino ..."
+
+msgid "Successfully saved"
+msgstr "Uspešno shranjeno"
+
+msgid "There was something wrong."
+msgstr "Nekaj je šlo narobe."
+
+msgid "Add worker"
+msgstr "Dodaj delavca"
+
+msgid "Bulk import"
+msgstr "Uvozi več delavcev naenkrat"
+
+msgid "Looking for software?"
+msgstr "Iščeš programsko opremo?"
+
+msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
+msgstr "Če še nisi naložil minerstat programske opreme, lahko izbiraš med Linux operacijskim sistemom, Windows programom in programom za ASIC naprave."
+
+msgid "Learn more"
+msgstr "Izvedi več"
+
+msgid "Limit reached"
+msgstr "Limit dosežen"
+
+msgid "out of"
+msgstr "od"
+
+msgid "workers are being monitored"
+msgstr "dodanih delavcev"
+
+msgid "Action for"
+msgstr "Akcija za"
+
+msgid "Max. Temp"
+msgstr "Maks. temp."
+
+msgid "Max. Fans"
+msgstr "Maks. vent."
+
+msgid "Actions"
+msgstr "Akcije"
+
+msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
+msgstr "Ta akcija bo ugasnila tvojo napravo. Ponoven zagon bo tako mogoč le iz mesta, kjer se naprava nahaja."
+
+msgid "Finished"
+msgstr "Končano"
+
+msgid "Yes, shut it down"
+msgstr "Da, ugasni"
+
+msgid "Please note that this action will delete worker's data permanently and cannot be undone."
+msgstr "Ta akcija bo izbrisala delavca in vse podatke, ki so povezani z njim. Vrnitev v prejšnje stanje ne bo več mogoča."
+
+msgid "Please note that this action will reboot your mining machine."
+msgstr "Ta akcija bo ponovno zagnala tvojo napravo."
+
+msgid "Please note that this action will restart your mining software only."
+msgstr "Ta akcija bo ponovno zagnala program za rudarjenje."
+
+msgid "Worker's note"
+msgstr "Zapiski"
+
+msgid "Clear content"
+msgstr "Počisti vsebino"
+
+msgid "Discard changes"
+msgstr "Zavrzi spremembe"
+
+msgid "Save note"
+msgstr "Shrani zapiske"
+
+msgid "Please make sure that you have also updated the worker's name on your software. Renaming the worker might cause the differences in statistics."
+msgstr "Prosimo, da uporabiš novo ime delavca tudi na programski opremi. Preimenovanje delavca lahko povzroči spremembe v statistiki."
+
+msgid "New name"
+msgstr "Novo ime"
+
+msgid "ASIC local IP"
+msgstr "Lokalni IP naslov ASIC-a"
+
+msgid "Save changes"
+msgstr "Shrani spremembe"
+
+msgid "Change worker"
+msgstr "Spremeni delavca"
+
+msgid "Non-existent worker"
+msgstr "Delavec ne obstaja"
+
+msgid "This worker is not part of your account."
+msgstr "Tega delavca ni v tvojem računu."
+
+msgid "Back to workers list"
+msgstr "Nazaj na seznam delavcev"
+
+msgid "Profit switch in"
+msgstr "Zamenjava kovanca čez"
+
+msgid "Edit config"
+msgstr "Uredi konfiguracijo"
+
+msgid "Shut down machine"
+msgstr "Ugasni napravo"
+
+msgid "Daily earnings"
+msgstr "Dnevni prihodki"
+
+msgid "GPUs"
+msgstr "GPE"
+
+msgid "Max temp."
+msgstr "Maks. temp."
+
+msgid "Max fans"
+msgstr "Maks. vent."
+
+msgid "Free space"
+msgstr "Prazen prostor"
+
+msgid "Free mem"
+msgstr "Prazen spomin"
+
+msgid "Power cons."
+msgstr "Poraba el."
+
+msgid "Local IP"
+msgstr "Lokalni IP"
+
+msgid "Remote IP"
+msgstr "Oddaljeni IP"
+
+msgid "Last sync"
+msgstr "Nazadnje osveženo"
+
+msgid "Hashrate stats not available yet."
+msgstr "Statistika hitrosti rudarjenja še ni na voljo."
+
+msgid "Estimated monthly"
+msgstr "Pričakovan mesečni"
+
+msgid "Temperature stats not available yet."
+msgstr "Statistika temperatur še ni na voljo."
+
+msgid "Make sure the worker is using the correct access key:"
+msgstr "Poskrbi, da je v programski opremi pravilno naveden ključ za dostop:"
+
+msgid "Need help?"
+msgstr "Potrebuješ pomoč?"
+
+msgid "Previous worker"
+msgstr "Prejšnji delavec"
+
+msgid "Next worker"
+msgstr "Naslednji delavec"
+
+msgid "Please note that this action will shut down your machine."
+msgstr "Ta akcija bo ugasnila tvojo napravo."
+
+msgid "Yes, shut down"
+msgstr "Da, ugasni"
+
+msgid "'s console log"
+msgstr "- dnevnik konzole"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "This worker doesn't exist on your account."
+msgstr "Tega delavca ne najdemo v tvojem računu."
+
+msgid "vs. yesterday"
+msgstr "proti včeraj"
+
+msgid "vs. same day last week"
+msgstr "proti istemu dnevu prejšnji teden"
+
+msgid "Last 7 days"
+msgstr "Zadnjih 7 dni"
+
+msgid "vs. previous 7 days"
+msgstr "proti prejšnjim 7 dnem"
+
+msgid "This month"
+msgstr "Ta mesec"
+
+msgid "vs. same period last month"
+msgstr "proti enakem obdobju prejšnji mesec"
+
+msgid "Last 30 days"
+msgstr "Zadnjih 30 dni"
+
+msgid "vs. previous 30 days"
+msgstr "proti prejšnjim 30 dnem"
+
+msgid "Need more stats?"
+msgstr "Potrebuješ več podatkov?"
+
+msgid "Get minerstat+ to monitor up to 60 days of data."
+msgstr "Za spremljanje do 60 dni podatkov, naroči minerstat+."
+
+msgid "Last 3 days"
+msgstr "Zadnje 3 dni"
+
+msgid "Not enough data"
+msgstr "Ni dovolj podatkov"
+
+msgid "Statistics will be automatically updated once available."
+msgstr "Statistika bo samodejno posodobljena, ko bodo podatki na voljo."
+
+msgid "Worker's latest activity"
+msgstr "Zadnje aktivnosti delavca"
+
+msgid "Nothing new"
+msgstr "Nič novega"
+
+msgid "No worker or group selected"
+msgstr "Delavec ali skupina ni izbrana"
+
+msgid "This mining software doesn't exist."
+msgstr "Ta program za rudarjenje ne obstaja."
+
+msgid "No such workers/groups"
+msgstr "Delavci/skupine ne obstajajo"
+
+msgid "Unknown error occured."
+msgstr "Neznana napaka."
+
+msgid "Add an individual worker or groups"
+msgstr "Dodaj delavca ali skupino"
+
+msgid "Add workers or groups ..."
+msgstr "Dodaj delavca ali skupine..."
+
+msgid "Groups"
+msgstr "Skupine"
+
+msgid "Select all"
+msgstr "Izberi vse"
+
+msgid "Confirm"
+msgstr "Potrdi"
+
+msgid "Target"
+msgstr "Cilj"
+
+msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
+msgstr "Nasvet: Če želiš posodobiti skupino, kjer so že nastavljene določene nastavitve, najprej izberi delavca iz te skupine, spremeni nastavitve, nato pa zamenjaj izbiro delavca s skupino."
+
+msgid "You can select a worker or a group that you want to apply changes to. Applying changes to a group will only update individual workers inside that group."
+msgstr "Izbereš lahko delavca ali skupino, ki jo želiš posodobiti. Spremembe, ki bodo uporabljene za skupino se bodo prenesle na vse delavce v tej supini."
+
+msgid "Add more or change groups for selected worker(s)"
+msgstr "Dodaj ali spremeni skupine za izbrane delavce"
+
+msgid "Add a group..."
+msgstr "Dodaj skupino ..."
+
+msgid "Default client"
+msgstr "Privzeti program"
+
+msgid "Select default client for selected worker(s)"
+msgstr "Izberi privzeti program za rudarjenje za izbrane delavce"
+
+msgid "Default CPU client"
+msgstr "Privzeti program za CPU rudarjenje"
+
+msgid "Select default CPU client for selected worker(s)"
+msgstr "Izberi privzeti program za CPU rudarjenje za izbrane delavce"
+
+msgid "ClockTune profile"
+msgstr "ClockTune profil"
+
+msgid "Select OC profile for selected worker(s)"
+msgstr "Izberi ClockTune profile za izbrane delavce"
+
+msgid "Don't change"
+msgstr "Brez spremembe"
+
+msgid "Enable or disable profit switch"
+msgstr "Vklopi ali izklopi samodejno izbiro kovanca"
+
+msgid "Disabled"
+msgstr "Izklopi"
+
+msgid "Enabled"
+msgstr "Vklopi"
+
+msgid "Change or update groups and select the default client for your worker(s). Optionally you can add overclocking profiles that are saved in ClockTune menu."
+msgstr "Spremeni ali posodobi skupine ter izberi privzeti program za rudarjenje. Po želji lahko dodaš ClockTune profil."
+
+msgid "For"
+msgstr "Za"
+
+msgid "API parameters:"
+msgstr "API parametri:"
+
+msgid "Reset to default"
+msgstr "Ponastavi na privzeto vrednost"
+
+msgid "Clients' configuration"
+msgstr "Konfiguracija programov"
+
+msgid "You can use the following tags that will automatically replace the variable with the value you have set in your address editor."
+msgstr "Uporabiš lahko vse navedene značke, njihova vrednost pa bo samodejno zamenjana z vrednostjo, ki je navedena v urejevalniku naslovov."
+
+msgid "Tag"
+msgstr "Značka"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Tags marked red are undefined"
+msgstr "Značke, ki so obarvane rdeče, še nimajo določene vrednosti"
+
+msgid "Worker's name"
+msgstr "Ime delavca"
+
+msgid "Your e-mail address"
+msgstr "Tvoj elektronski naslov"
+
+msgid "Claymore's single mining"
+msgstr "Rudarjenje enega kovanca (Claymore)"
+
+msgid "Claymore's dual mining"
+msgstr "Rudarjenje dveh kovancev (Claymore)"
+
+msgid "Pool address you saved under the name TAG"
+msgstr "Naslov bazena, ki je shranjen pod imenom TAG"
+
+msgid "Wallet address you saved under the name TAG"
+msgstr "Naslov denarnice, ki je shranjena pod imenom TAG"
+
+msgid "Set tags in address editor"
+msgstr "Nastavi vrednosti značk"
+
+msgid "Clients' compatibility"
+msgstr "Kompatibilnost programov"
+
+msgid "View which mining clients are supported for your system and hardware."
+msgstr "Preveri, kateri programi za rudarjenje so kompatibilni s tvojim sistemom in napravami."
+
+msgid "Supports AMD GPUs"
+msgstr "Program podpira AMD GPE"
+
+msgid "Supports Nvidia GPUs"
+msgstr "Program podpira Nvidia GPE"
+
+msgid "Supports CPU mining"
+msgstr "Program podpira CPE rudarjenje"
+
+msgid "Supports ASIC mining"
+msgstr "Program podpira ASIC rudarjenje"
+
+msgid "Supports minerstat OS"
+msgstr "Program je podprt za msOS"
+
+msgid "Supports minerstat for Windows"
+msgstr "Program je podprt za Windows"
+
+msgid "Supports minerstat for Baikal"
+msgstr "Program podpira Baikal"
+
+msgid "Supports minerstat for Antminer"
+msgstr "Program podpira Antminer"
+
+msgid "Supports minerstat for DragonMint"
+msgstr "Program podpira DragonMint"
+
+msgid "Supports minerstat for Innosilicon"
+msgstr "Program podpira Innosilicon"
+
+msgid "Supports minerstat for Dayun"
+msgstr "Program podpira Dayun"
+
+msgid "Unavailable"
+msgstr "Ni na voljo"
+
+msgid "White label is only available under special licence."
+msgstr "White label je na voljo le pod določeno licenco."
+
+msgid "What is white label?"
+msgstr "Kaj je white label?"
+
+msgid "White label is a licence that allows mining managers and cloud mining owners to show their clients the personalized and branded data without pointing out that hardware runs on minerstat software and on minerstat dashboard."
+msgstr "White label je licenca, ki upravljalcem rudarjenja in lastnikom rudarjenja v oblaku omogočajo personalizirane in blagovni znamki prilagojene profile, brez da bi stranke vedele, da se rudarjenje izvaja na programski opremi minerstat."
+
+msgid "Learn more about white label"
+msgstr "Izvedi več o white label licenci"
+
+msgid "Builder"
+msgstr "Urejevalnik"
+
+msgid "Customer"
+msgstr "Stranka"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "White label URL"
+msgstr "White label URL"
+
+msgid "Consumption"
+msgstr "Poraba"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Wallet number limit reached."
+msgstr "Dodano je bilo maksimalno število denarnic."
+
+msgid "Please enter wallet address."
+msgstr "Vpiši naslov denarnice."
+
+msgid "Wallets monitoring"
+msgstr "Spremljanje denarnic"
+
+msgid "Add your first wallet"
+msgstr "Dodaj svojo prvo denarnico"
+
+msgid "to monitor the balance and transactions"
+msgstr "za nadzor nad bilanco in transakcijami"
+
+msgid "Add new wallet"
+msgstr "Dodaj novo denarnico"
+
+msgid "Type of wallet"
+msgstr "Tip denarnice"
+
+msgid "Address"
+msgstr "Naslov"
+
+msgid "API key"
+msgstr "API ključ"
+
+msgid "API secret"
+msgstr "API skrivnost"
+
+msgid "Custom label"
+msgstr "Poljubna oznaka"
+
+msgid "Add wallet"
+msgstr "Dodaj denarnico"
+
+msgid "List the wallets and exchanges for which you want to monitor the balance."
+msgstr "Navedi denarnice in menjalnice, ki jih želiš spremljati."
+
+msgid "Need more wallets?"
+msgstr "Potrebuješ več denarnic?"
+
+msgid "Get minerstat+ to monitor more wallets."
+msgstr "Kupi minerstat+ dodatek in spremljaj več denarnic."
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Last updated"
+msgstr "Nazadnje posodobljeno"
+
+msgid "Pending update"
+msgstr "Čaka na posodobitev"
+
+msgid "wallets"
+msgstr "denarnice"
+
+msgid "wallet"
+msgstr "denarnica"
+
+msgid "coins"
+msgstr "kovanci"
+
+msgid "coin"
+msgstr "kovanec"
+
+msgid "total balance"
+msgstr "skupno"
+
+msgid "Please note that wallets are refreshed every 30 minutes."
+msgstr "Stanje v denarnici se osveži vsakih 30 minut."
+
+msgid "Please note that this action will delete the entry and all related data."
+msgstr "Ta akcija bo izbrisala vnos in vse podatke povezane z njim."
+
+msgid "Please provide valid email."
+msgstr "Prosimo, da podaš veljaven elektronski naslov."
+
+msgid "Customer doesn't exist."
+msgstr "Stranka ne obstaja."
+
+msgid "Delete workers on account to decrese the number."
+msgstr "Če želiš zmanjšati število delavcev, jih moraš najprej izbrisati."
+
+msgid "You need to assign at least 1 worker."
+msgstr "Dodeliti moraš vsaj 1 delavca."
+
+msgid "Invalid expiry date."
+msgstr "Neveljaven datum veljavnosti."
+
+msgid "Email already exists."
+msgstr "Ta elektronski naslov že obstaja."
+
+msgid "Problem updating user."
+msgstr "Prišlo je do težave."
+
+msgid "Invalid permission type."
+msgstr "Neveljavno dovoljenje."
+
+msgid "Problem creating user."
+msgstr "Prišlo je do težave."
+
+msgid "Unable to delete this user."
+msgstr "Uporabnika ni bilo mogoče izbrisati."
+
+msgid "Users"
+msgstr "Uporabniki"
+
+msgid "Upgrade your plan to manage users and customers."
+msgstr "Za upravljanje z uporabniki in strankami, nadgradi svoj paket."
+
+msgid "Team"
+msgstr "Ekipa"
+
+msgid "Add your first team member"
+msgstr "Dodaj prvega člana ekipe"
+
+msgid "and let them access your account"
+msgstr "in mu dodeli dostop do svojega računa"
+
+msgid "Add new user"
+msgstr "Dodaj novega uporabnika"
+
+msgid "E-mail"
+msgstr "E-pošta"
+
+msgid "Permission"
+msgstr "Dovoljenje"
+
+msgid "Technical"
+msgstr "Tehnik"
+
+msgid "Accounting"
+msgstr "Računovodstvo"
+
+msgid "Guest"
+msgstr "Gost"
+
+msgid "Send email invitation to user"
+msgstr "Pošlji vabilo preko e-pošte"
+
+msgid "Add user"
+msgstr "Dodaj uporabnika"
+
+msgid "Active"
+msgstr "Aktivno"
+
+msgid "User"
+msgstr "Uporabnik"
+
+msgid "Key"
+msgstr "Ključ"
+
+msgid "Last logged in"
+msgstr "Nazadnje vpisan"
+
+msgid "Never"
+msgstr "Nikoli"
+
+msgid "Add your first customer"
+msgstr "Dodaj svojo prvo stranko"
+
+msgid "and manage their mining operation"
+msgstr "in upravljaj z njeno rudarsko operacijo"
+
+msgid "Add new account"
+msgstr "Dodaj nov račun"
+
+msgid "Plan name"
+msgstr "Ime paketa"
+
+msgid "Number of assigned workers"
+msgstr "Število dodeljenih delavcev"
+
+msgid "Expires in"
+msgstr "Poteče"
+
+msgid "7 days"
+msgstr "7 dni"
+
+msgid "14 days"
+msgstr "14 dni"
+
+msgid "1 month"
+msgstr "1 mesec"
+
+msgid "2 months"
+msgstr "2 meseca"
+
+msgid "3 months"
+msgstr "3 mesece"
+
+msgid "4 months"
+msgstr "4 mesece"
+
+msgid "5 months"
+msgstr "5 mesecev"
+
+msgid "6 months"
+msgstr "6 mesecev"
+
+msgid "7 months"
+msgstr "7 mesecev"
+
+msgid "8 months"
+msgstr "8 mesecev"
+
+msgid "9 months"
+msgstr "9 mesecev"
+
+msgid "10 months"
+msgstr "10 mesecev"
+
+msgid "11 months"
+msgstr "11 mesecev"
+
+msgid "12 months"
+msgstr "12 mesecev"
+
+msgid "Add account"
+msgstr "Dodaj račun"
+
+msgid "Expires on"
+msgstr "Poteče"
+
+msgid "Confirm changes"
+msgstr "Potrdi spremembe"
+
+msgid "Please note that this action will delete all of the user's data permanently and cannot be undone."
+msgstr "Ta akcija bo izbrisala uporabnika in vse podatke."
+
+msgid "Upgrade your plan to add custom triggers."
+msgstr "Za dodajanje sprožilcev, nadgradi račun."
+
+msgid "What are triggers?"
+msgstr "Kaj so sprožilci?"
+
+msgid "While alerts and notifications make sure that you receive the message about various events, triggers allow you to take action automatically and immediately after the event is detected. You can select between 6 events with different settings, which can trigger 5 different actions."
+msgstr "Obvestila skrbijo za to, da si pravočasno obveščen o določenih dogodkih, medtem ko sprožilec poskrbi, da se akcija izvede takoj, ko je dogodek zaznan. Izbiraš lahko med različnimi nastavitvami in akcijami."
+
+msgid "Learn more about triggers"
+msgstr "Izvedi več o sprožilcih"
+
+msgid "If"
+msgstr "Če je"
+
+msgid "GPU Temperature"
+msgstr "GPE temperatura"
+
+msgid "ASIC Temperature"
+msgstr "Temperatura ASIC naprave"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Unresponsive"
+msgstr "Se ne odziva"
+
+msgid "Any"
+msgstr "Katerikoli"
+
+msgid "is"
+msgstr "je"
+
+msgid "down by"
+msgstr "zmanjšan/a za"
+
+msgid "minutes"
+msgstr "minut"
+
+msgid "then"
+msgstr "potem"
+
+msgid "Set fans"
+msgstr "Nastavi ventilatorje"
+
+msgid "Send email"
+msgstr "Pošlji elektronsko pošto"
+
+msgid "to"
+msgstr "na"
+
+msgid "Add trigger"
+msgstr "Dodaj sprožilec"
+
+msgid "GPU temperature"
+msgstr "GPE temperatura"
+
+msgid "ASIC temperature"
+msgstr "Temperatura ASIC naprave"
+
+msgid "Delete trigger"
+msgstr "Izbriši sprožilec"
+
+msgid "Disclaimer"
+msgstr "Opozorilo"
+
+msgid "This is advanced feature so please set triggers with caution and only if you take full responsibility for possible negative/undesired outcome or unexpected behaviour."
+msgstr "Sprožilci so napredna funkcija, zato jih nastavi previdno in le v primeru, da prevzemaš odgovornost za napake, neželene izide ali nepričakovano vedenje."
+
+msgid "Triggers with fan speed settings will override ClockTune profile settings."
+msgstr "Sprožilnik, ki spremeni hitrost ventilatorja, prepiše vrednost ClockTune profila."
+
+msgid "Please note that this action will delete your trigger."
+msgstr "Ta akcija bo izbrisala sprožilec."
+
+msgid "Thank you"
+msgstr "Hvala"
+
+msgid "Thank you!"
+msgstr "Hvala!"
+
+msgid "Your order is complete - enjoy your upgrade!"
+msgstr "Tvoje naročilo je zaključeno - uživaj v nadgradnji!"
+
+msgid "Your order is being processed. We will notify you once your account is ready."
+msgstr "Tvoje naročilo je bilo poslano v obdelavo. Ko bo račun pripravljen, te bomo o tem obvestili."
+
+msgid "Continue to dashboard"
+msgstr "Nadaljuj na nadzorno ploščo"
+
+msgid "If you will face any troubles, check out our"
+msgstr "V primeru težav se obrni na naš"
+
+msgid "help center"
+msgstr "center za pomoč"
+
+msgid "Public profile link"
+msgstr "Povezava javnega profila"
+
+msgid "This profile is private"
+msgstr "Ta profil je zaseben"
+
+msgid "Make public"
+msgstr "Objavi javni profil"
+
+msgid "Disable"
+msgstr "Deaktiviraj"
+
+msgid "Account settings"
+msgstr "Nastavitve računa"
+
+msgid "Avatar"
+msgstr "Prikazna slika"
+
+msgid "Change"
+msgstr "Sprememba"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Available in minerstat+"
+msgstr "Na voljo v minerstat+ dodatku"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Timezone"
+msgstr "Časovni pas"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Celsius"
+msgstr "Stopinje Celzija"
+
+msgid "Fahrenheit"
+msgstr "Stopinje Fahrenheita"
+
+msgid "Earnings deduction percent"
+msgstr "Odstotek odbitka zaslužka"
+
+msgid "Sessions"
+msgstr "Seje"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Access Type"
+msgstr "Dostop"
+
+msgid "Log out all"
+msgstr "Izpiši vse"
+
+msgid "Upgrade your plan to use scheduler."
+msgstr "Nadgradi svoj račun za uporabo orodja Scheduler."
+
+msgid "What is scheduler?"
+msgstr "Kaj je Scheduler?"
+
+msgid "The scheduler is a tool that gives you an option to override all mining settings for a selected period of time in the day. You can define multiple scheduler profiles to organize your mining activity or use it as an automatic mining manager's fee tool."
+msgstr "Scheduler je orodje, ki ti omogoča spremembo nastavitev rudarjenja na točno določen čas v dnevu. Ustvariš lahko različne profile in s tem organiziraš svojo rudarsko aktivnost ali ga uporabiš kot orodje za samodejno zaračunavanje provizije."
+
+msgid "Learn more about scheduler"
+msgstr "Izvedi več o orodju Scheduler"
+
+msgid "Add your first scheduler profile"
+msgstr "Dodaj svoj prvi Scheduler profil"
+
+msgid "for some or all workers"
+msgstr "za enega ali vse delavce"
+
+msgid "Add new profile"
+msgstr "Dodaj nov profil"
+
+msgid "Title"
+msgstr "Naslov"
+
+msgid "ClockTune"
+msgstr "ClockTune"
+
+msgid "Please note that this action will delete the scheduler profile and interrupt all scheduled workers."
+msgstr "Ta akcija bo izbrisala Scheduler profil in morda prekinila delovanje delavcev iz tega profila."
+
+msgid "Missing client configuration."
+msgstr "Manjka konfiguracija programa."
+
+msgid "Please select valid FROM - TO time."
+msgstr "Prosimo, izberi veljaven čas OD - DO."
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile title"
+msgstr "Naslov profila"
+
+msgid "Describe your scheduler profile"
+msgstr "Opiši svoj Scheduler profil"
+
+msgid "Set the timetable"
+msgstr "Nastavi časovni razpored"
+
+msgid "Start"
+msgstr "Začetek"
+
+msgid "End"
+msgstr "Konec"
+
+msgid "Mining client"
+msgstr "Program za rudarjenje"
+
+msgid "Select client to use for the schedule"
+msgstr "Izberi program, ki naj bo uporabljen v profilu"
+
+msgid "From profit switch"
+msgstr "Iz samodejne izbire kovanca"
+
+msgid "Profile settings"
+msgstr "Nastavitve profila"
+
+msgid "Define schedule, name your scheduler profile, select the client and edit its config."
+msgstr "Definiraj časovni razpored, poimenuj profile, izberi program za rudarjenje in pripravi konfiguracijo."
+
+msgid "This client is not available."
+msgstr "Ta program ni na voljo."
+
+msgid "Select coin"
+msgstr "Izberi kovanec"
+
+msgid "Select pool"
+msgstr "Izberi bazen"
+
+msgid "Select wallet"
+msgstr "Izberi denarnico"
+
+msgid "Coin"
+msgstr "Kovanec"
+
+msgid "Pool fee"
+msgstr "Provizija na bazenu"
+
+msgid "fee"
+msgstr "provizija"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Enable/Disable"
+msgstr "Vklopi/Izklopi"
+
+msgid "Profit switch algorithm will select the most profitable coin every 10 minutes from listed coins. Please make sure that you have connected the right pools and wallets with the right coins and algorithms."
+msgstr "Samodejna izbira kovanca deluje tako, da vsakih 10 minut izbere kovanec iz definiranega nabora kovancev. Poskrbi, da so denarnice in bazeni povezani s pravilnimi kovanci in algoritmi."
+
+msgid "Mining clients"
+msgstr "Programi za rudarjenje"
+
+msgid "Autoselect option will automatically select most suitable client and configure it for you. If you select a client by yourself you can edit its config manually."
+msgstr "Samodejna izbira bo samodejno izbrala program za rudarjenje in konfiguracijo. V primeru, da sam izbereš program, moraš ročno posodobiti konfiguracijo."
+
+msgid "Algorithm"
+msgstr "Algoritem"
+
+msgid "Power consumption"
+msgstr "Poraba elektrike"
+
+msgid "Hashrate and consumption settings"
+msgstr "Hitrost rudarjenja in poraba elektrike"
+
+msgid "Update hashrates and consumptions settings for listed algorithms to make best use of automatic profitability switching."
+msgstr "Posodobi hitrost rudarjenja in porabo elektrike za navedene algoritme. To bo pripomoglo k izbiri kovanca, ki je bolj donosen."
+
+msgid "Dual mining"
+msgstr "Dvojno rudarjenje"
+
+msgid "Update information on hashrate and consumption for dual mining coins."
+msgstr "Posodobi informacije o hitrosti rudarjenja in porabi elektrike za dvojno rudarjenje."
+
+msgid "Electricity costs"
+msgstr "Stroški elektrike"
+
+msgid "What are your electricity costs?"
+msgstr "Kakšni so tvoji stroški elektrike?"
+
+msgid "for"
+msgstr "za"
+
+msgid "Update information on your electricity costs."
+msgstr "Posodobi podatke o stroških elektrike."
+
+msgid "Minimum difference"
+msgstr "Najmanjša dovoljena razlika"
+
+msgid "Type in percent"
+msgstr "Vnesi odstotek"
+
+msgid "Minimum mining time"
+msgstr "Najkrajši dovoljeni čas rudarjenja"
+
+msgid "Select time"
+msgstr "Izberi čas"
+
+msgid "hour(s)"
+msgstr "ura/e"
+
+msgid "When to switch?"
+msgstr "Kdaj se naj kovanec zamenja?"
+
+msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
+msgstr "Izberi najmanjšo dovoljeno razliko v donosnosti kovanca, ki bo sprožila ponoven izračun (privzeto 1%) in zamenjavo kovanca in najkrajši dovoljeni čas rudarjenja (privzeto 10 minut)."
+
+msgid "Client's config"
+msgstr "Konfiguracija programa"
+
+msgid "Apply"
+msgstr "Uporabi"
+
+msgid "Pool number limit reached."
+msgstr "Dosegli ste maksimalno število dovoljenih bazenov."
+
+msgid "Invalid Key."
+msgstr "Napačen ključ."
+
+msgid "Invalid address."
+msgstr "Napačen naslov."
+
+msgid "Add your first pool"
+msgstr "Dodajte svoj prvi bazen"
+
+msgid "to monitor the balance"
+msgstr "za nadzor nad bilancami"
+
+msgid "Add new pool"
+msgstr "Dodaj nov bazen"
+
+msgid "API Key"
+msgstr "API ključ"
+
+msgid "API Secret"
+msgstr "API skrivnost"
+
+msgid "API ID"
+msgstr "API ID"
+
+msgid "Add pool"
+msgstr "Dodaj bazen"
+
+msgid "List the pools for which you want to monitor the balance."
+msgstr "Naštej bazene, ki jih želiš spremljati."
+
+msgid "Need more pools?"
+msgstr "Potrebuješ več bazenov?"
+
+msgid "Get minerstat+ to monitor more pools."
+msgstr "Če želiš dodati več bazenov, kupi dodatek minerstat+."
+
+msgid "Last updated:"
+msgstr "Nazadnje posodobljeno:"
+
+msgid "pools"
+msgstr "bazeni"
+
+msgid "pool"
+msgstr "bazen"
+
+msgid "Please note that pools are refreshed every 20 minutes."
+msgstr "Stanje na bazenih se osveži vsakih 20 minut."
+
+msgid "Market Capitalizations"
+msgstr "Tržna kapitalizacija"
+
+msgid "Market Cap"
+msgstr "Tržna kapitalizacija"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Circulating Supply"
+msgstr "Zaloga v obtoku"
+
+msgid "Volume (24h)"
+msgstr "Volumen (24h)"
+
+msgid "Change (24h)"
+msgstr "Sprememba (24h)"
+
+msgid "Logs"
+msgstr "Dnevnik"
+
+msgid "Last 24h logs"
+msgstr "24-urni dnevnik"
+
+msgid "Filters"
+msgstr "Prikaz"
+
+msgid "Filter your results to examine the events more closely."
+msgstr "Prilagodi prikaz in preglej dogodke bolj natančno."
+
+msgid "Manual actions"
+msgstr "Ročne akcije"
+
+msgid "Import workers"
+msgstr "Uvozi delavce"
+
+msgid "of your workers"
+msgstr "tvojih delavcev"
+
+msgid "Import workers (JSON)"
+msgstr "Uvozi delavce (JSON)"
+
+msgid "Import from AwesomeMiner"
+msgstr "Uvozi iz programa Awesome Miner"
+
+msgid "Import from HiveOS"
+msgstr "Uvozi iz programa HiveOS"
+
+msgid "How does bulk import work?"
+msgstr "Kako deluje uvoz več delavcev naenkrat?"
+
+msgid "With bulk import you can select JSON file that was generated with our tool named Locator.<br><br>Locator finds all devices in your network and generates file that makes importing of your workers easier and quicker."
+msgstr "Uvoz več delavcev naenkrat je možen preko JSON datoteke, ki nastane ob zagonu našega programa Locator.<br><br>Locator najde vse naprave v tvojem omrežju in samodejno ustvari datoteko, ki jo lahko uporabiš za hitrejše in enostavnejše dodajanje delavcev."
+
+msgid "Learn more about Locator"
+msgstr "Izvedi več o programu Locator"
+
+msgid "This is the list of workers from your JSON file. Please confirm which workers you want to import to minerstat."
+msgstr "To je seznam delavcev, ki smo jih našli v JSON datoteki. Prosimo, da potrdiš, katere delavce želiš uvoziti v svojo nadzorno ploščo."
+
+msgid "IP"
+msgstr "IP"
+
+msgid "ASIC username (SSH)"
+msgstr "ASIC uporabniško ime (SSH)"
+
+msgid "ASIC password (SSH)"
+msgstr "ASIC geslo (SSH)"
+
+msgid "Copy values down"
+msgstr "Kopiraj vrednosti navzdol"
+
+msgid "Duplicate"
+msgstr "Podvoji"
+
+msgid "Cancel import"
+msgstr "Prekliči uvoz"
+
+msgid "Your HiveOS username"
+msgstr "Uporabniško ime za HiveOS"
+
+msgid "Your HiveOS password"
+msgstr "Geslo za HiveOS"
+
+msgid "Your HiveOS 2FA (If enabled)"
+msgstr "2FA koda za HiveOS"
+
+msgid "Discard"
+msgstr "Zavrzi spremembe"
+
+msgid "Import"
+msgstr "Uvozi"
+
+msgid "Hardware distribution"
+msgstr "Porazdelitev strojne opreme"
+
+msgid "Global activity"
+msgstr "Splošna aktivnost"
+
+msgid "active workers"
+msgstr "aktivnih delavcev"
+
+msgid "active<br>hardware"
+msgstr "aktivnih<br>naprav"
+
+msgid "with normal temparature"
+msgstr "s primerno temperaturo"
+
+msgid "Top coins last 30 days"
+msgstr "Top kovanci zadnjih 30 dni"
+
+msgid "Top coins last 7 days"
+msgstr "Top kovanci zadnjih 7 dni"
+
+msgid "Top coins last 3 days"
+msgstr "Top kovanci zadnje 3 dni"
+
+msgid "Daily average data"
+msgstr "Podatki za povprečno dnevno statistiko"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "Profitability data"
+msgstr "Donosnost"
+
+msgid "Global statistics by day"
+msgstr "Splošna statistika po dnevih"
+
+msgid "Per worker statistics by day"
+msgstr "Statistika delavcev po dnevih"
+
+msgid "Balance statistics by day"
+msgstr "Statistika bilanc po dnevih"
+
+msgid "Detected changes in balance statistics"
+msgstr "Zaznane spremembe v bilanci"
+
+msgid "Full balance statistics by pools & wallets"
+msgstr "Celotna bilanca na bazenih in denarnicah"
+
+msgid "Balance data"
+msgstr "Bilance"
+
+msgid "Full workers data"
+msgstr "Celotni podatki delavcev"
+
+msgid "Hashrate data"
+msgstr "Hitrost rudarjenja"
+
+msgid "Data export"
+msgstr "Izvoz podatkov"
+
+msgid "Upgrade your plan to use data export."
+msgstr "Za uporabo izvoza podatkov moraš nadgraditi svoj račun."
+
+msgid "What is data export?"
+msgstr "Kaj je izvoz podatkov?"
+
+msgid "With data export you can export all of your historical data in CSV, JSON, or SQL format. The data is available as global data or by each worker, wallet, and pool independently. Data export is only available in minerstat+ add-on which also brings you up to 60 days of historical data."
+msgstr "Izvoz podatkov ti omogoča izvoz zgodovine v CSV, JSON in SQL formatu. Podatki so na voljo za globalno statistiko, za vsakega delavca posebej, za denarnice in za bazene. Izvoz podatkov je na voljo le z dodatkom minerstat+, ki ti hkrati prinese do 60 dni zgodovine."
+
+msgid "Learn more about statistics and data export"
+msgstr "Izvedi več o izvozu podatkov"
+
+msgid "2FA is not activated"
+msgstr "2FA ni aktiviran"
+
+msgid "Set 2FA"
+msgstr "Nastavi 2FA"
+
+msgid "Your e-mail is not confirmed. Please check your inbox."
+msgstr "Tvoje elektronski naslov ni potrjen. Prosimo, da preveriš svoj e-poštni nabiralnik."
+
+msgid "No wallets available for mining"
+msgstr "Za rudarjenje nisi nastavil nobene denarnice"
+
+msgid "No pools available for mining"
+msgstr "Za rudarjenje nisi nastavil nobenega bazena"
+
+msgid "Filter your results to examine the issues more closely."
+msgstr "Prilagodi prikaz in preglej napake bolj natančno."
+
+msgid "Account issues"
+msgstr "Težave z računom"
+
+msgid "Worker/Mining issues"
+msgstr "Težave z delavci ali rudarjenjem"
+
+msgid "Temperature data missing"
+msgstr "Manjkajoči podatki o temperaturi"
+
+msgid "Fans data missing"
+msgstr "Manjkajoči podatki o ventilatorjih"
+
+msgid "Speed data missing"
+msgstr "Manjkajoči podatki o hitrosti"
+
+msgid "Critical"
+msgstr "Kritično"
+
+msgid "Important"
+msgstr "Pomembno"
+
+msgid "Other"
+msgstr "Ostalo"
+
+msgid "Temporary error."
+msgstr "Začasna napaka."
+
+msgid "Invalid coin(s)."
+msgstr "Neveljavni kovanec/ci."
+
+msgid "Invalid algorithm(s)."
+msgstr "Neveljavni algoritem/mi."
+
+msgid "My minerstat dashboard"
+msgstr "Moja minerstat nadzorna plošča"
+
+msgid "Market"
+msgstr "Trg"
+
+msgid "Edit market view"
+msgstr "Uredi prikaz trga"
+
+msgid "different<br>coins"
+msgstr "različnih<br>kovancev"
+
+msgid "active<br>workers"
+msgstr "aktivnih<br>delavcev"
+
+msgid "total<br>Watt"
+msgstr "skupaj<br>vatov"
+
+msgid "mining<br>efficiency"
+msgstr "učinkovitost<br>rudarjenja"
+
+msgid "Expected earnings"
+msgstr "Predviden zaslužek"
+
+msgid "Per day"
+msgstr "Na dan"
+
+msgid "Per week"
+msgstr "Na teden"
+
+msgid "Per month"
+msgstr "Na mesec"
+
+msgid "Top coins by algorithms"
+msgstr "Top kovanci po algoritmih"
+
+msgid "Edit algorithm view"
+msgstr "Uredi seznam algoritmov"
+
+msgid "Percentages show how much less profitable the coin is in comparison to the top coin for the shown algorithm."
+msgstr "Odstotki kažejo koliko manj donosen je kovanec v primerjavi s prvim kovancem tega algoritma."
+
+msgid "No wallets defined"
+msgstr "Nobena denarnica ni dodana v urejevalniku naslovov"
+
+msgid "You haven't defined any wallets in your address editor. If you have troubles setting your worker, read this <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>tutorial</a>."
+msgstr "V svojem urejevalniku naslovov še nisi dodal nobene denarnice. Če imaš težave z nastavitvami, preberi ta <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>vodič</a>."
+
+msgid "Go to address editor"
+msgstr "Pojdi a urejevalnik naslovov"
+
+msgid "Offline workers"
+msgstr "Odsotni delavci"
+
+msgid "Crashed drivers"
+msgstr "Pokvarjeni gonilniki"
+
+msgid "All workers are online"
+msgstr "Vsi delavci so prisotni"
+
+msgid "All hardware successfully detected"
+msgstr "Vsa strojna oprema zaznana"
+
+msgid "Check whole diagnostic"
+msgstr "Poglej vso diagnostiko"
+
+msgid "Market view"
+msgstr "Pregled trga"
+
+msgid "Algorithms view"
+msgstr "Pregled algoritmov"
+
+msgid "Customers Workers"
+msgstr "Delavci stranke"
+
+msgid "Rewards"
+msgstr "Nagrada"
+
+msgid "Customers Dashboard"
+msgstr "Nadzorna plošča za stranke"
+
+msgid "Manage customers"
+msgstr "Upravljaj s strankami"
+
+msgid "Daily revenue"
+msgstr "Dnevni zaslužek"
+
+msgid "Daily reward"
+msgstr "Dnevna nagrada"
+
+msgid "Switch to this account"
+msgstr "Preklopi na ta račun"
+
+msgid "Unable to rename."
+msgstr "Preimenovanje ni mogoče."
+
+msgid "Unknown room"
+msgstr "Neznana soba."
+
+msgid "Set room name"
+msgstr "Nastavi ime sobe"
+
+msgid "Room already exists"
+msgstr "Soba s tem imenom že obstaja"
+
+msgid "Room does not exist"
+msgstr "Soba ne obstaja"
+
+msgid "Control rooms"
+msgstr "Nadzorne sobe"
+
+msgid "Upgrade your plan to use control room."
+msgstr "Za uporabo nadzorne sobe moraš nadgraditi svoj račun."
+
+msgid "What is control room?"
+msgstr "Kaj je nadzorna soba?"
+
+msgid "Organize your workers in the control room to visually fit your actual establishment.<br><br>Control room offers you better and quicker view over your rigs, their temperature and hashing speed. It can also be used as a heatmap."
+msgstr "V nadzorni sobi lahko postaviš svojo strojno opremo tako, da ustreza dejanski postavitvi v prostoru.<br><br>Nadzorna soba ti tako omogoča boljši in hitrejši pregled nad tvojimi napravami, njihovo temperaturo in hitrostjo. Uporabiš jo lahko tudi kot toplotni zemljevid."
+
+msgid "Learn more about control room"
+msgstr "Izvedi več o nadzorni sobi"
+
+msgid "Create new room"
+msgstr "Ustvari novo sobo"
+
+msgid "Please note that this action will detach all the workers that are attached to this room."
+msgstr "Ta akcija bo odmontirala vse delavce, ki se nahajajo v sobi."
+
+msgid "Compact"
+msgstr "Strnjen pogled"
+
+msgid "Extended"
+msgstr "Razširjen pogled"
+
+msgid "Label"
+msgstr "Oznaka"
+
+msgid "Mount one or more workers at position (0,0)."
+msgstr "Montiraj delavce na pozicijo (0,0)."
+
+msgid "Empty slot"
+msgstr "Prazen prostor"
+
+msgid "Export profiles (JSON)"
+msgstr "Izvozi profile (JSON)"
+
+msgid "Import profiles (JSON)"
+msgstr "Uvozi profile (JSON)"
+
+msgid "Profile name"
+msgstr "Ime profila"
+
+msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
+msgstr "Ta akcija bo izbrisala ClockTune profil, nastavitve delavca pa bodo ostale nespremenjene."
+
+msgid "Add your first overclock profile"
+msgstr "Dodaj svoje prvi OC profil"
+
+msgid "for AMD and Nvidia GPUs"
+msgstr "za AMD in Nvidia GPE"
+
+msgid "Please name your profile."
+msgstr "Poimenuj OC profil."
+
+msgid "Unable to OC."
+msgstr "Overclocking ni mogoč."
+
+msgid "No OC set."
+msgstr "Ni OC nastavitev."
+
+msgid "Name your OC profile"
+msgstr "Poimenuj OC profil"
+
+msgid "This is advanced setting and with using it, you take full responsibility for possible hardware damage. Overclocking might void hardware warranty."
+msgstr "Overclocking omogoča napredne nastavitve. S spreminjanjem nastavitev prevzameš vso odgovornost za mogočo škodo, ki bi pri tem lahko nastala. Overlocking lahko prekliče garancijo naprave."
+
+msgid "Power limit"
+msgstr "Power limit"
+
+msgid "Core Clock"
+msgstr "Core Clock"
+
+msgid "Memory Clock"
+msgstr "Memory Clock"
+
+msgid "Fan speed"
+msgstr "Hitrost ventilatorjev"
+
+msgid "VDDC"
+msgstr "VDDC"
+
+msgid "VDDCI"
+msgstr "VDDCI"
+
+msgid "Advanced"
+msgstr "Napredno"
+
+msgid "When using advanced editor, make sure to separate values with a space (e.g. 110 108 107 108). Each value represents one GPU."
+msgstr "Napredni urejevalnik ti omogoča vnos nastavitev za več kartic naenkrat. Nastavitve loči s presledki (npr. 110 108 107 108)."
+
+msgid "Unequally filled values will be replaced with the last number. For example, if you enter '110 108 107' and you have 5 GPUs, last value '107' will be applied to the last two GPUs."
+msgstr "Neenakomerno porazdeljene vrednosti bodo nadomeščene z zadnjo številko. Na primer, če imaš 5 kartic in vneseš '110 108 107', bo zadnja vrednost '107' uporabljena za zadnji dve kartici."
+
+msgid "Writing 0 or skip - will skip the currently applied setting that you have on msOS for AMD."
+msgstr "Napiš 0 ali skip, če želiš preskočiti nastavitve, ki jih imaš na msOS za AMD."
+
+msgid "Setting"
+msgstr "Nastavitev"
+
+msgid "GPU core voltage"
+msgstr "Jedrna napetost kartice"
+
+msgid "I/O bus voltage"
+msgstr "I/O bus napetost"
+
+msgid "Fan curve"
+msgstr "Krivulja ventilatorja"
+
+msgid "Auto-fan curve can be set through triggers."
+msgstr "Samodejna krivulja ventilatorja se lahko nastavi s sprožilci."
+
+msgid "Go to triggers"
+msgstr "Pojdi na sprožilce"
+
+msgid "Updated"
+msgstr "Posodobljeno"
+
+msgid "Billing details"
+msgstr "Plačilne informacije"
+
+msgid "Workers in a plan"
+msgstr "Delavcev v paketu"
+
+msgid "Plan expiry"
+msgstr "Veljavnost paketa"
+
+msgid "minerstat+ expiry"
+msgstr "Veljavnost minerstat+"
+
+msgid "Billed to"
+msgstr "Plačnik"
+
+msgid "Order log"
+msgstr "Seznam naročil"
+
+msgid "Num."
+msgstr "Štev."
+
+msgid "Order"
+msgstr "Naročilo"
+
+msgid "Total"
+msgstr "Skupaj"
+
+msgid "Method"
+msgstr "Metoda"
+
+msgid "Date paid"
+msgstr "Dan plačila"
+
+msgid "Invoice"
+msgstr "Račun"
+
+msgid "No past orders"
+msgstr "Ni preteklih naročil"
+
+msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
+msgstr "Nadgradnja računa omogoča več delavcev, bolj podrobno statistiko, več načinov obveščanja in druge ugodnosti."
+
+msgid "Plans"
+msgstr "Paket"
+
+msgid "Free plan"
+msgstr "Brezplačen paket"
+
+msgid "Up to 2 workers"
+msgstr "Do 2 delavca"
+
+msgid "forever"
+msgstr "za vedno"
+
+msgid "Tier plan"
+msgstr "Paket"
+
+msgid "Up to 1,000 workers"
+msgstr "Do 1 000 delavcev"
+
+msgid "per worker per month"
+msgstr "na delavca na mesec"
+
+msgid "Custom plan"
+msgstr "Paket po meri"
+
+msgid "For more than 1,000 workers"
+msgstr "Za več kot 1 000 delavcev"
+
+msgid "Add-ons"
+msgstr "Dodatki"
+
+msgid "extended stats, themes & advanced features"
+msgstr "razširjena statistika, teme in napredne funkcije"
+
+msgid "per month"
+msgstr "na mesec"
+
+msgid "customized and branded customers' profiles"
+msgstr "oblikovani in znamki prilagojeni profili strank"
+
+msgid "Add unlimited amount of customers and assign them the workers you bought."
+msgstr "Dodaj neomejeno število strank in jim dodeli delavce, ki si jih kupil."
+
+msgid "Unlimited customers"
+msgstr "Neomejeno število strank"
+
+msgid "Add up to five links to the custom menu that will connect the customers' profile with your website."
+msgstr "Dodaj do 5 povezav v meni, ki bo stranko peljal iz profila na tvojo spletno stran."
+
+msgid "Custom menu"
+msgstr "Poljuben meni"
+
+msgid "Customize your customers' profiles in your colors, fonts, logo, and choose between three different layouts."
+msgstr "Oblikuj strankin profil, da bo ustrezal tvojim barvam, pisavi, dodaj logotip in izbiraj med tremi različnimi postavitvami."
+
+msgid "Your branding"
+msgstr "Tvoja grafična podoba"
+
+msgid "Connect your customer's profile with your own domain. You will only need to set up a cname and the rest is taken care from minerstat dashboard."
+msgstr "Poveži strankin profil s svojo domeno. Vse kar moraš storiti na svojem strežniku je dodati cname, vse ostalo pa se lahko uredi iz minerstat nadzorne plošče."
+
+msgid "Your domain"
+msgstr "Tvoja domena"
+
+msgid "Our designer will take the time to help you set up the customer's profile in your branding and advise you how to connect your brand and website with customer's profile on minerstat."
+msgstr "Naš oblikovalec si bo vzel čas in ti pomagal pri oblikovanju strankinega profila, da bo le-ta v skladu s tvojo grafično podobo znamke in spletne strani."
+
+msgid "Help from our designer"
+msgstr "Pomoč našega oblikovalca"
+
+msgid "Monitor the traffic on your customers' profiles with your own Google Analytics code."
+msgstr "Na strankin profil nastavi svojo merilno kodo iz Google Analitike."
+
+msgid "Your Google Analytics"
+msgstr "Tvoja Google Analitika"
+
+msgid "Remove any sign of minerstat copyright and let the customers' profiles be shown as your own."
+msgstr "Odstrani napise, ki kažejo na to, da stran podpira minerstat in strankam pokaži profil, ki izgleda kot del tvoje spletne strani."
+
+msgid "minerstat copyright removed"
+msgstr "odstranjen napis minerstat"
+
+msgid "Licence type"
+msgstr "Tip licence"
+
+msgid "Payment method"
+msgstr "Plačilna metoda"
+
+msgid "Various currencies"
+msgstr "Različne valute"
+
+msgid "Supported by PayPal"
+msgstr "Plačilo preko PayPal"
+
+msgid "and"
+msgstr "in"
+
+msgid "Supported by CoinGate"
+msgstr "Plačilo preko CoinGate"
+
+msgid "Customer data"
+msgstr "Podatki o stranki"
+
+msgid "This information is used for the issuance an official invoice for buying the service. We don't store your personal information; the data is saved with our invoicing partner Quaderno."
+msgstr "Podatki, ki jih boš vnesel se bodo uporabili za izdajo uradnega računa za nakup storitve. Tvojih osebnih podatkov ne bomo shranili; bodo pa shranjeni pri Quaderno - našemu partnerju za izdajo računov."
+
+msgid "Required field"
+msgstr "Obvezno polje"
+
+msgid "First Name"
+msgstr "Ime"
+
+msgid "Last Name"
+msgstr "Priimek"
+
+msgid "Company Name"
+msgstr "Ime podjetja"
+
+msgid "VAT Number"
+msgstr "Identifikacijska številka za DDV"
+
+msgid "Street Line 1"
+msgstr "Naslov 1"
+
+msgid "Street Line 2"
+msgstr "Naslov 2"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "Postal Code"
+msgstr "Poštna številka"
+
+msgid "Region"
+msgstr "Regija"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "Order summary"
+msgstr "Povzetek naročila"
+
+msgid "Plan duration"
+msgstr "Trajanje paketa"
+
+msgid "Upgrade discount"
+msgstr "Popust za nadgradnjo"
+
+msgid "For upgrading an existing unexpired plan."
+msgstr "Za nadgradnjo paketa, ki še ni potekel."
+
+msgid "Duration discount"
+msgstr "Popust na trajanje"
+
+msgid "For ordering for longer period of time."
+msgstr "Za naročilo paketa za dlje časa."
+
+msgid "Coupon code"
+msgstr "Kupon"
+
+msgid "Redeem"
+msgstr "Uporabi"
+
+msgid "Sub total"
+msgstr "Vmesna vrednost"
+
+msgid "Taxes"
+msgstr "Davki"
+
+msgid "Proceed to payment"
+msgstr "Nadaljuj na plačilo"
+
+msgid "Upgrade now"
+msgstr "Nadgradi"
+
+msgid "Total price"
+msgstr "Skupna cena"
+
+msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Tvoj račun že ima licenco za white label. Če te zanima več, nas <a href=\"/billing-order/custom\">kontaktiraj</a>."
+
+msgid "Billing order"
+msgstr "Naročilo paketa"
+
+msgid "Features"
+msgstr "Lastnosti"
+
+msgid "Join us on Discord where our awesome community will help you out."
+msgstr "Pridruži se nam na Discordu, kjer ti bo naša čudovita skupnost z veseljem pomagala."
+
+msgid "Go to Discord"
+msgstr "Pojdi na Discord"
+
+msgid "24/7 Community Support"
+msgstr "Podpora skupnosti 24/7"
+
+msgid "Global profitability data and profitability per group and coin."
+msgstr "Globalna donosnost in donosnost na skupino ali kovanec."
+
+msgid "All software can be downloaded at any time and upgraded to the newest version for free."
+msgstr "Vsa programska oprema se lahko prenese poljubno-krat in posodobi na najnovejšo verzijo."
+
+msgid "Free Software Upgrades"
+msgstr "Brezplačne posodobitve programske opreme"
+
+msgid "Per worker profitability data and profitability data per coin."
+msgstr "Donosnost delavcev in donosnost kovancev."
+
+msgid "Switch between light and dark theme."
+msgstr "Preklopi med svetlo ali temno temo."
+
+msgid "Go to settings"
+msgstr "Pojdi na nastavitve"
+
+msgid "Light & Dark themes"
+msgstr "Svetla in temna tema"
+
+msgid "Monitor your balance on wallets and pools."
+msgstr "Nadzoruj stanje na denarnicah in bazenih."
+
+msgid "Worker's details page shows historical hashrate for all coins that were mined."
+msgstr "Profil delavca pokaže zgodovinske podatke o rudarjenju, hitrosti in kovancih."
+
+msgid "Hashrate historical data"
+msgstr "Zgodovinski podatki o hitrosti rudarjenja"
+
+msgid "Per worker statistics show you the historical efficiency data."
+msgstr "Statistika posameznega delavca pokaže zgodovino učinkovitosti."
+
+msgid "Efficiency historical data"
+msgstr "Zgodovinski podatki o učinkovitosti"
+
+msgid "Take actions when certain event occurs, such as temperature increase of hashrate drop."
+msgstr "Samodejno izvedi akcijo, ko se zgodi določen dogodek (npr. padec hitrosti ali dvig temperature)."
+
+msgid "Event triggers"
+msgstr "Sprožilci dogodkov"
+
+msgid "Global statistics and per worker statistics show you historical data of your profitability."
+msgstr "Globalna statistika in statistika posameznega delavca pokaže zgodovino donosnosti."
+
+msgid "Revenue historical data"
+msgstr "Zgodovinski podatki o donosnosti"
+
+msgid "Set up mobile alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "Na mobilni napravi lahko nastaviš obvestila za spremembo temperature, stanje delavca, padec hitrosti in več."
+
+msgid "Mobile alerting"
+msgstr "Obvestila na mobilni napravi"
+
+msgid "Worker's details page shows historical temperature for all GPUs or ASIC."
+msgstr "Profil delavca pokaže zgodovinske podatke o temperaturi tvojih kartic ali ASIC naprav."
+
+msgid "Temperature historical data"
+msgstr "Zgodovinski podatki o temperaturah naprav"
+
+msgid "Set up Telegram alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "Na Telegramu lahko nastaviš obvestila za spremembo temperature, stanje delavca, padec hitrosti in več."
+
+msgid "Telegram alerting"
+msgstr "Obvestila na aplikaciji Telegram"
+
+msgid "Grant access to your team members or create new accounts for your customers."
+msgstr "Dodeli dostop članom ekipe ali ustvari nove račune za svoje stranke."
+
+msgid "Multi-user management"
+msgstr "Upravljanje uporabnikov"
+
+msgid "Set up e-mail alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "Na elektronski naslov lahko dobiš obvestila o spremembi temperature, stanju delavcev, padeu hitrosti in več."
+
+msgid "Email alerting"
+msgstr "Obvestila po elektronski pošti"
+
+msgid "Any account can be made public for quicker and easier monitoring."
+msgstr "Vsak račun se lahko odpre za javnost za lažji in hitrejši vpogled."
+
+msgid "Public profile option"
+msgstr "Možnost javnega profila"
+
+msgid "Organize your workers to control room to fit your actual establishment."
+msgstr "Organiziraj svoje delavce v nadzorno sobo in jih postavi kot v dejanskem prostoru."
+
+msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
+msgstr "Načrtuj svojo rudarsko aktivnost in rudari z drugimi nastavitvami določen čas dneva."
+
+msgid "Historical data"
+msgstr "Zgodovinski podatki"
+
+msgid "Last 14 days"
+msgstr "Zadnjih 14 dni"
+
+msgid "Workers data saved every"
+msgstr "Podatki o delavcu so shranjeni vsakih"
+
+msgid "10 minutes"
+msgstr "10 minut"
+
+msgid "Balance monitoring for"
+msgstr "Spremljanje bilance za"
+
+msgid "5 wallets & 5 pools"
+msgstr "5 denarnic in 5 bazenov"
+
+msgid "Access to all new custom themes"
+msgstr "Dostop do vseh novih grafičnih tem"
+
+msgid "export"
+msgstr "izvoz"
+
+msgid "Last 60 days"
+msgstr "Zadnjih 60 dni"
+
+msgid "Unlimited wallets & unlimited pools"
+msgstr "Neomejeno število denarnic in neomejeno bazenov"
+
+msgid "Exclude"
+msgstr "Izključi"
+
+msgid "Include for 5 EUR/month"
+msgstr "Vključi za 5 EUR na mesec"
+
+msgid "Number of workers"
+msgstr "Število delavcev"
+
+msgid "month"
+msgstr "mesec"
+
+msgid "full price"
+msgstr "polna cena"
+
+msgid "months"
+msgstr "mesecev"
+
+msgid "save"
+msgstr "prihrani"
+
+msgid "Plan selection"
+msgstr "Izbira paketa"
+
+msgid "Your account is fully upgraded. If you need more than 1,000 workers, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Tvoj račun je nadgrajen na največji možni paket. Če potrebuješ več kot 1 000 delavcev, nam pošlji <a href=\"/billing-order/custom\">povpraševanje</a>."
+
+msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Tvoj paket že vsebuje dodatek minerstat+ - če te zanima več, nam lahko pošlješ <a href=\"/billing-order/custom\">povpraševanje</a>."
+
+msgid "Last 6 days"
+msgstr "Zadnjih 6 dni"
+
+msgid "30 minutes"
+msgstr "30 minut"
+
+msgid "2 wallets & 2 pools"
+msgstr "2 denarnici in 2 bazena"
+
+msgid "Inquiry"
+msgstr "Povpraševanje"
+
+msgid "Interested in more than 1,000 workers? Use the following form and let us know more about your business setup."
+msgstr "Te zanima paket z več kot 1000 delavci? Uporabi spodnji obrazec in nam povej več o svoji rudarski dejavnosti."
+
+msgid "Company"
+msgstr "Ime podjetja"
+
+msgid "Company registered for VAT?"
+msgstr "Ima podjetje identifikacijsko številko za DDV?"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Type of workers"
+msgstr "Tip delavcev"
+
+msgid "ASICs"
+msgstr "ASIC"
+
+msgid "GPUs & ASICs"
+msgstr "GPE & ASIC"
+
+msgid "Preferred payment method"
+msgstr "Želena plačilna metoda"
+
+msgid "Direct deposit to bank account"
+msgstr "Direktno nakazilo na bančni račun"
+
+msgid "Message to us"
+msgstr "Sporočilo za nas"
+
+msgid "Send message"
+msgstr "Pošlji sporočilo"
+
+msgid "Daily balance statistics"
+msgstr "Statistika bilanc"
+
+msgid "Detected changes"
+msgstr "Zaznane spremembe"
+
+msgid "Source"
+msgstr "Vir"
+
+msgid "New balance"
+msgstr "Novo stanje"
+
+msgid "Please note that wallets are checked every 30 minutes and pools every 20 minutes. USD value is calculated using the most recent exchange rate."
+msgstr "Stanje v denarnicah se preverja vsakih 30 minut, stanje na bazenih pa vsakih 20 minut. Vrednost kovancev v kateremkoli trenutku se izračuna po najnovejšem tečaju na menjalnicah."
+
+msgid "Monitoring"
+msgstr "Spremljanje"
+
+msgid "No wallets or pools"
+msgstr "Brez denarnic in bazenov"
+
+msgid "You aren't monitoring any wallets or pools at the moment."
+msgstr "Trenutno ne spremljaš nobenih denarnic ali bazenov."
+
+msgid "AMD Strap Editor"
+msgstr "AMD Strap Urejevalnik"
+
+msgid "Your BIOS strap"
+msgstr "Tvoj BIOS strap"
+
+msgid "Success"
+msgstr "Uspešno"
+
+msgid "Invalid content"
+msgstr "Napačna vsebina"
+
+msgid "Modify"
+msgstr "Spremeni"
+
+msgid "Result"
+msgstr "Rezultat"
+
+msgid "Recommendations"
+msgstr "Priporočila"
+
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgstr "AMD BIOS strap urejevalnik je napredno orodje za optimizacijo RX in R9 kartic. Uporaba le na lastno odgovornost."
+
+msgid "Ambassador"
+msgstr "Ambasador"
+
+msgid "Please confirm your e-mail address to set up alerts"
+msgstr "Prosimo, da potrdiš svoj e-poštni račun za nastavitev obvestil"
+
+msgid "Resend confirmation email"
+msgstr "Pošlji mi potrditveno e-pošto"
+
+msgid "Notification setting"
+msgstr "Nastavitve obvestil"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Mobile"
+msgstr "Mobilno"
+
+msgid "Upgrade your plan to use Telegram notifications."
+msgstr "Za uporabo Telegram obvestil, nadgradi svoj račun."
+
+msgid "Upgrade your plan to use Mobile notifications."
+msgstr "Za uporabo mobilnih obvestil, nadgradi svoj račun."
+
+msgid "When worker goes offline"
+msgstr "Ko delavec postane odsoten"
+
+msgid "When worker comes back online"
+msgstr "Ko delavec postane prisoten"
+
+msgid "ASIC notifications"
+msgstr "Obvestila ASIC naprav"
+
+msgid "Hardware errors and high temperature"
+msgstr "Napake v strojni opremi in visoka temperatura"
+
+msgid "Efficiency rate drop"
+msgstr "Padec učinkovitosti"
+
+msgid "Connections"
+msgstr "Poveži račune"
+
+msgid "Telegram ID"
+msgstr "Telegram ID"
+
+msgid "Connect with Telegram"
+msgstr "Poveži Telegram"
+
+msgid "Switch"
+msgstr "Preklopi"
+
+msgid "Mobile device ID"
+msgstr "ID mobilne naprave"
+
+msgid "Please enable 2FA first"
+msgstr "Najprej aktiviraj 2FA"
+
+msgid "The values of tags are used in workers config section."
+msgstr "Vrednosti značk so uporabljene v konfiguracijah delavcev."
+
+msgid "Export pools (JSON)"
+msgstr "Izvozi bazene (JSON)"
+
+msgid "Import pools (JSON)"
+msgstr "Uvozi bazene (JSON)"
+
+msgid "Pool address"
+msgstr "Naslov bazena"
+
+msgid "Used"
+msgstr "Uporabljeno"
+
+msgid "Export wallets (JSON)"
+msgstr "Izvozi denarnice (JSON)"
+
+msgid "Import wallets (JSON)"
+msgstr "Uvozi denarnice (JSON)"
+
+msgid "Wallet address"
+msgstr "Naslov denarnice"
+
+msgid "Before deleting this tag, please make sure that it's no longer in use in your configurations."
+msgstr "Preden izbrišeš značko, preveri ali le-ta morda ni v uporabi."
+
+msgid "Account security"
+msgstr "Varnost računa"
+
+msgid "2FA setup"
+msgstr "Nastavitev 2FA"
+
+msgid "Your authentication code"
+msgstr "Tvoja avtorizacijska koda"
+
+msgid "Activate 2FA"
+msgstr "Aktiviraj 2FA"
+
+msgid "Two Factor Authentication allows you to secure your user account and access it faster. Additionally, setting up 2FA will allow you to use <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>To set up your Google Auth 2FA follow the next steps."
+msgstr "Dvofaktorska avtentikacija (2FA) omogoča, da zavaruješ svoj račun in do njega dostopaš hitreje. Dodatno ti bo aktivacija 2FA omogočila <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">hiter vpis s QR kodo</a>. Sledi korakom in nastavi Google Auth 2FA."
+
+msgid "Scan the following QR Code to your Google Authenticator Application."
+msgstr "QR kodo slikajte z mobilno aplikacijo Google Authenticator."
+
+msgid "Enter the key from the app and confirm your 2FA."
+msgstr "Vnesi ključ izpisan v aplikaciji in aktiviraj 2FA."
+
+msgid "Please note that after you successfully set up 2FA, the system will logged you out."
+msgstr "Ko nastaviš 2FA, te bo sistem izpisal."
+
+msgid "Access key"
+msgstr "Ključ za dostop"
+
+msgid "Secret key"
+msgstr "Skrivni ključ"
+
+msgid "Date and time"
+msgstr "Datum in čas"
+
+msgid "Print recovery key"
+msgstr "Natistni obnovitveni ključ"
+
+msgid "Finish setup"
+msgstr "Končaj nastavitev"
+
+msgid "You have successfully set up your 2FA"
+msgstr "Uspešno si nastavil 2FA"
+
+msgid "Print your recovery key, save it, and finish with the setup."
+msgstr "Natisni obnovitveni ključ, ga shrani in končaj z nastavitvijo."
+
+msgid "2FA activated"
+msgstr "2FA aktiviran"
+
+msgid "Successfully de-activated."
+msgstr "Uspešno deaktiviran."
+
+msgid "De-activate 2FA"
+msgstr "Deaktiviraj 2FA"
+
+msgid "Your 2FA is activated."
+msgstr "2FA je aktiviran."
+
+msgid "You will need to enter your authentication code to de-activate it."
+msgstr "Za deaktivacijo boš moral vnesti avtorizacijsko kodo."
