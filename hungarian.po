@@ -74,7 +74,7 @@ msgid "Uptime"
 msgstr "Üzemidő"
 
 msgid "Earnings"
-msgstr "Keresetek"
+msgstr "bevétel"
 
 msgid "Max. temp"
 msgstr "Max. hőmérséklet"
@@ -299,16 +299,16 @@ msgid "'s notes"
 msgstr "jegyzetek"
 
 msgid "th"
-msgstr "th"
+msgstr "-én"
 
 msgid "st"
-msgstr "st"
+msgstr "-jén"
 
 msgid "nd"
-msgstr "nd"
+msgstr "-án"
 
 msgid "rd"
-msgstr "rd"
+msgstr "-án"
 
 msgid "Today"
 msgstr "Ma"
@@ -467,7 +467,7 @@ msgid "December"
 msgstr "December"
 
 msgid "Worker's profitability"
-msgstr "Workerek jövedelmezősége"
+msgstr "Gépek jövedelmezősége"
 
 msgid "Delete trigger?"
 msgstr "Trigger törlése?"
@@ -503,7 +503,7 @@ msgid "We didn't detect any special actions for your workers in the last 24 hour
 msgstr "Nem észleltünk semmilyen különleges eseményt az elmúlt 24 órában"
 
 msgid "Manage your workers"
-msgstr "Workerek kezelése"
+msgstr "Gépek kezelése"
 
 msgid "Import finished"
 msgstr "Importálás kész"
@@ -521,22 +521,22 @@ msgid "Avg. daily profitability"
 msgstr "Átlag napi jövedelmezőség"
 
 msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem az alapértelmezettek az Antminer ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>root/admin</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a "Szerkesztés" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "Workers"
-msgstr "Workerek"
+msgstr "Gépek"
 
 msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem az alapértelmezettek az Baikal ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>admin/root</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a "Szerkesztés" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem az alapértelmezettek az DragonMint ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>admin/dragonmint</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a "Szerkesztés" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem az alapértelmezettek az Innosilicon ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a "Szerkesztés" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem az alapértelmezettek az Dayun ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>root/envision</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a "Szerkesztés" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "Online, but not mining."
 msgstr "Elérhető, de nem bányászik"
@@ -557,7 +557,7 @@ msgid "No fans data for"
 msgstr "Nincs ventillátor adat"
 
 msgid "No speed data for"
-msgstr "Nincs sepesség adat"
+msgstr "Nincs sebesség adat"
 
 msgid "No info for coin. Send us pool details and we will add support for it."
 msgstr "Nincs adat az érméről. Küldd el a Pool részleteket és segítünk."
@@ -572,7 +572,7 @@ msgid "No issues"
 msgstr "Nincs probléma"
 
 msgid "We didn't detect any issues with your account and workers."
-msgstr "Nem találtunk semmi problémát az accountodban és a workerekben."
+msgstr "Nem találtunk semmi problémát az accountodban és a gépekben."
 
 msgid "2FA set and e-mail confirmed."
 msgstr "2FA beállítás és e-mail jóváhagyva."
@@ -1016,7 +1016,7 @@ msgid "1 worker remaining until your plan requires an upgrade."
 msgstr "1 worker van hátra, mielőtt fejleszteni kell a csomagját."
 
 msgid "Upgrade your plan to add additional workers."
-msgstr "Fríssítenie kell a csomgját, hogy újabb workert adhasson hozzá."
+msgstr "Fríssítenie kell a csomgját, hogy újabb gépet adhasson hozzá."
 
 msgid "workers remaining until your plan requires an upgrade."
 msgstr "worker van hátra, mielőtt frissítenie kell a csomagját."
@@ -1028,13 +1028,13 @@ msgid "Over limit"
 msgstr "Túlméretezett"
 
 msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
-msgstr "A fiókjában több worker van felvéve, mint amennyire engedélye van. Kérjük frissítse a fiókját, vagy töröljön néhány workert."
+msgstr "A fiókjában több worker van felvéve, mint amennyire engedélye van. Kérjük frissítse a fiókját, vagy töröljön néhány gépet."
 
 msgid "Upgrade account"
 msgstr "Fiók frissítése"
 
 msgid "Delete workers"
-msgstr "Workerek törlése"
+msgstr "Gépek törlése"
 
 msgid "Customers"
 msgstr "Ügyfelek"
@@ -1055,7 +1055,7 @@ msgid "Control room"
 msgstr "Vezérlő szoba"
 
 msgid "Global statistics"
-msgstr "Teljes statisztika"
+msgstr "Globális statisztika"
 
 msgid "Per worker statistics"
 msgstr "Worker statisztika"
@@ -1115,7 +1115,7 @@ msgid "AMD strap editor"
 msgstr "AMD strap szerkesztő"
 
 msgid "Bug report"
-msgstr "Hiba riport"
+msgstr "Hiba jelentés"
 
 msgid "Admin"
 msgstr "Admin"
@@ -1160,7 +1160,7 @@ msgid "Invalid ASIC IP."
 msgstr "Érvénytelen ASIC IP."
 
 msgid "Unable to add worker."
-msgstr "Nem lehet workert hozzáadni."
+msgstr "Nem lehet gépet hozzáadni."
 
 msgid "Worker name already in use."
 msgstr "Worker neve már használatban van."
@@ -1169,7 +1169,7 @@ msgid "Unknown error."
 msgstr "Ismeretlen hiba"
 
 msgid "Add your first worker"
-msgstr "Add hozzá az első workert"
+msgstr "Add hozzá az első gépet"
 
 msgid "to manage and monitor its mining activity"
 msgstr "bányászat vezérlése és monitorozása"
@@ -1232,7 +1232,7 @@ msgid "out of"
 msgstr "nincs"
 
 msgid "workers are being monitored"
-msgstr "workerek monitorozva vannak"
+msgstr "gépek monitorozva vannak"
 
 msgid "Action for"
 msgstr "Művelet a"
@@ -1265,7 +1265,7 @@ msgid "Please note that this action will restart your mining software only."
 msgstr "Kérjük vegye figyelembe, ez a művelet újratölti a bányász programot."
 
 msgid "Worker's note"
-msgstr "Workerek jegyzet"
+msgstr "Gépek jegyzet"
 
 msgid "Clear content"
 msgstr "Tartalom törlése"
@@ -1298,7 +1298,7 @@ msgid "This worker is not part of your account."
 msgstr "Ez a worker nem része a fiókjának."
 
 msgid "Back to workers list"
-msgstr "Vissza a workerek listájához"
+msgstr "Vissza a gépek listájához"
 
 msgid "Profit switch in"
 msgstr "Profit kapcsoló be"
@@ -1310,7 +1310,7 @@ msgid "Shut down machine"
 msgstr "Gép leállítása"
 
 msgid "Daily earnings"
-msgstr "Napi keresetek"
+msgstr "Napi bevétel"
 
 msgid "GPUs"
 msgstr "GPUk"
@@ -1433,10 +1433,10 @@ msgid "Unknown error occured."
 msgstr "Ismeretlen hiba történt."
 
 msgid "Add an individual worker or groups"
-msgstr "Adjon hozzá egyéni workert vagy csoportokat"
+msgstr "Adjon hozzá egyéni gépet vagy csoportokat"
 
 msgid "Add workers or groups ..."
-msgstr "Workerek vagy csoportok hozzáadása"
+msgstr "Gépek vagy csoportok hozzáadása"
 
 msgid "Groups"
 msgstr "Csoportok"
@@ -1451,13 +1451,13 @@ msgid "Target"
 msgstr "Cél"
 
 msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
-msgstr "Tipp: Ha olyan csoportot szeretne módosítani, amelyet már beállított, jelölje ki a workert a csoportban, változtassa meg a beállításait, majd cserélje ki a worker nevét a csoport nevére."
+msgstr "Tipp: Ha olyan csoportot szeretne módosítani, amelyet már beállított, jelölje ki a gépet a csoportban, változtassa meg a beállításait, majd cserélje ki a worker nevét a csoport nevére."
 
 msgid "You can select a worker or a group that you want to apply changes to. Applying changes to a group will only update individual workers inside that group."
-msgstr "Kiválaszthatja a módosítani kívánt workert vagy csoportot. Amennyiben módosítani szeretne egy csoportot, akkor csak az egyes csoporton belüli workereket fogja frissíteni."
+msgstr "Kiválaszthatja a módosítani kívánt gépet vagy csoportot. Amennyiben módosítani szeretne egy csoportot, akkor csak az egyes csoporton belüli gépeket fogja frissíteni."
 
 msgid "Add more or change groups for selected worker(s)"
-msgstr "Adjon hozzá többet vagy módosítsa a kiválasztott workerek csoportját"
+msgstr "Adjon hozzá többet vagy módosítsa a kiválasztott gépek csoportját"
 
 msgid "Add a group..."
 msgstr "Csoport hozzáadása..."
@@ -1466,19 +1466,19 @@ msgid "Default client"
 msgstr "Alapértelmezett kliens"
 
 msgid "Select default client for selected worker(s)"
-msgstr "Válassza ki az alapértelmezett ügyfelet a kijelölt workerekhez."
+msgstr "Válassza ki az alapértelmezett ügyfelet a kijelölt gépekhez."
 
 msgid "Default CPU client"
 msgstr "Alapértelmezett CPU kliens"
 
 msgid "Select default CPU client for selected worker(s)"
-msgstr "Válassza ki az alapértelmezett CPU ügyfelet a kijelölt workerekhez."
+msgstr "Válassza ki az alapértelmezett CPU ügyfelet a kijelölt gépekhez."
 
 msgid "ClockTune profile"
 msgstr "ClockTune profil"
 
 msgid "Select OC profile for selected worker(s)"
-msgstr "Válassza ki a TUNING profilt a kijelölt workerekhez."
+msgstr "Válassza ki a OC profilt a kijelölt gépekhez."
 
 msgid "Don't change"
 msgstr "Ne változzon"
@@ -1520,7 +1520,7 @@ msgid "Tags marked red are undefined"
 msgstr "A piros jelzésű címkék nincsenek meghatározva."
 
 msgid "Worker's name"
-msgstr "Workerek neve"
+msgstr "Gépek neve"
 
 msgid "Your e-mail address"
 msgstr "Az e-mail címe"
@@ -1565,34 +1565,34 @@ msgid "Supports minerstat for Windows"
 msgstr "Támogatja a minerstat Windows-t"
 
 msgid "Supports minerstat for Baikal"
-msgstr "Támogatja a minerstat Baikal-t"
+msgstr "Támogatja a Baikal-t"
 
 msgid "Supports minerstat for Antminer"
-msgstr "Támogatja a minerstat Antminer-t"
+msgstr "Támogatja az Antminer-t"
 
 msgid "Supports minerstat for DragonMint"
-msgstr "Támogatja a minerstat DragonMint-et"
+msgstr "Támogatja a DragonMint-et"
 
 msgid "Supports minerstat for Innosilicon"
-msgstr "Támogatja a minerstat Innosilicon-t"
+msgstr "Támogatja az Innosilicon-t"
 
 msgid "Supports minerstat for Dayun"
-msgstr "Támogatja a minerstat Dayun-t"
+msgstr "Támogatja a Dayun-t"
 
 msgid "Unavailable"
 msgstr "Nem érhető el"
 
 msgid "White label is only available under special licence."
-msgstr "A fehér címke csak külön engedéllyel érhető el."
+msgstr "A White Label csak külön engedéllyel érhető el."
 
 msgid "What is white label?"
-msgstr "Mi az a fehér címke?"
+msgstr "Mi az a white lable?"
 
 msgid "White label is a licence that allows mining managers and cloud mining owners to show their clients the personalized and branded data without pointing out that hardware runs on minerstat software and on minerstat dashboard."
-msgstr "A fehér címke olyan licensz, amely lehetővé teszi a bányászati vezetők és a felhőbányászat tulajdonosai számára, hogy ügyfeleik számára személyre szabott és márkázott adatokat mutassanak anélkül, hogy rámutattak arra, hogy a hardver a minerstat szoftveren és a minerstat irányítópulton fut."
+msgstr "A white label olyan licensz, amely lehetővé teszi a bányászati vezetők és a felhőbányászat tulajdonosai számára, hogy ügyfeleik számára személyre szabott és márkázott adatokat mutassanak anélkül, hogy rámutattak arra, hogy a hardver a minerstat szoftveren és a minerstat irányítópulton fut."
 
 msgid "Learn more about white label"
-msgstr "Tudjon meg többet a fehér cimkéről"
+msgstr "Tudjon meg többet a white labelről"
 
 msgid "Builder"
 msgstr "Építő"
@@ -1622,10 +1622,10 @@ msgid "Wallets monitoring"
 msgstr "Tárcák monitorozása"
 
 msgid "Add your first wallet"
-msgstr "Adja hozzá az első tárcát"
+msgstr "Adja hozzá az első tárcáját"
 
 msgid "to monitor the balance and transactions"
-msgstr "az egyenleg és tranzakciók monitorozása."
+msgstr "az egyenleg és tranzakciók monitorozához."
 
 msgid "Add new wallet"
 msgstr "Új tárca hozzáadása"
@@ -1694,10 +1694,10 @@ msgid "Customer doesn't exist."
 msgstr "Ügyfél nem létezik"
 
 msgid "Delete workers on account to decrese the number."
-msgstr "Töröljön workereket a fiókjában, hogy csökkentse a számot."
+msgstr "Töröljön gépeket a fiókjában, hogy csökkentse a számot."
 
 msgid "You need to assign at least 1 worker."
-msgstr "Legalább 1 workert hozzá kell rendelnie."
+msgstr "Legalább 1 gépet hozzá kell rendelnie."
 
 msgid "Invalid expiry date."
 msgstr "Érvénytelen lejárati dátum."
@@ -1784,7 +1784,7 @@ msgid "Plan name"
 msgstr "Terv neve"
 
 msgid "Number of assigned workers"
-msgstr "Hozzárendelt workerek száma"
+msgstr "Hozzárendelt gépek száma"
 
 msgid "Expires in"
 msgstr "Lejár"
@@ -1856,7 +1856,7 @@ msgid "Learn more about triggers"
 msgstr "Tudjon meg többet a triggerekről"
 
 msgid "If"
-msgstr "Ha"
+msgstr "Ha a"
 
 msgid "GPU Temperature"
 msgstr "GPU Hőmérséklet"
@@ -1892,7 +1892,7 @@ msgid "Send email"
 msgstr "Küldjön emailt"
 
 msgid "to"
-msgstr "nak"
+msgstr ""
 
 msgid "Add trigger"
 msgstr "Trigger hozzáadása"
@@ -1910,7 +1910,7 @@ msgid "Disclaimer"
 msgstr "Lemondás"
 
 msgid "This is advanced feature so please set triggers with caution and only if you take full responsibility for possible negative/undesired outcome or unexpected behaviour."
-msgstr "Ez egy különleges lehetőség, ezért kérjük óvatosan állítsa be a triggereket, és csak akkor, ha teljes mértékben vállalja a felelősséget a lehetséges negatív / nemkívánatos kimenetel vagy váratlan magatartás miatt."
+msgstr "Ez egy különleges funkció, ezért kérjük óvatosan állítsa be a triggereket, és csak akkor, ha teljes mértékben vállalja a felelősséget a lehetséges negatív / nemkívánatos kimenetel vagy váratlan magatartás miatt."
 
 msgid "Triggers with fan speed settings will override ClockTune profile settings."
 msgstr "A Triggerek felülbírálják az ClockTune profil ventillátork beállításait."
@@ -2012,7 +2012,7 @@ msgid "Add your first scheduler profile"
 msgstr "Adja meg az első ütemezőprofilt"
 
 msgid "for some or all workers"
-msgstr "néhány vagy minen worker számára"
+msgstr "néhány vagy minen workere számára"
 
 msgid "Add new profile"
 msgstr "Új profil hozzáadása"
@@ -2024,7 +2024,7 @@ msgid "ClockTune"
 msgstr "ClockTune"
 
 msgid "Please note that this action will delete the scheduler profile and interrupt all scheduled workers."
-msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli az ütemezőprofilt, és megszakítja az összes ütemezett workert."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli az ütemezőprofilt, és megszakítja az összes ütemezett gépet."
 
 msgid "Missing client configuration."
 msgstr "Hiányzó kliens konfiguráció."
@@ -2177,10 +2177,10 @@ msgid "Add new pool"
 msgstr "Új pool hozzáadása"
 
 msgid "API Key"
-msgstr "API kulcs"
+msgstr "API Key"
 
 msgid "API Secret"
-msgstr "API titok"
+msgstr "API Secret"
 
 msgid "API ID"
 msgstr "API ID"
@@ -2243,31 +2243,31 @@ msgid "Manual actions"
 msgstr "Kézi műveletek"
 
 msgid "Import workers"
-msgstr "Workerek importálása"
+msgstr "Gépek importálása"
 
 msgid "of your workers"
 msgstr "a workereitől"
 
 msgid "Import workers (JSON)"
-msgstr "Workerek importálása (JSON)"
+msgstr "Gépek importálása (JSON)"
 
 msgid "Import from AwesomeMiner"
-msgstr "AwesomeMinerből importálás"
+msgstr "AwesomeMiner-ből importálás"
 
 msgid "Import from HiveOS"
-msgstr "HiveOSből importálás"
+msgstr "HiveOS-ből importálás"
 
 msgid "How does bulk import work?"
-msgstr "Hogy működik a tömeges importálás?"
+msgstr "Hogyan működik a tömeges importálás?"
 
 msgid "With bulk import you can select JSON file that was generated with our tool named Locator.<br><br>Locator finds all devices in your network and generates file that makes importing of your workers easier and quicker."
-msgstr "A tömeges importálástnál kiválaszthatja a Locator nevű eszközzel generált JSON fájlt.<br><br> A Locator megtalálja az összes eszközt a hálózatban, és olyan fájlt hoz létre, amely megkönnyíti és gyorsítja a workerek importálását."
+msgstr "A tömeges importálástnál kiválaszthatja a Locator nevű eszközzel generált JSON fájlt.<br><br> A Locator megtalálja az összes eszközt a hálózatban, és olyan fájlt hoz létre, amely megkönnyíti és gyorsítja a gépek importálását."
 
 msgid "Learn more about Locator"
-msgstr "Tudjon meg többet a Locatorról"
+msgstr "Tudjon meg többet a Locator-ról"
 
 msgid "This is the list of workers from your JSON file. Please confirm which workers you want to import to minerstat."
-msgstr "Ez a workerek listája a JSON fájlból. Kérjük, erősítse meg, hogy mely workereket szeretne importálni a minerstatba."
+msgstr "Ez a gépek listája a JSON fájlból. Kérjük, erősítse meg, hogy mely gépeket szeretne importálni a minerstatba."
 
 msgid "IP"
 msgstr "IP"
@@ -2309,7 +2309,7 @@ msgid "Global activity"
 msgstr "Globális tevékenység"
 
 msgid "active workers"
-msgstr "aktív workerek"
+msgstr "aktív gépek"
 
 msgid "active<br>hardware"
 msgstr "aktív<br>hardver"
@@ -2426,7 +2426,7 @@ msgid "Invalid algorithm(s)."
 msgstr "Érvénytelen algoritmus(ok)"
 
 msgid "My minerstat dashboard"
-msgstr "Saját minerstat vezérlőpult"
+msgstr "Saját minerstat irányítópult"
 
 msgid "Market"
 msgstr "Piac"
@@ -2438,7 +2438,7 @@ msgid "different<br>coins"
 msgstr "különböző<br>érmék"
 
 msgid "active<br>workers"
-msgstr "aktív<br>workerek"
+msgstr "aktív<br>gépek"
 
 msgid "total<br>Watt"
 msgstr "összesen<br>Watt"
@@ -2474,10 +2474,10 @@ msgid "You haven't defined any wallets in your address editor. If you have troub
 msgstr "Nincs megadva semmilyen tárca a címszerkesztőben. Ha gondjai vannak a worker beállításával kapcsolatban, olvassa el ezt a <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>bemutatót</a>."
 
 msgid "Go to address editor"
-msgstr "Menj a címszerkesztőhöz"
+msgstr "Menj a cím szerkesztőhöz"
 
 msgid "Offline workers"
-msgstr "Nem elérhető workerek"
+msgstr "Nem elérhető gépek"
 
 msgid "Crashed drivers"
 msgstr "Összeomlott illesztőprogramok"
@@ -2552,7 +2552,7 @@ msgid "Create new room"
 msgstr "Új szoba létrehozása"
 
 msgid "Please note that this action will detach all the workers that are attached to this room."
-msgstr "Kérjük, vegye figyelembe, hogy ez a művelet le fogja választani a workereket, akik ehhez a szobához csatlakoznak."
+msgstr "Kérjük, vegye figyelembe, hogy ez a művelet le fogja választani a gépeket, akik ehhez a szobához csatlakoznak."
 
 msgid "Compact"
 msgstr "Kompakt"
@@ -2564,7 +2564,7 @@ msgid "Label"
 msgstr "Címke"
 
 msgid "Mount one or more workers at position (0,0)."
-msgstr "Csatoljon egy vagy több workert a (0,0)-ás pizicióban."
+msgstr "Csatoljon egy vagy több gépet a (0,0)-ás pizicióban."
 
 msgid "Empty slot"
 msgstr "Üres hely"
@@ -2579,7 +2579,7 @@ msgid "Profile name"
 msgstr "Profil neve"
 
 msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
-msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli a tuning profilt, de a workerek beállításai ugyanazok maradnak."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli a tuning profilt, de a gépek beállításai ugyanazok maradnak."
 
 msgid "Add your first overclock profile"
 msgstr "Adja meg az első tuning profilját"
@@ -2657,7 +2657,7 @@ msgid "Billing details"
 msgstr "Számlázási adatok"
 
 msgid "Workers in a plan"
-msgstr "Workerek a fiókjában"
+msgstr "Gépek a fiókjában"
 
 msgid "Plan expiry"
 msgstr "Fiók lejárata"
@@ -2693,7 +2693,7 @@ msgid "No past orders"
 msgstr "Nincsenek korábbi rendelések"
 
 msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
-msgstr "Fiókjának frissítése több workert eredményezhet, részletesebb statisztikákat, több riasztási lehetőséget és más hasznos előnyöket."
+msgstr "Fiókjának frissítése több gépet eredményezhet, részletesebb statisztikákat, több riasztási lehetőséget és más hasznos előnyöket."
 
 msgid "Plans"
 msgstr "Fiókok"
@@ -2735,7 +2735,7 @@ msgid "customized and branded customers' profiles"
 msgstr "egyedi és márkás ügyfelek profiljai"
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
-msgstr "Adjon hozzá korlátlan mennyiségű ügyfelet és rendelje hozzá azokat a workereket, amiket megvásárolt."
+msgstr "Adjon hozzá korlátlan mennyiségű ügyfelet és rendelje hozzá azokat a gépeket, amiket megvásárolt."
 
 msgid "Unlimited customers"
 msgstr "Korlátlan vásárlók"
@@ -2873,7 +2873,7 @@ msgid "Total price"
 msgstr "Teljes ár"
 
 msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
-msgstr "Már rendelkezik fehér címke kiegészítővel. Ha valami több is érdekelné, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
+msgstr "Már rendelkezik white label kiegészítővel. Ha valami több is érdekelné, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
 
 msgid "Billing order"
 msgstr "Számlkázási megbízás"
@@ -2900,7 +2900,7 @@ msgid "Free Software Upgrades"
 msgstr "Ingyenes Szoftver Frissítések"
 
 msgid "Per worker profitability data and profitability data per coin."
-msgstr "A workerek jövedelmezőségi adatai és nyereségességi adatok érménként."
+msgstr "A gépek jövedelmezőségi adatai és nyereségességi adatok érménként."
 
 msgid "Switch between light and dark theme."
 msgstr "Váltás világos és sötét témák közt."
@@ -2945,7 +2945,7 @@ msgid "Mobile alerting"
 msgstr "Mobil figyelmeztetés"
 
 msgid "Worker's details page shows historical temperature for all GPUs or ASIC."
-msgstr "A workerek részletei oldalon minden GPU vagy ASIC történelmi hőmérsékletét mutatja."
+msgstr "A gépek részletei oldalon minden GPU vagy ASIC történelmi hőmérsékletét mutatja."
 
 msgid "Temperature historical data"
 msgstr "Hőmérséklet történelmi adatok"
@@ -2987,7 +2987,7 @@ msgid "Last 14 days"
 msgstr "Utolsó 14 nap"
 
 msgid "Workers data saved every"
-msgstr "Workerek mentett adatai"
+msgstr "Gépek mentett adatai"
 
 msgid "10 minutes"
 msgstr "10 perces"
@@ -3017,7 +3017,7 @@ msgid "Include for 5 EUR/month"
 msgstr "Tartalmazza 5 EUR/hó"
 
 msgid "Number of workers"
-msgstr "Workerek száma"
+msgstr "Gépek száma"
 
 msgid "month"
 msgstr "hónap"
@@ -3161,10 +3161,10 @@ msgid "Upgrade your plan to use Mobile notifications."
 msgstr "Frissítse fiókját a Mobil értesítéseinek használatához."
 
 msgid "When worker goes offline"
-msgstr "Amikor a workerek elérhetetlen állapotba kerülnek"
+msgstr "Amikor a gépek elérhetetlen állapotba kerülnek"
 
 msgid "When worker comes back online"
-msgstr "Amikor a workerek elérhető állapotba kerülnek."
+msgstr "Amikor a gépek elérhető állapotba kerülnek."
 
 msgid "ASIC notifications"
 msgstr "ASIC értesítések"
@@ -3194,7 +3194,7 @@ msgid "Please enable 2FA first"
 msgstr "Kérjük engedélyezze először a 2FA-t"
 
 msgid "The values of tags are used in workers config section."
-msgstr "A címkék értékeit a workerek konfigurációs szakaszában használják."
+msgstr "A címkék értékeit a gépek konfigurációs szakaszában használják."
 
 msgid "Export pools (JSON)"
 msgstr "Poolok exportálása (JSON)"
