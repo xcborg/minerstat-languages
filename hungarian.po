@@ -1,0 +1,3281 @@
+msgid "ASIC's default username is"
+msgstr "ASIC alapértelmezett felhasználónév"
+
+msgid "ASIC's default password is"
+msgstr "ASIC alapértelmezett jelszó"
+
+msgid "Offline"
+msgstr "Nem elérhető"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "CPU mining disabled"
+msgstr "CPU bányászás letiltva"
+
+msgid "CPU mining enabled"
+msgstr "CPU bányászás engedélyezve"
+
+msgid "Profit switch disabled"
+msgstr "Profit kapcsoló letiltva"
+
+msgid "Profit switch enabled"
+msgstr "Profit kapcsoló engedélyezve"
+
+msgid "CPU mining"
+msgstr "CPU bányászat"
+
+msgid "Without notes"
+msgstr "Jegyzetek nélkül"
+
+msgid "Delete"
+msgstr "Töröl"
+
+msgid "Edit"
+msgstr "Szerkeszt"
+
+msgid "Reboot machine"
+msgstr "Gép újraindítás"
+
+msgid "Restart software"
+msgstr "Szoftver újraindítás"
+
+msgid "Switch miner"
+msgstr "Bányász program váltás"
+
+msgid "Profit switch"
+msgstr "Profit kapcsoló"
+
+msgid "Config"
+msgstr "Konfiguráció"
+
+msgid "Idle"
+msgstr "Tétlen"
+
+msgid "Switching"
+msgstr "Váltás"
+
+msgid "Online"
+msgstr "Elérhető"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Mining"
+msgstr "Bányászás"
+
+msgid "Last seen:"
+msgstr "Utoljára ekkor láttuk:"
+
+msgid "Uptime"
+msgstr "Üzemidő"
+
+msgid "Earnings"
+msgstr "Keresetek"
+
+msgid "Max. temp"
+msgstr "Max. hőmérséklet"
+
+msgid "Max. fans"
+msgstr "Max. ventillátor fordulat"
+
+msgid "Watt"
+msgstr "Watt"
+
+msgid "Note"
+msgstr "Jegyzet"
+
+msgid "Without note"
+msgstr "Jegyzet nélkül"
+
+msgid "chars left"
+msgstr "Karakter van vissza"
+
+msgid "No, keep it"
+msgstr "Nem, tartsd meg"
+
+msgid "Yes, delete it"
+msgstr "Igen, töröld"
+
+msgid "Restart"
+msgstr "Újraindítás"
+
+msgid "Yes, restart it"
+msgstr "Igen, kezd újra"
+
+msgid "Reboot"
+msgstr "Újraindítás"
+
+msgid "Yes, reboot it"
+msgstr "Igen, indítsd újra"
+
+msgid "workers"
+msgstr "workers"
+
+msgid "No, keep them"
+msgstr "Nem, tartsd meg"
+
+msgid "Yes, delete them"
+msgstr "Igen, töröld őket"
+
+msgid "Shut down"
+msgstr "Leállítás"
+
+msgid "Yes, shut them down"
+msgstr "Igen, állítsd le"
+
+msgid "Yes, reboot them"
+msgstr "Igen, indítsd újra őket"
+
+msgid "Yes, restart them"
+msgstr "Igen, kezd újra őket"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Már"
+
+msgid "Apr"
+msgstr "Ápr"
+
+msgid "May"
+msgstr "Máj"
+
+msgid "Jun"
+msgstr "Jún"
+
+msgid "Jul"
+msgstr "Júl"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Szep"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Mon"
+msgstr "Hé"
+
+msgid "Tue"
+msgstr "Ke"
+
+msgid "Wed"
+msgstr "Sze"
+
+msgid "Thu"
+msgstr "Csü"
+
+msgid "Fri"
+msgstr "Pé"
+
+msgid "Sat"
+msgstr "Szo"
+
+msgid "Sun"
+msgstr "Va"
+
+msgid "Zoom"
+msgstr "Nagyítás"
+
+msgid "Hardware"
+msgstr "Hardver"
+
+msgid "Speed"
+msgstr "Sebesség"
+
+msgid "Power"
+msgstr "Energia"
+
+msgid "Temp"
+msgstr "Hőmérséklet"
+
+msgid "Fans"
+msgstr "Ventillátorok"
+
+msgid "Crypto"
+msgstr "Kriptó"
+
+msgid "Efficiency"
+msgstr "Hatékonyság"
+
+msgid "Estimated monthly earnings"
+msgstr "Becsült havi bevételek"
+
+msgid "Pool"
+msgstr "Pool"
+
+msgid "Undetected hardware"
+msgstr "Nem talált hardver"
+
+msgid "Invalid tag used"
+msgstr "Érvénytelen cimkét használt"
+
+msgid "Hot"
+msgstr "Forró"
+
+msgid "Very hot"
+msgstr "Nagyon forró"
+
+msgid "Open terminal"
+msgstr "Terminál megnyitása"
+
+msgid "Open local terminal"
+msgstr "Helyi terminál megnyitása"
+
+msgid "Open remote terminal"
+msgstr "Távoli terminál megnyitása"
+
+msgid "Open Web"
+msgstr "Web Megnyitása"
+
+msgid "Open SSH"
+msgstr "SSH megnyitása"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "sec"
+msgstr "mp"
+
+msgid "min"
+msgstr "perc"
+
+msgid "GPU"
+msgstr "GPU"
+
+msgid "No data on hardware available for this worker."
+msgstr "Nem áll rendelkezésre hardver adat a workerről"
+
+msgid "No data on mining available for this worker."
+msgstr "Nem áll rendelkezésre bányászati adat a workerről"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "No data on CPU available for this worker."
+msgstr "Nem áll rendelkezésre CPU adat a workerről"
+
+msgid "hashrate"
+msgstr "hashrate"
+
+msgid "Hashrate"
+msgstr "Hashrate"
+
+msgid "No data"
+msgstr "Nincs adat"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "Temperature"
+msgstr "Hőmérséklet"
+
+msgid "VERY HOT"
+msgstr "NAGYON FORRÓ"
+
+msgid "HOT"
+msgstr "FORRO"
+
+msgid "Driver error"
+msgstr "Meghajtó program hiba"
+
+msgid "'s notes"
+msgstr "jegyzetek"
+
+msgid "th"
+msgstr "th"
+
+msgid "st"
+msgstr "st"
+
+msgid "nd"
+msgstr "nd"
+
+msgid "rd"
+msgstr "rd"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Yesterday"
+msgstr "Tegnap"
+
+msgid "Temperature trigger - Change fans"
+msgstr "Hőmérséklet trigger - Ventillátor változás"
+
+msgid "Temperature trigger - Shut down"
+msgstr "Hőmérséklet trigger - Leállítás"
+
+msgid "Temperature trigger - Reboot"
+msgstr "Hőmérséklet trigger - Újraindítás"
+
+msgid "Temperature trigger - Restart"
+msgstr "Hőmérséklet trigger - Újratöltés"
+
+msgid "Unresponsive trigger"
+msgstr "Nem válaszoló trigger"
+
+msgid "Time trigger - Change fans"
+msgstr "Idő trigger - Ventillátor változás"
+
+msgid "Time trigger - Shut down"
+msgstr "Idő trigger - Leállítás"
+
+msgid "Time trigger - Reboot"
+msgstr "Idő trigger - Újraindítás"
+
+msgid "Time trigger - Restart"
+msgstr "Idő trigger - Újratöltés"
+
+msgid "Idle trigger - Shut down"
+msgstr "Tétlen trigger - Leállítás"
+
+msgid "Idle trigger - Reboot"
+msgstr "Tétlen trigger - Újraindítás"
+
+msgid "Idle trigger - Restart"
+msgstr "Tétlen trigger - Újratöltés"
+
+msgid "Hashrate trigger - Shut down"
+msgstr "Hashrate trigger - Leállítás"
+
+msgid "Hashrate trigger - Reboot"
+msgstr "Hashrate trigger - Újraindítás"
+
+msgid "Hashrate trigger - Restart"
+msgstr "Hashrate trigger - Újratöltés"
+
+msgid "Efficiency trigger - Shut down"
+msgstr "Hatékonyság trigger - Leállítás"
+
+msgid "Efficiency trigger - Reboot"
+msgstr "Hatékonyság trigger - Újraindítás"
+
+msgid "Efficiency trigger - Restart"
+msgstr "Hatékonyság trigger - Újratöltés"
+
+msgid "Scheduler has started"
+msgstr "Ütemező elindítva"
+
+msgid "Scheduler has ended"
+msgstr "Ütemező megállítva"
+
+msgid "High temperature"
+msgstr "Magas hőmérséklet"
+
+msgid "Efficiency drop"
+msgstr "Hatékonyság esés"
+
+msgid "Worker went offline"
+msgstr "Worker nem elérhető"
+
+msgid "Worker came back online"
+msgstr "Worker újra elérhető"
+
+msgid "ASIC alert"
+msgstr "ASIC figyelmeztetés"
+
+msgid "Hashrate drop"
+msgstr "Hashrate esés"
+
+msgid "Mining client changed (GPU)"
+msgstr "Bányász kliens változás (GPU)"
+
+msgid "Mining client changed (CPU)"
+msgstr "Bányás kliens változás (CPU)"
+
+msgid "Profit switch updated"
+msgstr "Profit kapcsoló frissítve"
+
+msgid "Manual shut down"
+msgstr "Kézi leállítás"
+
+msgid "Manual restart"
+msgstr "Kézi újratöltés"
+
+msgid "Manual reboot"
+msgstr "Kézi újraindítás"
+
+msgid "Config updated"
+msgstr "Konfiguráció frissítve"
+
+msgid "ClockTune updated"
+msgstr "ClockTune frissítve"
+
+msgid "profitability"
+msgstr "jövedelmezőség"
+
+msgid "day"
+msgstr "nap"
+
+msgid "Daily profitability"
+msgstr "Napi jövedelmezőség"
+
+msgid "Your first data will be ready soon"
+msgstr "Az első adat hamarosan kész"
+
+msgid "please check again in few minutes"
+msgstr "Ellenőrizd újra néhány perc múlva"
+
+msgid "January"
+msgstr "Január"
+
+msgid "February"
+msgstr "Február"
+
+msgid "March"
+msgstr "Március"
+
+msgid "April"
+msgstr "Április"
+
+msgid "June"
+msgstr "Június"
+
+msgid "July"
+msgstr "Július"
+
+msgid "August"
+msgstr "Augusztus"
+
+msgid "September"
+msgstr "Szeptember"
+
+msgid "October"
+msgstr "Október"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Worker's profitability"
+msgstr "Workerek jövedelmezősége"
+
+msgid "Delete trigger?"
+msgstr "Trigger törlése?"
+
+msgid "Delete schedule?"
+msgstr "Ütemező törlése?"
+
+msgid "Autoselect"
+msgstr "Automatikus kiválasztás"
+
+msgid "Wallet"
+msgstr "Tárca"
+
+msgid "Fee"
+msgstr "Költés"
+
+msgid "Client"
+msgstr "Kliens"
+
+msgid "Worker"
+msgstr "Worker"
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "View worker"
+msgstr "Worker nézet"
+
+msgid "No logs"
+msgstr "Nincs log"
+
+msgid "We didn't detect any special actions for your workers in the last 24 hours."
+msgstr "Nem észleltünk semmilyen különleges eseményt az elmúlt 24 órában"
+
+msgid "Manage your workers"
+msgstr "Workerek kezelése"
+
+msgid "Import finished"
+msgstr "Importálás kész"
+
+msgid "Please provide valid worker's name to continue."
+msgstr "Kérjük adja meg az érvényes worker nevét a folytatáshoz."
+
+msgid "Global profitability"
+msgstr "Teljes jövedelmezőség"
+
+msgid "Profitability per coin"
+msgstr "Jövedelmezőség / érme"
+
+msgid "Avg. daily profitability"
+msgstr "Átlag napi jövedelmezőség"
+
+msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "Workers"
+msgstr "Workerek"
+
+msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "Online, but not mining."
+msgstr "Elérhető, de nem bányászik"
+
+msgid "Unidentified hardware"
+msgstr "Ismeretlen hardver"
+
+msgid "High temperature for"
+msgstr "Magas hőmérséklet"
+
+msgid "Possible driver issues for"
+msgstr "Lehetséges meghajtó program gondok"
+
+msgid "No temperature data for"
+msgstr "Nincs hőmérséklet adat"
+
+msgid "No fans data for"
+msgstr "Nincs ventillátor adat"
+
+msgid "No speed data for"
+msgstr "Nincs sepesség adat"
+
+msgid "No info for coin. Send us pool details and we will add support for it."
+msgstr "Nincs adat az érméről. Küldd el a Pool részleteket és segítünk."
+
+msgid "No pool defined"
+msgstr "Nincs pool definiálva"
+
+msgid "Tags defined in worker's config are invalid"
+msgstr "A worker beállításában definiált címke érvénytelen."
+
+msgid "No issues"
+msgstr "Nincs probléma"
+
+msgid "We didn't detect any issues with your account and workers."
+msgstr "Nem találtunk semmi problémát az accountodban és a workerekben."
+
+msgid "2FA set and e-mail confirmed."
+msgstr "2FA beállítás és e-mail jóváhagyva."
+
+msgid "All workers are online."
+msgstr "Minden worker elérhető."
+
+msgid "All hardware successfully detected."
+msgstr "Minden hardver sikeresen észlelve."
+
+msgid "No hardware with temperature 75°C or more."
+msgstr "Nincs hardver ami 75°C-nál melegebb."
+
+msgid "No invalid tags or undetected pools or coins."
+msgstr "Nincs érvénytelen címke vagy ismeretlen pool vagy érme."
+
+msgid "Consumption:"
+msgstr "Fogyasztás"
+
+msgid "days"
+msgstr "napok"
+
+msgid "more"
+msgstr "több"
+
+msgid "All workers have normal temperature."
+msgstr "Minden workernek normális a hőmérséklete."
+
+msgid "All hardware detected."
+msgstr "Minden hardver detektálva."
+
+msgid "Last seen"
+msgstr "Utoljára láttuk"
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Avg"
+msgstr "Átl"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Name new room"
+msgstr "Új szoba neve"
+
+msgid "Mounting"
+msgstr "Mounting"
+
+msgid "Open in new tab"
+msgstr "Megnyitás új fülön"
+
+msgid "Mount/Unmount"
+msgstr "Mount/Unmount"
+
+msgid "worker(s)"
+msgstr "worker(s)"
+
+msgid "Included in update"
+msgstr "A frissítés tarlmazza"
+
+msgid "Excluded from update"
+msgstr "A frissítésből kizárva"
+
+msgid "Simple overclocking"
+msgstr "Egyszerű tuning"
+
+msgid "Advanced overclocking"
+msgstr "Haladó tuning"
+
+msgid "Please fill required fields. Thank you!"
+msgstr "Kérlek töltsd ki a kötelező mezőket, Köszönöm!"
+
+msgid "Months"
+msgstr "Hónapok"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "2 workers"
+msgstr "2 workers"
+
+msgid "5 workers"
+msgstr "5 workers"
+
+msgid "10 workers"
+msgstr "10 workers"
+
+msgid "15 workers"
+msgstr "15 workers"
+
+msgid "20 workers"
+msgstr "20 workers"
+
+msgid "30 workers"
+msgstr "30 workers"
+
+msgid "40 workers"
+msgstr "40 workers"
+
+msgid "50 workers"
+msgstr "50 workers"
+
+msgid "60 workers"
+msgstr "60 workers"
+
+msgid "70 workers"
+msgstr "70 workers"
+
+msgid "80 workers"
+msgstr "80 workers"
+
+msgid "90 workers"
+msgstr "90 workers"
+
+msgid "100 workers"
+msgstr "100 workers"
+
+msgid "110 workers"
+msgstr "110 workers"
+
+msgid "120 workers"
+msgstr "120 workers"
+
+msgid "130 workers"
+msgstr "130 workers"
+
+msgid "140 workers"
+msgstr "140 workers"
+
+msgid "150 workers"
+msgstr "150 workers"
+
+msgid "160 workers"
+msgstr "160 workers"
+
+msgid "170 workers"
+msgstr "170 workers"
+
+msgid "180 workers"
+msgstr "180 workers"
+
+msgid "190 workers"
+msgstr "190 workers"
+
+msgid "200 workers"
+msgstr "200 workers"
+
+msgid "210 workers"
+msgstr "210 workers"
+
+msgid "220 workers"
+msgstr "220 workers"
+
+msgid "230 workers"
+msgstr "230 workers"
+
+msgid "240 workers"
+msgstr "240 workers"
+
+msgid "250 workers"
+msgstr "250 workers"
+
+msgid "260 workers"
+msgstr "260 workers"
+
+msgid "270 workers"
+msgstr "270 workers"
+
+msgid "280 workers"
+msgstr "280 workers"
+
+msgid "290 workers"
+msgstr "290 workers"
+
+msgid "300 workers"
+msgstr "300 workers"
+
+msgid "310 workers"
+msgstr "310 workers"
+
+msgid "320 workers"
+msgstr "320 workers"
+
+msgid "330 workers"
+msgstr "330 workers"
+
+msgid "340 workers"
+msgstr "340 workers"
+
+msgid "350 workers"
+msgstr "350 workers"
+
+msgid "360 workers"
+msgstr "360 workers"
+
+msgid "370 workers"
+msgstr "370 workers"
+
+msgid "380 workers"
+msgstr "380 workers"
+
+msgid "390 workers"
+msgstr "390 workers"
+
+msgid "400 workers"
+msgstr "400 workers"
+
+msgid "410 workers"
+msgstr "410 workers"
+
+msgid "420 workers"
+msgstr "420 workers"
+
+msgid "430 workers"
+msgstr "430 workers"
+
+msgid "440 workers"
+msgstr "440 workers"
+
+msgid "450 workers"
+msgstr "450 workers"
+
+msgid "460 workers"
+msgstr "460 workers"
+
+msgid "470 workers"
+msgstr "470 workers"
+
+msgid "480 workers"
+msgstr "480 workers"
+
+msgid "490 workers"
+msgstr "490 workers"
+
+msgid "500 workers"
+msgstr "500 workers"
+
+msgid "510 workers"
+msgstr "510 workers"
+
+msgid "520 workers"
+msgstr "520 workers"
+
+msgid "530 workers"
+msgstr "530 workers"
+
+msgid "540 workers"
+msgstr "540 workers"
+
+msgid "550 workers"
+msgstr "550 workers"
+
+msgid "560 workers"
+msgstr "560 workers"
+
+msgid "570 workers"
+msgstr "570 workers"
+
+msgid "580 workers"
+msgstr "580 workers"
+
+msgid "590 workers"
+msgstr "590 workers"
+
+msgid "600 workers"
+msgstr "600 workers"
+
+msgid "610 workers"
+msgstr "610 workers"
+
+msgid "620 workers"
+msgstr "620 workers"
+
+msgid "630 workers"
+msgstr "630 workers"
+
+msgid "640 workers"
+msgstr "640 workers"
+
+msgid "650 workers"
+msgstr "650 workers"
+
+msgid "660 workers"
+msgstr "660 workers"
+
+msgid "670 workers"
+msgstr "670 workers"
+
+msgid "680 workers"
+msgstr "680 workers"
+
+msgid "690 workers"
+msgstr "690 workers"
+
+msgid "700 workers"
+msgstr "700 workers"
+
+msgid "710 workers"
+msgstr "710 workers"
+
+msgid "720 workers"
+msgstr "720 workers"
+
+msgid "730 workers"
+msgstr "730 workers"
+
+msgid "740 workers"
+msgstr "740 workers"
+
+msgid "750 workers"
+msgstr "750 workers"
+
+msgid "760 workers"
+msgstr "760 workers"
+
+msgid "770 workers"
+msgstr "770 workers"
+
+msgid "780 workers"
+msgstr "780 workers"
+
+msgid "790 workers"
+msgstr "790 workers"
+
+msgid "800 workers"
+msgstr "800 workers"
+
+msgid "810 workers"
+msgstr "810 workers"
+
+msgid "820 workers"
+msgstr "820 workers"
+
+msgid "830 workers"
+msgstr "830 workers"
+
+msgid "840 workers"
+msgstr "840 workers"
+
+msgid "850 workers"
+msgstr "850 workers"
+
+msgid "860 workers"
+msgstr "860 workers"
+
+msgid "870 workers"
+msgstr "870 workers"
+
+msgid "880 workers"
+msgstr "880 workers"
+
+msgid "890 workers"
+msgstr "890 workers"
+
+msgid "900 workers"
+msgstr "900 workers"
+
+msgid "910 workers"
+msgstr "910 workers"
+
+msgid "920 workers"
+msgstr "920 workers"
+
+msgid "930 workers"
+msgstr "930 workers"
+
+msgid "940 workers"
+msgstr "940 workers"
+
+msgid "950 workers"
+msgstr "950 workers"
+
+msgid "960 workers"
+msgstr "960 workers"
+
+msgid "970 workers"
+msgstr "970 workers"
+
+msgid "980 workers"
+msgstr "980 workers"
+
+msgid "990 workers"
+msgstr "990 workers"
+
+msgid "1000 workers"
+msgstr "1000 workers"
+
+msgid "Balance"
+msgstr "Egyenleg"
+
+msgid "Income"
+msgstr "Bejövő"
+
+msgid "Outgo"
+msgstr "Kimenő"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "There were no changes detected on your pools & wallets."
+msgstr "Nincs változás a pool-okban és a tárcákban."
+
+msgid "E-mail sent!"
+msgstr "E-mail kiküldve"
+
+msgid "Please check your inbox and confirm your account to proceed."
+msgstr "Kérjük ellenőrizze a beérkező leveleket és hagyja jóvá a folytatáshoz."
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Settings"
+msgstr "Beállítás"
+
+msgid "Billing"
+msgstr "Számlázás"
+
+msgid "Manage users"
+msgstr "Felhasználók kezelése"
+
+msgid "White label"
+msgstr "Fehér címke"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+msgid "of"
+msgstr "of"
+
+msgid "1 worker remaining until your plan requires an upgrade."
+msgstr "1 worker van hátra, mielőtt fejleszteni kell a csomagját."
+
+msgid "Upgrade your plan to add additional workers."
+msgstr "Fríssítenie kell a csomgját, hogy újabb workert adhasson hozzá."
+
+msgid "workers remaining until your plan requires an upgrade."
+msgstr "worker van hátra, mielőtt frissítenie kell a csomagját."
+
+msgid "Upgrade"
+msgstr "Fejlesztés"
+
+msgid "Over limit"
+msgstr "Túlméretezett"
+
+msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
+msgstr "A fiókjában több worker van felvéve, mint amennyire engedélye van. Kérjük frissítse a fiókját, vagy töröljön néhány workert."
+
+msgid "Upgrade account"
+msgstr "Fiók frissítése"
+
+msgid "Delete workers"
+msgstr "Workerek törlése"
+
+msgid "Customers"
+msgstr "Ügyfelek"
+
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+msgid "Customers dashboard"
+msgstr "Ügyfelek vezérlőpultja"
+
+msgid "Customers workers"
+msgstr "Ügyfelek workerei"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Control room"
+msgstr "Vezérlő szoba"
+
+msgid "Global statistics"
+msgstr "Teljes statisztika"
+
+msgid "Per worker statistics"
+msgstr "Worker statisztika"
+
+msgid "Balance statistics"
+msgstr "Egyenleg statisztika"
+
+msgid "Export data"
+msgstr "Adatok exportálása"
+
+msgid "24h logs"
+msgstr "24 órás logok"
+
+msgid "Diagnostic"
+msgstr "Diagnosztika"
+
+msgid "Address editor"
+msgstr "Cím szerkesztő"
+
+msgid "ClockTune™"
+msgstr "ClockTune ™"
+
+msgid "Worker config"
+msgstr "Worker beállítás"
+
+msgid "Alerts"
+msgstr "Riasztások"
+
+msgid "Triggers"
+msgstr "Triggerek"
+
+msgid "Balance monitoring"
+msgstr "Egyenleg monitorozás"
+
+msgid "Wallets"
+msgstr "Tárcák"
+
+msgid "Pools"
+msgstr "Poolok"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "Scheduler"
+msgstr "Ütemező"
+
+msgid "Market cap"
+msgstr "Piac kapitalizáció"
+
+msgid "Mining calculator"
+msgstr "Bányász kalkulátor"
+
+msgid "Coins"
+msgstr "Érmék"
+
+msgid "AMD strap editor"
+msgstr "AMD strap szerkesztő"
+
+msgid "Bug report"
+msgstr "Hiba riport"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Terms"
+msgstr "Feltételek"
+
+msgid "Privacy"
+msgstr "Adatvédelem"
+
+msgid "About"
+msgstr "Rólunk"
+
+msgid "Software"
+msgstr "Szoftver"
+
+msgid "API"
+msgstr "API"
+
+msgid "Ambassadors"
+msgstr "Nagykövetek"
+
+msgid "Change log"
+msgstr "Változási napló"
+
+msgid "Without a date of expiry"
+msgstr "Lejárati dátum nélkül"
+
+msgid "FREE"
+msgstr "INGYENES"
+
+msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
+msgstr "Worker neve csak ezeket tartalmazhatja<br>betük, számok, \"_\", \"-\"."
+
+msgid "Worker name shouldn't exceed 15 chars."
+msgstr "Worker neve nem haladhatja meg a 15 karaktert."
+
+msgid "Limit reached, upgrade your plan."
+msgstr "Korlát elérve, frissítse a fiókját."
+
+msgid "Invalid ASIC IP."
+msgstr "Érvénytelen ASIC IP."
+
+msgid "Unable to add worker."
+msgstr "Nem lehet workert hozzáadni."
+
+msgid "Worker name already in use."
+msgstr "Worker neve már használatban van."
+
+msgid "Unknown error."
+msgstr "Ismeretlen hiba"
+
+msgid "Add your first worker"
+msgstr "Add hozzá az első workert"
+
+msgid "to manage and monitor its mining activity"
+msgstr "bányászat vezérlése és monitorozása"
+
+msgid "Add new worker"
+msgstr "Új worker hozzáadása"
+
+msgid "Worker name"
+msgstr "Worker neve"
+
+msgid "Type"
+msgstr "Típusa"
+
+msgid "System"
+msgstr "Rendszer"
+
+msgid "SSH username"
+msgstr "SSH felhasználónév"
+
+msgid "ASIC's default username is root"
+msgstr "ASIC alapértelmezett felhasználója root"
+
+msgid "SSH password"
+msgstr "SSH jelszava"
+
+msgid "ASIC's default password is admin"
+msgstr "ASIC alapértelmezett jelszava admin"
+
+msgid "Groups / Locations (optional)"
+msgstr "Csoportok / Helyek (opcionális)"
+
+msgid "Add a group ..."
+msgstr "Csoport hozzáadása ..."
+
+msgid "Successfully saved"
+msgstr "Sikeresen mentve"
+
+msgid "There was something wrong."
+msgstr "Valami hiba történt."
+
+msgid "Add worker"
+msgstr "Worker hozzáadása"
+
+msgid "Bulk import"
+msgstr "Tömeges importálás"
+
+msgid "Looking for software?"
+msgstr "Szoftvert keresel ?"
+
+msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
+msgstr "Amennyiben még nincs feltelepítve a minerstat szoftver a bányagépéhez, Linux OS, Windows node, ASIC node közül választhat."
+
+msgid "Learn more"
+msgstr "Tudjon meg többet"
+
+msgid "Limit reached"
+msgstr "Korlátozás elérve"
+
+msgid "out of"
+msgstr "nincs"
+
+msgid "workers are being monitored"
+msgstr "workerek monitorozva vannak"
+
+msgid "Action for"
+msgstr "Művelet a"
+
+msgid "Max. Temp"
+msgstr "Max. hőmérséklet"
+
+msgid "Max. Fans"
+msgstr "Max. Ventillátorok"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
+msgstr "Kérjük vegye figyelembe, ez a művelet leállítja a bányagépeket és vissza kell kapcsolni őket."
+
+msgid "Finished"
+msgstr "Befejezve"
+
+msgid "Yes, shut it down"
+msgstr "Igen, állítsd le"
+
+msgid "Please note that this action will delete worker's data permanently and cannot be undone."
+msgstr "Kérjük vegye figyelembe, ez a művelet véglegesen törli a worker adatokat, és vissza nem vonható."
+
+msgid "Please note that this action will reboot your mining machine."
+msgstr "Kérjük vegye figyelembe, ez a művelet újraindítja a bányagépeket."
+
+msgid "Please note that this action will restart your mining software only."
+msgstr "Kérjük vegye figyelembe, ez a művelet újratölti a bányász programot."
+
+msgid "Worker's note"
+msgstr "Workerek jegyzet"
+
+msgid "Clear content"
+msgstr "Tartalom törlése"
+
+msgid "Discard changes"
+msgstr "Modosítások elvetése"
+
+msgid "Save note"
+msgstr "Jegyzet mentése"
+
+msgid "Please make sure that you have also updated the worker's name on your software. Renaming the worker might cause the differences in statistics."
+msgstr "Kérjük győződjön meg róla, hogy frissítette a worker nevét a szoftverben. A worker átnevezése különbségeket okozhat a statisztikában."
+
+msgid "New name"
+msgstr "Új név"
+
+msgid "ASIC local IP"
+msgstr "ASIC helyi IP"
+
+msgid "Save changes"
+msgstr "Változások mentése"
+
+msgid "Change worker"
+msgstr "Worker megváltoztatása"
+
+msgid "Non-existent worker"
+msgstr "Nem létező worker"
+
+msgid "This worker is not part of your account."
+msgstr "Ez a worker nem része a fiókjának."
+
+msgid "Back to workers list"
+msgstr "Vissza a workerek listájához"
+
+msgid "Profit switch in"
+msgstr "Profit kapcsoló be"
+
+msgid "Edit config"
+msgstr "Konfiguráció szerkesztése"
+
+msgid "Shut down machine"
+msgstr "Gép leállítása"
+
+msgid "Daily earnings"
+msgstr "Napi keresetek"
+
+msgid "GPUs"
+msgstr "GPUk"
+
+msgid "Max temp."
+msgstr "Max hőm."
+
+msgid "Max fans"
+msgstr "Max ventillátorok"
+
+msgid "Free space"
+msgstr "Szabad hely"
+
+msgid "Free mem"
+msgstr "Szabad memória"
+
+msgid "Power cons."
+msgstr "Teljesítmény"
+
+msgid "Local IP"
+msgstr "Helyi IP"
+
+msgid "Remote IP"
+msgstr "Távoli IP"
+
+msgid "Last sync"
+msgstr "Utolsó szinkron"
+
+msgid "Hashrate stats not available yet."
+msgstr "Hashrate statisztika még nem elérhető"
+
+msgid "Estimated monthly"
+msgstr "Havi becslés"
+
+msgid "Temperature stats not available yet."
+msgstr "Hőmérséklet statisztika még nem elérhető"
+
+msgid "Make sure the worker is using the correct access key:"
+msgstr "Bizonyosodjon meg róla, hogy a worker a megfelelő kulcsot használja:"
+
+msgid "Need help?"
+msgstr "Szüksége van segítségre?"
+
+msgid "Previous worker"
+msgstr "Előző worker"
+
+msgid "Next worker"
+msgstr "Következő worker"
+
+msgid "Please note that this action will shut down your machine."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet leállítja a gépet."
+
+msgid "Yes, shut down"
+msgstr "Igen, állítsd le"
+
+msgid "'s console log"
+msgstr "konzol log"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "This worker doesn't exist on your account."
+msgstr "Ez a worker nem létezik a fiókjában."
+
+msgid "vs. yesterday"
+msgstr "tegnaphoz"
+
+msgid "vs. same day last week"
+msgstr "ugyan azon a napon az előző héthez képest"
+
+msgid "Last 7 days"
+msgstr "Utolsó 7 nap"
+
+msgid "vs. previous 7 days"
+msgstr "előző 7 nap"
+
+msgid "This month"
+msgstr "Ebben a hónapban"
+
+msgid "vs. same period last month"
+msgstr "ugyan az a periódus az előző hónapban"
+
+msgid "Last 30 days"
+msgstr "Utolsó 30 nap"
+
+msgid "vs. previous 30 days"
+msgstr "előző 30 nap"
+
+msgid "Need more stats?"
+msgstr "További statisztikára van szüksége?"
+
+msgid "Get minerstat+ to monitor up to 60 days of data."
+msgstr "Szerezze be a minerstat+ legfeljebb 60 nap adatainak megfigyeléséhez."
+
+msgid "Last 3 days"
+msgstr "Utolsó 3 nap"
+
+msgid "Not enough data"
+msgstr "Nincs elég adat"
+
+msgid "Statistics will be automatically updated once available."
+msgstr "A statisztikák automatikusan frissülni fognak."
+
+msgid "Worker's latest activity"
+msgstr "Worker utolsó tevékenysége"
+
+msgid "Nothing new"
+msgstr "Semmi új"
+
+msgid "No worker or group selected"
+msgstr "Nincs worker vagy csoport kiválasztva"
+
+msgid "This mining software doesn't exist."
+msgstr "Ez a bányász szoftver nem létezik."
+
+msgid "No such workers/groups"
+msgstr "Nincs ilyen worker/csoport"
+
+msgid "Unknown error occured."
+msgstr "Ismeretlen hiba történt."
+
+msgid "Add an individual worker or groups"
+msgstr "Adjon hozzá egyéni workert vagy csoportokat"
+
+msgid "Add workers or groups ..."
+msgstr "Workerek vagy csoportok hozzáadása"
+
+msgid "Groups"
+msgstr "Csoportok"
+
+msgid "Select all"
+msgstr "Minden kijelölése"
+
+msgid "Confirm"
+msgstr "Jóváhagyás"
+
+msgid "Target"
+msgstr "Cél"
+
+msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
+msgstr "Tipp: Ha olyan csoportot szeretne módosítani, amelyet már beállított, jelölje ki a workert a csoportban, változtassa meg a beállításait, majd cserélje ki a worker nevét a csoport nevére."
+
+msgid "You can select a worker or a group that you want to apply changes to. Applying changes to a group will only update individual workers inside that group."
+msgstr "Kiválaszthatja a módosítani kívánt workert vagy csoportot. Amennyiben módosítani szeretne egy csoportot, akkor csak az egyes csoporton belüli workereket fogja frissíteni."
+
+msgid "Add more or change groups for selected worker(s)"
+msgstr "Adjon hozzá többet vagy módosítsa a kiválasztott workerek csoportját"
+
+msgid "Add a group..."
+msgstr "Csoport hozzáadása..."
+
+msgid "Default client"
+msgstr "Alapértelmezett kliens"
+
+msgid "Select default client for selected worker(s)"
+msgstr "Válassza ki az alapértelmezett ügyfelet a kijelölt workerekhez."
+
+msgid "Default CPU client"
+msgstr "Alapértelmezett CPU kliens"
+
+msgid "Select default CPU client for selected worker(s)"
+msgstr "Válassza ki az alapértelmezett CPU ügyfelet a kijelölt workerekhez."
+
+msgid "ClockTune profile"
+msgstr "ClockTune profil"
+
+msgid "Select OC profile for selected worker(s)"
+msgstr "Válassza ki a TUNING profilt a kijelölt workerekhez."
+
+msgid "Don't change"
+msgstr "Ne változzon"
+
+msgid "Enable or disable profit switch"
+msgstr "Engedélyezze vagy tiltsa a profit kapcsolót"
+
+msgid "Disabled"
+msgstr "Tiltva"
+
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+msgid "Change or update groups and select the default client for your worker(s). Optionally you can add overclocking profiles that are saved in ClockTune menu."
+msgstr "Csoportok módosítása vagy frissítése, és az alapértelmezett kliens kiválasztása a worker(ek) számára. Opcionálisan az ClockTune menübe mentett tuning profilokat is hozzáadhat."
+
+msgid "For"
+msgstr "Csak"
+
+msgid "API parameters:"
+msgstr "API paraméterek"
+
+msgid "Reset to default"
+msgstr "Visszaállítás alapértelmezettre"
+
+msgid "Clients' configuration"
+msgstr "Ügyfelek beállításai"
+
+msgid "You can use the following tags that will automatically replace the variable with the value you have set in your address editor."
+msgstr "A következő címkéket használhatja, amelyek automatikusan helyettesítik a változókat a címszerkesztőben beállított értékkel."
+
+msgid "Tag"
+msgstr "Címke"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Tags marked red are undefined"
+msgstr "A piros jelzésű címkék nincsenek meghatározva."
+
+msgid "Worker's name"
+msgstr "Workerek neve"
+
+msgid "Your e-mail address"
+msgstr "Az e-mail címe"
+
+msgid "Claymore's single mining"
+msgstr "Claymore single bányászat"
+
+msgid "Claymore's dual mining"
+msgstr "Claymore dual bányászat"
+
+msgid "Pool address you saved under the name TAG"
+msgstr "A CÍMKE név alatt elmentett Pool címe"
+
+msgid "Wallet address you saved under the name TAG"
+msgstr "A CÍMKE név alatt elmentett tárca címe"
+
+msgid "Set tags in address editor"
+msgstr "Címkék beállítása a címszerkesztőben"
+
+msgid "Clients' compatibility"
+msgstr "Ügyfelek kompatibilítása"
+
+msgid "View which mining clients are supported for your system and hardware."
+msgstr "Megtekintheti, hogy melyik bányász ügyfelek támogatják az Ön rendszerét és a hardverét."
+
+msgid "Supports AMD GPUs"
+msgstr "Támogatja az AMD GPUkat"
+
+msgid "Supports Nvidia GPUs"
+msgstr "Támogatja az Nvidia GPUkat"
+
+msgid "Supports CPU mining"
+msgstr "Támogatja a CPU bányászatot"
+
+msgid "Supports ASIC mining"
+msgstr "Támogatja az ASIC bányászatot"
+
+msgid "Supports minerstat OS"
+msgstr "Támogatja a minerstat OS-t"
+
+msgid "Supports minerstat for Windows"
+msgstr "Támogatja a minerstat Windows-t"
+
+msgid "Supports minerstat for Baikal"
+msgstr "Támogatja a minerstat Baikal-t"
+
+msgid "Supports minerstat for Antminer"
+msgstr "Támogatja a minerstat Antminer-t"
+
+msgid "Supports minerstat for DragonMint"
+msgstr "Támogatja a minerstat DragonMint-et"
+
+msgid "Supports minerstat for Innosilicon"
+msgstr "Támogatja a minerstat Innosilicon-t"
+
+msgid "Supports minerstat for Dayun"
+msgstr "Támogatja a minerstat Dayun-t"
+
+msgid "Unavailable"
+msgstr "Nem érhető el"
+
+msgid "White label is only available under special licence."
+msgstr "A fehér címke csak külön engedéllyel érhető el."
+
+msgid "What is white label?"
+msgstr "Mi az a fehér címke?"
+
+msgid "White label is a licence that allows mining managers and cloud mining owners to show their clients the personalized and branded data without pointing out that hardware runs on minerstat software and on minerstat dashboard."
+msgstr "A fehér címke olyan licensz, amely lehetővé teszi a bányászati vezetők és a felhőbányászat tulajdonosai számára, hogy ügyfeleik számára személyre szabott és márkázott adatokat mutassanak anélkül, hogy rámutattak arra, hogy a hardver a minerstat szoftveren és a minerstat irányítópulton fut."
+
+msgid "Learn more about white label"
+msgstr "Tudjon meg többet a fehér cimkéről"
+
+msgid "Builder"
+msgstr "Építő"
+
+msgid "Customer"
+msgstr "Ügyfél"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "White label URL"
+msgstr "Fehér címke URL"
+
+msgid "Consumption"
+msgstr "Fogyasztás"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Wallet number limit reached."
+msgstr "Tárca száma korlát elérve."
+
+msgid "Please enter wallet address."
+msgstr "Kérjük adja meg a tárca címét."
+
+msgid "Wallets monitoring"
+msgstr "Tárcák monitorozása"
+
+msgid "Add your first wallet"
+msgstr "Adja hozzá az első tárcát"
+
+msgid "to monitor the balance and transactions"
+msgstr "az egyenleg és tranzakciók monitorozása."
+
+msgid "Add new wallet"
+msgstr "Új tárca hozzáadása"
+
+msgid "Type of wallet"
+msgstr "Tárca típusa"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "API key"
+msgstr "API kulcs"
+
+msgid "API secret"
+msgstr "API titok"
+
+msgid "Custom label"
+msgstr "Egyedi címke"
+
+msgid "Add wallet"
+msgstr "Tárca hozzáadása"
+
+msgid "List the wallets and exchanges for which you want to monitor the balance."
+msgstr "Sorolja fel a tárcákat és váltókat amelyeknek nyomon akarja követi az egyenlegét."
+
+msgid "Need more wallets?"
+msgstr "Több tárcára lenne szüksége?"
+
+msgid "Get minerstat+ to monitor more wallets."
+msgstr "Szerezze be a minerstat+ hogy több tárcát monitorozhasson."
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Last updated"
+msgstr "Utolsó frissítés"
+
+msgid "Pending update"
+msgstr "Frissítés folyamatban"
+
+msgid "wallets"
+msgstr "tárcák"
+
+msgid "wallet"
+msgstr "tárca"
+
+msgid "coins"
+msgstr "érmék"
+
+msgid "coin"
+msgstr "érme"
+
+msgid "total balance"
+msgstr "összes egyenleg"
+
+msgid "Please note that wallets are refreshed every 30 minutes."
+msgstr "Felhívjuk figyelmét, hogy a tárcákat 30 percenként frissítik."
+
+msgid "Please note that this action will delete the entry and all related data."
+msgstr "Felhívjuk figyelmét, hogy ez a művelet törli a bejegyzést és az összes kapcsolódó adatot."
+
+msgid "Please provide valid email."
+msgstr "Kérjük, adjon meg érvényes e-mailt"
+
+msgid "Customer doesn't exist."
+msgstr "Ügyfél nem létezik"
+
+msgid "Delete workers on account to decrese the number."
+msgstr "Töröljön workereket a fiókjában, hogy csökkentse a számot."
+
+msgid "You need to assign at least 1 worker."
+msgstr "Legalább 1 workert hozzá kell rendelnie."
+
+msgid "Invalid expiry date."
+msgstr "Érvénytelen lejárati dátum."
+
+msgid "Email already exists."
+msgstr "Már létező e-mail cím."
+
+msgid "Problem updating user."
+msgstr "Probléma felhasználó frissítése."
+
+msgid "Invalid permission type."
+msgstr "Érvénytelen jogosutság típus."
+
+msgid "Problem creating user."
+msgstr "Probléma felhasználó létrehozása."
+
+msgid "Unable to delete this user."
+msgstr "Képtelen törölni ezt a felhasználót."
+
+msgid "Users"
+msgstr "Felhasználók"
+
+msgid "Upgrade your plan to manage users and customers."
+msgstr "Fríssítenie kell a csomgját, hogy felhasználókat és ügyfeleket kezeljen."
+
+msgid "Team"
+msgstr "Csapat"
+
+msgid "Add your first team member"
+msgstr "Adja hozzá az első csapat tagot"
+
+msgid "and let them access your account"
+msgstr "és hagyja, hogy hozzáférjenek fiókjához"
+
+msgid "Add new user"
+msgstr "Új felhasználó hozzáadása"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Permission"
+msgstr "Jogosultság"
+
+msgid "Technical"
+msgstr "Technikai"
+
+msgid "Accounting"
+msgstr "Számlázás"
+
+msgid "Guest"
+msgstr "Vendég"
+
+msgid "Send email invitation to user"
+msgstr "E-mail meghívó küldése felhasználónak"
+
+msgid "Add user"
+msgstr "Felhasználó hozzáadása"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "Key"
+msgstr "Kulcs"
+
+msgid "Last logged in"
+msgstr "Utolsó bejelentkezés"
+
+msgid "Never"
+msgstr "Soha"
+
+msgid "Add your first customer"
+msgstr "Adja hozzá az első ügyfelet"
+
+msgid "and manage their mining operation"
+msgstr "és felügyelje a bányászati tevékenységüket"
+
+msgid "Add new account"
+msgstr "Új fiók hozzáadása"
+
+msgid "Plan name"
+msgstr "Terv neve"
+
+msgid "Number of assigned workers"
+msgstr "Hozzárendelt workerek száma"
+
+msgid "Expires in"
+msgstr "Lejár"
+
+msgid "7 days"
+msgstr "7 nap"
+
+msgid "14 days"
+msgstr "14 nap"
+
+msgid "1 month"
+msgstr "1 hónap"
+
+msgid "2 months"
+msgstr "2 hónap"
+
+msgid "3 months"
+msgstr "3 hónap"
+
+msgid "4 months"
+msgstr "4 hónap"
+
+msgid "5 months"
+msgstr "5 hónap"
+
+msgid "6 months"
+msgstr "6 hónap"
+
+msgid "7 months"
+msgstr "7 hónap"
+
+msgid "8 months"
+msgstr "8 hónap"
+
+msgid "9 months"
+msgstr "9 hónap"
+
+msgid "10 months"
+msgstr "10 hónap"
+
+msgid "11 months"
+msgstr "11 hónap"
+
+msgid "12 months"
+msgstr "12 hónap"
+
+msgid "Add account"
+msgstr "Fiók hozzáadása"
+
+msgid "Expires on"
+msgstr "Lejárati dátum"
+
+msgid "Confirm changes"
+msgstr "Modosítások megerősítése"
+
+msgid "Please note that this action will delete all of the user's data permanently and cannot be undone."
+msgstr "Kérjük, vegye figyelembe, hogy ez a művelet véglegesen törli az összes felhasználói adatot, és nem vonható vissza."
+
+msgid "Upgrade your plan to add custom triggers."
+msgstr "Fríssítenie kell a csomgját, hogy egyedi triggereket tudjon hozzáadni."
+
+msgid "What are triggers?"
+msgstr "Mik azok a triggerek?"
+
+msgid "While alerts and notifications make sure that you receive the message about various events, triggers allow you to take action automatically and immediately after the event is detected. You can select between 6 events with different settings, which can trigger 5 different actions."
+msgstr "Miközben figyelmeztetéseket és értesítések kap különböző eseményekről, a triggerek lehetővé teszik az események észlelését követő automatikus és azonnali beavatkozást. Kiválaszthat 6 különböző eseményt, amelyek 5 különböző műveletet indíthatnak el."
+
+msgid "Learn more about triggers"
+msgstr "Tudjon meg többet a triggerekről"
+
+msgid "If"
+msgstr "Ha"
+
+msgid "GPU Temperature"
+msgstr "GPU Hőmérséklet"
+
+msgid "ASIC Temperature"
+msgstr "ASIC Hőmérséklet"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Unresponsive"
+msgstr "Nem válaszol"
+
+msgid "Any"
+msgstr "Bármely"
+
+msgid "is"
+msgstr "van"
+
+msgid "down by"
+msgstr "lefelé"
+
+msgid "minutes"
+msgstr "perc(ek)"
+
+msgid "then"
+msgstr "akkor"
+
+msgid "Set fans"
+msgstr "Ventillátorok beállítása"
+
+msgid "Send email"
+msgstr "Küldjön emailt"
+
+msgid "to"
+msgstr "nak"
+
+msgid "Add trigger"
+msgstr "Trigger hozzáadása"
+
+msgid "GPU temperature"
+msgstr "GPU hőmérséklet"
+
+msgid "ASIC temperature"
+msgstr "ASIC hőmérséklet"
+
+msgid "Delete trigger"
+msgstr "Trigger törlése"
+
+msgid "Disclaimer"
+msgstr "Lemondás"
+
+msgid "This is advanced feature so please set triggers with caution and only if you take full responsibility for possible negative/undesired outcome or unexpected behaviour."
+msgstr "Ez egy különleges lehetőség, ezért kérjük óvatosan állítsa be a triggereket, és csak akkor, ha teljes mértékben vállalja a felelősséget a lehetséges negatív / nemkívánatos kimenetel vagy váratlan magatartás miatt."
+
+msgid "Triggers with fan speed settings will override ClockTune profile settings."
+msgstr "A Triggerek felülbírálják az ClockTune profil ventillátork beállításait."
+
+msgid "Please note that this action will delete your trigger."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli a triggert."
+
+msgid "Thank you"
+msgstr "Köszönjük"
+
+msgid "Thank you!"
+msgstr "Köszönjük!"
+
+msgid "Your order is complete - enjoy your upgrade!"
+msgstr "Megrendelése teljesült - élvezze a frissítést"
+
+msgid "Your order is being processed. We will notify you once your account is ready."
+msgstr "Megrendelésének feldolgozása folyamatban van. Értesítjük Önt, miután fiókja készen áll."
+
+msgid "Continue to dashboard"
+msgstr "Folytassa a vezérlőpulton"
+
+msgid "If you will face any troubles, check out our"
+msgstr "Ha bármilyen bajjal szembesül, tekintse meg a"
+
+msgid "help center"
+msgstr "Sgítség központ"
+
+msgid "Public profile link"
+msgstr "Nyilvános profil link"
+
+msgid "This profile is private"
+msgstr "Ez a profil privát"
+
+msgid "Make public"
+msgstr "Tedd nyilvánossá"
+
+msgid "Disable"
+msgstr "Letiltás"
+
+msgid "Account settings"
+msgstr "Fiók beállítás"
+
+msgid "Avatar"
+msgstr "Avatár"
+
+msgid "Change"
+msgstr "Változás"
+
+msgid "Theme"
+msgstr "Téma"
+
+msgid "Available in minerstat+"
+msgstr "Elérhető a minersta+ ban"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Timezone"
+msgstr "Időzóna"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Earnings deduction percent"
+msgstr "Bevételek százalékos levonása"
+
+msgid "Sessions"
+msgstr "Sessions"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Access Type"
+msgstr "Hozzáférés típusa"
+
+msgid "Log out all"
+msgstr "Kijelentkezés"
+
+msgid "Upgrade your plan to use scheduler."
+msgstr "Frissítse a fiókját, hogy hozzáférjen az üzemezőhöz."
+
+msgid "What is scheduler?"
+msgstr "Mi az ütemező?"
+
+msgid "The scheduler is a tool that gives you an option to override all mining settings for a selected period of time in the day. You can define multiple scheduler profiles to organize your mining activity or use it as an automatic mining manager's fee tool."
+msgstr "Az ütemező egy olyan eszköz, amely lehetőséget ad arra, hogy a nap bármely időszakában felülbírálja az összes bányászati beállítást. Megadhat több ütemezőprofilt a bányászati tevékenység megszervezéséhez, vagy automatikus bányászati menedzser díjazási eszközként történő használatához."
+
+msgid "Learn more about scheduler"
+msgstr "Tudjon meg többet az üzemezőről"
+
+msgid "Add your first scheduler profile"
+msgstr "Adja meg az első ütemezőprofilt"
+
+msgid "for some or all workers"
+msgstr "néhány vagy minen worker számára"
+
+msgid "Add new profile"
+msgstr "Új profil hozzáadása"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "ClockTune"
+msgstr "ClockTune"
+
+msgid "Please note that this action will delete the scheduler profile and interrupt all scheduled workers."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli az ütemezőprofilt, és megszakítja az összes ütemezett workert."
+
+msgid "Missing client configuration."
+msgstr "Hiányzó kliens konfiguráció."
+
+msgid "Please select valid FROM - TO time."
+msgstr "Kérjük válasszon érvényes TÓL - IG időtartamot."
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile title"
+msgstr "Profil cím"
+
+msgid "Describe your scheduler profile"
+msgstr "Leírás az ütemező profilhoz"
+
+msgid "Set the timetable"
+msgstr "Állítsa be a menetrendet"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Vége"
+
+msgid "Mining client"
+msgstr "Bányász kliens"
+
+msgid "Select client to use for the schedule"
+msgstr "Válassza ki az ütemezőben használatos ügyfelet"
+
+msgid "From profit switch"
+msgstr "A profit kapcsolótól"
+
+msgid "Profile settings"
+msgstr "Profil beállítás"
+
+msgid "Define schedule, name your scheduler profile, select the client and edit its config."
+msgstr "Határozza meg az ütemezést, nevezze el az ütemező profilját, válassza ki a klienst, és módosítsa a konfigurációt."
+
+msgid "This client is not available."
+msgstr "Ez a kliens nem érhető el."
+
+msgid "Select coin"
+msgstr "Válasszon érmét"
+
+msgid "Select pool"
+msgstr "Válasszon poolt"
+
+msgid "Select wallet"
+msgstr "Válasszon tárcát"
+
+msgid "Coin"
+msgstr "Érme"
+
+msgid "Pool fee"
+msgstr "Pool díj"
+
+msgid "fee"
+msgstr "díj"
+
+msgid "Add"
+msgstr "Hozzáad"
+
+msgid "Enable/Disable"
+msgstr "Engedélyez/Letilt"
+
+msgid "Profit switch algorithm will select the most profitable coin every 10 minutes from listed coins. Please make sure that you have connected the right pools and wallets with the right coins and algorithms."
+msgstr "A prifit kapcsoló algoritmus kiválasztja a leginkább nyereséges érmét 10 percenként a jegyzett érmék közül. Győződjön meg arról, hogy a megfelelő poolokat és tárcákat a megfelelő érmékkel és algoritmusokkal kötötte össze."
+
+msgid "Mining clients"
+msgstr "Bányász ügyfelek"
+
+msgid "Autoselect option will automatically select most suitable client and configure it for you. If you select a client by yourself you can edit its config manually."
+msgstr "Az Automatikus kiválasztás opció automatikusan kiválasztja a legmegfelelőbb ügyfelet, és beállítja az Ön számára. Ha az ügyfelet saját maga választja ki, konfigurálja manuálisan."
+
+msgid "Algorithm"
+msgstr "Algoritmus"
+
+msgid "Power consumption"
+msgstr "Energia fogyasztás"
+
+msgid "Hashrate and consumption settings"
+msgstr "Hashrate és fogyasztási beállítások"
+
+msgid "Update hashrates and consumptions settings for listed algorithms to make best use of automatic profitability switching."
+msgstr "A felsorolt algoritmusok frissítésének és fogyasztásának pontos beállítása, szükséges a profit kapcsoló megfelelő kihasználásához."
+
+msgid "Dual mining"
+msgstr "Dual bányászat"
+
+msgid "Update information on hashrate and consumption for dual mining coins."
+msgstr "Frissítse a hashrate és fogyasztás információit a dual bányászati érméknél."
+
+msgid "Electricity costs"
+msgstr "Áram költsége"
+
+msgid "What are your electricity costs?"
+msgstr "Mekkora az Ön villamosenergia költsége?"
+
+msgid "for"
+msgstr "per"
+
+msgid "Update information on your electricity costs."
+msgstr "Frissítse a villamosenergia költségekkel kapcsolatos információkat."
+
+msgid "Minimum difference"
+msgstr "Minimum különbség"
+
+msgid "Type in percent"
+msgstr "Százalékban megadva"
+
+msgid "Minimum mining time"
+msgstr "Minimum bányászati idő"
+
+msgid "Select time"
+msgstr "Válasszon időt"
+
+msgid "hour(s)"
+msgstr "óra(k)"
+
+msgid "When to switch?"
+msgstr "Mikor váltson?"
+
+msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
+msgstr "Állítsa be az érme nyereségességének minimális megengedett különbségét a kapcsoló indításához (az alapértelmezett érték 1%) és a minimális bányászati idő (az alapértelmezett érték 10 perc)."
+
+msgid "Client's config"
+msgstr "Kliens beállításai"
+
+msgid "Apply"
+msgstr "Alkalmaz"
+
+msgid "Pool number limit reached."
+msgstr "Poolok számának korlátja elérve"
+
+msgid "Invalid Key."
+msgstr "Érvénytelen kulcs"
+
+msgid "Invalid address."
+msgstr "Érvénytelen cím"
+
+msgid "Add your first pool"
+msgstr "Adja meg az első poolt"
+
+msgid "to monitor the balance"
+msgstr "hogy monitorozza az egyenleget"
+
+msgid "Add new pool"
+msgstr "Új pool hozzáadása"
+
+msgid "API Key"
+msgstr "API kulcs"
+
+msgid "API Secret"
+msgstr "API titok"
+
+msgid "API ID"
+msgstr "API ID"
+
+msgid "Add pool"
+msgstr "Pool hozzáadása"
+
+msgid "List the pools for which you want to monitor the balance."
+msgstr "Adja meg azokat a poolokat, amelyeknél az egyenleget szeretné monitorozni."
+
+msgid "Need more pools?"
+msgstr "Szüksége van további poolokra?"
+
+msgid "Get minerstat+ to monitor more pools."
+msgstr "Szerezze be a minerstat+ hogy több poolt monitorozhasson."
+
+msgid "Last updated:"
+msgstr "Utolsó frissítés:"
+
+msgid "pools"
+msgstr "poolok"
+
+msgid "pool"
+msgstr "pool"
+
+msgid "Please note that pools are refreshed every 20 minutes."
+msgstr "Kérjük vegye figyelembe a pool-ok 20 percenként frissülnek."
+
+msgid "Market Capitalizations"
+msgstr "Piac kapitalizáció"
+
+msgid "Market Cap"
+msgstr "Piac Kap"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Circulating Supply"
+msgstr "Keringő kínálat"
+
+msgid "Volume (24h)"
+msgstr "Volumen (24ó)"
+
+msgid "Change (24h)"
+msgstr "Változás (24ó)"
+
+msgid "Logs"
+msgstr "Logok"
+
+msgid "Last 24h logs"
+msgstr "Utolsó 24ó logok"
+
+msgid "Filters"
+msgstr "Szűrők"
+
+msgid "Filter your results to examine the events more closely."
+msgstr "Szűrje az eredményeket, hogy jobban megvizsgálja az eseményeket."
+
+msgid "Manual actions"
+msgstr "Kézi műveletek"
+
+msgid "Import workers"
+msgstr "Workerek importálása"
+
+msgid "of your workers"
+msgstr "a workereitől"
+
+msgid "Import workers (JSON)"
+msgstr "Workerek importálása (JSON)"
+
+msgid "Import from AwesomeMiner"
+msgstr "AwesomeMinerből importálás"
+
+msgid "Import from HiveOS"
+msgstr "HiveOSből importálás"
+
+msgid "How does bulk import work?"
+msgstr "Hogy működik a tömeges importálás?"
+
+msgid "With bulk import you can select JSON file that was generated with our tool named Locator.<br><br>Locator finds all devices in your network and generates file that makes importing of your workers easier and quicker."
+msgstr "A tömeges importálástnál kiválaszthatja a Locator nevű eszközzel generált JSON fájlt.<br><br> A Locator megtalálja az összes eszközt a hálózatban, és olyan fájlt hoz létre, amely megkönnyíti és gyorsítja a workerek importálását."
+
+msgid "Learn more about Locator"
+msgstr "Tudjon meg többet a Locatorról"
+
+msgid "This is the list of workers from your JSON file. Please confirm which workers you want to import to minerstat."
+msgstr "Ez a workerek listája a JSON fájlból. Kérjük, erősítse meg, hogy mely workereket szeretne importálni a minerstatba."
+
+msgid "IP"
+msgstr "IP"
+
+msgid "ASIC username (SSH)"
+msgstr "ASIC felhasználónév (SSH)"
+
+msgid "ASIC password (SSH)"
+msgstr "ASIC jelszó (SSH)"
+
+msgid "Copy values down"
+msgstr "Másolja le az értékeket"
+
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+msgid "Cancel import"
+msgstr "Import megszakítása"
+
+msgid "Your HiveOS username"
+msgstr "HiveOS felhasználónév"
+
+msgid "Your HiveOS password"
+msgstr "HiveOS jelszó"
+
+msgid "Your HiveOS 2FA (If enabled)"
+msgstr "HiveOS 2FA (Ha engedélyezett)"
+
+msgid "Discard"
+msgstr "Eldobni"
+
+msgid "Import"
+msgstr "Importálni"
+
+msgid "Hardware distribution"
+msgstr "Hardver terjesztés"
+
+msgid "Global activity"
+msgstr "Globális tevékenység"
+
+msgid "active workers"
+msgstr "aktív workerek"
+
+msgid "active<br>hardware"
+msgstr "aktív<br>hardver"
+
+msgid "with normal temparature"
+msgstr "normális hőmérséklettel"
+
+msgid "Top coins last 30 days"
+msgstr "Vezető érmék az utolsó 30 napban"
+
+msgid "Top coins last 7 days"
+msgstr "Vezető érmék az utolsó 7 napban"
+
+msgid "Top coins last 3 days"
+msgstr "Vezető érmék az utolsó 3 napban"
+
+msgid "Daily average data"
+msgstr "Napi átlagadatok"
+
+msgid "File"
+msgstr "File"
+
+msgid "Profitability data"
+msgstr "Jövedelmezőségi adatok"
+
+msgid "Global statistics by day"
+msgstr "Globális statisztika napi bontásban"
+
+msgid "Per worker statistics by day"
+msgstr "Worker statisztika napi bontásban"
+
+msgid "Balance statistics by day"
+msgstr "Egyenleg statisztika napi bontásban"
+
+msgid "Detected changes in balance statistics"
+msgstr "Észlelt változások az egyenleg statisztikában"
+
+msgid "Full balance statistics by pools & wallets"
+msgstr "Teljes egyenleg statisztika poolok és tárcák"
+
+msgid "Balance data"
+msgstr "Egyenleg adatok"
+
+msgid "Full workers data"
+msgstr "Teljes worker adatok"
+
+msgid "Hashrate data"
+msgstr "Hashrate adatok"
+
+msgid "Data export"
+msgstr "Adatok exportálása"
+
+msgid "Upgrade your plan to use data export."
+msgstr "Frissítse a fiókját, hogy exportálni tudja az adatokat"
+
+msgid "What is data export?"
+msgstr "Mi az adatok exportálása?"
+
+msgid "With data export you can export all of your historical data in CSV, JSON, or SQL format. The data is available as global data or by each worker, wallet, and pool independently. Data export is only available in minerstat+ add-on which also brings you up to 60 days of historical data."
+msgstr "Az adatok exportálásával az összes korábbi adatot CSV, JSON vagy SQL formátumban exportálhatja. Az adatok globális adatokként vagy minden egyes worker, tárca és pool formájában érhetők el. Az adatok exportálása csak a minerstat+ kiegészítőben érhető el, ami akár 60 napnyi történelmi adatot is tartalmaz."
+
+msgid "Learn more about statistics and data export"
+msgstr "Tudjon meg többet a statisztikákról és adatok exportálásáról"
+
+msgid "2FA is not activated"
+msgstr "2FA nincs aktiválva"
+
+msgid "Set 2FA"
+msgstr "2FA beállítása"
+
+msgid "Your e-mail is not confirmed. Please check your inbox."
+msgstr "Az Ön e-mail címe nincs megerősítve. Kérjük ellenőrizze a postafiókját."
+
+msgid "No wallets available for mining"
+msgstr "Nincs tárca beállítva a bányászathoz"
+
+msgid "No pools available for mining"
+msgstr "Nincs pool beállítva a bányászathoz"
+
+msgid "Filter your results to examine the issues more closely."
+msgstr "Szűrje az eredményeket, hogy közelebbről megvizsgálja a problémákat."
+
+msgid "Account issues"
+msgstr "Fiók problémák"
+
+msgid "Worker/Mining issues"
+msgstr "Workerk/Bányászat problémák"
+
+msgid "Temperature data missing"
+msgstr "Hőmérséklet adatok hiányoznak"
+
+msgid "Fans data missing"
+msgstr "Ventillátor adatok hiányoznak"
+
+msgid "Speed data missing"
+msgstr "Sebesség adatok hiányoznak"
+
+msgid "Critical"
+msgstr "Kritikus"
+
+msgid "Important"
+msgstr "Fontos"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "Temporary error."
+msgstr "Ideiglenes hiba."
+
+msgid "Invalid coin(s)."
+msgstr "Érvénytelen érme(k)."
+
+msgid "Invalid algorithm(s)."
+msgstr "Érvénytelen algoritmus(ok)"
+
+msgid "My minerstat dashboard"
+msgstr "Saját minerstat vezérlőpult"
+
+msgid "Market"
+msgstr "Piac"
+
+msgid "Edit market view"
+msgstr "Piaci nézet szerkesztése"
+
+msgid "different<br>coins"
+msgstr "különböző<br>érmék"
+
+msgid "active<br>workers"
+msgstr "aktív<br>workerek"
+
+msgid "total<br>Watt"
+msgstr "összesen<br>Watt"
+
+msgid "mining<br>efficiency"
+msgstr "bányász<br>hatékonyság"
+
+msgid "Expected earnings"
+msgstr "Várható bevételek"
+
+msgid "Per day"
+msgstr "Naponta"
+
+msgid "Per week"
+msgstr "Hetente"
+
+msgid "Per month"
+msgstr "Havonta"
+
+msgid "Top coins by algorithms"
+msgstr "Vezető érmék algoritmus szerint"
+
+msgid "Edit algorithm view"
+msgstr "Algoritmus nézet szerkesztése"
+
+msgid "Percentages show how much less profitable the coin is in comparison to the top coin for the shown algorithm."
+msgstr "A százalékos arányok azt mutatják, mennyivel jövedelmezőbb az érme az algoritmus a vezető érméhez képest."
+
+msgid "No wallets defined"
+msgstr "Nincsenek tárcák"
+
+msgid "You haven't defined any wallets in your address editor. If you have troubles setting your worker, read this <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>tutorial</a>."
+msgstr "Nincs megadva semmilyen tárca a címszerkesztőben. Ha gondjai vannak a worker beállításával kapcsolatban, olvassa el ezt a <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>bemutatót</a>."
+
+msgid "Go to address editor"
+msgstr "Menj a címszerkesztőhöz"
+
+msgid "Offline workers"
+msgstr "Nem elérhető workerek"
+
+msgid "Crashed drivers"
+msgstr "Összeomlott illesztőprogramok"
+
+msgid "All workers are online"
+msgstr "Minden workers elérhető"
+
+msgid "All hardware successfully detected"
+msgstr "Minden hardver sikeresen felismerve"
+
+msgid "Check whole diagnostic"
+msgstr ""
+
+msgid "Market view"
+msgstr "Piac nézet"
+
+msgid "Algorithms view"
+msgstr "Algoritmus nézet"
+
+msgid "Customers Workers"
+msgstr "Ügyfelek workerei"
+
+msgid "Rewards"
+msgstr "Jutalmak"
+
+msgid "Customers Dashboard"
+msgstr "Ügyfelek vezérlőpult"
+
+msgid "Manage customers"
+msgstr "Ügyfelek kezelése"
+
+msgid "Daily revenue"
+msgstr "Napi bevétel"
+
+msgid "Daily reward"
+msgstr "Napi jutalom"
+
+msgid "Switch to this account"
+msgstr "Válts erre a fiókra"
+
+msgid "Unable to rename."
+msgstr "Nem lehet átnevezni."
+
+msgid "Unknown room"
+msgstr "Ismeretlen szoba"
+
+msgid "Set room name"
+msgstr "Szoba nevének beállítása"
+
+msgid "Room already exists"
+msgstr "Szoba már létezik"
+
+msgid "Room does not exist"
+msgstr "Szoba nem létezik"
+
+msgid "Control rooms"
+msgstr "Vezérlőszobák"
+
+msgid "Upgrade your plan to use control room."
+msgstr "Frissítse a fiókját, hogy használhassa a vezérlőszobát."
+
+msgid "What is control room?"
+msgstr "Mi az a vezérlőszoba?"
+
+msgid "Organize your workers in the control room to visually fit your actual establishment.<br><br>Control room offers you better and quicker view over your rigs, their temperature and hashing speed. It can also be used as a heatmap."
+msgstr "Szervezze össze workereit a vezérlőszobában, hogy vizuálisan illeszkedjen a tényleges telephelyéhez.<br><br>A vezérlőszoba jobb és gyorsabb rálátást ad a bányagépeidre, hőmérsékletekre és hashrate sebességére. Hőtérképként is használható."
+
+msgid "Learn more about control room"
+msgstr "Tudjon meg többet a vezérlőszobáról"
+
+msgid "Create new room"
+msgstr "Új szoba létrehozása"
+
+msgid "Please note that this action will detach all the workers that are attached to this room."
+msgstr "Kérjük, vegye figyelembe, hogy ez a művelet le fogja választani a workereket, akik ehhez a szobához csatlakoznak."
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Extended"
+msgstr "Kiterjesztett"
+
+msgid "Label"
+msgstr "Címke"
+
+msgid "Mount one or more workers at position (0,0)."
+msgstr "Csatoljon egy vagy több workert a (0,0)-ás pizicióban."
+
+msgid "Empty slot"
+msgstr "Üres hely"
+
+msgid "Export profiles (JSON)"
+msgstr "Profilok exportálása (JSON)"
+
+msgid "Import profiles (JSON)"
+msgstr "Profilok importálása (JSON)"
+
+msgid "Profile name"
+msgstr "Profil neve"
+
+msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
+msgstr "Kérjük vegye figyelembe, hogy ez a művelet törli a tuning profilt, de a workerek beállításai ugyanazok maradnak."
+
+msgid "Add your first overclock profile"
+msgstr "Adja meg az első tuning profilját"
+
+msgid "for AMD and Nvidia GPUs"
+msgstr "AMD és NVIDIA GPUk"
+
+msgid "Please name your profile."
+msgstr "Kérjük, nevezze el a profilját."
+
+msgid "Unable to OC."
+msgstr "Nem sikerült a TUNING"
+
+msgid "No OC set."
+msgstr "Nincs TUNING beállítva."
+
+msgid "Name your OC profile"
+msgstr "Nevezze el TUNING profilját"
+
+msgid "This is advanced setting and with using it, you take full responsibility for possible hardware damage. Overclocking might void hardware warranty."
+msgstr "Ez a bővített beállítás aminek használatával teljes felelősséget vállal a lehetséges hardveres károkért. A tuningolás megszünteti a hardvergaranciát."
+
+msgid "Power limit"
+msgstr "Teljesítményhatár"
+
+msgid "Core Clock"
+msgstr "Mag órajel"
+
+msgid "Memory Clock"
+msgstr "Memória órajel"
+
+msgid "Fan speed"
+msgstr "Ventillátor sebesség"
+
+msgid "VDDC"
+msgstr "VDDC"
+
+msgid "VDDCI"
+msgstr "VDDCI"
+
+msgid "Advanced"
+msgstr "Speciális"
+
+msgid "When using advanced editor, make sure to separate values with a space (e.g. 110 108 107 108). Each value represents one GPU."
+msgstr "Ha speciális szerkesztőt használ, győződjön meg róla, hogy szóközzel választja el az értékeket (pl. 110 108 107 108). Minden érték egy GPU-t képvisel."
+
+msgid "Unequally filled values will be replaced with the last number. For example, if you enter '110 108 107' and you have 5 GPUs, last value '107' will be applied to the last two GPUs."
+msgstr "Az egyenlőtlenül kitöltött értékeket az utolsó számmal helyettesítik. Például, ha megadja a '110 108 107' és 5 GPUja van, a legutóbbi '107' érték kerül alkalmazásra az utolsó két GPU-n."
+
+msgid "Writing 0 or skip - will skip the currently applied setting that you have on msOS for AMD."
+msgstr "Írjon 0-át vagy hagyja ki - ki fogja hagyja a jelenleg alkalmazott beállításokat ha önnek AMD-je van msOS alatt."
+
+msgid "Setting"
+msgstr "Beállítás"
+
+msgid "GPU core voltage"
+msgstr "GPU mag feszültség"
+
+msgid "I/O bus voltage"
+msgstr "I/O búsz feszültség"
+
+msgid "Fan curve"
+msgstr "Ventillátor görbe"
+
+msgid "Auto-fan curve can be set through triggers."
+msgstr "Az automatikus ventilátor görbe beállítható a triggereken keresztül."
+
+msgid "Go to triggers"
+msgstr "Menj a triggerekhez"
+
+msgid "Updated"
+msgstr "Frissítve"
+
+msgid "Billing details"
+msgstr "Számlázási adatok"
+
+msgid "Workers in a plan"
+msgstr "Workerek a fiókjában"
+
+msgid "Plan expiry"
+msgstr "Fiók lejárata"
+
+msgid "minerstat+ expiry"
+msgstr "minerstat+ lejárat"
+
+msgid "Billed to"
+msgstr "Kiszámlázva"
+
+msgid "Order log"
+msgstr "Log rendezés"
+
+msgid "Num."
+msgstr "Szám."
+
+msgid "Order"
+msgstr "Sorrend"
+
+msgid "Total"
+msgstr "Teljes"
+
+msgid "Method"
+msgstr "Mód"
+
+msgid "Date paid"
+msgstr "Kifizetés dátuma"
+
+msgid "Invoice"
+msgstr "Számla"
+
+msgid "No past orders"
+msgstr "Nincsenek korábbi rendelések"
+
+msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
+msgstr "Fiókjának frissítése több workert eredményezhet, részletesebb statisztikákat, több riasztási lehetőséget és más hasznos előnyöket."
+
+msgid "Plans"
+msgstr "Fiókok"
+
+msgid "Free plan"
+msgstr "Ingyenes fiók"
+
+msgid "Up to 2 workers"
+msgstr "2 workerig"
+
+msgid "forever"
+msgstr "örökké"
+
+msgid "Tier plan"
+msgstr "Fiók szint"
+
+msgid "Up to 1,000 workers"
+msgstr "1000 workerig"
+
+msgid "per worker per month"
+msgstr "havonta egy worker"
+
+msgid "Custom plan"
+msgstr "Egyedi fiók"
+
+msgid "For more than 1,000 workers"
+msgstr "1000 worker felett"
+
+msgid "Add-ons"
+msgstr "Kiegészítő"
+
+msgid "extended stats, themes & advanced features"
+msgstr "kiegészítő statisztika, témák és fejlett funkciók"
+
+msgid "per month"
+msgstr "havonta"
+
+msgid "customized and branded customers' profiles"
+msgstr "egyedi és márkás ügyfelek profiljai"
+
+msgid "Add unlimited amount of customers and assign them the workers you bought."
+msgstr "Adjon hozzá korlátlan mennyiségű ügyfelet és rendelje hozzá azokat a workereket, amiket megvásárolt."
+
+msgid "Unlimited customers"
+msgstr "Korlátlan vásárlók"
+
+msgid "Add up to five links to the custom menu that will connect the customers' profile with your website."
+msgstr "Legfeljebb öt linket adhat hozzá az egyéni menühöz, amely összekapcsolja az ügyfelek profilját a webhelyével."
+
+msgid "Custom menu"
+msgstr "Egyéni menü"
+
+msgid "Customize your customers' profiles in your colors, fonts, logo, and choose between three different layouts."
+msgstr "Testreszabhatja ügyfelei profiljait színei, betűtípusai, logója és választhat három különböző elrendezés között."
+
+msgid "Your branding"
+msgstr "Ön márkája"
+
+msgid "Connect your customer's profile with your own domain. You will only need to set up a cname and the rest is taken care from minerstat dashboard."
+msgstr "Csatlakoztassa ügyfelei profilját saját domainjéhez. Csak egy cname rekordok kell beállítania, és a többit a minerstat irányítópultról kell gondoskodni."
+
+msgid "Your domain"
+msgstr "Ön domainje"
+
+msgid "Our designer will take the time to help you set up the customer's profile in your branding and advise you how to connect your brand and website with customer's profile on minerstat."
+msgstr "Tervezőnk fog időt szakítani arra, hogy segítsen felállítani az ügyfelek profilját a márkajelzésében, és tanácsot ad arra, hogyan kapcsolhatja össze a márkát és a webhelyet minierstat profiljával."
+
+msgid "Help from our designer"
+msgstr "Segítség a tervezőnktől"
+
+msgid "Monitor the traffic on your customers' profiles with your own Google Analytics code."
+msgstr "A saját Google Analytics kóddal figyeli a vásárlók profiljainak forgalmát."
+
+msgid "Your Google Analytics"
+msgstr "Ön Google Analytics fiókja"
+
+msgid "Remove any sign of minerstat copyright and let the customers' profiles be shown as your own."
+msgstr "Távolítsa el a minerstat szerzői jogait, és hagyja, hogy az ügyfelek profiljai sajátjaként jelenjenek meg."
+
+msgid "minerstat copyright removed"
+msgstr "minerstat szerzői jog eltávolítva"
+
+msgid "Licence type"
+msgstr "Licence típusa"
+
+msgid "Payment method"
+msgstr "Fizetési mód"
+
+msgid "Various currencies"
+msgstr "Különböző pénznemek"
+
+msgid "Supported by PayPal"
+msgstr "PayPal által támogatva"
+
+msgid "and"
+msgstr "és"
+
+msgid "Supported by CoinGate"
+msgstr "CoinGate által támogatva"
+
+msgid "Customer data"
+msgstr "Vásárlói adatok"
+
+msgid "This information is used for the issuance an official invoice for buying the service. We don't store your personal information; the data is saved with our invoicing partner Quaderno."
+msgstr "Ezeket az információkat a szolgáltatás megvásárlásához hivatalos számlára bocsátják ki. Nem tároljuk személyes adatait; az adatokat a számlázó partnerünk, a Quaderno menti."
+
+msgid "Required field"
+msgstr "Kötelező mező"
+
+msgid "First Name"
+msgstr "Keresztnév"
+
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+msgid "Company Name"
+msgstr "Cégnév"
+
+msgid "VAT Number"
+msgstr "Adószám"
+
+msgid "Street Line 1"
+msgstr "Utca címe 1. sor"
+
+msgid "Street Line 2"
+msgstr "Utca címe 2. sor"
+
+msgid "City"
+msgstr "Város"
+
+msgid "Postal Code"
+msgstr "Irányítószám"
+
+msgid "Region"
+msgstr "Megye"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Order summary"
+msgstr "Megrendelés összesítő"
+
+msgid "Plan duration"
+msgstr "időtartalma"
+
+msgid "Upgrade discount"
+msgstr "frissítési kedvezmény"
+
+msgid "For upgrading an existing unexpired plan."
+msgstr "frissítés egy meglévő még nem lejárt fiók."
+
+msgid "Duration discount"
+msgstr "Időtartam kedvezmény"
+
+msgid "For ordering for longer period of time."
+msgstr "Rendelésre hoszabb ideig."
+
+msgid "Coupon code"
+msgstr "Kupon kód"
+
+msgid "Redeem"
+msgstr "Megvált"
+
+msgid "Sub total"
+msgstr "Részösszeg"
+
+msgid "Taxes"
+msgstr "Adók"
+
+msgid "Proceed to payment"
+msgstr "Tovább a fizetésre"
+
+msgid "Upgrade now"
+msgstr "Frissítés most"
+
+msgid "Total price"
+msgstr "Teljes ár"
+
+msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Már rendelkezik fehér címke kiegészítővel. Ha valami több is érdekelné, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
+
+msgid "Billing order"
+msgstr "Számlkázási megbízás"
+
+msgid "Features"
+msgstr "Jellemzők"
+
+msgid "Join us on Discord where our awesome community will help you out."
+msgstr "Csatlakozzon a Discordhoz, ahol a fantasztikus közösségünk segít."
+
+msgid "Go to Discord"
+msgstr "Menj a Discord-ra"
+
+msgid "24/7 Community Support"
+msgstr "24/7 Közösségi Támogatás"
+
+msgid "Global profitability data and profitability per group and coin."
+msgstr "Globális jövedelmezőségi adatok és nyereségesség, csoportonként és érméken."
+
+msgid "All software can be downloaded at any time and upgraded to the newest version for free."
+msgstr "Minden szoftver letölthető bármikor, és frissíthető a legújabb verzióra ingyenesen."
+
+msgid "Free Software Upgrades"
+msgstr "Ingyenes Szoftver Frissítések"
+
+msgid "Per worker profitability data and profitability data per coin."
+msgstr "A workerek jövedelmezőségi adatai és nyereségességi adatok érménként."
+
+msgid "Switch between light and dark theme."
+msgstr "Váltás világos és sötét témák közt."
+
+msgid "Go to settings"
+msgstr "Menj a beállításokra"
+
+msgid "Light & Dark themes"
+msgstr "Világos és Sötét témák"
+
+msgid "Monitor your balance on wallets and pools."
+msgstr "Monitorozd a tárcád egyenlegeit és a poolokat."
+
+msgid "Worker's details page shows historical hashrate for all coins that were mined."
+msgstr "Worker adatok oldal a bányászott érmék történelmi hashratejét mutatja."
+
+msgid "Hashrate historical data"
+msgstr "Hashrate történelmi adatok"
+
+msgid "Per worker statistics show you the historical efficiency data."
+msgstr "Workerenkénti statisztikai történelmi hatékonysági adatok."
+
+msgid "Efficiency historical data"
+msgstr "Hatékonysági történelmi adatok"
+
+msgid "Take actions when certain event occurs, such as temperature increase of hashrate drop."
+msgstr "Tegyen lépéseket bizonyos esemény bekövetkezésekor, például a hashrate drasztikus csökkenése."
+
+msgid "Event triggers"
+msgstr "Esemény triggerek"
+
+msgid "Global statistics and per worker statistics show you historical data of your profitability."
+msgstr "A globális statisztikák és workerenkénti statisztikák szerinti nyereségesség történelmi adatai láthatók."
+
+msgid "Revenue historical data"
+msgstr "Bevétel történelmi adatok"
+
+msgid "Set up mobile alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "Mobil figyelmeztetések beállítása a hőmérséklet változásokhoz, a nem elérhető vagy az elérhető állapothoz, a hashrate csökkenéséhez és még sok minden máshoz."
+
+msgid "Mobile alerting"
+msgstr "Mobil figyelmeztetés"
+
+msgid "Worker's details page shows historical temperature for all GPUs or ASIC."
+msgstr "A workerek részletei oldalon minden GPU vagy ASIC történelmi hőmérsékletét mutatja."
+
+msgid "Temperature historical data"
+msgstr "Hőmérséklet történelmi adatok"
+
+msgid "Set up Telegram alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "Telegram figyelmeztetések beállítása a hőmérséklet változásokhoz, a nem elérhető vagy az elérhető állapothoz, a hashrate csökkenéséhez és még sok minden máshoz."
+
+msgid "Telegram alerting"
+msgstr "Telegram figyelmeztetés"
+
+msgid "Grant access to your team members or create new accounts for your customers."
+msgstr "Hozzáférés biztosítása a csapat tagjaihoz, vagy hozzon létre új fiókokat ügyfeleinek."
+
+msgid "Multi-user management"
+msgstr "Többfelhasználós menedzsment"
+
+msgid "Set up e-mail alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr "E-mail figyelmeztetések beállítása a hőmérséklet változásokhoz, a nem elérhető vagy az elérhető állapothoz, a hashrate csökkenéséhez és még sok minden máshoz."
+
+msgid "Email alerting"
+msgstr "Email figyelmeztetés"
+
+msgid "Any account can be made public for quicker and easier monitoring."
+msgstr "Bármely számla nyilvánosságra kerülhet a gyorsabb és könnyebb monitorozás érdekében."
+
+msgid "Public profile option"
+msgstr "Nyilvános profil opció"
+
+msgid "Organize your workers to control room to fit your actual establishment."
+msgstr "Szervezze össze workereit a vezérlő szobában, hogy aktualizálja kapcsolatait."
+
+msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
+msgstr "Időzítse a bányászati tevékenységet és bányásszon különböző profilokkal bizonyos ideig a nap folyamán."
+
+msgid "Historical data"
+msgstr "Történelmi adatok"
+
+msgid "Last 14 days"
+msgstr "Utolsó 14 nap"
+
+msgid "Workers data saved every"
+msgstr "Workerek mentett adatai"
+
+msgid "10 minutes"
+msgstr "10 perces"
+
+msgid "Balance monitoring for"
+msgstr "Egyenleg monitorozása"
+
+msgid "5 wallets & 5 pools"
+msgstr "5 tárca és 5 pool"
+
+msgid "Access to all new custom themes"
+msgstr "Hozzáférés az összes új egyéni témához"
+
+msgid "export"
+msgstr "exportálás"
+
+msgid "Last 60 days"
+msgstr "Utolsó 60 nap"
+
+msgid "Unlimited wallets & unlimited pools"
+msgstr "Korlátlan tárcáé és korlátlan poolok"
+
+msgid "Exclude"
+msgstr "Kizárva"
+
+msgid "Include for 5 EUR/month"
+msgstr "Tartalmazza 5 EUR/hó"
+
+msgid "Number of workers"
+msgstr "Workerek száma"
+
+msgid "month"
+msgstr "hónap"
+
+msgid "full price"
+msgstr "teljes ár"
+
+msgid "months"
+msgstr "hónapok"
+
+msgid "save"
+msgstr "mentés"
+
+msgid "Plan selection"
+msgstr "Terv kiválasztása"
+
+msgid "Your account is fully upgraded. If you need more than 1,000 workers, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Fiókja teljesen frissítve. Ha több mint 1000 workerre van szüksége, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
+
+msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Ön már rendelkezik minerstat+ kiegészítővel. Ha mégis több minden érdekli, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
+
+msgid "Last 6 days"
+msgstr "Utolsó 6 nap"
+
+msgid "30 minutes"
+msgstr "30 perc"
+
+msgid "2 wallets & 2 pools"
+msgstr "2 tárca és 2 pool"
+
+msgid "Inquiry"
+msgstr "Vizsgálat"
+
+msgid "Interested in more than 1,000 workers? Use the following form and let us know more about your business setup."
+msgstr "Több mint 1000 worker érdekeli? Használja a következő űrlapot, és közölje velünk az üzleti igényeit."
+
+msgid "Company"
+msgstr "Cég"
+
+msgid "Company registered for VAT?"
+msgstr "ÁFA nyilvántartásba vett cég?"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Type of workers"
+msgstr "Worker típusa"
+
+msgid "ASICs"
+msgstr "ASICok"
+
+msgid "GPUs & ASICs"
+msgstr "GPUk és ASICok"
+
+msgid "Preferred payment method"
+msgstr "Kedvelt fizetési mód"
+
+msgid "Direct deposit to bank account"
+msgstr "Közvetlen befizetés bankszámlára"
+
+msgid "Message to us"
+msgstr "Üzenet nekünk"
+
+msgid "Send message"
+msgstr "Üzenet küldése"
+
+msgid "Daily balance statistics"
+msgstr "Napi egyenleg statisztikák"
+
+msgid "Detected changes"
+msgstr "Észlelt változások"
+
+msgid "Source"
+msgstr "Forrás"
+
+msgid "New balance"
+msgstr "Új egyenleg"
+
+msgid "Please note that wallets are checked every 30 minutes and pools every 20 minutes. USD value is calculated using the most recent exchange rate."
+msgstr "Kérjük vegye figyelembe, hogy a tárcákat 30 percenként ellenőrizzük, és a poolokat 20 percenként. Az USD-értéket a legutóbbi árfolyam alapján számítjuk ki."
+
+msgid "Monitoring"
+msgstr "Monitorozás"
+
+msgid "No wallets or pools"
+msgstr "Nincs tárca vagy pool"
+
+msgid "You aren't monitoring any wallets or pools at the moment."
+msgstr "Jelenleg nem monitorozol egyetlen tárcát vagy poolt sem."
+
+msgid "AMD Strap Editor"
+msgstr "AMD Strap szerkesztő"
+
+msgid "Your BIOS strap"
+msgstr "Az Ön BIOS strap-je"
+
+msgid "Success"
+msgstr "Sikeres"
+
+msgid "Invalid content"
+msgstr "Érvénytelen tartalom"
+
+msgid "Modify"
+msgstr "Modosít"
+
+msgid "Result"
+msgstr "Eredmény"
+
+msgid "Recommendations"
+msgstr "Ajánlások"
+
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgstr "AMD BIOS strap szerkeztő egy egy speciális eszköz az RX és R9 GPU-k optimalizálására. Használja saját felelősségre.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUk -> 1500 strap től 1500 és felett<br>\r\n\t\t\t\t\t\t\t- 8GB GPUk -> 1750 strap től 1750 és felett<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap től 4GB vagy 1750 strap 8GB-hoz<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+
+msgid "Ambassador"
+msgstr "Nagykövet"
+
+msgid "Please confirm your e-mail address to set up alerts"
+msgstr "Kérjük erősítse meg e-mail címét a figyelmeztetések beállításához"
+
+msgid "Resend confirmation email"
+msgstr "Küldd újra a megerősítő emailt"
+
+msgid "Notification setting"
+msgstr "Értesítés beállítása"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Upgrade your plan to use Telegram notifications."
+msgstr "Frissítse fiókját a Telegram értesítéseinek használatához."
+
+msgid "Upgrade your plan to use Mobile notifications."
+msgstr "Frissítse fiókját a Mobil értesítéseinek használatához."
+
+msgid "When worker goes offline"
+msgstr "Amikor a workerek elérhetetlen állapotba kerülnek"
+
+msgid "When worker comes back online"
+msgstr "Amikor a workerek elérhető állapotba kerülnek."
+
+msgid "ASIC notifications"
+msgstr "ASIC értesítések"
+
+msgid "Hardware errors and high temperature"
+msgstr "Hardverhibák és magas hőmérséklet"
+
+msgid "Efficiency rate drop"
+msgstr "Hatékonyság csökkenés"
+
+msgid "Connections"
+msgstr "Kapcsolatok"
+
+msgid "Telegram ID"
+msgstr "Telegram ID"
+
+msgid "Connect with Telegram"
+msgstr "Csatlakozzon a Telegrammal"
+
+msgid "Switch"
+msgstr "Váltás"
+
+msgid "Mobile device ID"
+msgstr "Mobil eszköz ID"
+
+msgid "Please enable 2FA first"
+msgstr "Kérjük engedélyezze először a 2FA-t"
+
+msgid "The values of tags are used in workers config section."
+msgstr "A címkék értékeit a workerek konfigurációs szakaszában használják."
+
+msgid "Export pools (JSON)"
+msgstr "Poolok exportálása (JSON)"
+
+msgid "Import pools (JSON)"
+msgstr "Poolok importálása (JSON)"
+
+msgid "Pool address"
+msgstr "Pool címe"
+
+msgid "Used"
+msgstr "Használt"
+
+msgid "Export wallets (JSON)"
+msgstr "Tárcák exportálása (JSON)"
+
+msgid "Import wallets (JSON)"
+msgstr "Tárcák importálása (JSON)"
+
+msgid "Wallet address"
+msgstr "Tárca címe"
+
+msgid "Before deleting this tag, please make sure that it's no longer in use in your configurations."
+msgstr "Mielőtt törölné ezt a címkét, győződjön meg róla, hogy már nincs használatban a konfigurációkban."
+
+msgid "Account security"
+msgstr "Fiók biztonság"
+
+msgid "2FA setup"
+msgstr "2FA beállítás"
+
+msgid "Your authentication code"
+msgstr "A hitelesítési kódod"
+
+msgid "Activate 2FA"
+msgstr "2FA aktív"
+
+msgid "Two Factor Authentication allows you to secure your user account and access it faster. Additionally, setting up 2FA will allow you to use <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>To set up your Google Auth 2FA follow the next steps."
+msgstr "A két faktorhitelesítés lehetővé teszi a felhasználói fiók biztonságát és gyorsabb elérését. Ezen felül, a 2FA beállítása lehetővé teszi a <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">QR kód használatával történő gyors bejelentkezést</a>.<br> A Google Hitelesítő 2FA beállításához kövesse a következő lépéseket."
+
+msgid "Scan the following QR Code to your Google Authenticator Application."
+msgstr "Szkennelje a következő QR-kódot a Google Hitelesítő alkalmazásához."
+
+msgid "Enter the key from the app and confirm your 2FA."
+msgstr "Adja meg a kulcsot az alkalmazásból, és erősítse meg a 2FA-t."
+
+msgid "Please note that after you successfully set up 2FA, the system will logged you out."
+msgstr "Kérjük vegye figyelembe, hogy a 2FA sikeres beállítása után a rendszer kijelentkezik."
+
+msgid "Access key"
+msgstr "Hozzáférési kulcs"
+
+msgid "Secret key"
+msgstr "Titkos kulcs"
+
+msgid "Date and time"
+msgstr "Dátum és idő"
+
+msgid "Print recovery key"
+msgstr "Visszaállítási kulcs nyomtatása"
+
+msgid "Finish setup"
+msgstr "Beállítás befejezése"
+
+msgid "You have successfully set up your 2FA"
+msgstr "Sikeresen beállította a 2FA-t"
+
+msgid "Print your recovery key, save it, and finish with the setup."
+msgstr "Nyomtasd ki a visszaállítási kulcsot, mentsd el, és befejezted a beállításokat."
+
+msgid "2FA activated"
+msgstr "2FA bekapcsolva"
+
+msgid "Successfully de-activated."
+msgstr "Sikeresen kikapcsolva."
+
+msgid "De-activate 2FA"
+msgstr "2FA kikapcsolva"
+
+msgid "Your 2FA is activated."
+msgstr "Az Ön 2FA-ja be van kapcsolva."
+
+msgid "You will need to enter your authentication code to de-activate it."
+msgstr "Be kell írnia a hitelesítési kódot, hogy kikapcsolja."
