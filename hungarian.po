@@ -1001,7 +1001,7 @@ msgid "Manage users"
 msgstr "Felhasználók kezelése"
 
 msgid "White label"
-msgstr "Fehér címke"
+msgstr "White label"
 
 msgid "Help"
 msgstr "Segítség"
@@ -1046,7 +1046,7 @@ msgid "Customers dashboard"
 msgstr "Ügyfelek vezérlőpultja"
 
 msgid "Customers workers"
-msgstr "Ügyfelek workerei"
+msgstr "Ügyfelek gépei"
 
 msgid "General"
 msgstr "Általános"
@@ -1328,7 +1328,7 @@ msgid "Free mem"
 msgstr "Szabad memória"
 
 msgid "Power cons."
-msgstr "Teljesítmény"
+msgstr "Fogyasztás"
 
 msgid "Local IP"
 msgstr "Helyi IP"
@@ -1586,7 +1586,7 @@ msgid "White label is only available under special licence."
 msgstr "A White Label csak külön engedéllyel érhető el."
 
 msgid "What is white label?"
-msgstr "Mi az a white lable?"
+msgstr "Mi az a white label?"
 
 msgid "White label is a licence that allows mining managers and cloud mining owners to show their clients the personalized and branded data without pointing out that hardware runs on minerstat software and on minerstat dashboard."
 msgstr "A white label olyan licensz, amely lehetővé teszi a bányászati vezetők és a felhőbányászat tulajdonosai számára, hogy ügyfeleik számára személyre szabott és márkázott adatokat mutassanak anélkül, hogy rámutattak arra, hogy a hardver a minerstat szoftveren és a minerstat irányítópulton fut."
@@ -1604,7 +1604,7 @@ msgid "URL"
 msgstr "URL"
 
 msgid "White label URL"
-msgstr "Fehér címke URL"
+msgstr "White label URL"
 
 msgid "Consumption"
 msgstr "Fogyasztás"
@@ -1637,10 +1637,10 @@ msgid "Address"
 msgstr "Cím"
 
 msgid "API key"
-msgstr "API kulcs"
+msgstr "API key"
 
 msgid "API secret"
-msgstr "API titok"
+msgstr "API secret"
 
 msgid "Custom label"
 msgstr "Egyedi címke"
@@ -1892,7 +1892,7 @@ msgid "Send email"
 msgstr "Küldjön emailt"
 
 msgid "to"
-msgstr ""
+msgstr "erre"
 
 msgid "Add trigger"
 msgstr "Trigger hozzáadása"
@@ -2012,7 +2012,7 @@ msgid "Add your first scheduler profile"
 msgstr "Adja meg az első ütemezőprofilt"
 
 msgid "for some or all workers"
-msgstr "néhány vagy minen workere számára"
+msgstr "néhány vagy minen gépe számára"
 
 msgid "Add new profile"
 msgstr "Új profil hozzáadása"
@@ -2246,7 +2246,7 @@ msgid "Import workers"
 msgstr "Gépek importálása"
 
 msgid "of your workers"
-msgstr "a workereitől"
+msgstr "a gépeitől"
 
 msgid "Import workers (JSON)"
 msgstr "Gépek importálása (JSON)"
@@ -2498,7 +2498,7 @@ msgid "Algorithms view"
 msgstr "Algoritmus nézet"
 
 msgid "Customers Workers"
-msgstr "Ügyfelek workerei"
+msgstr "Ügyfelek gépei"
 
 msgid "Rewards"
 msgstr "Jutalmak"
@@ -2543,7 +2543,7 @@ msgid "What is control room?"
 msgstr "Mi az a vezérlőszoba?"
 
 msgid "Organize your workers in the control room to visually fit your actual establishment.<br><br>Control room offers you better and quicker view over your rigs, their temperature and hashing speed. It can also be used as a heatmap."
-msgstr "Szervezze össze workereit a vezérlőszobában, hogy vizuálisan illeszkedjen a tényleges telephelyéhez.<br><br>A vezérlőszoba jobb és gyorsabb rálátást ad a bányagépeidre, hőmérsékletekre és hashrate sebességére. Hőtérképként is használható."
+msgstr "Szervezze össze gépeit a vezérlőszobában, hogy vizuálisan illeszkedjen a tényleges telephelyéhez.<br><br>A vezérlőszoba jobb és gyorsabb rálátást ad a bányagépeidre, hőmérsékletekre és hashrate sebességére. Hőtérképként is használható."
 
 msgid "Learn more about control room"
 msgstr "Tudjon meg többet a vezérlőszobáról"
@@ -2933,7 +2933,7 @@ msgid "Event triggers"
 msgstr "Esemény triggerek"
 
 msgid "Global statistics and per worker statistics show you historical data of your profitability."
-msgstr "A globális statisztikák és workerenkénti statisztikák szerinti nyereségesség történelmi adatai láthatók."
+msgstr "A globális statisztikák és gépenkénti statisztikák szerinti nyereségesség történelmi adatai láthatók."
 
 msgid "Revenue historical data"
 msgstr "Bevétel történelmi adatok"
@@ -2975,7 +2975,7 @@ msgid "Public profile option"
 msgstr "Nyilvános profil opció"
 
 msgid "Organize your workers to control room to fit your actual establishment."
-msgstr "Szervezze össze workereit a vezérlő szobában, hogy aktualizálja kapcsolatait."
+msgstr "Szervezze össze gépeit a vezérlő szobában, hogy aktualizálja kapcsolatait."
 
 msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
 msgstr "Időzítse a bányászati tevékenységet és bányásszon különböző profilokkal bizonyos ideig a nap folyamán."
