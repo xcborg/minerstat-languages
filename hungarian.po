@@ -113,7 +113,7 @@ msgid "Yes, reboot it"
 msgstr "Igen, indítsd újra"
 
 msgid "workers"
-msgstr "workers"
+msgstr "gépek"
 
 msgid "No, keep them"
 msgstr "Nem, tartsd meg"
@@ -1259,7 +1259,7 @@ msgid "Please note that this action will delete worker's data permanently and ca
 msgstr "Kérjük vegye figyelembe, ez a művelet véglegesen törli a worker adatokat, és vissza nem vonható."
 
 msgid "Please note that this action will reboot your mining machine."
-msgstr "Kérjük vegye figyelembe, ez a művelet újraindítja a bányagépeket."
+msgstr "Kérjük vegye figyelembe, ez a művelet újraindítja a bányagép(eket)."
 
 msgid "Please note that this action will restart your mining software only."
 msgstr "Kérjük vegye figyelembe, ez a művelet újratölti a bányász programot."
@@ -2093,13 +2093,13 @@ msgid "Enable/Disable"
 msgstr "Engedélyez/Letilt"
 
 msgid "Profit switch algorithm will select the most profitable coin every 10 minutes from listed coins. Please make sure that you have connected the right pools and wallets with the right coins and algorithms."
-msgstr "A prifit kapcsoló algoritmus kiválasztja a leginkább nyereséges érmét 10 percenként a jegyzett érmék közül. Győződjön meg arról, hogy a megfelelő poolokat és tárcákat a megfelelő érmékkel és algoritmusokkal kötötte össze."
+msgstr "A profit kapcsoló algoritmus kiválasztja a leginkább nyereséges érmét 10 percenként a támogatott érmék közül. Győződjön meg arról, hogy a megfelelő poolokat és tárcákat a megfelelő érmékkel és algoritmusokkal kötötte össze."
 
 msgid "Mining clients"
 msgstr "Bányász ügyfelek"
 
 msgid "Autoselect option will automatically select most suitable client and configure it for you. If you select a client by yourself you can edit its config manually."
-msgstr "Az Automatikus kiválasztás opció automatikusan kiválasztja a legmegfelelőbb ügyfelet, és beállítja az Ön számára. Ha az ügyfelet saját maga választja ki, konfigurálja manuálisan."
+msgstr "Az Automatikus kiválasztás opció automatikusan kiválasztja a legmegfelelőbb klienst, és beállítja az Ön számára. Ha az klienst saját maga választja ki, konfigurálja manuálisan."
 
 msgid "Algorithm"
 msgstr "Algoritmus"
@@ -2702,7 +2702,7 @@ msgid "Free plan"
 msgstr "Ingyenes fiók"
 
 msgid "Up to 2 workers"
-msgstr "2 workerig"
+msgstr "2 gépig"
 
 msgid "forever"
 msgstr "örökké"
@@ -2711,7 +2711,7 @@ msgid "Tier plan"
 msgstr "Fiók szint"
 
 msgid "Up to 1,000 workers"
-msgstr "1000 workerig"
+msgstr "1000 gépig"
 
 msgid "per worker per month"
 msgstr "havonta egy worker"
@@ -2720,7 +2720,7 @@ msgid "Custom plan"
 msgstr "Egyedi fiók"
 
 msgid "For more than 1,000 workers"
-msgstr "1000 worker felett"
+msgstr "1000 gép felett"
 
 msgid "Add-ons"
 msgstr "Kiegészítő"
@@ -2732,7 +2732,7 @@ msgid "per month"
 msgstr "havonta"
 
 msgid "customized and branded customers' profiles"
-msgstr "egyedi és márkás ügyfelek profiljai"
+msgstr "egyedi és márkás publikus profilok"
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
 msgstr "Adjon hozzá korlátlan mennyiségű ügyfelet és rendelje hozzá azokat a gépeket, amiket megvásárolt."
@@ -3008,7 +3008,7 @@ msgid "Last 60 days"
 msgstr "Utolsó 60 nap"
 
 msgid "Unlimited wallets & unlimited pools"
-msgstr "Korlátlan tárcáé és korlátlan poolok"
+msgstr "Korlátlan tárcák és korlátlan poolok"
 
 msgid "Exclude"
 msgstr "Kizárva"
@@ -3029,7 +3029,7 @@ msgid "months"
 msgstr "hónapok"
 
 msgid "save"
-msgstr "mentés"
+msgstr "megtakarítás"
 
 msgid "Plan selection"
 msgstr "Terv kiválasztása"
