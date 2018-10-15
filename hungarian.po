@@ -74,7 +74,7 @@ msgid "Uptime"
 msgstr "Üzemidő"
 
 msgid "Earnings"
-msgstr "bevétel"
+msgstr "Bevétel"
 
 msgid "Max. temp"
 msgstr "Max. hőmérséklet"
@@ -215,7 +215,7 @@ msgid "Efficiency"
 msgstr "Hatékonyság"
 
 msgid "Estimated monthly earnings"
-msgstr "Becsült havi bevételek"
+msgstr "Becsült havi bevétel"
 
 msgid "Pool"
 msgstr "Pool"
@@ -260,16 +260,16 @@ msgid "GPU"
 msgstr "GPU"
 
 msgid "No data on hardware available for this worker."
-msgstr "Nem áll rendelkezésre hardver adat a workerről"
+msgstr "Nem áll rendelkezésre hardver adat a gépről"
 
 msgid "No data on mining available for this worker."
-msgstr "Nem áll rendelkezésre bányászati adat a workerről"
+msgstr "Nem áll rendelkezésre bányászati adat a gépről"
 
 msgid "CPU"
 msgstr "CPU"
 
 msgid "No data on CPU available for this worker."
-msgstr "Nem áll rendelkezésre CPU adat a workerről"
+msgstr "Nem áll rendelkezésre CPU adat a gépről"
 
 msgid "hashrate"
 msgstr "hashrate"
@@ -3035,7 +3035,7 @@ msgid "Plan selection"
 msgstr "Terv kiválasztása"
 
 msgid "Your account is fully upgraded. If you need more than 1,000 workers, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
-msgstr "Fiókja teljesen frissítve. Ha több mint 1000 workerre van szüksége, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
+msgstr "Fiókja teljesen frissítve. Ha több mint 1000 gépre van szüksége, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
 
 msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr "Ön már rendelkezik minerstat+ kiegészítővel. Ha mégis több minden érdekli, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
