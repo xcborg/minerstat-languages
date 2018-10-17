@@ -659,319 +659,319 @@ msgid "Month"
 msgstr "Hónap"
 
 msgid "2 workers"
-msgstr "2 workers"
+msgstr "2 gép"
 
 msgid "5 workers"
-msgstr "5 workers"
+msgstr "5 gép"
 
 msgid "10 workers"
-msgstr "10 workers"
+msgstr "10 gép"
 
 msgid "15 workers"
-msgstr "15 workers"
+msgstr "15 gép"
 
 msgid "20 workers"
-msgstr "20 workers"
+msgstr "20 gép"
 
 msgid "30 workers"
-msgstr "30 workers"
+msgstr "30 gép"
 
 msgid "40 workers"
-msgstr "40 workers"
+msgstr "40 gép"
 
 msgid "50 workers"
-msgstr "50 workers"
+msgstr "50 gép"
 
 msgid "60 workers"
-msgstr "60 workers"
+msgstr "60 gép"
 
 msgid "70 workers"
-msgstr "70 workers"
+msgstr "70 gép"
 
 msgid "80 workers"
-msgstr "80 workers"
+msgstr "80 gép"
 
 msgid "90 workers"
-msgstr "90 workers"
+msgstr "90 gép"
 
 msgid "100 workers"
-msgstr "100 workers"
+msgstr "100 gép"
 
 msgid "110 workers"
-msgstr "110 workers"
+msgstr "110 gép"
 
 msgid "120 workers"
-msgstr "120 workers"
+msgstr "120 gép"
 
 msgid "130 workers"
-msgstr "130 workers"
+msgstr "130 gép"
 
 msgid "140 workers"
-msgstr "140 workers"
+msgstr "140 gép"
 
 msgid "150 workers"
-msgstr "150 workers"
+msgstr "150 gép"
 
 msgid "160 workers"
-msgstr "160 workers"
+msgstr "160 gép"
 
 msgid "170 workers"
-msgstr "170 workers"
+msgstr "170 gép"
 
 msgid "180 workers"
-msgstr "180 workers"
+msgstr "180 gép"
 
 msgid "190 workers"
-msgstr "190 workers"
+msgstr "190 gép"
 
 msgid "200 workers"
-msgstr "200 workers"
+msgstr "200 gép"
 
 msgid "210 workers"
-msgstr "210 workers"
+msgstr "210 gép"
 
 msgid "220 workers"
-msgstr "220 workers"
+msgstr "220 gép"
 
 msgid "230 workers"
-msgstr "230 workers"
+msgstr "230 gép"
 
 msgid "240 workers"
-msgstr "240 workers"
+msgstr "240 gép"
 
 msgid "250 workers"
-msgstr "250 workers"
+msgstr "250 gép"
 
 msgid "260 workers"
-msgstr "260 workers"
+msgstr "260 gép"
 
 msgid "270 workers"
-msgstr "270 workers"
+msgstr "270 gép"
 
 msgid "280 workers"
-msgstr "280 workers"
+msgstr "280 gép"
 
 msgid "290 workers"
-msgstr "290 workers"
+msgstr "290 gép"
 
 msgid "300 workers"
-msgstr "300 workers"
+msgstr "300 gép"
 
 msgid "310 workers"
-msgstr "310 workers"
+msgstr "310 gép"
 
 msgid "320 workers"
-msgstr "320 workers"
+msgstr "320 gép"
 
 msgid "330 workers"
-msgstr "330 workers"
+msgstr "330 gép"
 
 msgid "340 workers"
-msgstr "340 workers"
+msgstr "340 gép"
 
 msgid "350 workers"
-msgstr "350 workers"
+msgstr "350 gép"
 
 msgid "360 workers"
-msgstr "360 workers"
+msgstr "360 gép"
 
 msgid "370 workers"
-msgstr "370 workers"
+msgstr "370 gép"
 
 msgid "380 workers"
-msgstr "380 workers"
+msgstr "380 gép"
 
 msgid "390 workers"
-msgstr "390 workers"
+msgstr "390 gép"
 
 msgid "400 workers"
-msgstr "400 workers"
+msgstr "400 gép"
 
 msgid "410 workers"
-msgstr "410 workers"
+msgstr "410 gép"
 
 msgid "420 workers"
-msgstr "420 workers"
+msgstr "420 gép"
 
 msgid "430 workers"
-msgstr "430 workers"
+msgstr "430 gép"
 
 msgid "440 workers"
-msgstr "440 workers"
+msgstr "440 gép"
 
 msgid "450 workers"
-msgstr "450 workers"
+msgstr "450 gép"
 
 msgid "460 workers"
-msgstr "460 workers"
+msgstr "460 gép"
 
 msgid "470 workers"
-msgstr "470 workers"
+msgstr "470 gép"
 
 msgid "480 workers"
-msgstr "480 workers"
+msgstr "480 gép"
 
 msgid "490 workers"
-msgstr "490 workers"
+msgstr "490 gép"
 
 msgid "500 workers"
-msgstr "500 workers"
+msgstr "500 gép"
 
 msgid "510 workers"
-msgstr "510 workers"
+msgstr "510 gép"
 
 msgid "520 workers"
-msgstr "520 workers"
+msgstr "520 gép"
 
 msgid "530 workers"
-msgstr "530 workers"
+msgstr "530 gép"
 
 msgid "540 workers"
-msgstr "540 workers"
+msgstr "540 gép"
 
 msgid "550 workers"
-msgstr "550 workers"
+msgstr "550 gép"
 
 msgid "560 workers"
-msgstr "560 workers"
+msgstr "560 gép"
 
 msgid "570 workers"
-msgstr "570 workers"
+msgstr "570 gép"
 
 msgid "580 workers"
-msgstr "580 workers"
+msgstr "580 gép"
 
 msgid "590 workers"
-msgstr "590 workers"
+msgstr "590 gép"
 
 msgid "600 workers"
-msgstr "600 workers"
+msgstr "600 gép"
 
 msgid "610 workers"
-msgstr "610 workers"
+msgstr "610 gép"
 
 msgid "620 workers"
-msgstr "620 workers"
+msgstr "620 gép"
 
 msgid "630 workers"
-msgstr "630 workers"
+msgstr "630 gép"
 
 msgid "640 workers"
-msgstr "640 workers"
+msgstr "640 gép"
 
 msgid "650 workers"
-msgstr "650 workers"
+msgstr "650 gép"
 
 msgid "660 workers"
-msgstr "660 workers"
+msgstr "660 gép"
 
 msgid "670 workers"
-msgstr "670 workers"
+msgstr "670 gép"
 
 msgid "680 workers"
-msgstr "680 workers"
+msgstr "680 gép"
 
 msgid "690 workers"
-msgstr "690 workers"
+msgstr "690 gép"
 
 msgid "700 workers"
-msgstr "700 workers"
+msgstr "700 gép"
 
 msgid "710 workers"
-msgstr "710 workers"
+msgstr "710 gép"
 
 msgid "720 workers"
-msgstr "720 workers"
+msgstr "720 gép"
 
 msgid "730 workers"
-msgstr "730 workers"
+msgstr "730 gép"
 
 msgid "740 workers"
-msgstr "740 workers"
+msgstr "740 gép"
 
 msgid "750 workers"
-msgstr "750 workers"
+msgstr "750 gép"
 
 msgid "760 workers"
-msgstr "760 workers"
+msgstr "760 gép"
 
 msgid "770 workers"
-msgstr "770 workers"
+msgstr "770 gép"
 
 msgid "780 workers"
-msgstr "780 workers"
+msgstr "780 gép"
 
 msgid "790 workers"
-msgstr "790 workers"
+msgstr "790 gép"
 
 msgid "800 workers"
-msgstr "800 workers"
+msgstr "800 gép"
 
 msgid "810 workers"
-msgstr "810 workers"
+msgstr "810 gép"
 
 msgid "820 workers"
-msgstr "820 workers"
+msgstr "820 gép"
 
 msgid "830 workers"
-msgstr "830 workers"
+msgstr "830 gép"
 
 msgid "840 workers"
-msgstr "840 workers"
+msgstr "840 gép"
 
 msgid "850 workers"
-msgstr "850 workers"
+msgstr "850 gép"
 
 msgid "860 workers"
-msgstr "860 workers"
+msgstr "860 gép"
 
 msgid "870 workers"
-msgstr "870 workers"
+msgstr "870 gép"
 
 msgid "880 workers"
-msgstr "880 workers"
+msgstr "880 gép"
 
 msgid "890 workers"
-msgstr "890 workers"
+msgstr "890 gép"
 
 msgid "900 workers"
-msgstr "900 workers"
+msgstr "900 gép"
 
 msgid "910 workers"
-msgstr "910 workers"
+msgstr "910 gép"
 
 msgid "920 workers"
-msgstr "920 workers"
+msgstr "920 gép"
 
 msgid "930 workers"
-msgstr "930 workers"
+msgstr "930 gép"
 
 msgid "940 workers"
-msgstr "940 workers"
+msgstr "940 gép"
 
 msgid "950 workers"
-msgstr "950 workers"
+msgstr "950 gép"
 
 msgid "960 workers"
-msgstr "960 workers"
+msgstr "960 gép"
 
 msgid "970 workers"
-msgstr "970 workers"
+msgstr "970 gép"
 
 msgid "980 workers"
-msgstr "980 workers"
+msgstr "980 gép"
 
 msgid "990 workers"
-msgstr "990 workers"
+msgstr "990 gép"
 
 msgid "1000 workers"
-msgstr "1000 workers"
+msgstr "1000 gép"
 
 msgid "Balance"
 msgstr "Egyenleg"
 
 msgid "Income"
-msgstr "Bejövő"
+msgstr "Bevétel"
 
 msgid "Outgo"
 msgstr "Kimenő"
@@ -1010,16 +1010,16 @@ msgid "Log out"
 msgstr "Kijelentkezés"
 
 msgid "of"
-msgstr "of"
+msgstr "ezen"
 
 msgid "1 worker remaining until your plan requires an upgrade."
-msgstr "1 worker van hátra, mielőtt fejleszteni kell a csomagját."
+msgstr "1 gépet tud még hozzáadni, mielőtt frissíteni kellene a csomagját."
 
 msgid "Upgrade your plan to add additional workers."
 msgstr "Fríssítenie kell a csomgját, hogy újabb gépet adhasson hozzá."
 
 msgid "workers remaining until your plan requires an upgrade."
-msgstr "worker van hátra, mielőtt frissítenie kell a csomagját."
+msgstr "gép van hátra, mielőtt frissítenie kell a csomagját."
 
 msgid "Upgrade"
 msgstr "Fejlesztés"
@@ -1028,7 +1028,7 @@ msgid "Over limit"
 msgstr "Túlméretezett"
 
 msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
-msgstr "A fiókjában több worker van felvéve, mint amennyire engedélye van. Kérjük frissítse a fiókját, vagy töröljön néhány gépet."
+msgstr "A fiókjában több gép van felvéve, mint amennyire engedélye van. Kérjük frissítse a fiókját, vagy töröljön néhány gépet."
 
 msgid "Upgrade account"
 msgstr "Fiók frissítése"
@@ -1058,7 +1058,7 @@ msgid "Global statistics"
 msgstr "Globális statisztika"
 
 msgid "Per worker statistics"
-msgstr "Worker statisztika"
+msgstr "Gépenkénti statisztika"
 
 msgid "Balance statistics"
 msgstr "Egyenleg statisztika"
@@ -1079,7 +1079,7 @@ msgid "ClockTune™"
 msgstr "ClockTune ™"
 
 msgid "Worker config"
-msgstr "Worker beállítás"
+msgstr "Gép konfig"
 
 msgid "Alerts"
 msgstr "Riasztások"
@@ -1136,7 +1136,7 @@ msgid "API"
 msgstr "API"
 
 msgid "Ambassadors"
-msgstr "Nagykövetek"
+msgstr "Ambassadors"
 
 msgid "Change log"
 msgstr "Változási napló"
@@ -1148,10 +1148,10 @@ msgid "FREE"
 msgstr "INGYENES"
 
 msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
-msgstr "Worker neve csak ezeket tartalmazhatja<br>betük, számok, \"_\", \"-\"."
+msgstr "Gép neve csak ezeket tartalmazhatja<br>betük, számok, \"_\", \"-\"."
 
 msgid "Worker name shouldn't exceed 15 chars."
-msgstr "Worker neve nem haladhatja meg a 15 karaktert."
+msgstr "Gép neve nem haladhatja meg a 15 karaktert."
 
 msgid "Limit reached, upgrade your plan."
 msgstr "Korlát elérve, frissítse a fiókját."
@@ -1163,7 +1163,7 @@ msgid "Unable to add worker."
 msgstr "Nem lehet gépet hozzáadni."
 
 msgid "Worker name already in use."
-msgstr "Worker neve már használatban van."
+msgstr "Ez Gép név már használatban van."
 
 msgid "Unknown error."
 msgstr "Ismeretlen hiba"
@@ -1175,10 +1175,10 @@ msgid "to manage and monitor its mining activity"
 msgstr "bányászat vezérlése és monitorozása"
 
 msgid "Add new worker"
-msgstr "Új worker hozzáadása"
+msgstr "Új gép hozzáadása"
 
 msgid "Worker name"
-msgstr "Worker neve"
+msgstr "Gép neve"
 
 msgid "Type"
 msgstr "Típusa"
@@ -1211,7 +1211,7 @@ msgid "There was something wrong."
 msgstr "Valami hiba történt."
 
 msgid "Add worker"
-msgstr "Worker hozzáadása"
+msgstr "Gép hozzáadása"
 
 msgid "Bulk import"
 msgstr "Tömeges importálás"
@@ -1256,7 +1256,7 @@ msgid "Yes, shut it down"
 msgstr "Igen, állítsd le"
 
 msgid "Please note that this action will delete worker's data permanently and cannot be undone."
-msgstr "Kérjük vegye figyelembe, ez a művelet véglegesen törli a worker adatokat, és vissza nem vonható."
+msgstr "Kérjük vegye figyelembe, ez a művelet véglegesen törli a gépe adatait, és vissza nem vonható."
 
 msgid "Please note that this action will reboot your mining machine."
 msgstr "Kérjük vegye figyelembe, ez a művelet újraindítja a bányagép(eket)."
@@ -1277,7 +1277,7 @@ msgid "Save note"
 msgstr "Jegyzet mentése"
 
 msgid "Please make sure that you have also updated the worker's name on your software. Renaming the worker might cause the differences in statistics."
-msgstr "Kérjük győződjön meg róla, hogy frissítette a worker nevét a szoftverben. A worker átnevezése különbségeket okozhat a statisztikában."
+msgstr "Kérjük győződjön meg róla, hogy frissítette a gépe nevét a szoftverben. A gép átnevezése különbségeket okozhat a statisztikában."
 
 msgid "New name"
 msgstr "Új név"
@@ -1289,10 +1289,10 @@ msgid "Save changes"
 msgstr "Változások mentése"
 
 msgid "Change worker"
-msgstr "Worker megváltoztatása"
+msgstr "Gép megváltoztatása"
 
 msgid "Non-existent worker"
-msgstr "Nem létező worker"
+msgstr "Nem létező gép"
 
 msgid "This worker is not part of your account."
 msgstr "Ez a worker nem része a fiókjának."
@@ -1349,16 +1349,16 @@ msgid "Temperature stats not available yet."
 msgstr "Hőmérséklet statisztika még nem elérhető"
 
 msgid "Make sure the worker is using the correct access key:"
-msgstr "Bizonyosodjon meg róla, hogy a worker a megfelelő kulcsot használja:"
+msgstr "Bizonyosodjon meg róla, hogy a gépe a megfelelő kulcsot használja:"
 
 msgid "Need help?"
 msgstr "Szüksége van segítségre?"
 
 msgid "Previous worker"
-msgstr "Előző worker"
+msgstr "Előző gép"
 
 msgid "Next worker"
-msgstr "Következő worker"
+msgstr "Következő gép"
 
 msgid "Please note that this action will shut down your machine."
 msgstr "Kérjük vegye figyelembe, hogy ez a művelet leállítja a gépet."
@@ -1373,7 +1373,7 @@ msgid "Close"
 msgstr "Bezár"
 
 msgid "This worker doesn't exist on your account."
-msgstr "Ez a worker nem létezik a fiókjában."
+msgstr "Ez a gép nem létezik a fiókjában."
 
 msgid "vs. yesterday"
 msgstr "tegnaphoz"
@@ -1415,19 +1415,19 @@ msgid "Statistics will be automatically updated once available."
 msgstr "A statisztikák automatikusan frissülni fognak."
 
 msgid "Worker's latest activity"
-msgstr "Worker utolsó tevékenysége"
+msgstr "Gép utolsó tevékenysége"
 
 msgid "Nothing new"
 msgstr "Semmi új"
 
 msgid "No worker or group selected"
-msgstr "Nincs worker vagy csoport kiválasztva"
+msgstr "Nincs gép vagy csoport kiválasztva"
 
 msgid "This mining software doesn't exist."
 msgstr "Ez a bányász szoftver nem létezik."
 
 msgid "No such workers/groups"
-msgstr "Nincs ilyen worker/csoport"
+msgstr "Nincs ilyen gép/csoport"
 
 msgid "Unknown error occured."
 msgstr "Ismeretlen hiba történt."
@@ -1451,7 +1451,7 @@ msgid "Target"
 msgstr "Cél"
 
 msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
-msgstr "Tipp: Ha olyan csoportot szeretne módosítani, amelyet már beállított, jelölje ki a gépet a csoportban, változtassa meg a beállításait, majd cserélje ki a worker nevét a csoport nevére."
+msgstr "Tipp: Ha olyan csoportot szeretne módosítani, amelyet már beállított, jelölje ki a gépet a csoportban, változtassa meg a beállításait, majd cserélje ki a gép nevét a csoport nevére."
 
 msgid "You can select a worker or a group that you want to apply changes to. Applying changes to a group will only update individual workers inside that group."
 msgstr "Kiválaszthatja a módosítani kívánt gépet vagy csoportot. Amennyiben módosítani szeretne egy csoportot, akkor csak az egyes csoporton belüli gépeket fogja frissíteni."
@@ -1874,7 +1874,7 @@ msgid "Any"
 msgstr "Bármely"
 
 msgid "is"
-msgstr "van"
+msgstr "eléri"
 
 msgid "down by"
 msgstr "lefelé"
@@ -2339,7 +2339,7 @@ msgid "Global statistics by day"
 msgstr "Globális statisztika napi bontásban"
 
 msgid "Per worker statistics by day"
-msgstr "Worker statisztika napi bontásban"
+msgstr "Gép statisztika napi bontásban"
 
 msgid "Balance statistics by day"
 msgstr "Egyenleg statisztika napi bontásban"
@@ -2354,7 +2354,7 @@ msgid "Balance data"
 msgstr "Egyenleg adatok"
 
 msgid "Full workers data"
-msgstr "Teljes worker adatok"
+msgstr "Teljes gép adatok"
 
 msgid "Hashrate data"
 msgstr "Hashrate adatok"
@@ -2369,7 +2369,7 @@ msgid "What is data export?"
 msgstr "Mi az adatok exportálása?"
 
 msgid "With data export you can export all of your historical data in CSV, JSON, or SQL format. The data is available as global data or by each worker, wallet, and pool independently. Data export is only available in minerstat+ add-on which also brings you up to 60 days of historical data."
-msgstr "Az adatok exportálásával az összes korábbi adatot CSV, JSON vagy SQL formátumban exportálhatja. Az adatok globális adatokként vagy minden egyes worker, tárca és pool formájában érhetők el. Az adatok exportálása csak a minerstat+ kiegészítőben érhető el, ami akár 60 napnyi történelmi adatot is tartalmaz."
+msgstr "Az adatok exportálásával az összes korábbi adatot CSV, JSON vagy SQL formátumban exportálhatja. Az adatok globális adatokként vagy minden egyes gép, tárca és pool formájában érhetők el. Az adatok exportálása csak a minerstat+ kiegészítőben érhető el, ami akár 60 napnyi történelmi adatot is tartalmaz."
 
 msgid "Learn more about statistics and data export"
 msgstr "Tudjon meg többet a statisztikákról és adatok exportálásáról"
@@ -2396,7 +2396,7 @@ msgid "Account issues"
 msgstr "Fiók problémák"
 
 msgid "Worker/Mining issues"
-msgstr "Workerk/Bányászat problémák"
+msgstr "Gép/Bányászati problémák"
 
 msgid "Temperature data missing"
 msgstr "Hőmérséklet adatok hiányoznak"
@@ -2471,7 +2471,7 @@ msgid "No wallets defined"
 msgstr "Nincsenek tárcák"
 
 msgid "You haven't defined any wallets in your address editor. If you have troubles setting your worker, read this <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>tutorial</a>."
-msgstr "Nincs megadva semmilyen tárca a címszerkesztőben. Ha gondjai vannak a worker beállításával kapcsolatban, olvassa el ezt a <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>bemutatót</a>."
+msgstr "Nincs megadva semmilyen tárca a címszerkesztőben. Ha gondjai vannak a gépe beállításával kapcsolatban, olvassa el ezt a <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>bemutatót</a>."
 
 msgid "Go to address editor"
 msgstr "Menj a cím szerkesztőhöz"
@@ -2483,13 +2483,13 @@ msgid "Crashed drivers"
 msgstr "Összeomlott illesztőprogramok"
 
 msgid "All workers are online"
-msgstr "Minden workers elérhető"
+msgstr "Minden gép elérhető"
 
 msgid "All hardware successfully detected"
 msgstr "Minden hardver sikeresen felismerve"
 
 msgid "Check whole diagnostic"
-msgstr ""
+msgstr "További diagnosztika"
 
 msgid "Market view"
 msgstr "Piac nézet"
@@ -2714,7 +2714,7 @@ msgid "Up to 1,000 workers"
 msgstr "1000 gépig"
 
 msgid "per worker per month"
-msgstr "havonta egy worker"
+msgstr "/ gép / hó"
 
 msgid "Custom plan"
 msgstr "Egyedi fiók"
@@ -2861,7 +2861,7 @@ msgid "Sub total"
 msgstr "Részösszeg"
 
 msgid "Taxes"
-msgstr "Adók"
+msgstr "ÁFA"
 
 msgid "Proceed to payment"
 msgstr "Tovább a fizetésre"
@@ -2870,7 +2870,7 @@ msgid "Upgrade now"
 msgstr "Frissítés most"
 
 msgid "Total price"
-msgstr "Teljes ár"
+msgstr "Végösszeg"
 
 msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr "Már rendelkezik white label kiegészítővel. Ha valami több is érdekelné, vegye fel velünk a kapcsolatot a <a href=\"/billing-order/custom\">kérdőív</a> segítségével."
@@ -2915,13 +2915,13 @@ msgid "Monitor your balance on wallets and pools."
 msgstr "Monitorozd a tárcád egyenlegeit és a poolokat."
 
 msgid "Worker's details page shows historical hashrate for all coins that were mined."
-msgstr "Worker adatok oldal a bányászott érmék történelmi hashratejét mutatja."
+msgstr "Gép adatok oldal a bányászott érmék történelmi hashratejét mutatja."
 
 msgid "Hashrate historical data"
 msgstr "Hashrate történelmi adatok"
 
 msgid "Per worker statistics show you the historical efficiency data."
-msgstr "Workerenkénti statisztikai történelmi hatékonysági adatok."
+msgstr "Gépenkénti statisztikai történelmi hatékonysági adatok."
 
 msgid "Efficiency historical data"
 msgstr "Hatékonysági történelmi adatok"
@@ -2990,7 +2990,7 @@ msgid "Workers data saved every"
 msgstr "Gépek mentett adatai"
 
 msgid "10 minutes"
-msgstr "10 perces"
+msgstr "10 percenként"
 
 msgid "Balance monitoring for"
 msgstr "Egyenleg monitorozása"
@@ -2999,7 +2999,7 @@ msgid "5 wallets & 5 pools"
 msgstr "5 tárca és 5 pool"
 
 msgid "Access to all new custom themes"
-msgstr "Hozzáférés az összes új egyéni témához"
+msgstr "Hozzáférés az összes új egyedi témához"
 
 msgid "export"
 msgstr "exportálás"
