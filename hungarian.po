@@ -1010,7 +1010,7 @@ msgid "Log out"
 msgstr "Kijelentkezés"
 
 msgid "of"
-msgstr "ezen"
+msgstr "/"
 
 msgid "1 worker remaining until your plan requires an upgrade."
 msgstr "1 gépet tud még hozzáadni, mielőtt frissíteni kellene a csomagját."
