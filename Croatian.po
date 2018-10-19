@@ -1,302 +1,302 @@
 msgid "ASIC's default username is"
-msgstr ""
+msgstr "ASIC zadano korisničko ime je"
 
 msgid "ASIC's default password is"
-msgstr ""
+msgstr "ASIC zadana lozinka je"
 
 msgid "Offline"
-msgstr ""
+msgstr "Ugašen"
 
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 msgid "Details"
-msgstr ""
+msgstr "Detalji"
 
 msgid "CPU mining disabled"
-msgstr ""
+msgstr "CPU rudarenje onemogućeno"
 
 msgid "CPU mining enabled"
-msgstr ""
+msgstr "CPU rudarenje omogućeno"
 
 msgid "Profit switch disabled"
-msgstr ""
+msgstr "Prebacivač profita onemogućen"
 
 msgid "Profit switch enabled"
-msgstr ""
+msgstr "Prebacivač profita omogućen"
 
 msgid "CPU mining"
-msgstr ""
+msgstr "CPU rudarenje"
 
 msgid "Without notes"
-msgstr ""
+msgstr "Bez bilješki"
 
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 msgid "Reboot machine"
-msgstr ""
+msgstr "Ponovno podizanje stroja"
 
 msgid "Restart software"
-msgstr ""
+msgstr "Ponovno pokretanje softvera"
 
 msgid "Switch miner"
-msgstr ""
+msgstr "Promijeni miner"
 
 msgid "Profit switch"
-msgstr ""
+msgstr "Prebacivač profita"
 
 msgid "Config"
-msgstr ""
+msgstr "Konfiguracija"
 
 msgid "Idle"
-msgstr ""
+msgstr "Besposlen"
 
 msgid "Switching"
-msgstr ""
+msgstr "Prebacivanje"
 
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 msgid "Error"
-msgstr ""
+msgstr "Greška"
 
 msgid "Mining"
-msgstr ""
+msgstr "Rudarenje"
 
 msgid "Last seen:"
-msgstr ""
+msgstr "Zadnji put viđen:"
 
 msgid "Uptime"
-msgstr ""
+msgstr "Neprekinuto vrijeme rada"
 
 msgid "Earnings"
-msgstr ""
+msgstr "Zarada"
 
 msgid "Max. temp"
-msgstr ""
+msgstr "Maksimalna temperatura"
 
 msgid "Max. fans"
-msgstr ""
+msgstr "Maksimalni ventilatori"
 
 msgid "Watt"
-msgstr ""
+msgstr "Watt"
 
 msgid "Note"
-msgstr ""
+msgstr "Bilješka"
 
 msgid "Without note"
-msgstr ""
+msgstr "Bez bilješke"
 
-msgid "chars left"
-msgstr ""
+msgid "Chars left"
+msgstr "Preostalo znakova"
 
 msgid "No, keep it"
-msgstr ""
+msgstr "Ne, zadrži"
 
 msgid "Yes, delete it"
-msgstr ""
+msgstr "Da, izbriši"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ponovno pokreni"
 
 msgid "Yes, restart it"
-msgstr ""
+msgstr "Da, ponovno pokreni"
 
 msgid "Reboot"
-msgstr ""
+msgstr "Ponovno podizanje"
 
 msgid "Yes, reboot it"
-msgstr ""
+msgstr "Da, ponovno podigni"
 
 msgid "workers"
-msgstr ""
+msgstr "Radnici"
 
 msgid "No, keep them"
-msgstr ""
+msgstr "Ne, zadrži ih"
 
 msgid "Yes, delete them"
-msgstr ""
+msgstr "Da, izbriši ih"
 
 msgid "Shut down"
-msgstr ""
+msgstr "Ugasi"
 
 msgid "Yes, shut them down"
-msgstr ""
+msgstr "Da, ugasi ih"
 
 msgid "Yes, reboot them"
-msgstr ""
+msgstr "Da,ponovno ih podigni "
 
 msgid "Yes, restart them"
-msgstr ""
+msgstr "Da, ponovno ih pokreni"
 
 msgid "Jan"
-msgstr ""
+msgstr "Sij"
 
 msgid "Feb"
-msgstr ""
+msgstr "Velj"
 
 msgid "Mar"
-msgstr ""
+msgstr "Ožu"
 
 msgid "Apr"
-msgstr ""
+msgstr "Tra"
 
 msgid "May"
-msgstr ""
+msgstr "Svi"
 
 msgid "Jun"
-msgstr ""
+msgstr "Lip"
 
 msgid "Jul"
-msgstr ""
+msgstr "Srp"
 
 msgid "Aug"
-msgstr ""
+msgstr "Kol"
 
 msgid "Sep"
-msgstr ""
+msgstr "Ruj"
 
 msgid "Oct"
-msgstr ""
+msgstr "List"
 
 msgid "Nov"
-msgstr ""
+msgstr "Stu"
 
 msgid "Dec"
-msgstr ""
+msgstr "Pro"
 
 msgid "Mon"
-msgstr ""
+msgstr "Pon"
 
 msgid "Tue"
-msgstr ""
+msgstr "Uto"
 
 msgid "Wed"
-msgstr ""
+msgstr "Sri"
 
 msgid "Thu"
-msgstr ""
+msgstr "Čet"
 
 msgid "Fri"
-msgstr ""
+msgstr "Pet"
 
 msgid "Sat"
-msgstr ""
+msgstr "Sub"
 
 msgid "Sun"
-msgstr ""
+msgstr "Ned"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Povečaj"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardver"
 
 msgid "Speed"
-msgstr ""
+msgstr "Brzina"
 
 msgid "Power"
-msgstr ""
+msgstr "Snaga"
 
 msgid "Temp"
-msgstr ""
+msgstr "Temperatura"
 
 msgid "Fans"
-msgstr ""
+msgstr "Ventilatori"
 
 msgid "Crypto"
-msgstr ""
+msgstr "Crypto"
 
 msgid "Efficiency"
-msgstr ""
+msgstr "Efikasnost"
 
 msgid "Estimated monthly earnings"
-msgstr ""
+msgstr "Procijenjena mjesečna zarada"
 
 msgid "Pool"
-msgstr ""
+msgstr "Pool"
 
 msgid "Undetected hardware"
-msgstr ""
+msgstr "Neotkriven hardver"
 
 msgid "Invalid tag used"
-msgstr ""
+msgstr "Neispravna oznaka korištena"
 
 msgid "Hot"
-msgstr ""
+msgstr "Vruće"
 
 msgid "Very hot"
-msgstr ""
+msgstr "Jako vruće"
 
 msgid "Open terminal"
-msgstr ""
+msgstr "Otvori terminal"
 
 msgid "Open local terminal"
-msgstr ""
+msgstr "Otvori lokalni terminal"
 
 msgid "Open remote terminal"
-msgstr ""
+msgstr "Otvori daljinski terminal"
 
 msgid "Open Web"
-msgstr ""
+msgstr "Otvori web"
 
 msgid "Open SSH"
-msgstr ""
+msgstr "Otvori SSH"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Nepoznato"
 
 msgid "sec"
-msgstr ""
+msgstr "sek"
 
 msgid "min"
-msgstr ""
+msgstr "min"
 
 msgid "GPU"
-msgstr ""
+msgstr "GPU"
 
 msgid "No data on hardware available for this worker."
-msgstr ""
+msgstr "Nema podataka o dostupnom hardveru za tog radnika"
 
 msgid "No data on mining available for this worker."
-msgstr ""
+msgstr "Nema podataka o rudarenju za tog radnika"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "No data on CPU available for this worker."
-msgstr ""
+msgstr "Nema podataka o CPU za tog radnika"
 
 msgid "hashrate"
-msgstr ""
+msgstr "hashrate"
 
 msgid "Hashrate"
-msgstr ""
+msgstr "Hashrate"
 
 msgid "No data"
-msgstr ""
+msgstr "Nema podataka"
 
 msgid "All"
-msgstr ""
+msgstr "Sve"
 
 msgid "Temperature"
-msgstr ""
+msgstr "Temperatura"
 
 msgid "VERY HOT"
-msgstr ""
+msgstr "JAKO VRUĆE"
 
 msgid "HOT"
-msgstr ""
+msgstr "VRUĆE"
 
 msgid "Driver error"
-msgstr ""
+msgstr "Greška upravljačkog programa"
 
 msgid "'s notes"
-msgstr ""
+msgstr "bilješke"
 
 msgid "th"
 msgstr ""
@@ -311,841 +311,844 @@ msgid "rd"
 msgstr ""
 
 msgid "Today"
-msgstr ""
+msgstr "Danas"
 
 msgid "Yesterday"
-msgstr ""
+msgstr "Jučer"
 
 msgid "Temperature trigger - Change fans"
-msgstr ""
+msgstr "Temperaturni okidač - Promijeni ventilatore"
 
 msgid "Temperature trigger - Shut down"
-msgstr ""
+msgstr "Temperaturni okidač - Ugasi"
 
 msgid "Temperature trigger - Reboot"
-msgstr ""
+msgstr "Temperaturni okidač - Ponovno podigni"
 
 msgid "Temperature trigger - Restart"
-msgstr ""
+msgstr "Temperaturni okidač - Ponovno pokreni"
 
 msgid "Unresponsive trigger"
-msgstr ""
+msgstr "Okidač ne reagira"
 
 msgid "Time trigger - Change fans"
-msgstr ""
+msgstr "Vremenski okidač - Promijeni ventilatore"
 
 msgid "Time trigger - Shut down"
-msgstr ""
+msgstr "Vremenski okidač - Ugasi"
 
 msgid "Time trigger - Reboot"
-msgstr ""
+msgstr "Vremenski okidač - Ponovno podigni"
 
 msgid "Time trigger - Restart"
-msgstr ""
+msgstr "Vremenski okidač - Ponovno pokreni"
 
 msgid "Idle trigger - Shut down"
-msgstr ""
+msgstr "Besposleni okidač - Ugasi"
 
 msgid "Idle trigger - Reboot"
-msgstr ""
+msgstr "Besposleni okidač - Ponovno podigni"
 
 msgid "Idle trigger - Restart"
-msgstr ""
+msgstr "Besposleni okidač - Ponovno pokreni"
 
 msgid "Hashrate trigger - Shut down"
-msgstr ""
+msgstr "Hashrate okidač - Ugasi"
 
 msgid "Hashrate trigger - Reboot"
-msgstr ""
+msgstr "Hashrate okidač - Ponovno podigni"
 
 msgid "Hashrate trigger - Restart"
-msgstr ""
+msgstr "Hashrate okidač - Ponovno pokreni"
 
 msgid "Efficiency trigger - Shut down"
-msgstr ""
+msgstr "Okidač učinkovitost - Ugasi"
 
 msgid "Efficiency trigger - Reboot"
-msgstr ""
+msgstr "Okidač učinkovitost - Ponovno podigni"
 
 msgid "Efficiency trigger - Restart"
-msgstr ""
+msgstr "Okidač učinkovitost - Ponovno pokreni"
 
 msgid "Scheduler has started"
-msgstr ""
+msgstr "Raspoređivač je započeo"
 
 msgid "Scheduler has ended"
-msgstr ""
+msgstr "Raspoređivač je završio"
 
 msgid "High temperature"
-msgstr ""
+msgstr "Visoke temperature"
 
 msgid "Efficiency drop"
-msgstr ""
+msgstr "Pad efiikasnosti"
 
 msgid "Worker went offline"
-msgstr ""
+msgstr "Radnik se ugasio"
 
 msgid "Worker came back online"
-msgstr ""
+msgstr "Radnik se ponovno upalio"
 
 msgid "ASIC alert"
-msgstr ""
+msgstr "ASIC obavijest"
 
 msgid "Hashrate drop"
-msgstr ""
+msgstr "Pad heshrate"
 
 msgid "Mining client changed (GPU)"
-msgstr ""
+msgstr "Promijenjen rudasrki klijent (GPU)"
 
 msgid "Mining client changed (CPU)"
-msgstr ""
+msgstr "Promijenjen rudasrki klijent (CPU)"
 
 msgid "Profit switch updated"
-msgstr ""
+msgstr "Prebacivač profita ažuriran"
 
 msgid "Manual shut down"
-msgstr ""
+msgstr "Ručno gašenje"
 
 msgid "Manual restart"
-msgstr ""
+msgstr "Ručno ponovno pokretanje "
 
 msgid "Manual reboot"
-msgstr ""
+msgstr "Ručno Ponovno podizanje"
 
 msgid "Config updated"
-msgstr ""
+msgstr "Konfiguracija ažurirana"
 
 msgid "ClockTune updated"
-msgstr ""
+msgstr "ClockTune ažuriran"
 
 msgid "profitability"
-msgstr ""
+msgstr "profitabilnost"
 
 msgid "day"
-msgstr ""
+msgstr "dan"
 
 msgid "Daily profitability"
-msgstr ""
+msgstr "Dnevna profitabilnost"
 
 msgid "Your first data will be ready soon"
-msgstr ""
+msgstr "Vaši prvi podatci će biti sremni uskoro"
 
 msgid "please check again in few minutes"
-msgstr ""
+msgstr "Molimo provjerite ponovo za nekoliko minuta "
 
 msgid "January"
-msgstr ""
+msgstr "Siječanj"
 
 msgid "February"
-msgstr ""
+msgstr "Veljača"
 
 msgid "March"
-msgstr ""
+msgstr "Ožujak"
 
 msgid "April"
-msgstr ""
+msgstr "Travanj"
+
+msgid "May"
+msgstr "Svibanj"
 
 msgid "June"
-msgstr ""
+msgstr "Lipanj"
 
 msgid "July"
-msgstr ""
+msgstr "Srpanj"
 
 msgid "August"
-msgstr ""
+msgstr "Kolovoz"
 
 msgid "September"
-msgstr ""
+msgstr "Rujan"
 
 msgid "October"
-msgstr ""
+msgstr "Listopad"
 
 msgid "November"
-msgstr ""
+msgstr "Studeni"
 
 msgid "December"
-msgstr ""
+msgstr "Prosinac"
 
 msgid "Worker's profitability"
-msgstr ""
+msgstr "Profitabilnost radnika"
 
 msgid "Delete trigger?"
-msgstr ""
+msgstr "Izbrisati okidač? "
 
 msgid "Delete schedule?"
-msgstr ""
+msgstr "Izbrisati raspored?"
 
 msgid "Autoselect"
-msgstr ""
+msgstr "Automatski odabir"
 
 msgid "Wallet"
-msgstr ""
+msgstr "Wallet"
 
 msgid "Fee"
-msgstr ""
+msgstr "Provizija"
 
 msgid "Client"
-msgstr ""
+msgstr "Klijent"
 
 msgid "Worker"
-msgstr ""
+msgstr "Radnik"
 
 msgid "Event"
-msgstr ""
+msgstr "Događaj"
 
 msgid "View worker"
-msgstr ""
+msgstr "Pogledaj radnika"
 
 msgid "No logs"
-msgstr ""
+msgstr "Nema zapisa"
 
 msgid "We didn't detect any special actions for your workers in the last 24 hours."
-msgstr ""
+msgstr "U posljednjih 24 sata nismo otkrili nikakve posebne radnje za vaše radnike."
 
 msgid "Manage your workers"
-msgstr ""
+msgstr "Upravljajte svojim radnicima"
 
 msgid "Import finished"
-msgstr ""
+msgstr "Uvoz gotov"
 
 msgid "Please provide valid worker's name to continue."
-msgstr ""
+msgstr "Navedite valjano ime radnika za nastavak"
 
 msgid "Global profitability"
-msgstr ""
+msgstr "Globalna profitabilnost"
 
 msgid "Profitability per coin"
-msgstr ""
+msgstr "Profitabilnost po coinu"
 
 msgid "Avg. daily profitability"
-msgstr ""
+msgstr "Prosiječna dnevna profitabilnsot"
 
 msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Antminer ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži, što znači da je korisničko ime/lozinka Antminer <b>root/admin</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "Workers"
-msgstr ""
+msgstr "Radnici"
 
 msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Baikal ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Baikal <b>admin/root</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj DragonMint ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka DragonMint <b>admin/dragonadmin</b>. Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Innosilicon ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "Online, but not mining."
 msgstr ""
 
 msgid "Unidentified hardware"
-msgstr ""
+msgstr "Neidentificirani hardver"
 
 msgid "High temperature for"
-msgstr ""
+msgstr "Visoka temperatura za"
 
 msgid "Possible driver issues for"
-msgstr ""
+msgstr "Mogući problemi s upravljačkim programom za"
 
 msgid "No temperature data for"
-msgstr ""
+msgstr "Nema podataka o temperaturi za"
 
 msgid "No fans data for"
-msgstr ""
+msgstr "Nema podataka o ventilatorima za"
 
 msgid "No speed data for"
-msgstr ""
+msgstr "Nema podataka o brzini za"
 
 msgid "No info for coin. Send us pool details and we will add support for it."
-msgstr ""
+msgstr "Nema informacija o coinu. Pošaljite detalje poola i dodat ćemo podršku za njega"
 
 msgid "No pool defined"
-msgstr ""
+msgstr "Pool nije definiran"
 
 msgid "Tags defined in worker's config are invalid"
-msgstr ""
+msgstr "Oznake definirane u konfiguraciji radnika su nevažeće"
 
 msgid "No issues"
-msgstr ""
+msgstr "Nema problema"
 
 msgid "We didn't detect any issues with your account and workers."
-msgstr ""
+msgstr "Nismo otkrili nikakve probleme s vašim računom i radnicima."
 
 msgid "2FA set and e-mail confirmed."
-msgstr ""
+msgstr "2FA postavljen i e-mail potvrđen."
 
 msgid "All workers are online."
-msgstr ""
+msgstr "Svi radnici su na mreži."
 
 msgid "All hardware successfully detected."
-msgstr ""
+msgstr "Sav hardver uspješno otkriven"
 
 msgid "No hardware with temperature 75°C or more."
-msgstr ""
+msgstr "Nema hardvera s temperaturom od 75 ° C ili više"
 
 msgid "No invalid tags or undetected pools or coins."
-msgstr ""
+msgstr "Nema nevažeće oznake ili neotkriveni pool ili coin"
 
 msgid "Consumption:"
-msgstr ""
+msgstr "Potrošnja:"
 
 msgid "days"
-msgstr ""
+msgstr "dani"
 
 msgid "more"
-msgstr ""
+msgstr "više"
 
 msgid "All workers have normal temperature."
-msgstr ""
+msgstr "Svi radnici imaju normalnu temperaturu."
 
 msgid "All hardware detected."
-msgstr ""
+msgstr "Sav hardver otkriven."
 
 msgid "Last seen"
-msgstr ""
+msgstr "Zadnji put viđen"
 
 msgid "Low"
-msgstr ""
+msgstr "Nisko"
 
 msgid "Avg"
-msgstr ""
+msgstr "Prosječno"
 
 msgid "Max"
-msgstr ""
+msgstr "Maksimalno"
 
 msgid "Rename"
-msgstr ""
+msgstr "Preimenuj"
 
 msgid "Enter"
-msgstr ""
+msgstr "Unesi"
 
 msgid "Name new room"
-msgstr ""
+msgstr "Imenuj novu sobu"
 
 msgid "Mounting"
-msgstr ""
+msgstr "Montiranje"
 
 msgid "Open in new tab"
-msgstr ""
+msgstr "Otvori u novoj kartici"
 
 msgid "Mount/Unmount"
-msgstr ""
+msgstr "Montiraj/Odmontiraj"
 
 msgid "worker(s)"
-msgstr ""
+msgstr "Radnik(ci)"
 
 msgid "Included in update"
-msgstr ""
+msgstr "Uključeno u ažuriranje"
 
 msgid "Excluded from update"
-msgstr ""
+msgstr "Isključeno u ažuriranje"
 
 msgid "Simple overclocking"
-msgstr ""
+msgstr "Jednostavan overclocking"
 
 msgid "Advanced overclocking"
-msgstr ""
+msgstr "Napredan overclocking"
 
 msgid "Please fill required fields. Thank you!"
-msgstr ""
+msgstr "Ispunite obavezna polja. Hvala vam!"
 
 msgid "Months"
-msgstr ""
+msgstr "Mjeseci"
 
 msgid "Month"
-msgstr ""
+msgstr "Mjesec"
 
 msgid "2 workers"
-msgstr ""
+msgstr "2 radnika"
 
 msgid "5 workers"
-msgstr ""
+msgstr "5 radnika"
 
 msgid "10 workers"
-msgstr ""
+msgstr "10 radnika"
 
 msgid "15 workers"
-msgstr ""
+msgstr "15 radnika"
 
 msgid "20 workers"
-msgstr ""
+msgstr "20 radnika"
 
 msgid "30 workers"
-msgstr ""
+msgstr "30 radnika"
 
 msgid "40 workers"
-msgstr ""
+msgstr "40 radnika"
 
 msgid "50 workers"
-msgstr ""
+msgstr "50 radnika"
 
 msgid "60 workers"
-msgstr ""
+msgstr "60 radnika"
 
 msgid "70 workers"
-msgstr ""
+msgstr "70 radnika"
 
 msgid "80 workers"
-msgstr ""
+msgstr "80 radnika"
 
 msgid "90 workers"
-msgstr ""
+msgstr "90 radnika"
 
 msgid "100 workers"
-msgstr ""
+msgstr "100 radnika"
 
 msgid "110 workers"
-msgstr ""
+msgstr "110 radnika"
 
 msgid "120 workers"
-msgstr ""
+msgstr "120 radnika"
 
 msgid "130 workers"
-msgstr ""
+msgstr "130 radnika"
 
 msgid "140 workers"
-msgstr ""
+msgstr "140 radnika"
 
 msgid "150 workers"
-msgstr ""
+msgstr "150 radnika"
 
 msgid "160 workers"
-msgstr ""
+msgstr "160 radnika"
 
 msgid "170 workers"
-msgstr ""
+msgstr "170 radnika"
 
 msgid "180 workers"
-msgstr ""
+msgstr "180 radnika"
 
 msgid "190 workers"
-msgstr ""
+msgstr "190 radnika"
 
 msgid "200 workers"
-msgstr ""
+msgstr "200 radnika"
 
 msgid "210 workers"
-msgstr ""
+msgstr "210 radnika"
 
 msgid "220 workers"
-msgstr ""
+msgstr "220 radnika"
 
 msgid "230 workers"
-msgstr ""
+msgstr "230 radnika"
 
 msgid "240 workers"
-msgstr ""
+msgstr "240 radnika"
 
 msgid "250 workers"
-msgstr ""
+msgstr "250 radnika"
 
 msgid "260 workers"
-msgstr ""
+msgstr "260 radnika"
 
 msgid "270 workers"
-msgstr ""
+msgstr "270 radnika"
 
 msgid "280 workers"
-msgstr ""
+msgstr "280 radnika"
 
 msgid "290 workers"
-msgstr ""
+msgstr "290 radnika"
 
 msgid "300 workers"
-msgstr ""
+msgstr "300 radnika"
 
 msgid "310 workers"
-msgstr ""
+msgstr "310 radnika"
 
 msgid "320 workers"
-msgstr ""
+msgstr "320 radnika"
 
 msgid "330 workers"
-msgstr ""
+msgstr "330 radnika"
 
 msgid "340 workers"
-msgstr ""
+msgstr "340 radnika"
 
 msgid "350 workers"
-msgstr ""
+msgstr "350 radnika"
 
 msgid "360 workers"
-msgstr ""
+msgstr "360 radnika"
 
 msgid "370 workers"
-msgstr ""
+msgstr "370 radnika"
 
 msgid "380 workers"
-msgstr ""
+msgstr "380 radnika"
 
 msgid "390 workers"
-msgstr ""
+msgstr "390 radnika"
 
 msgid "400 workers"
-msgstr ""
+msgstr "400 radnika"
 
 msgid "410 workers"
-msgstr ""
+msgstr "410 radnika"
 
 msgid "420 workers"
-msgstr ""
+msgstr "420 radnika"
 
 msgid "430 workers"
-msgstr ""
+msgstr "430 radnika"
 
 msgid "440 workers"
-msgstr ""
+msgstr "440 radnika"
 
 msgid "450 workers"
-msgstr ""
+msgstr "450 radnika"
 
 msgid "460 workers"
-msgstr ""
+msgstr "460 radnika"
 
 msgid "470 workers"
-msgstr ""
+msgstr "470 radnika"
 
 msgid "480 workers"
-msgstr ""
+msgstr "480 radnika"
 
 msgid "490 workers"
-msgstr ""
+msgstr "490 radnika"
 
 msgid "500 workers"
-msgstr ""
+msgstr "500 radnika"
 
 msgid "510 workers"
-msgstr ""
+msgstr "510 radnika"
 
 msgid "520 workers"
-msgstr ""
+msgstr "520 radnika"
 
 msgid "530 workers"
-msgstr ""
+msgstr "530 radnika"
 
 msgid "540 workers"
-msgstr ""
+msgstr "540 radnika"
 
 msgid "550 workers"
-msgstr ""
+msgstr "550 radnika"
 
 msgid "560 workers"
-msgstr ""
+msgstr "560 radnika"
 
 msgid "570 workers"
-msgstr ""
+msgstr "570 radnika"
 
 msgid "580 workers"
-msgstr ""
+msgstr "580 radnika"
 
 msgid "590 workers"
-msgstr ""
+msgstr "590 radnika"
 
 msgid "600 workers"
-msgstr ""
+msgstr "600 radnika"
 
 msgid "610 workers"
-msgstr ""
+msgstr "610 radnika"
 
 msgid "620 workers"
-msgstr ""
+msgstr "620 radnika"
 
 msgid "630 workers"
-msgstr ""
+msgstr "630 radnika"
 
 msgid "640 workers"
-msgstr ""
+msgstr "640 radnika"
 
 msgid "650 workers"
-msgstr ""
+msgstr "650 radnika"
 
 msgid "660 workers"
-msgstr ""
+msgstr "660 radnika"
 
 msgid "670 workers"
-msgstr ""
+msgstr "670 radnika"
 
 msgid "680 workers"
-msgstr ""
+msgstr "680 radnika"
 
 msgid "690 workers"
-msgstr ""
+msgstr "690 radnika"
 
 msgid "700 workers"
-msgstr ""
+msgstr "700 radnika"
 
 msgid "710 workers"
-msgstr ""
+msgstr "710 radnika"
 
 msgid "720 workers"
-msgstr ""
+msgstr "720 radnika"
 
 msgid "730 workers"
-msgstr ""
+msgstr "730 radnika"
 
 msgid "740 workers"
-msgstr ""
+msgstr "740 radnika"
 
 msgid "750 workers"
-msgstr ""
+msgstr "750 radnika"
 
 msgid "760 workers"
-msgstr ""
+msgstr "760 radnika"
 
 msgid "770 workers"
-msgstr ""
+msgstr "770 radnika"
 
 msgid "780 workers"
-msgstr ""
+msgstr "780 radnika"
 
 msgid "790 workers"
-msgstr ""
+msgstr "790 radnika"
 
 msgid "800 workers"
-msgstr ""
+msgstr "800 radnika"
 
 msgid "810 workers"
-msgstr ""
+msgstr "810 radnika"
 
 msgid "820 workers"
-msgstr ""
+msgstr "820 radnika"
 
 msgid "830 workers"
-msgstr ""
+msgstr "830 radnika"
 
 msgid "840 workers"
-msgstr ""
+msgstr "840 radnika"
 
 msgid "850 workers"
-msgstr ""
+msgstr "850 radnika"
 
 msgid "860 workers"
-msgstr ""
+msgstr "860 radnika"
 
 msgid "870 workers"
-msgstr ""
+msgstr "870 radnika"
 
 msgid "880 workers"
-msgstr ""
+msgstr "880 radnika"
 
 msgid "890 workers"
-msgstr ""
+msgstr "890 radnika"
 
 msgid "900 workers"
-msgstr ""
+msgstr "900 radnika"
 
 msgid "910 workers"
-msgstr ""
+msgstr "910 radnika"
 
 msgid "920 workers"
-msgstr ""
+msgstr "920 radnika"
 
 msgid "930 workers"
-msgstr ""
+msgstr "930 radnika"
 
 msgid "940 workers"
-msgstr ""
+msgstr "940 radnika"
 
 msgid "950 workers"
-msgstr ""
+msgstr "950 radnika"
 
 msgid "960 workers"
-msgstr ""
+msgstr "960 radnika"
 
 msgid "970 workers"
-msgstr ""
+msgstr "970 radnika"
 
 msgid "980 workers"
-msgstr ""
+msgstr "980 radnika"
 
 msgid "990 workers"
-msgstr ""
+msgstr "990 radnika"
 
 msgid "1000 workers"
-msgstr ""
+msgstr "1000 radnika"
 
 msgid "Balance"
-msgstr ""
+msgstr "Bilanca"
 
 msgid "Income"
-msgstr ""
+msgstr "Prihod"
 
 msgid "Outgo"
-msgstr ""
+msgstr "Izdatak"
 
 msgid "Value"
-msgstr ""
+msgstr "Vrijednost"
 
 msgid "There were no changes detected on your pools & wallets."
-msgstr ""
+msgstr "Nije bilo otkrivenih promjena na vašim poolovima i walletima"
 
 msgid "E-mail sent!"
-msgstr ""
+msgstr "E-mail poslan"
 
 msgid "Please check your inbox and confirm your account to proceed."
-msgstr ""
+msgstr "Provjerite svoju pristiglu poštu i potvrdite svoj račun da biste nastavili."
 
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 msgid "Settings"
-msgstr ""
+msgstr "Postavke"
 
 msgid "Billing"
-msgstr ""
+msgstr "Naplata"
 
 msgid "Manage users"
-msgstr ""
+msgstr "Upravljanje korisnicima"
 
 msgid "White label"
-msgstr ""
+msgstr "Bijela oznaka"
 
 msgid "Help"
-msgstr ""
+msgstr "Pomoć"
 
 msgid "Log out"
-msgstr ""
+msgstr "Odjavite se"
 
 msgid "of"
-msgstr ""
+msgstr "od"
 
 msgid "1 worker remaining until your plan requires an upgrade."
-msgstr ""
+msgstr "1 radnika preostalo dok vaš plan ne zahtijeva nadogradnju."
 
 msgid "Upgrade your plan to add additional workers."
-msgstr ""
+msgstr "Nadogradite svoj plan za dodavanje dodatnih radnika."
 
 msgid "workers remaining until your plan requires an upgrade."
-msgstr ""
+msgstr "radnici koji su preostali sve dok vaš plan ne zahtijeva nadogradnju."
 
 msgid "Upgrade"
-msgstr ""
+msgstr "Nadogradnja"
 
 msgid "Over limit"
-msgstr ""
+msgstr "Prekoračenje"
 
 msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
-msgstr ""
+msgstr "Vaš račun ima više radnika nego što vaš plan može imati. Nadogradite svoj račun ili izbrišite neke od svojih radnika."
 
 msgid "Upgrade account"
-msgstr ""
+msgstr "Nadogradite račun"
 
 msgid "Delete workers"
-msgstr ""
+msgstr "Brisanje radnika"
 
 msgid "Customers"
-msgstr ""
+msgstr "Kupci"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Kontrolna ploča"
 
 msgid "Customers dashboard"
 msgstr ""
 
 msgid "Customers workers"
-msgstr ""
+msgstr "Nadzorna ploča kupca"
 
 msgid "General"
-msgstr ""
+msgstr "Općenito"
 
 msgid "Control room"
-msgstr ""
+msgstr "Kontrolna soba"
 
 msgid "Global statistics"
-msgstr ""
+msgstr "Globalna statistiika"
 
 msgid "Per worker statistics"
-msgstr ""
+msgstr "Statistika po radniku"
 
 msgid "Balance statistics"
-msgstr ""
+msgstr "Statistika stanja"
 
 msgid "Export data"
-msgstr ""
+msgstr "Izvoz podataka"
 
 msgid "24h logs"
-msgstr ""
+msgstr "24h dnevnici"
 
 msgid "Diagnostic"
-msgstr ""
+msgstr "Diagnostika"
 
 msgid "Address editor"
-msgstr ""
+msgstr "Uređivač adresa"
 
 msgid "ClockTune™"
-msgstr ""
+msgstr "ClockTune"
 
 msgid "Worker config"
-msgstr ""
+msgstr "Konfiguracija radnika"
 
 msgid "Alerts"
-msgstr ""
+msgstr "Upozorenja"
 
 msgid "Triggers"
-msgstr ""
+msgstr "Okidači"
 
 msgid "Balance monitoring"
-msgstr ""
+msgstr "Praćenje stanja"
 
 msgid "Wallets"
-msgstr ""
+msgstr "Wallets"
 
 msgid "Pools"
-msgstr ""
+msgstr "Pools"
 
 msgid "Tools"
-msgstr ""
+msgstr "Alati"
 
 msgid "Scheduler"
-msgstr ""
+msgstr "Planer"
 
 msgid "Market cap"
-msgstr ""
+msgstr "Tržišna kapitalizacija"
 
 msgid "Mining calculator"
-msgstr ""
+msgstr "Kalkulator rudarenja"
 
 msgid "Coins"
-msgstr ""
+msgstr "Coini"
 
 msgid "AMD strap editor"
-msgstr ""
+msgstr "AMD strap editor"
 
 msgid "Bug report"
-msgstr ""
+msgstr "Izvješće o greškama"
 
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 msgid "Terms"
-msgstr ""
+msgstr "Uvjeti"
 
 msgid "Privacy"
-msgstr ""
+msgstr "Privatnost"
 
 msgid "About"
-msgstr ""
+msgstr "About"
 
 msgid "Software"
-msgstr ""
+msgstr "Softvere"
 
 msgid "API"
-msgstr ""
+msgstr "API"
 
 msgid "Ambassadors"
-msgstr ""
+msgstr "Ambasadoir"
 
 msgid "Change log"
-msgstr ""
+msgstr "Zapisnik promjena"
 
 msgid "Without a date of expiry"
-msgstr ""
+msgstr "Bez datuma isteka"
 
 msgid "FREE"
-msgstr ""
+msgstr "Besplatno"
 
 msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
 msgstr ""
