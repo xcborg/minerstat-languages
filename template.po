@@ -1,0 +1,3282 @@
+msgid "ASIC's default username is"
+msgstr ""
+
+msgid "ASIC's default password is"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "CPU mining disabled"
+msgstr ""
+
+msgid "CPU mining enabled"
+msgstr ""
+
+msgid "Profit switch disabled"
+msgstr ""
+
+msgid "Profit switch enabled"
+msgstr ""
+
+msgid "CPU mining"
+msgstr ""
+
+msgid "Without notes"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Reboot machine"
+msgstr ""
+
+msgid "Restart software"
+msgstr ""
+
+msgid "Switch miner"
+msgstr ""
+
+msgid "Profit switch"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "Switching"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Mining"
+msgstr ""
+
+msgid "Last seen:"
+msgstr ""
+
+msgid "Uptime"
+msgstr ""
+
+msgid "Earnings"
+msgstr ""
+
+msgid "Max. temp"
+msgstr ""
+
+msgid "Max. fans"
+msgstr ""
+
+msgid "Watt"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Without note"
+msgstr ""
+
+msgid "chars left"
+msgstr ""
+
+msgid "No, keep it"
+msgstr ""
+
+msgid "Yes, delete it"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Yes, restart it"
+msgstr ""
+
+msgid "Reboot"
+msgstr ""
+
+msgid "Yes, reboot it"
+msgstr ""
+
+msgid "workers"
+msgstr ""
+
+msgid "No, keep them"
+msgstr ""
+
+msgid "Yes, delete them"
+msgstr ""
+
+msgid "Shut down"
+msgstr ""
+
+msgid "Yes, shut them down"
+msgstr ""
+
+msgid "Yes, reboot them"
+msgstr ""
+
+msgid "Yes, restart them"
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Temp"
+msgstr ""
+
+msgid "Fans"
+msgstr ""
+
+msgid "Crypto"
+msgstr ""
+
+msgid "Efficiency"
+msgstr ""
+
+msgid "Estimated monthly earnings"
+msgstr ""
+
+msgid "Pool"
+msgstr ""
+
+msgid "Undetected hardware"
+msgstr ""
+
+msgid "Invalid tag used"
+msgstr ""
+
+msgid "Hot"
+msgstr ""
+
+msgid "Very hot"
+msgstr ""
+
+msgid "Open terminal"
+msgstr ""
+
+msgid "Open local terminal"
+msgstr ""
+
+msgid "Open remote terminal"
+msgstr ""
+
+msgid "Open Web"
+msgstr ""
+
+msgid "Open SSH"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "sec"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "GPU"
+msgstr ""
+
+msgid "No data on hardware available for this worker."
+msgstr ""
+
+msgid "No data on mining available for this worker."
+msgstr ""
+
+msgid "CPU"
+msgstr ""
+
+msgid "No data on CPU available for this worker."
+msgstr ""
+
+msgid "hashrate"
+msgstr ""
+
+msgid "Hashrate"
+msgstr ""
+
+msgid "No data"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Temperature"
+msgstr ""
+
+msgid "VERY HOT"
+msgstr ""
+
+msgid "HOT"
+msgstr ""
+
+msgid "Driver error"
+msgstr ""
+
+msgid "'s notes"
+msgstr ""
+
+msgid "th"
+msgstr ""
+
+msgid "st"
+msgstr ""
+
+msgid "nd"
+msgstr ""
+
+msgid "rd"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Temperature trigger - Change fans"
+msgstr ""
+
+msgid "Temperature trigger - Shut down"
+msgstr ""
+
+msgid "Temperature trigger - Reboot"
+msgstr ""
+
+msgid "Temperature trigger - Restart"
+msgstr ""
+
+msgid "Unresponsive trigger"
+msgstr ""
+
+msgid "Time trigger - Change fans"
+msgstr ""
+
+msgid "Time trigger - Shut down"
+msgstr ""
+
+msgid "Time trigger - Reboot"
+msgstr ""
+
+msgid "Time trigger - Restart"
+msgstr ""
+
+msgid "Idle trigger - Shut down"
+msgstr ""
+
+msgid "Idle trigger - Reboot"
+msgstr ""
+
+msgid "Idle trigger - Restart"
+msgstr ""
+
+msgid "Hashrate trigger - Shut down"
+msgstr ""
+
+msgid "Hashrate trigger - Reboot"
+msgstr ""
+
+msgid "Hashrate trigger - Restart"
+msgstr ""
+
+msgid "Efficiency trigger - Shut down"
+msgstr ""
+
+msgid "Efficiency trigger - Reboot"
+msgstr ""
+
+msgid "Efficiency trigger - Restart"
+msgstr ""
+
+msgid "Scheduler has started"
+msgstr ""
+
+msgid "Scheduler has ended"
+msgstr ""
+
+msgid "High temperature"
+msgstr ""
+
+msgid "Efficiency drop"
+msgstr ""
+
+msgid "Worker went offline"
+msgstr ""
+
+msgid "Worker came back online"
+msgstr ""
+
+msgid "ASIC alert"
+msgstr ""
+
+msgid "Hashrate drop"
+msgstr ""
+
+msgid "Mining client changed (GPU)"
+msgstr ""
+
+msgid "Mining client changed (CPU)"
+msgstr ""
+
+msgid "Profit switch updated"
+msgstr ""
+
+msgid "Manual shut down"
+msgstr ""
+
+msgid "Manual restart"
+msgstr ""
+
+msgid "Manual reboot"
+msgstr ""
+
+msgid "Config updated"
+msgstr ""
+
+msgid "ClockTune updated"
+msgstr ""
+
+msgid "profitability"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "Daily profitability"
+msgstr ""
+
+msgid "Your first data will be ready soon"
+msgstr ""
+
+msgid "please check again in few minutes"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Worker's profitability"
+msgstr ""
+
+msgid "Delete trigger?"
+msgstr ""
+
+msgid "Delete schedule?"
+msgstr ""
+
+msgid "Autoselect"
+msgstr ""
+
+msgid "Wallet"
+msgstr ""
+
+msgid "Fee"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Worker"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "View worker"
+msgstr ""
+
+msgid "No logs"
+msgstr ""
+
+msgid "We didn't detect any special actions for your workers in the last 24 hours."
+msgstr ""
+
+msgid "Manage your workers"
+msgstr ""
+
+msgid "Import finished"
+msgstr ""
+
+msgid "Please provide valid worker's name to continue."
+msgstr ""
+
+msgid "Global profitability"
+msgstr ""
+
+msgid "Profitability per coin"
+msgstr ""
+
+msgid "Avg. daily profitability"
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "Workers"
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
+msgid "Online, but not mining."
+msgstr ""
+
+msgid "Unidentified hardware"
+msgstr ""
+
+msgid "High temperature for"
+msgstr ""
+
+msgid "Possible driver issues for"
+msgstr ""
+
+msgid "No temperature data for"
+msgstr ""
+
+msgid "No fans data for"
+msgstr ""
+
+msgid "No speed data for"
+msgstr ""
+
+msgid "No info for coin. Send us pool details and we will add support for it."
+msgstr ""
+
+msgid "No pool defined"
+msgstr ""
+
+msgid "Tags defined in worker's config are invalid"
+msgstr ""
+
+msgid "No issues"
+msgstr ""
+
+msgid "We didn't detect any issues with your account and workers."
+msgstr ""
+
+msgid "2FA set and e-mail confirmed."
+msgstr ""
+
+msgid "All workers are online."
+msgstr ""
+
+msgid "All hardware successfully detected."
+msgstr ""
+
+msgid "No hardware with temperature 75°C or more."
+msgstr ""
+
+msgid "No invalid tags or undetected pools or coins."
+msgstr ""
+
+msgid "Consumption:"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "All workers have normal temperature."
+msgstr ""
+
+msgid "All hardware detected."
+msgstr ""
+
+msgid "Last seen"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Avg"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Name new room"
+msgstr ""
+
+msgid "Mounting"
+msgstr ""
+
+msgid "Open in new tab"
+msgstr ""
+
+msgid "Mount/Unmount"
+msgstr ""
+
+msgid "worker(s)"
+msgstr ""
+
+msgid "Included in update"
+msgstr ""
+
+msgid "Excluded from update"
+msgstr ""
+
+msgid "Simple overclocking"
+msgstr ""
+
+msgid "Advanced overclocking"
+msgstr ""
+
+msgid "Please fill required fields. Thank you!"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "2 workers"
+msgstr ""
+
+msgid "5 workers"
+msgstr ""
+
+msgid "10 workers"
+msgstr ""
+
+msgid "15 workers"
+msgstr ""
+
+msgid "20 workers"
+msgstr ""
+
+msgid "30 workers"
+msgstr ""
+
+msgid "40 workers"
+msgstr ""
+
+msgid "50 workers"
+msgstr ""
+
+msgid "60 workers"
+msgstr ""
+
+msgid "70 workers"
+msgstr ""
+
+msgid "80 workers"
+msgstr ""
+
+msgid "90 workers"
+msgstr ""
+
+msgid "100 workers"
+msgstr ""
+
+msgid "110 workers"
+msgstr ""
+
+msgid "120 workers"
+msgstr ""
+
+msgid "130 workers"
+msgstr ""
+
+msgid "140 workers"
+msgstr ""
+
+msgid "150 workers"
+msgstr ""
+
+msgid "160 workers"
+msgstr ""
+
+msgid "170 workers"
+msgstr ""
+
+msgid "180 workers"
+msgstr ""
+
+msgid "190 workers"
+msgstr ""
+
+msgid "200 workers"
+msgstr ""
+
+msgid "210 workers"
+msgstr ""
+
+msgid "220 workers"
+msgstr ""
+
+msgid "230 workers"
+msgstr ""
+
+msgid "240 workers"
+msgstr ""
+
+msgid "250 workers"
+msgstr ""
+
+msgid "260 workers"
+msgstr ""
+
+msgid "270 workers"
+msgstr ""
+
+msgid "280 workers"
+msgstr ""
+
+msgid "290 workers"
+msgstr ""
+
+msgid "300 workers"
+msgstr ""
+
+msgid "310 workers"
+msgstr ""
+
+msgid "320 workers"
+msgstr ""
+
+msgid "330 workers"
+msgstr ""
+
+msgid "340 workers"
+msgstr ""
+
+msgid "350 workers"
+msgstr ""
+
+msgid "360 workers"
+msgstr ""
+
+msgid "370 workers"
+msgstr ""
+
+msgid "380 workers"
+msgstr ""
+
+msgid "390 workers"
+msgstr ""
+
+msgid "400 workers"
+msgstr ""
+
+msgid "410 workers"
+msgstr ""
+
+msgid "420 workers"
+msgstr ""
+
+msgid "430 workers"
+msgstr ""
+
+msgid "440 workers"
+msgstr ""
+
+msgid "450 workers"
+msgstr ""
+
+msgid "460 workers"
+msgstr ""
+
+msgid "470 workers"
+msgstr ""
+
+msgid "480 workers"
+msgstr ""
+
+msgid "490 workers"
+msgstr ""
+
+msgid "500 workers"
+msgstr ""
+
+msgid "510 workers"
+msgstr ""
+
+msgid "520 workers"
+msgstr ""
+
+msgid "530 workers"
+msgstr ""
+
+msgid "540 workers"
+msgstr ""
+
+msgid "550 workers"
+msgstr ""
+
+msgid "560 workers"
+msgstr ""
+
+msgid "570 workers"
+msgstr ""
+
+msgid "580 workers"
+msgstr ""
+
+msgid "590 workers"
+msgstr ""
+
+msgid "600 workers"
+msgstr ""
+
+msgid "610 workers"
+msgstr ""
+
+msgid "620 workers"
+msgstr ""
+
+msgid "630 workers"
+msgstr ""
+
+msgid "640 workers"
+msgstr ""
+
+msgid "650 workers"
+msgstr ""
+
+msgid "660 workers"
+msgstr ""
+
+msgid "670 workers"
+msgstr ""
+
+msgid "680 workers"
+msgstr ""
+
+msgid "690 workers"
+msgstr ""
+
+msgid "700 workers"
+msgstr ""
+
+msgid "710 workers"
+msgstr ""
+
+msgid "720 workers"
+msgstr ""
+
+msgid "730 workers"
+msgstr ""
+
+msgid "740 workers"
+msgstr ""
+
+msgid "750 workers"
+msgstr ""
+
+msgid "760 workers"
+msgstr ""
+
+msgid "770 workers"
+msgstr ""
+
+msgid "780 workers"
+msgstr ""
+
+msgid "790 workers"
+msgstr ""
+
+msgid "800 workers"
+msgstr ""
+
+msgid "810 workers"
+msgstr ""
+
+msgid "820 workers"
+msgstr ""
+
+msgid "830 workers"
+msgstr ""
+
+msgid "840 workers"
+msgstr ""
+
+msgid "850 workers"
+msgstr ""
+
+msgid "860 workers"
+msgstr ""
+
+msgid "870 workers"
+msgstr ""
+
+msgid "880 workers"
+msgstr ""
+
+msgid "890 workers"
+msgstr ""
+
+msgid "900 workers"
+msgstr ""
+
+msgid "910 workers"
+msgstr ""
+
+msgid "920 workers"
+msgstr ""
+
+msgid "930 workers"
+msgstr ""
+
+msgid "940 workers"
+msgstr ""
+
+msgid "950 workers"
+msgstr ""
+
+msgid "960 workers"
+msgstr ""
+
+msgid "970 workers"
+msgstr ""
+
+msgid "980 workers"
+msgstr ""
+
+msgid "990 workers"
+msgstr ""
+
+msgid "1000 workers"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Income"
+msgstr ""
+
+msgid "Outgo"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "There were no changes detected on your pools & wallets."
+msgstr ""
+
+msgid "E-mail sent!"
+msgstr ""
+
+msgid "Please check your inbox and confirm your account to proceed."
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Manage users"
+msgstr ""
+
+msgid "White label"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "1 worker remaining until your plan requires an upgrade."
+msgstr ""
+
+msgid "Upgrade your plan to add additional workers."
+msgstr ""
+
+msgid "workers remaining until your plan requires an upgrade."
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Over limit"
+msgstr ""
+
+msgid "Your account has more workers than your tier plan can have. Please upgrade your account or delete some of your workers."
+msgstr ""
+
+msgid "Upgrade account"
+msgstr ""
+
+msgid "Delete workers"
+msgstr ""
+
+msgid "Customers"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Customers dashboard"
+msgstr ""
+
+msgid "Customers workers"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Control room"
+msgstr ""
+
+msgid "Global statistics"
+msgstr ""
+
+msgid "Per worker statistics"
+msgstr ""
+
+msgid "Balance statistics"
+msgstr ""
+
+msgid "Export data"
+msgstr ""
+
+msgid "24h logs"
+msgstr ""
+
+msgid "Diagnostic"
+msgstr ""
+
+msgid "Address editor"
+msgstr ""
+
+msgid "ClockTune™"
+msgstr ""
+
+msgid "Worker config"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "Triggers"
+msgstr ""
+
+msgid "Balance monitoring"
+msgstr ""
+
+msgid "Wallets"
+msgstr ""
+
+msgid "Pools"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Scheduler"
+msgstr ""
+
+msgid "Market cap"
+msgstr ""
+
+msgid "Mining calculator"
+msgstr ""
+
+msgid "Coins"
+msgstr ""
+
+msgid "AMD strap editor"
+msgstr ""
+
+msgid "Bug report"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "Ambassadors"
+msgstr ""
+
+msgid "Change log"
+msgstr ""
+
+msgid "Without a date of expiry"
+msgstr ""
+
+msgid "FREE"
+msgstr ""
+
+msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
+msgstr ""
+
+msgid "Worker name shouldn't exceed 15 chars."
+msgstr ""
+
+msgid "Limit reached, upgrade your plan."
+msgstr ""
+
+msgid "Invalid ASIC IP."
+msgstr ""
+
+msgid "Unable to add worker."
+msgstr ""
+
+msgid "Worker name already in use."
+msgstr ""
+
+msgid "Unknown error."
+msgstr ""
+
+msgid "Add your first worker"
+msgstr ""
+
+msgid "to manage and monitor its mining activity"
+msgstr ""
+
+msgid "Add new worker"
+msgstr ""
+
+msgid "Worker name"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "SSH username"
+msgstr ""
+
+msgid "ASIC's default username is root"
+msgstr ""
+
+msgid "SSH password"
+msgstr ""
+
+msgid "ASIC's default password is admin"
+msgstr ""
+
+msgid "Groups / Locations (optional)"
+msgstr ""
+
+msgid "Add a group ..."
+msgstr ""
+
+msgid "Successfully saved"
+msgstr ""
+
+msgid "There was something wrong."
+msgstr ""
+
+msgid "Add worker"
+msgstr ""
+
+msgid "Bulk import"
+msgstr ""
+
+msgid "Looking for software?"
+msgstr ""
+
+msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Limit reached"
+msgstr ""
+
+msgid "out of"
+msgstr ""
+
+msgid "workers are being monitored"
+msgstr ""
+
+msgid "Action for"
+msgstr ""
+
+msgid "Max. Temp"
+msgstr ""
+
+msgid "Max. Fans"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Yes, shut it down"
+msgstr ""
+
+msgid "Please note that this action will delete worker's data permanently and cannot be undone."
+msgstr ""
+
+msgid "Please note that this action will reboot your mining machine."
+msgstr ""
+
+msgid "Please note that this action will restart your mining software only."
+msgstr ""
+
+msgid "Worker's note"
+msgstr ""
+
+msgid "Clear content"
+msgstr ""
+
+msgid "Discard changes"
+msgstr ""
+
+msgid "Save note"
+msgstr ""
+
+msgid "Please make sure that you have also updated the worker's name on your software. Renaming the worker might cause the differences in statistics."
+msgstr ""
+
+msgid "New name"
+msgstr ""
+
+msgid "ASIC local IP"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Change worker"
+msgstr ""
+
+msgid "Non-existent worker"
+msgstr ""
+
+msgid "This worker is not part of your account."
+msgstr ""
+
+msgid "Back to workers list"
+msgstr ""
+
+msgid "Profit switch in"
+msgstr ""
+
+msgid "Edit config"
+msgstr ""
+
+msgid "Shut down machine"
+msgstr ""
+
+msgid "Daily earnings"
+msgstr ""
+
+msgid "GPUs"
+msgstr ""
+
+msgid "Max temp."
+msgstr ""
+
+msgid "Max fans"
+msgstr ""
+
+msgid "Free space"
+msgstr ""
+
+msgid "Free mem"
+msgstr ""
+
+msgid "Power cons."
+msgstr ""
+
+msgid "Local IP"
+msgstr ""
+
+msgid "Remote IP"
+msgstr ""
+
+msgid "Last sync"
+msgstr ""
+
+msgid "Hashrate stats not available yet."
+msgstr ""
+
+msgid "Estimated monthly"
+msgstr ""
+
+msgid "Temperature stats not available yet."
+msgstr ""
+
+msgid "Make sure the worker is using the correct access key:"
+msgstr ""
+
+msgid "Need help?"
+msgstr ""
+
+msgid "Previous worker"
+msgstr ""
+
+msgid "Next worker"
+msgstr ""
+
+msgid "Please note that this action will shut down your machine."
+msgstr ""
+
+msgid "Yes, shut down"
+msgstr ""
+
+msgid "'s console log"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "This worker doesn't exist on your account."
+msgstr ""
+
+msgid "vs. yesterday"
+msgstr ""
+
+msgid "vs. same day last week"
+msgstr ""
+
+msgid "Last 7 days"
+msgstr ""
+
+msgid "vs. previous 7 days"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "vs. same period last month"
+msgstr ""
+
+msgid "Last 30 days"
+msgstr ""
+
+msgid "vs. previous 30 days"
+msgstr ""
+
+msgid "Need more stats?"
+msgstr ""
+
+msgid "Get minerstat+ to monitor up to 60 days of data."
+msgstr ""
+
+msgid "Last 3 days"
+msgstr ""
+
+msgid "Not enough data"
+msgstr ""
+
+msgid "Statistics will be automatically updated once available."
+msgstr ""
+
+msgid "Worker's latest activity"
+msgstr ""
+
+msgid "Nothing new"
+msgstr ""
+
+msgid "No worker or group selected"
+msgstr ""
+
+msgid "This mining software doesn't exist."
+msgstr ""
+
+msgid "No such workers/groups"
+msgstr ""
+
+msgid "Unknown error occured."
+msgstr ""
+
+msgid "Add an individual worker or groups"
+msgstr ""
+
+msgid "Add workers or groups ..."
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Tip: If you want to modify a group which you have already made changes to, select a worker in that group, change its settings, then replace the worker name with the group name."
+msgstr ""
+
+msgid "You can select a worker or a group that you want to apply changes to. Applying changes to a group will only update individual workers inside that group."
+msgstr ""
+
+msgid "Add more or change groups for selected worker(s)"
+msgstr ""
+
+msgid "Add a group..."
+msgstr ""
+
+msgid "Default client"
+msgstr ""
+
+msgid "Select default client for selected worker(s)"
+msgstr ""
+
+msgid "Default CPU client"
+msgstr ""
+
+msgid "Select default CPU client for selected worker(s)"
+msgstr ""
+
+msgid "ClockTune profile"
+msgstr ""
+
+msgid "Select OC profile for selected worker(s)"
+msgstr ""
+
+msgid "Don't change"
+msgstr ""
+
+msgid "Enable or disable profit switch"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Change or update groups and select the default client for your worker(s). Optionally you can add overclocking profiles that are saved in ClockTune menu."
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "API parameters:"
+msgstr ""
+
+msgid "Reset to default"
+msgstr ""
+
+msgid "Clients' configuration"
+msgstr ""
+
+msgid "You can use the following tags that will automatically replace the variable with the value you have set in your address editor."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Tags marked red are undefined"
+msgstr ""
+
+msgid "Worker's name"
+msgstr ""
+
+msgid "Your e-mail address"
+msgstr ""
+
+msgid "Claymore's single mining"
+msgstr ""
+
+msgid "Claymore's dual mining"
+msgstr ""
+
+msgid "Pool address you saved under the name TAG"
+msgstr ""
+
+msgid "Wallet address you saved under the name TAG"
+msgstr ""
+
+msgid "Set tags in address editor"
+msgstr ""
+
+msgid "Clients' compatibility"
+msgstr ""
+
+msgid "View which mining clients are supported for your system and hardware."
+msgstr ""
+
+msgid "Supports AMD GPUs"
+msgstr ""
+
+msgid "Supports Nvidia GPUs"
+msgstr ""
+
+msgid "Supports CPU mining"
+msgstr ""
+
+msgid "Supports ASIC mining"
+msgstr ""
+
+msgid "Supports minerstat OS"
+msgstr ""
+
+msgid "Supports minerstat for Windows"
+msgstr ""
+
+msgid "Supports minerstat for Baikal"
+msgstr ""
+
+msgid "Supports minerstat for Antminer"
+msgstr ""
+
+msgid "Supports minerstat for DragonMint"
+msgstr ""
+
+msgid "Supports minerstat for Innosilicon"
+msgstr ""
+
+msgid "Supports minerstat for Dayun"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "White label is only available under special licence."
+msgstr ""
+
+msgid "What is white label?"
+msgstr ""
+
+msgid "White label is a licence that allows mining managers and cloud mining owners to show their clients the personalized and branded data without pointing out that hardware runs on minerstat software and on minerstat dashboard."
+msgstr ""
+
+msgid "Learn more about white label"
+msgstr ""
+
+msgid "Builder"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "White label URL"
+msgstr ""
+
+msgid "Consumption"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Wallet number limit reached."
+msgstr ""
+
+msgid "Please enter wallet address."
+msgstr ""
+
+msgid "Wallets monitoring"
+msgstr ""
+
+msgid "Add your first wallet"
+msgstr ""
+
+msgid "to monitor the balance and transactions"
+msgstr ""
+
+msgid "Add new wallet"
+msgstr ""
+
+msgid "Type of wallet"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "API key"
+msgstr ""
+
+msgid "API secret"
+msgstr ""
+
+msgid "Custom label"
+msgstr ""
+
+msgid "Add wallet"
+msgstr ""
+
+msgid "List the wallets and exchanges for which you want to monitor the balance."
+msgstr ""
+
+msgid "Need more wallets?"
+msgstr ""
+
+msgid "Get minerstat+ to monitor more wallets."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Last updated"
+msgstr ""
+
+msgid "Pending update"
+msgstr ""
+
+msgid "wallets"
+msgstr ""
+
+msgid "wallet"
+msgstr ""
+
+msgid "coins"
+msgstr ""
+
+msgid "coin"
+msgstr ""
+
+msgid "total balance"
+msgstr ""
+
+msgid "Please note that wallets are refreshed every 30 minutes."
+msgstr ""
+
+msgid "Please note that this action will delete the entry and all related data."
+msgstr ""
+
+msgid "Please provide valid email."
+msgstr ""
+
+msgid "Customer doesn't exist."
+msgstr ""
+
+msgid "Delete workers on account to decrese the number."
+msgstr ""
+
+msgid "You need to assign at least 1 worker."
+msgstr ""
+
+msgid "Invalid expiry date."
+msgstr ""
+
+msgid "Email already exists."
+msgstr ""
+
+msgid "Problem updating user."
+msgstr ""
+
+msgid "Invalid permission type."
+msgstr ""
+
+msgid "Problem creating user."
+msgstr ""
+
+msgid "Unable to delete this user."
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Upgrade your plan to manage users and customers."
+msgstr ""
+
+msgid "Team"
+msgstr ""
+
+msgid "Add your first team member"
+msgstr ""
+
+msgid "and let them access your account"
+msgstr ""
+
+msgid "Add new user"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Technical"
+msgstr ""
+
+msgid "Accounting"
+msgstr ""
+
+msgid "Guest"
+msgstr ""
+
+msgid "Send email invitation to user"
+msgstr ""
+
+msgid "Add user"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Last logged in"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Add your first customer"
+msgstr ""
+
+msgid "and manage their mining operation"
+msgstr ""
+
+msgid "Add new account"
+msgstr ""
+
+msgid "Plan name"
+msgstr ""
+
+msgid "Number of assigned workers"
+msgstr ""
+
+msgid "Expires in"
+msgstr ""
+
+msgid "7 days"
+msgstr ""
+
+msgid "14 days"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "2 months"
+msgstr ""
+
+msgid "3 months"
+msgstr ""
+
+msgid "4 months"
+msgstr ""
+
+msgid "5 months"
+msgstr ""
+
+msgid "6 months"
+msgstr ""
+
+msgid "7 months"
+msgstr ""
+
+msgid "8 months"
+msgstr ""
+
+msgid "9 months"
+msgstr ""
+
+msgid "10 months"
+msgstr ""
+
+msgid "11 months"
+msgstr ""
+
+msgid "12 months"
+msgstr ""
+
+msgid "Add account"
+msgstr ""
+
+msgid "Expires on"
+msgstr ""
+
+msgid "Confirm changes"
+msgstr ""
+
+msgid "Please note that this action will delete all of the user's data permanently and cannot be undone."
+msgstr ""
+
+msgid "Upgrade your plan to add custom triggers."
+msgstr ""
+
+msgid "What are triggers?"
+msgstr ""
+
+msgid "While alerts and notifications make sure that you receive the message about various events, triggers allow you to take action automatically and immediately after the event is detected. You can select between 6 events with different settings, which can trigger 5 different actions."
+msgstr ""
+
+msgid "Learn more about triggers"
+msgstr ""
+
+msgid "If"
+msgstr ""
+
+msgid "GPU Temperature"
+msgstr ""
+
+msgid "ASIC Temperature"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Unresponsive"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "is"
+msgstr ""
+
+msgid "down by"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "then"
+msgstr ""
+
+msgid "Set fans"
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Add trigger"
+msgstr ""
+
+msgid "GPU temperature"
+msgstr ""
+
+msgid "ASIC temperature"
+msgstr ""
+
+msgid "Delete trigger"
+msgstr ""
+
+msgid "Disclaimer"
+msgstr ""
+
+msgid "This is advanced feature so please set triggers with caution and only if you take full responsibility for possible negative/undesired outcome or unexpected behaviour."
+msgstr ""
+
+msgid "Triggers with fan speed settings will override ClockTune profile settings."
+msgstr ""
+
+msgid "Please note that this action will delete your trigger."
+msgstr ""
+
+msgid "Thank you"
+msgstr ""
+
+msgid "Thank you!"
+msgstr ""
+
+msgid "Your order is complete - enjoy your upgrade!"
+msgstr ""
+
+msgid "Your order is being processed. We will notify you once your account is ready."
+msgstr ""
+
+msgid "Continue to dashboard"
+msgstr ""
+
+msgid "If you will face any troubles, check out our"
+msgstr ""
+
+msgid "help center"
+msgstr ""
+
+msgid "Public profile link"
+msgstr ""
+
+msgid "This profile is private"
+msgstr ""
+
+msgid "Make public"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Account settings"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Available in minerstat+"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Celsius"
+msgstr ""
+
+msgid "Fahrenheit"
+msgstr ""
+
+msgid "Earnings deduction percent"
+msgstr ""
+
+msgid "Sessions"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Access Type"
+msgstr ""
+
+msgid "Log out all"
+msgstr ""
+
+msgid "Upgrade your plan to use scheduler."
+msgstr ""
+
+msgid "What is scheduler?"
+msgstr ""
+
+msgid "The scheduler is a tool that gives you an option to override all mining settings for a selected period of time in the day. You can define multiple scheduler profiles to organize your mining activity or use it as an automatic mining manager's fee tool."
+msgstr ""
+
+msgid "Learn more about scheduler"
+msgstr ""
+
+msgid "Add your first scheduler profile"
+msgstr ""
+
+msgid "for some or all workers"
+msgstr ""
+
+msgid "Add new profile"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "ClockTune"
+msgstr ""
+
+msgid "Please note that this action will delete the scheduler profile and interrupt all scheduled workers."
+msgstr ""
+
+msgid "Missing client configuration."
+msgstr ""
+
+msgid "Please select valid FROM - TO time."
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile title"
+msgstr ""
+
+msgid "Describe your scheduler profile"
+msgstr ""
+
+msgid "Set the timetable"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Mining client"
+msgstr ""
+
+msgid "Select client to use for the schedule"
+msgstr ""
+
+msgid "From profit switch"
+msgstr ""
+
+msgid "Profile settings"
+msgstr ""
+
+msgid "Define schedule, name your scheduler profile, select the client and edit its config."
+msgstr ""
+
+msgid "This client is not available."
+msgstr ""
+
+msgid "Select coin"
+msgstr ""
+
+msgid "Select pool"
+msgstr ""
+
+msgid "Select wallet"
+msgstr ""
+
+msgid "Coin"
+msgstr ""
+
+msgid "Pool fee"
+msgstr ""
+
+msgid "fee"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Profit switch algorithm will select the most profitable coin every 10 minutes from listed coins. Please make sure that you have connected the right pools and wallets with the right coins and algorithms."
+msgstr ""
+
+msgid "Mining clients"
+msgstr ""
+
+msgid "Autoselect option will automatically select most suitable client and configure it for you. If you select a client by yourself you can edit its config manually."
+msgstr ""
+
+msgid "Algorithm"
+msgstr ""
+
+msgid "Power consumption"
+msgstr ""
+
+msgid "Hashrate and consumption settings"
+msgstr ""
+
+msgid "Update hashrates and consumptions settings for listed algorithms to make best use of automatic profitability switching."
+msgstr ""
+
+msgid "Dual mining"
+msgstr ""
+
+msgid "Update information on hashrate and consumption for dual mining coins."
+msgstr ""
+
+msgid "Electricity costs"
+msgstr ""
+
+msgid "What are your electricity costs?"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "Update information on your electricity costs."
+msgstr ""
+
+msgid "Minimum difference"
+msgstr ""
+
+msgid "Type in percent"
+msgstr ""
+
+msgid "Minimum mining time"
+msgstr ""
+
+msgid "Select time"
+msgstr ""
+
+msgid "hour(s)"
+msgstr ""
+
+msgid "When to switch?"
+msgstr ""
+
+msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
+msgstr ""
+
+msgid "Client's config"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Pool number limit reached."
+msgstr ""
+
+msgid "Invalid Key."
+msgstr ""
+
+msgid "Invalid address."
+msgstr ""
+
+msgid "Add your first pool"
+msgstr ""
+
+msgid "to monitor the balance"
+msgstr ""
+
+msgid "Add new pool"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "API Secret"
+msgstr ""
+
+msgid "API ID"
+msgstr ""
+
+msgid "Add pool"
+msgstr ""
+
+msgid "List the pools for which you want to monitor the balance."
+msgstr ""
+
+msgid "Need more pools?"
+msgstr ""
+
+msgid "Get minerstat+ to monitor more pools."
+msgstr ""
+
+msgid "Last updated:"
+msgstr ""
+
+msgid "pools"
+msgstr ""
+
+msgid "pool"
+msgstr ""
+
+msgid "Please note that pools are refreshed every 20 minutes."
+msgstr ""
+
+msgid "Market Capitalizations"
+msgstr ""
+
+msgid "Market Cap"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Circulating Supply"
+msgstr ""
+
+msgid "Volume (24h)"
+msgstr ""
+
+msgid "Change (24h)"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Last 24h logs"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Filter your results to examine the events more closely."
+msgstr ""
+
+msgid "Manual actions"
+msgstr ""
+
+msgid "Import workers"
+msgstr ""
+
+msgid "of your workers"
+msgstr ""
+
+msgid "Import workers (JSON)"
+msgstr ""
+
+msgid "Import from AwesomeMiner"
+msgstr ""
+
+msgid "Import from HiveOS"
+msgstr ""
+
+msgid "How does bulk import work?"
+msgstr ""
+
+msgid "With bulk import you can select JSON file that was generated with our tool named Locator.<br><br>Locator finds all devices in your network and generates file that makes importing of your workers easier and quicker."
+msgstr ""
+
+msgid "Learn more about Locator"
+msgstr ""
+
+msgid "This is the list of workers from your JSON file. Please confirm which workers you want to import to minerstat."
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "ASIC username (SSH)"
+msgstr ""
+
+msgid "ASIC password (SSH)"
+msgstr ""
+
+msgid "Copy values down"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Cancel import"
+msgstr ""
+
+msgid "Your HiveOS username"
+msgstr ""
+
+msgid "Your HiveOS password"
+msgstr ""
+
+msgid "Your HiveOS 2FA (If enabled)"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Hardware distribution"
+msgstr ""
+
+msgid "Global activity"
+msgstr ""
+
+msgid "active workers"
+msgstr ""
+
+msgid "active<br>hardware"
+msgstr ""
+
+msgid "with normal temparature"
+msgstr ""
+
+msgid "Top coins last 30 days"
+msgstr ""
+
+msgid "Top coins last 7 days"
+msgstr ""
+
+msgid "Top coins last 3 days"
+msgstr ""
+
+msgid "Daily average data"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Profitability data"
+msgstr ""
+
+msgid "Global statistics by day"
+msgstr ""
+
+msgid "Per worker statistics by day"
+msgstr ""
+
+msgid "Balance statistics by day"
+msgstr ""
+
+msgid "Detected changes in balance statistics"
+msgstr ""
+
+msgid "Full balance statistics by pools & wallets"
+msgstr ""
+
+msgid "Balance data"
+msgstr ""
+
+msgid "Full workers data"
+msgstr ""
+
+msgid "Hashrate data"
+msgstr ""
+
+msgid "Data export"
+msgstr ""
+
+msgid "Upgrade your plan to use data export."
+msgstr ""
+
+msgid "What is data export?"
+msgstr ""
+
+msgid "With data export you can export all of your historical data in CSV, JSON, or SQL format. The data is available as global data or by each worker, wallet, and pool independently. Data export is only available in minerstat+ add-on which also brings you up to 60 days of historical data."
+msgstr ""
+
+msgid "Learn more about statistics and data export"
+msgstr ""
+
+msgid "2FA is not activated"
+msgstr ""
+
+msgid "Set 2FA"
+msgstr ""
+
+msgid "Your e-mail is not confirmed. Please check your inbox."
+msgstr ""
+
+msgid "No wallets available for mining"
+msgstr ""
+
+msgid "No pools available for mining"
+msgstr ""
+
+msgid "Filter your results to examine the issues more closely."
+msgstr ""
+
+msgid "Account issues"
+msgstr ""
+
+msgid "Worker/Mining issues"
+msgstr ""
+
+msgid "Temperature data missing"
+msgstr ""
+
+msgid "Fans data missing"
+msgstr ""
+
+msgid "Speed data missing"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Temporary error."
+msgstr ""
+
+msgid "Invalid coin(s)."
+msgstr ""
+
+msgid "Invalid algorithm(s)."
+msgstr ""
+
+msgid "My minerstat dashboard"
+msgstr ""
+
+msgid "Market"
+msgstr ""
+
+msgid "Edit market view"
+msgstr ""
+
+msgid "different<br>coins"
+msgstr ""
+
+msgid "active<br>workers"
+msgstr ""
+
+msgid "total<br>Watt"
+msgstr ""
+
+msgid "mining<br>efficiency"
+msgstr ""
+
+msgid "Expected earnings"
+msgstr ""
+
+msgid "Per day"
+msgstr ""
+
+msgid "Per week"
+msgstr ""
+
+msgid "Per month"
+msgstr ""
+
+msgid "Top coins by algorithms"
+msgstr ""
+
+msgid "Edit algorithm view"
+msgstr ""
+
+msgid "Percentages show how much less profitable the coin is in comparison to the top coin for the shown algorithm."
+msgstr ""
+
+msgid "No wallets defined"
+msgstr ""
+
+msgid "You haven't defined any wallets in your address editor. If you have troubles setting your worker, read this <a target='_blank' href='https://medium.com/@minerstat/minerstat-mining-tutorial-1-how-to-start-61d279d7ce75'>tutorial</a>."
+msgstr ""
+
+msgid "Go to address editor"
+msgstr ""
+
+msgid "Offline workers"
+msgstr ""
+
+msgid "Crashed drivers"
+msgstr ""
+
+msgid "All workers are online"
+msgstr ""
+
+msgid "All hardware successfully detected"
+msgstr ""
+
+msgid "Check whole diagnostic"
+msgstr ""
+
+msgid "Market view"
+msgstr ""
+
+msgid "Algorithms view"
+msgstr ""
+
+msgid "Customers Workers"
+msgstr ""
+
+msgid "Rewards"
+msgstr ""
+
+msgid "Customers Dashboard"
+msgstr ""
+
+msgid "Manage customers"
+msgstr ""
+
+msgid "Daily revenue"
+msgstr ""
+
+msgid "Daily reward"
+msgstr ""
+
+msgid "Switch to this account"
+msgstr ""
+
+msgid "Unable to rename."
+msgstr ""
+
+msgid "Unknown room"
+msgstr ""
+
+msgid "Set room name"
+msgstr ""
+
+msgid "Room already exists"
+msgstr ""
+
+msgid "Room does not exist"
+msgstr ""
+
+msgid "Control rooms"
+msgstr ""
+
+msgid "Upgrade your plan to use control room."
+msgstr ""
+
+msgid "What is control room?"
+msgstr ""
+
+msgid "Organize your workers in the control room to visually fit your actual establishment.<br><br>Control room offers you better and quicker view over your rigs, their temperature and hashing speed. It can also be used as a heatmap."
+msgstr ""
+
+msgid "Learn more about control room"
+msgstr ""
+
+msgid "Create new room"
+msgstr ""
+
+msgid "Please note that this action will detach all the workers that are attached to this room."
+msgstr ""
+
+msgid "Compact"
+msgstr ""
+
+msgid "Extended"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Mount one or more workers at position (0,0)."
+msgstr ""
+
+msgid "Empty slot"
+msgstr ""
+
+msgid "Export profiles (JSON)"
+msgstr ""
+
+msgid "Import profiles (JSON)"
+msgstr ""
+
+msgid "Profile name"
+msgstr ""
+
+msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
+msgstr ""
+
+msgid "Add your first overclock profile"
+msgstr ""
+
+msgid "for AMD and Nvidia GPUs"
+msgstr ""
+
+msgid "Please name your profile."
+msgstr ""
+
+msgid "Unable to OC."
+msgstr ""
+
+msgid "No OC set."
+msgstr ""
+
+msgid "Name your OC profile"
+msgstr ""
+
+msgid "This is advanced setting and with using it, you take full responsibility for possible hardware damage. Overclocking might void hardware warranty."
+msgstr ""
+
+msgid "Power limit"
+msgstr ""
+
+msgid "Core Clock"
+msgstr ""
+
+msgid "Memory Clock"
+msgstr ""
+
+msgid "Fan speed"
+msgstr ""
+
+msgid "VDDC"
+msgstr ""
+
+msgid "VDDCI"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "When using advanced editor, make sure to separate values with a space (e.g. 110 108 107 108). Each value represents one GPU."
+msgstr ""
+
+msgid "Unequally filled values will be replaced with the last number. For example, if you enter '110 108 107' and you have 5 GPUs, last value '107' will be applied to the last two GPUs."
+msgstr ""
+
+msgid "Writing 0 or skip - will skip the currently applied setting that you have on msOS for AMD."
+msgstr ""
+
+msgid "Setting"
+msgstr ""
+
+msgid "GPU core voltage"
+msgstr ""
+
+msgid "I/O bus voltage"
+msgstr ""
+
+msgid "Fan curve"
+msgstr ""
+
+msgid "Auto-fan curve can be set through triggers."
+msgstr ""
+
+msgid "Go to triggers"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Billing details"
+msgstr ""
+
+msgid "Workers in a plan"
+msgstr ""
+
+msgid "Plan expiry"
+msgstr ""
+
+msgid "minerstat+ expiry"
+msgstr ""
+
+msgid "Billed to"
+msgstr ""
+
+msgid "Order log"
+msgstr ""
+
+msgid "Num."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Date paid"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "No past orders"
+msgstr ""
+
+msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
+msgstr ""
+
+msgid "Plans"
+msgstr ""
+
+msgid "Free plan"
+msgstr ""
+
+msgid "Up to 2 workers"
+msgstr ""
+
+msgid "forever"
+msgstr ""
+
+msgid "Tier plan"
+msgstr ""
+
+msgid "Up to 1,000 workers"
+msgstr ""
+
+msgid "per worker per month"
+msgstr ""
+
+msgid "Custom plan"
+msgstr ""
+
+msgid "For more than 1,000 workers"
+msgstr ""
+
+msgid "Add-ons"
+msgstr ""
+
+msgid "extended stats, themes & advanced features"
+msgstr ""
+
+msgid "per month"
+msgstr ""
+
+msgid "customized and branded customers' profiles"
+msgstr ""
+
+msgid "Add unlimited amount of customers and assign them the workers you bought."
+msgstr ""
+
+msgid "Unlimited customers"
+msgstr ""
+
+msgid "Add up to five links to the custom menu that will connect the customers' profile with your website."
+msgstr ""
+
+msgid "Custom menu"
+msgstr ""
+
+msgid "Customize your customers' profiles in your colors, fonts, logo, and choose between three different layouts."
+msgstr ""
+
+msgid "Your branding"
+msgstr ""
+
+msgid "Connect your customer's profile with your own domain. You will only need to set up a cname and the rest is taken care from minerstat dashboard."
+msgstr ""
+
+msgid "Your domain"
+msgstr ""
+
+msgid "Our designer will take the time to help you set up the customer's profile in your branding and advise you how to connect your brand and website with customer's profile on minerstat."
+msgstr ""
+
+msgid "Help from our designer"
+msgstr ""
+
+msgid "Monitor the traffic on your customers' profiles with your own Google Analytics code."
+msgstr ""
+
+msgid "Your Google Analytics"
+msgstr ""
+
+msgid "Remove any sign of minerstat copyright and let the customers' profiles be shown as your own."
+msgstr ""
+
+msgid "minerstat copyright removed"
+msgstr ""
+
+msgid "Licence type"
+msgstr ""
+
+msgid "Payment method"
+msgstr ""
+
+msgid "Various currencies"
+msgstr ""
+
+msgid "Supported by PayPal"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Supported by CoinGate"
+msgstr ""
+
+msgid "Customer data"
+msgstr ""
+
+msgid "This information is used for the issuance an official invoice for buying the service. We don't store your personal information; the data is saved with our invoicing partner Quaderno."
+msgstr ""
+
+msgid "Required field"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "VAT Number"
+msgstr ""
+
+msgid "Street Line 1"
+msgstr ""
+
+msgid "Street Line 2"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Order summary"
+msgstr ""
+
+msgid "Plan duration"
+msgstr ""
+
+msgid "Upgrade discount"
+msgstr ""
+
+msgid "For upgrading an existing unexpired plan."
+msgstr ""
+
+msgid "Duration discount"
+msgstr ""
+
+msgid "For ordering for longer period of time."
+msgstr ""
+
+msgid "Coupon code"
+msgstr ""
+
+msgid "Redeem"
+msgstr ""
+
+msgid "Sub total"
+msgstr ""
+
+msgid "Taxes"
+msgstr ""
+
+msgid "Proceed to payment"
+msgstr ""
+
+msgid "Upgrade now"
+msgstr ""
+
+msgid "Total price"
+msgstr ""
+
+msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr ""
+
+msgid "Billing order"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Join us on Discord where our awesome community will help you out."
+msgstr ""
+
+msgid "Go to Discord"
+msgstr ""
+
+msgid "24/7 Community Support"
+msgstr ""
+
+msgid "Global profitability data and profitability per group and coin."
+msgstr ""
+
+msgid "All software can be downloaded at any time and upgraded to the newest version for free."
+msgstr ""
+
+msgid "Free Software Upgrades"
+msgstr ""
+
+msgid "Per worker profitability data and profitability data per coin."
+msgstr ""
+
+msgid "Switch between light and dark theme."
+msgstr ""
+
+msgid "Go to settings"
+msgstr ""
+
+msgid "Light & Dark themes"
+msgstr ""
+
+msgid "Monitor your balance on wallets and pools."
+msgstr ""
+
+msgid "Worker's details page shows historical hashrate for all coins that were mined."
+msgstr ""
+
+msgid "Hashrate historical data"
+msgstr ""
+
+msgid "Per worker statistics show you the historical efficiency data."
+msgstr ""
+
+msgid "Efficiency historical data"
+msgstr ""
+
+msgid "Take actions when certain event occurs, such as temperature increase of hashrate drop."
+msgstr ""
+
+msgid "Event triggers"
+msgstr ""
+
+msgid "Global statistics and per worker statistics show you historical data of your profitability."
+msgstr ""
+
+msgid "Revenue historical data"
+msgstr ""
+
+msgid "Set up mobile alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr ""
+
+msgid "Mobile alerting"
+msgstr ""
+
+msgid "Worker's details page shows historical temperature for all GPUs or ASIC."
+msgstr ""
+
+msgid "Temperature historical data"
+msgstr ""
+
+msgid "Set up Telegram alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr ""
+
+msgid "Telegram alerting"
+msgstr ""
+
+msgid "Grant access to your team members or create new accounts for your customers."
+msgstr ""
+
+msgid "Multi-user management"
+msgstr ""
+
+msgid "Set up e-mail alerts for temperature change, offline or online status, hashrate drop, and more."
+msgstr ""
+
+msgid "Email alerting"
+msgstr ""
+
+msgid "Any account can be made public for quicker and easier monitoring."
+msgstr ""
+
+msgid "Public profile option"
+msgstr ""
+
+msgid "Organize your workers to control room to fit your actual establishment."
+msgstr ""
+
+msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
+msgstr ""
+
+msgid "Historical data"
+msgstr ""
+
+msgid "Last 14 days"
+msgstr ""
+
+msgid "Workers data saved every"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "Balance monitoring for"
+msgstr ""
+
+msgid "5 wallets & 5 pools"
+msgstr ""
+
+msgid "Access to all new custom themes"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "Last 60 days"
+msgstr ""
+
+msgid "Unlimited wallets & unlimited pools"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Include for 5 EUR/month"
+msgstr ""
+
+msgid "Number of workers"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "full price"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "save"
+msgstr ""
+
+msgid "Plan selection"
+msgstr ""
+
+msgid "Your account is fully upgraded. If you need more than 1,000 workers, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr ""
+
+msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr ""
+
+msgid "Last 6 days"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "2 wallets & 2 pools"
+msgstr ""
+
+msgid "Inquiry"
+msgstr ""
+
+msgid "Interested in more than 1,000 workers? Use the following form and let us know more about your business setup."
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Company registered for VAT?"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Type of workers"
+msgstr ""
+
+msgid "ASICs"
+msgstr ""
+
+msgid "GPUs & ASICs"
+msgstr ""
+
+msgid "Preferred payment method"
+msgstr ""
+
+msgid "Direct deposit to bank account"
+msgstr ""
+
+msgid "Message to us"
+msgstr ""
+
+msgid "Send message"
+msgstr ""
+
+msgid "Daily balance statistics"
+msgstr ""
+
+msgid "Detected changes"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "New balance"
+msgstr ""
+
+msgid "Please note that wallets are checked every 30 minutes and pools every 20 minutes. USD value is calculated using the most recent exchange rate."
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "No wallets or pools"
+msgstr ""
+
+msgid "You aren't monitoring any wallets or pools at the moment."
+msgstr ""
+
+msgid "AMD Strap Editor"
+msgstr ""
+
+msgid "Your BIOS strap"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Invalid content"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Recommendations"
+msgstr ""
+
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgstr ""
+
+msgid "Ambassador"
+msgstr ""
+
+msgid "Please confirm your e-mail address to set up alerts"
+msgstr ""
+
+msgid "Resend confirmation email"
+msgstr ""
+
+msgid "Notification setting"
+msgstr ""
+
+msgid "Telegram"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Upgrade your plan to use Telegram notifications."
+msgstr ""
+
+msgid "Upgrade your plan to use Mobile notifications."
+msgstr ""
+
+msgid "When worker goes offline"
+msgstr ""
+
+msgid "When worker comes back online"
+msgstr ""
+
+msgid "ASIC notifications"
+msgstr ""
+
+msgid "Hardware errors and high temperature"
+msgstr ""
+
+msgid "Efficiency rate drop"
+msgstr ""
+
+msgid "Connections"
+msgstr ""
+
+msgid "Telegram ID"
+msgstr ""
+
+msgid "Connect with Telegram"
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "Mobile device ID"
+msgstr ""
+
+msgid "Please enable 2FA first"
+msgstr ""
+
+msgid "The values of tags are used in workers config section."
+msgstr ""
+
+msgid "Export pools (JSON)"
+msgstr ""
+
+msgid "Import pools (JSON)"
+msgstr ""
+
+msgid "Pool address"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "Export wallets (JSON)"
+msgstr ""
+
+msgid "Import wallets (JSON)"
+msgstr ""
+
+msgid "Wallet address"
+msgstr ""
+
+msgid "Before deleting this tag, please make sure that it's no longer in use in your configurations."
+msgstr ""
+
+msgid "Account security"
+msgstr ""
+
+msgid "2FA setup"
+msgstr ""
+
+msgid "Your authentication code"
+msgstr ""
+
+msgid "Activate 2FA"
+msgstr ""
+
+msgid "Two Factor Authentication allows you to secure your user account and access it faster. Additionally, setting up 2FA will allow you to use <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>To set up your Google Auth 2FA follow the next steps."
+msgstr ""
+
+msgid "Scan the following QR Code to your Google Authenticator Application."
+msgstr ""
+
+msgid "Enter the key from the app and confirm your 2FA."
+msgstr ""
+
+msgid "Please note that after you successfully set up 2FA, the system will logged you out."
+msgstr ""
+
+msgid "Access key"
+msgstr ""
+
+msgid "Secret key"
+msgstr ""
+
+msgid "Date and time"
+msgstr ""
+
+msgid "Print recovery key"
+msgstr ""
+
+msgid "Finish setup"
+msgstr ""
+
+msgid "You have successfully set up your 2FA"
+msgstr ""
+
+msgid "Print your recovery key, save it, and finish with the setup."
+msgstr ""
+
+msgid "2FA activated"
+msgstr ""
+
+msgid "Successfully de-activated."
+msgstr ""
+
+msgid "De-activate 2FA"
+msgstr ""
+
+msgid "Your 2FA is activated."
+msgstr ""
+
+msgid "You will need to enter your authentication code to de-activate it."
+msgstr ""
+
