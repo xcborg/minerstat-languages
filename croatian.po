@@ -521,7 +521,7 @@ msgid "Profitability per coin"
 msgstr "Profitabilnost po coinu"
 
 msgid "Avg. daily profitability"
-msgstr "Prosiječna dnevna profitabilnsot"
+msgstr "Prosječna dnevna profitabilnsot"
 
 msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
 msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Antminer ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži, što znači da je korisničko ime/lozinka Antminer <b>root/admin</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
@@ -1022,7 +1022,7 @@ msgid "Upgrade your plan to add additional workers."
 msgstr "Nadogradite svoj plan za dodavanje dodatnih radnika."
 
 msgid "workers remaining until your plan requires an upgrade."
-msgstr "radnici koji su preostali sve dok vaš plan ne zahtijeva nadogradnju."
+msgstr "radnika su preostala prije nego vaš plan zahtijeva nadogradnju."
 
 msgid "Upgrade"
 msgstr "Nadogradnja"
@@ -1046,10 +1046,10 @@ msgid "Dashboard"
 msgstr "Kontrolna ploča"
 
 msgid "Customers dashboard"
-msgstr ""
+msgstr "Nadzorna ploča kupca"
 
 msgid "Customers workers"
-msgstr "Nadzorna ploča kupca"
+msgstr "Radnici kupca"
 
 msgid "General"
 msgstr "Općenito"
@@ -1232,7 +1232,7 @@ msgid "Limit reached"
 msgstr "Limit dostignut"
 
 msgid "out of"
-msgstr "van"
+msgstr "od"
 
 msgid "workers are being monitored"
 msgstr "radnici se nadziru"
@@ -1247,7 +1247,7 @@ msgid "Max. Fans"
 msgstr "Max. Vent"
 
 msgid "Actions"
-msgstr "Ranje"
+msgstr "Radnje"
 
 msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
 msgstr "Imajte na umu da će ova radnja isključiti rudarske sustave i morat ćete biti na lokaciji da biste ih ponovno uključili."
@@ -1628,7 +1628,7 @@ msgid "Add your first wallet"
 msgstr "Dodajte svoj prvi wallet"
 
 msgid "to monitor the balance and transactions"
-msgstr "pratiti stanje i transakcije"
+msgstr "pratite stanje i transakcije"
 
 msgid "Add new wallet"
 msgstr "Dodaj novi wallet"
@@ -2171,7 +2171,7 @@ msgid "Invalid address."
 msgstr "Nevažeća adresa."
 
 msgid "Add your first pool"
-msgstr Dodajte svoj prvi pool"
+msgstr "Dodajte svoj prvi pool"
 
 msgid "to monitor the balance"
 msgstr "za pračenje bilanse"
@@ -2216,7 +2216,7 @@ msgid "Market Capitalizations"
 msgstr "Tržišna kapitalizacija"
 
 msgid "Market Cap"
-msgstr "tržišni kapital"
+msgstr "Tržišna kapitalizacija"
 
 msgid "Price"
 msgstr "Cijena"
@@ -2234,7 +2234,7 @@ msgid "Logs"
 msgstr "Evidencije"
 
 msgid "Last 24h logs"
-msgstr Evidencija zadnja 24 sata"
+msgstr "Evidencija zadnja 24 sata"
 
 msgid "Filters"
 msgstr "Filteri"
@@ -2900,7 +2900,7 @@ msgid "All software can be downloaded at any time and upgraded to the newest ver
 msgstr "Sav softver se može preuzeti u bilo koje vrijeme i besplatno nadograditi na najnoviju verziju."
 
 msgid "Free Software Upgrades"
-msgstr "Besplatno Nadogradnje softvera"
+msgstr "Besplatna Nadogradnja softvera"
 
 msgid "Per worker profitability data and profitability data per coin."
 msgstr "Podaci o profitabilnosti radnika i podaci o profitabilnosti po coinu."
@@ -2996,7 +2996,7 @@ msgid "10 minutes"
 msgstr "10 minuta"
 
 msgid "Balance monitoring for"
-msgstr "Balance monitoring for"
+msgstr "Praćenje stanja za"
 
 msgid "5 wallets & 5 pools"
 msgstr "5 walleta & 5 poolova"
@@ -3017,7 +3017,7 @@ msgid "Exclude"
 msgstr "Isključiti"
 
 msgid "Include for 5 EUR/month"
-msgstr "Uvrstiza  5 EUR / mjesečno"
+msgstr "Uvrsti za  5 EUR / mjesečno"
 
 msgid "Number of workers"
 msgstr "Broj radnika"
