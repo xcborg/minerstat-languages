@@ -1151,7 +1151,7 @@ msgid "FREE"
 msgstr "Besplatno"
 
 msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
-msgstr "Naziv radnika može sadržavati samo <br> slova, brojeve, \ "_ \", \ "- \"."
+msgstr "Naziv radnika može sadržavati samo <br> slova, brojeve, \"_ \", \"- \"."
 
 msgid "Worker name shouldn't exceed 15 chars."
 msgstr "Naziv radnik ne smije prelaziti 15 znakova"
