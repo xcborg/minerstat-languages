@@ -395,7 +395,7 @@ msgid "Hashrate drop"
 msgstr "Pad heshrate"
 
 msgid "Mining client changed (GPU)"
-msgstr "Promijenjen rudasrki klijent (GPU)"
+msgstr "Promijenjen rudarski klijent (GPU)"
 
 msgid "Mining client changed (CPU)"
 msgstr "Promijenjen rudasrki klijent (CPU)"
@@ -410,7 +410,7 @@ msgid "Manual restart"
 msgstr "Ručno ponovno pokretanje "
 
 msgid "Manual reboot"
-msgstr "Ručno Ponovno podizanje"
+msgstr "Ručno ponovno podizanje"
 
 msgid "Config updated"
 msgstr "Konfiguracija ažurirana"
@@ -530,19 +530,19 @@ msgid "Workers"
 msgstr "Radnici"
 
 msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Baikal ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Baikal <b>admin/root</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Baikal ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Baikal <b>admin/root</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj DragonMint ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka DragonMint <b>admin/dragonadmin</b>. Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj DragonMint ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka DragonMint <b>admin/dragonadmin</b>. Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Innosilicon ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Innosilicon ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "Online, but not mining."
-msgstr ""
+msgstr "Onlline, ali ne rudari"
 
 msgid "Unidentified hardware"
 msgstr "Neidentificirani hardver"
@@ -1016,7 +1016,7 @@ msgid "of"
 msgstr "od"
 
 msgid "1 worker remaining until your plan requires an upgrade."
-msgstr "1 radnika preostalo dok vaš plan ne zahtijeva nadogradnju."
+msgstr "1 radnik preostao dok vaš plan ne zahtijeva nadogradnju."
 
 msgid "Upgrade your plan to add additional workers."
 msgstr "Nadogradite svoj plan za dodavanje dodatnih radnika."
@@ -1175,7 +1175,7 @@ msgid "Add your first worker"
 msgstr "Dodajte svog prvog radnika"
 
 msgid "to manage and monitor its mining activity"
-msgstr "za upravljanje i nadzor rudarske djelatnosti"
+msgstr "za upravljanje i nadzor rudarske aktivnosti"
 
 msgid "Add new worker"
 msgstr "Dodaj novog radnika"
@@ -1361,10 +1361,10 @@ msgid "Previous worker"
 msgstr "Prethodni radnik"
 
 msgid "Next worker"
-msgstr ""
+msgstr "Sljedeći radnik"
 
 msgid "Please note that this action will shut down your machine."
-msgstr "Sljedeći radnik"
+msgstr "Imajte na umu da će ova radnja isključiti vaš uređaj."
 
 msgid "Yes, shut down"
 msgstr "Da, ugasi"
@@ -1406,7 +1406,7 @@ msgid "Need more stats?"
 msgstr "Trebate više statističkih podataka?"
 
 msgid "Get minerstat+ to monitor up to 60 days of data."
-msgstr "Preuzmite minerstat + za praćenje do 60 dana podataka."
+msgstr "Preuzmite minerstat+ za praćenje do 60 dana podataka."
 
 msgid "Last 3 days"
 msgstr "Posljednja 3 dana"
@@ -1463,7 +1463,7 @@ msgid "Add more or change groups for selected worker(s)"
 msgstr "Dodajte više ili promijenite grupe za odabranog radnika(e)"
 
 msgid "Add a group..."
-msgstr "Dodajte grupu"
+msgstr "Dodajte grupu..."
 
 msgid "Default client"
 msgstr "Zadani klijent"
@@ -1580,7 +1580,7 @@ msgid "Supports minerstat for Innosilicon"
 msgstr "Podržava minerstat za Innosilicon"
 
 msgid "Supports minerstat for Dayun"
-msgstr "Podržava minerstat za Dayun "
+msgstr "Podržava minerstat za Dayun"
 
 msgid "Unavailable"
 msgstr "Nedostupno"
@@ -1691,7 +1691,7 @@ msgid "Please note that this action will delete the entry and all related data."
 msgstr "Imajte na umu da će ova radnja izbrisati unos i sve povezane podatke."
 
 msgid "Please provide valid email."
-msgstr "Please provide valid email."
+msgstr "Molimo navedite valjanu e-poštu."
 
 msgid "Customer doesn't exist."
 msgstr "Korisnik ne postoji."
@@ -1850,10 +1850,10 @@ msgid "Upgrade your plan to add custom triggers."
 msgstr "Nadogradite svoj plan za dodavanje prilagođenih okidača."
 
 msgid "What are triggers?"
-msgstr ""
+msgstr "Što su  okidači"
 
 msgid "While alerts and notifications make sure that you receive the message about various events, triggers allow you to take action automatically and immediately after the event is detected. You can select between 6 events with different settings, which can trigger 5 different actions."
-msgstr "Što su aktivi okidači?"
+msgstr "Upozorenja i obavijesti osiguravaju da primite poruku o različitim događajima, okidači omogućuju automatsko pokretanje i odmah nakon pokretanja događaja. Možete odabrati između 6 događaja s različitim postavkama koje mogu pokrenuti 5 različitih radnji."
 
 msgid "Learn more about triggers"
 msgstr "Saznajte više o okidačima"
@@ -2291,10 +2291,10 @@ msgid "Cancel import"
 msgstr "Otkaži uvoz"
 
 msgid "Your HiveOS username"
-msgstr ""
+msgstr "Vaše korisničko HiveOS ime"
 
 msgid "Your HiveOS password"
-msgstr "Vaše korisničko ime HiveOS"
+msgstr "Vaša HiveOS zaporka"
 
 msgid "Your HiveOS 2FA (If enabled)"
 msgstr "Vaša HiveOS 2FA (ako je omogućena)"
@@ -2336,10 +2336,10 @@ msgid "File"
 msgstr "Datoteka"
 
 msgid "Profitability data"
-msgstr ""
+msgstr "Podaci o profitabilnosti"
 
 msgid "Global statistics by day"
-msgstr "Podaci o profitabilnosti"
+msgstr "Globalna statistika po danu"
 
 msgid "Per worker statistics by day"
 msgstr "Statistika po radniku po danu"
@@ -2867,7 +2867,7 @@ msgid "Taxes"
 msgstr "Porezi"
 
 msgid "Proceed to payment"
-msgstr ""
+msgstr "Nastavite s plaćanjem"
 
 msgid "Upgrade now"
 msgstr "Nastavite s plaćanjem"
@@ -2876,7 +2876,7 @@ msgid "Total price"
 msgstr "Ukupna cijena"
 
 msgid "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
-msgstr "You already own White label add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
+msgstr "Već posjedujete bijelu oznaku. Ako ste zainteresirani za nešto više, kontaktirajte nas putem <a href=\"/billing-order/custom\">inquiry form</a>."
 
 msgid "Billing order"
 msgstr "Narudžba naplate"
@@ -2978,7 +2978,7 @@ msgid "Public profile option"
 msgstr "Opcija javnog profila"
 
 msgid "Organize your workers to control room to fit your actual establishment."
-msgstr "Organizirajte svoje radnike rema kontrolnoj sobi kako bi odgovarao vašem stvarnom pogonu."
+msgstr "Organizirajte svoje radnike prema kontrolnoj sobi kako bi raspored odgovarao vašem stvarnom pogonu."
 
 msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
 msgstr "Rasporedite rudarsku aktivnost i rudarite s različitim profilom u određeno vrijeme u danu."
@@ -3107,7 +3107,7 @@ msgid "Please note that wallets are checked every 30 minutes and pools every 20 
 msgstr "Imajte na umu da se walleti provjeravaju svakih 30 minuta a poolovi svakih 20 minuta. Tečaj USD izračunava se pomoću najnovijeg tečaja."
 
 msgid "Monitoring"
-msgstr "adgledanje"
+msgstr "Nadgledanje"
 
 msgid "No wallets or pools"
 msgstr "Nema walleta ni poola"
@@ -3236,7 +3236,7 @@ msgid "Activate 2FA"
 msgstr "Aktivirajte 2FA"
 
 msgid "Two Factor Authentication allows you to secure your user account and access it faster. Additionally, setting up 2FA will allow you to use <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>To set up your Google Auth 2FA follow the next steps."
-msgstr "Dva faktorska provjera autentičnosti omogućuju brži pristup vašem korisničkom računu. Osim toga, postavljanje 2FA omogućit će vam korištenje <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>Da biste postavili svoju Google Auth 2FA, slijedite sljedeće korake."
+msgstr "Dvofaktorska (2FA) provjera autentičnosti omogućuju brži pristup vašem korisničkom računu. Osim toga, postavljanje 2FA omogućit će vam korištenje <a target=\"_blank\" href=\"https://minerstat.com/help/dashboard#q-2\">quick login with QR code</a>.<br>Da biste postavili svoju Google Auth 2FA, slijedite sljedeće korake."
 
 msgid "Scan the following QR Code to your Google Authenticator Application."
 msgstr "Skenirajte sljedeći QR kod u aplikaciju Google autentifikatora."
