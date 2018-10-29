@@ -1073,7 +1073,7 @@ msgid "24h logs"
 msgstr "Registros de 24h"
 
 msgid "Diagnostic"
-msgstr "Diagnostico"
+msgstr "Diagnóstico"
 
 msgid "Address editor"
 msgstr "Editor de direcciones"
