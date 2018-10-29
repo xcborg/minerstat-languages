@@ -8,7 +8,7 @@ msgid "Offline"
 msgstr "Fuera de línea"
 
 msgid "Statistics"
-msgstr "estadisticas"
+msgstr "estadísticas"
 
 msgid "Details"
 msgstr "detalles"
@@ -278,7 +278,7 @@ msgid "Hashrate"
 msgstr "Hashrate"
 
 msgid "Daily average"
-msgstr ""
+msgstr "Promedio diario"
 
 msgid "No data"
 msgstr "Sin datos"
@@ -587,7 +587,7 @@ msgid "All hardware successfully detected."
 msgstr "Todo el hardware detectado correctamente."
 
 msgid "No hardware with temperature 75°C or more."
-msgstr "Ningún hardware con temperatura de 75ºC o más."
+msgstr "Ningún hardware con temperatura de 75°C o más."
 
 msgid "No invalid tags or undetected pools or coins."
 msgstr "Ningúna etiqueta inválidad o pools sin detectar o monedas."
@@ -626,7 +626,7 @@ msgid "Enter"
 msgstr "intro"
 
 msgid "Name new room"
-msgstr "Nombre nueva habitación"
+msgstr "Nombre nueva sala"
 
 msgid "Mounting"
 msgstr "Montando"
@@ -1232,7 +1232,7 @@ msgid "Limit reached"
 msgstr "Límite alcanzado"
 
 msgid "out of"
-msgstr "Fuera de"
+msgstr "de"
 
 msgid "workers are being monitored"
 msgstr "Trabajadores están siendo monitorizados"
@@ -1415,7 +1415,7 @@ msgid "Not enough data"
 msgstr "No datos suficientes"
 
 msgid "Statistics will be automatically updated once available."
-msgstr "Las estadisticas se actualizarán automaticamente una vez estén disponibles."
+msgstr "Las estadísticas se actualizarán automaticamente una vez estén disponibles."
 
 msgid "Worker's latest activity"
 msgstr "Última actividad del trabajador"
@@ -1499,10 +1499,10 @@ msgid "Change or update groups and select the default client for your worker(s).
 msgstr "Cambia o actualiza grupos y seleccionar el cliente por defecto de tu(s) trabajador(es). Opcionalmente puede agregar perfiles de overclocking que estés salvados en el menú de ClockTune."
 
 msgid "For"
-msgstr "Para"
+msgstr "Por"
 
 msgid "Algorithms:"
-msgstr ""
+msgstr "Algoritmos"
 
 msgid "Reset to default"
 msgstr "Restablecer predeterminados"
@@ -1511,7 +1511,7 @@ msgid "Clients' configuration"
 msgstr "Configuración de los clientes"
 
 msgid "You can use the following tags that will automatically replace the variable with the value you have set in your address editor."
-msgstr "Puede usar las siguientes etiquetas que actumaticamente reemplazarán la variable con el valor que has configurado en el editor de direcciones."
+msgstr "Puede usar las siguientes etiquetas que automáticamente reemplazarán la variable con el valor que has configurado en el editor de direcciones."
 
 msgid "Tag"
 msgstr "Etiqueta"
@@ -1532,7 +1532,7 @@ msgid "Claymore's single mining"
 msgstr "Minería individual de Claymore"
 
 msgid "Claymore's dual mining"
-msgstr "Minería dual de Claymoreymore"
+msgstr "Minería dual de Claymore"
 
 msgid "Pool address you saved under the name TAG"
 msgstr "Dirección del Pool que has salvado bajo el nombre de la ETIQUETA"
@@ -1853,7 +1853,7 @@ msgid "What are triggers?"
 msgstr "¿Que es un disparador?"
 
 msgid "While alerts and notifications make sure that you receive the message about various events, triggers allow you to take action automatically and immediately after the event is detected. You can select between 6 events with different settings, which can trigger 5 different actions."
-msgstr "Mientras las alertas y notificaciones se aseguran que recibas un mensaje acerca de varios eventos, los disparadores toman acciones automaticas e inmediatas después que un evento es detectado. Puedes seleccionar entre 6 eventos con diferentes preferencias, las cuales activarán 5 diferentes acciones."
+msgstr "Mientras las alertas y notificaciones se aseguran que recibas un mensaje acerca de varios eventos, los disparadores toman acciones automáticas e inmediatas después que un evento es detectado. Puedes seleccionar entre 6 eventos con diferentes preferencias, las cuales activarán 5 diferentes acciones."
 
 msgid "Learn more about triggers"
 msgstr "Más información acerca de los disparadores"
@@ -2096,7 +2096,7 @@ msgid "Enable/Disable"
 msgstr "Activar/desactivar"
 
 msgid "Profit switch algorithm will select the most profitable coin every 10 minutes from listed coins. Please make sure that you have connected the right pools and wallets with the right coins and algorithms."
-msgstr "El algoritmo del cambio de rentabilidad seleccionará la moneda que más ganancia aporte cada 10 minutos de las monedas seleccionadas. Por favor asegurate que has conectado las pools correctas y las billeteras con las monedas correctas y sus logaritmos."
+msgstr "El algoritmo del cambio de rentabilidad seleccionará, cada 10 minutos, la moneda que más ganancia aporte de las monedas seleccionadas. Por favor asegurate que has conectado las pools correctas y las billeteras con las monedas correctas y sus logaritmos."
 
 msgid "Mining clients"
 msgstr "Clientes de minería"
@@ -2156,28 +2156,28 @@ msgid "Set the minimum allowed difference in coin profitability to trigger switc
 msgstr "Coloca la diferencia mínima permitida en la rentabilidad de la moneda que dispare el cambio (por defecto es 1%) y el minimo de tiempo de minado (por defecto es 10 minutos)."
 
 msgid "Reward method"
-msgstr ""
+msgstr "Método de recompensa"
 
 msgid "How to handle reward data?"
-msgstr ""
+msgstr "¿Cómo manejar los datos de recompensa?"
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "Ignore outliers"
-msgstr ""
+msgstr "Ignorar los valores atípicos"
 
 msgid "Apply penalties"
-msgstr ""
+msgstr "Aplicar penalidades"
 
 msgid "Normal - High risk"
-msgstr ""
+msgstr "Normal - Riesgo alto"
 
 msgid "Ignore outliers - Medium risk"
-msgstr ""
+msgstr "Ignorar los valores atípicos - Riesgo medio"
 
 msgid "Apply penalties - Low risk"
-msgstr ""
+msgstr "Aplicar penalidades - Riesgo bajo"
 
 msgid "Client's config"
 msgstr "Configuración del cliente"
@@ -2399,7 +2399,7 @@ msgid "With data export you can export all of your historical data in CSV, JSON,
 msgstr "Con la exportación de datos tu puede exportar todos los datos históricos en CSV, JSON o formato SQL. Los datos están disponibles como globales o por trabajador, y pool independientemente. La exportación de datos está solo disponible en el complemento minerstat+ que también te brinda hasta 60 días de datos históricos."
 
 msgid "Learn more about statistics and data export"
-msgstr "Aprende más acerca de las estadisticas y la exportación de datos"
+msgstr "Aprende más acerca de las estadísticas y la exportación de datos"
 
 msgid "2FA is not activated"
 msgstr "2FA no está activo"
@@ -2492,7 +2492,7 @@ msgid "Edit algorithm view"
 msgstr "Edita la vista de algoritmos"
 
 msgid "Percentages show how much less profitable the coin is in comparison to the top coin for the shown algorithm."
-msgstr "Los porcentajes muestran que tan más bajo de rentable son las monedas en comparación con las mejores momendas del algoritmo mostrado."
+msgstr "Los porcentajes muestran que tan más bajo de rentable son las monedas en comparación con las mejores monedas del algoritmo mostrado."
 
 msgid "No wallets defined"
 msgstr "No hay billeteras definidas"
@@ -2549,37 +2549,37 @@ msgid "Unable to rename."
 msgstr "No es posible renombrar"
 
 msgid "Unknown room"
-msgstr "habitación desconocida"
+msgstr "sala desconocida"
 
 msgid "Set room name"
-msgstr "Colocar el nombre de la habitación"
+msgstr "Colocar el nombre de la sala"
 
 msgid "Room already exists"
-msgstr "Habitación ya existe"
+msgstr "Sala ya existe"
 
 msgid "Room does not exist"
-msgstr "Habitación no existe"
+msgstr "Sala no existe"
 
 msgid "Control rooms"
 msgstr "Habitaciones de control"
 
 msgid "Upgrade your plan to use control room."
-msgstr "Mejora tu plan para usar habitación de control"
+msgstr "Mejora tu plan para usar sala de control"
 
 msgid "What is control room?"
-msgstr "¿Que es la habitación de control?"
+msgstr "¿Que es la sala de control?"
 
 msgid "Organize your workers in the control room to visually fit your actual establishment.<br><br>Control room offers you better and quicker view over your rigs, their temperature and hashing speed. It can also be used as a heatmap."
-msgstr "Organiza tus trabajadores en la habitación de control para adaptarse visualmente a su estado real.<br><br>Habitación de control te ofrece una vista más rápida y mejor de tus maquinas, sus temperatura y velocidades de hasheo. Tambien puede usarse como un mapa de calor."
+msgstr "Organiza tus trabajadores en la sala de control para adaptarse visualmente a su estado real.<br><br>Sala de control te ofrece una vista más rápida y mejor de tus maquinas, sus temperatura y velocidades de hasheo. Tambien puede usarse como un mapa de calor."
 
 msgid "Learn more about control room"
-msgstr "Aprende más sobre la habitación de control"
+msgstr "Aprende más sobre la sala de control"
 
 msgid "Create new room"
-msgstr "Crear una nueva habitación"
+msgstr "Crear una nueva sala"
 
 msgid "Please note that this action will detach all the workers that are attached to this room."
-msgstr "Por favor nota que esta acción separará a todos los trabajadores que se adjuntaron a esta habitación."
+msgstr "Por favor nota que esta acción separará a todos los trabajadores que se adjuntaron a esta sala."
 
 msgid "Compact"
 msgstr "Compacto"
@@ -2720,7 +2720,7 @@ msgid "No past orders"
 msgstr "No ordenes pasadas"
 
 msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
-msgstr "Mejorando tu cuenta puedes traer más trabajadores, más estadisticas detalladas, más opciones de alertas, y otros beneficios útiles."
+msgstr "Mejorando tu cuenta puedes traer más trabajadores, más estadísticas detalladas, más opciones de alertas, y otros beneficios útiles."
 
 msgid "Plans"
 msgstr "Planes"
@@ -2960,7 +2960,7 @@ msgid "Event triggers"
 msgstr "Disparadores según eventos"
 
 msgid "Global statistics and per worker statistics show you historical data of your profitability."
-msgstr "Estadísticas globales y estadisticas por trabajador muestran los datos historicos de tu rentabilidad."
+msgstr "Estadísticas globales y estadísticas por trabajador muestran los datos historicos de tu rentabilidad."
 
 msgid "Revenue historical data"
 msgstr "Datos historicos de ingresos"
@@ -3002,7 +3002,7 @@ msgid "Public profile option"
 msgstr "Opción de perfil público"
 
 msgid "Organize your workers to control room to fit your actual establishment."
-msgstr "Organiza tus trabajadores en la Habitación de control para ajustarse a su actual disposición."
+msgstr "Organiza tus trabajadores en la Sala de control para ajustarse a su actual disposición."
 
 msgid "Schedule your mining activity and mine with different profile for certain amount of time in the day."
 msgstr "Haz un calendario con tu actividad de minería y mina con diferentes perfiles por cierta cantidad de tiempo en el día."
