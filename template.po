@@ -277,6 +277,9 @@ msgstr ""
 msgid "Hashrate"
 msgstr ""
 
+msgid "Daily average"
+msgstr ""
+
 msgid "No data"
 msgstr ""
 
@@ -1498,7 +1501,7 @@ msgstr ""
 msgid "For"
 msgstr ""
 
-msgid "API parameters:"
+msgid "Algorithms:"
 msgstr ""
 
 msgid "Reset to default"
@@ -2150,6 +2153,30 @@ msgid "When to switch?"
 msgstr ""
 
 msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
+msgstr ""
+
+msgid "Reward method"
+msgstr ""
+
+msgid "How to handle reward data?"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Ignore outliers"
+msgstr ""
+
+msgid "Apply penalties"
+msgstr ""
+
+msgid "Normal - High risk"
+msgstr ""
+
+msgid "Ignore outliers - Medium risk"
+msgstr ""
+
+msgid "Apply penalties - Low risk"
 msgstr ""
 
 msgid "Client's config"
@@ -3279,4 +3306,3 @@ msgstr ""
 
 msgid "You will need to enter your authentication code to de-activate it."
 msgstr ""
-
