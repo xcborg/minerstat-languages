@@ -52,6 +52,12 @@ msgstr ""
 msgid "Config"
 msgstr ""
 
+msgid "Note"
+msgstr ""
+
+msgid "Without note"
+msgstr ""
+
 msgid "Idle"
 msgstr ""
 
@@ -83,12 +89,6 @@ msgid "Max. fans"
 msgstr ""
 
 msgid "Watt"
-msgstr ""
-
-msgid "Note"
-msgstr ""
-
-msgid "Without note"
 msgstr ""
 
 msgid "chars left"
@@ -1027,6 +1027,9 @@ msgstr ""
 msgid "Upgrade"
 msgstr ""
 
+msgid "Without a date of expiry"
+msgstr ""
+
 msgid "Over limit"
 msgstr ""
 
@@ -1144,9 +1147,6 @@ msgstr ""
 msgid "Change log"
 msgstr ""
 
-msgid "Without a date of expiry"
-msgstr ""
-
 msgid "FREE"
 msgstr ""
 
@@ -1169,6 +1169,9 @@ msgid "Worker name already in use."
 msgstr ""
 
 msgid "Unknown error."
+msgstr ""
+
+msgid "Workers 2"
 msgstr ""
 
 msgid "Add your first worker"
