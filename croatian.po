@@ -4,14 +4,26 @@ msgstr "ASIC zadano korisničko ime je"
 msgid "ASIC's default password is"
 msgstr "ASIC zadana lozinka je"
 
+msgid "Idle"
+msgstr "Besposlen"
+
 msgid "Offline"
 msgstr "Ugašen"
 
-msgid "Statistics"
-msgstr "Statistika"
+msgid "Switching"
+msgstr "Prebacivanje"
 
-msgid "Details"
-msgstr "Detalji"
+msgid "Online"
+msgstr "Online"
+
+msgid "Without notes"
+msgstr "Bez bilješki"
+
+msgid "Note"
+msgstr "Bilješka"
+
+msgid "Mining"
+msgstr "Rudarenje"
 
 msgid "CPU mining disabled"
 msgstr "CPU rudarenje onemogućeno"
@@ -28,8 +40,23 @@ msgstr "Prebacivač profita omogućen"
 msgid "CPU mining"
 msgstr "CPU rudarenje"
 
-msgid "Without notes"
-msgstr "Bez bilješki"
+msgid "Last seen:"
+msgstr "Zadnji put viđen:"
+
+msgid "Uptime"
+msgstr "Neprekinuto vrijeme rada"
+
+msgid "Earnings"
+msgstr "Zarada"
+
+msgid "Max. temp"
+msgstr "Max. temp"
+
+msgid "Max. fans"
+msgstr "Max vent"
+
+msgid "Watt"
+msgstr "Watt"
 
 msgid "Delete"
 msgstr "Izbriši"
@@ -52,47 +79,29 @@ msgstr "Prebacivač profita"
 msgid "Config"
 msgstr "Konfiguracija"
 
-msgid "Idle"
-msgstr "Besposlen"
+msgid "Statistics"
+msgstr "Statistika"
 
-msgid "Switching"
-msgstr "Prebacivanje"
+msgid "Details"
+msgstr "Detalji"
 
-msgid "Online"
-msgstr "Online"
+msgid "Worker"
+msgstr "Radnik"
 
-msgid "Error"
-msgstr "Greška"
+msgid "Max. Temp"
+msgstr "Max. Temp"
 
-msgid "Mining"
-msgstr "Rudarenje"
+msgid "Max. Fans"
+msgstr "Max. Vent"
 
-msgid "Last seen:"
-msgstr "Zadnji put viđen:"
+msgid "Power"
+msgstr "Snaga"
 
-msgid "Uptime"
-msgstr "Neprekinuto vrijeme rada"
+msgid "Actions"
+msgstr "Radnje"
 
-msgid "Earnings"
-msgstr "Zarada"
-
-msgid "Max. temp"
-msgstr "Max. temp"
-
-msgid "Max. fans"
-msgstr "Max vent"
-
-msgid "Watt"
-msgstr "Watt"
-
-msgid "Note"
-msgstr "Bilješka"
-
-msgid "Without note"
-msgstr "Bez bilješke"
-
-msgid "Chars left"
-msgstr "Preostalo znakova"
+msgid "chars left"
+msgstr ""
 
 msgid "No, keep it"
 msgstr "Ne, zadrži"
@@ -128,7 +137,7 @@ msgid "Yes, shut them down"
 msgstr "Da, ugasi ih"
 
 msgid "Yes, reboot them"
-msgstr "Da,ponovno ih podigni "
+msgstr "Da,ponovno ih podigni"
 
 msgid "Yes, restart them"
 msgstr "Da, ponovno ih pokreni"
@@ -146,7 +155,7 @@ msgid "Apr"
 msgstr "Tra"
 
 msgid "May"
-msgstr "Svi"
+msgstr "Svibanj"
 
 msgid "Jun"
 msgstr "Lip"
@@ -193,14 +202,14 @@ msgstr "Ned"
 msgid "Zoom"
 msgstr "Povečaj"
 
+msgid "Without note"
+msgstr "Bez bilješke"
+
 msgid "Hardware"
 msgstr "Hardver"
 
 msgid "Speed"
 msgstr "Brzina"
-
-msgid "Power"
-msgstr "Snaga"
 
 msgid "Temp"
 msgstr "Temperatura"
@@ -276,6 +285,9 @@ msgstr "hashrate"
 
 msgid "Hashrate"
 msgstr "Hashrate"
+
+msgid "Daily average"
+msgstr ""
 
 msgid "No data"
 msgstr "Nema podataka"
@@ -407,7 +419,7 @@ msgid "Manual shut down"
 msgstr "Ručno gašenje"
 
 msgid "Manual restart"
-msgstr "Ručno ponovno pokretanje "
+msgstr "Ručno ponovno pokretanje"
 
 msgid "Manual reboot"
 msgstr "Ručno ponovno podizanje"
@@ -431,7 +443,7 @@ msgid "Your first data will be ready soon"
 msgstr "Vaši prvi podatci će biti sremni uskoro"
 
 msgid "please check again in few minutes"
-msgstr "Molimo provjerite ponovo za nekoliko minuta "
+msgstr "Molimo provjerite ponovo za nekoliko minuta"
 
 msgid "January"
 msgstr "Siječanj"
@@ -444,9 +456,6 @@ msgstr "Ožujak"
 
 msgid "April"
 msgstr "Travanj"
-
-msgid "May"
-msgstr "Svibanj"
 
 msgid "June"
 msgstr "Lipanj"
@@ -473,7 +482,7 @@ msgid "Worker's profitability"
 msgstr "Profitabilnost radnika"
 
 msgid "Delete trigger?"
-msgstr "Izbrisati okidač? "
+msgstr "Izbrisati okidač?"
 
 msgid "Delete schedule?"
 msgstr "Izbrisati raspored?"
@@ -489,9 +498,6 @@ msgstr "Provizija"
 
 msgid "Client"
 msgstr "Klijent"
-
-msgid "Worker"
-msgstr "Radnik"
 
 msgid "Event"
 msgstr "Događaj"
@@ -524,22 +530,22 @@ msgid "Avg. daily profitability"
 msgstr "Prosječna dnevna profitabilnsot"
 
 msgid "You are using username and password that aren't default for this Antminer ASIC. Please note that SSH login is not the same as web login, which means that default Antminer username/password is <b>root/admin</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Antminer ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži, što znači da je korisničko ime/lozinka Antminer <b>root/admin</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku za to nisu zadani za ovaj Antminer ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži, što znači da je korisničko ime/lozinka Antminer <b>root/admin</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "Workers"
 msgstr "Radnici"
 
 msgid "You are using username and password that aren't default for this Baikal ASIC. Please note that SSH login is not the same as web login, which means that default Baikal username/password is <b>admin/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Baikal ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Baikal <b>admin/root</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Baikal ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Baikal <b>admin/root</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this DragonMint ASIC. Please note that SSH login is not the same as web login, which means that default DragonMint username/password is <b>admin/dragonadmin</b>. You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj DragonMint ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka DragonMint <b>admin/dragonadmin</b>. Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj DragonMint ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka DragonMint <b>admin/dragonadmin</b>. Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Innosilicon ASIC. Please note that SSH login is not the same as web login, which means that default Innosilicon username/password is <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Innosilicon ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Innosilicon ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Innosilicon <b>root/innot1t2</b>, <b>root/t1t2t3a5</b>, or <b>root/blacksheepwall</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju "Uredi" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
+msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
 msgid "Online, but not mining."
 msgstr "Onlline, ali ne rudari"
@@ -594,6 +600,9 @@ msgstr "Nema nevažeće oznake ili neotkriveni pool ili coin"
 
 msgid "Consumption:"
 msgstr "Potrošnja:"
+
+msgid "Estimated daily:"
+msgstr ""
 
 msgid "days"
 msgstr "dani"
@@ -661,314 +670,11 @@ msgstr "Mjeseci"
 msgid "Month"
 msgstr "Mjesec"
 
-msgid "2 workers"
-msgstr "2 radnika"
-
-msgid "5 workers"
-msgstr "5 radnika"
-
-msgid "10 workers"
-msgstr "10 radnika"
-
-msgid "15 workers"
-msgstr "15 radnika"
-
-msgid "20 workers"
-msgstr "20 radnika"
-
-msgid "30 workers"
-msgstr "30 radnika"
-
-msgid "40 workers"
-msgstr "40 radnika"
-
-msgid "50 workers"
-msgstr "50 radnika"
-
-msgid "60 workers"
-msgstr "60 radnika"
-
-msgid "70 workers"
-msgstr "70 radnika"
-
-msgid "80 workers"
-msgstr "80 radnika"
-
-msgid "90 workers"
-msgstr "90 radnika"
-
-msgid "100 workers"
-msgstr "100 radnika"
-
-msgid "110 workers"
-msgstr "110 radnika"
-
-msgid "120 workers"
-msgstr "120 radnika"
-
-msgid "130 workers"
-msgstr "130 radnika"
-
-msgid "140 workers"
-msgstr "140 radnika"
-
-msgid "150 workers"
-msgstr "150 radnika"
-
-msgid "160 workers"
-msgstr "160 radnika"
-
-msgid "170 workers"
-msgstr "170 radnika"
-
-msgid "180 workers"
-msgstr "180 radnika"
-
-msgid "190 workers"
-msgstr "190 radnika"
-
-msgid "200 workers"
-msgstr "200 radnika"
-
-msgid "210 workers"
-msgstr "210 radnika"
-
-msgid "220 workers"
-msgstr "220 radnika"
-
-msgid "230 workers"
-msgstr "230 radnika"
-
-msgid "240 workers"
-msgstr "240 radnika"
-
-msgid "250 workers"
-msgstr "250 radnika"
-
-msgid "260 workers"
-msgstr "260 radnika"
-
-msgid "270 workers"
-msgstr "270 radnika"
-
-msgid "280 workers"
-msgstr "280 radnika"
-
-msgid "290 workers"
-msgstr "290 radnika"
-
-msgid "300 workers"
-msgstr "300 radnika"
-
-msgid "310 workers"
-msgstr "310 radnika"
-
-msgid "320 workers"
-msgstr "320 radnika"
-
-msgid "330 workers"
-msgstr "330 radnika"
-
-msgid "340 workers"
-msgstr "340 radnika"
-
-msgid "350 workers"
-msgstr "350 radnika"
-
-msgid "360 workers"
-msgstr "360 radnika"
-
-msgid "370 workers"
-msgstr "370 radnika"
-
-msgid "380 workers"
-msgstr "380 radnika"
-
-msgid "390 workers"
-msgstr "390 radnika"
-
-msgid "400 workers"
-msgstr "400 radnika"
-
-msgid "410 workers"
-msgstr "410 radnika"
-
-msgid "420 workers"
-msgstr "420 radnika"
-
-msgid "430 workers"
-msgstr "430 radnika"
-
-msgid "440 workers"
-msgstr "440 radnika"
-
-msgid "450 workers"
-msgstr "450 radnika"
-
-msgid "460 workers"
-msgstr "460 radnika"
-
-msgid "470 workers"
-msgstr "470 radnika"
-
-msgid "480 workers"
-msgstr "480 radnika"
-
-msgid "490 workers"
-msgstr "490 radnika"
-
-msgid "500 workers"
-msgstr "500 radnika"
-
-msgid "510 workers"
-msgstr "510 radnika"
-
-msgid "520 workers"
-msgstr "520 radnika"
-
-msgid "530 workers"
-msgstr "530 radnika"
-
-msgid "540 workers"
-msgstr "540 radnika"
-
-msgid "550 workers"
-msgstr "550 radnika"
-
-msgid "560 workers"
-msgstr "560 radnika"
-
-msgid "570 workers"
-msgstr "570 radnika"
-
-msgid "580 workers"
-msgstr "580 radnika"
-
-msgid "590 workers"
-msgstr "590 radnika"
-
-msgid "600 workers"
-msgstr "600 radnika"
-
-msgid "610 workers"
-msgstr "610 radnika"
-
-msgid "620 workers"
-msgstr "620 radnika"
-
-msgid "630 workers"
-msgstr "630 radnika"
-
-msgid "640 workers"
-msgstr "640 radnika"
-
-msgid "650 workers"
-msgstr "650 radnika"
-
-msgid "660 workers"
-msgstr "660 radnika"
-
-msgid "670 workers"
-msgstr "670 radnika"
-
-msgid "680 workers"
-msgstr "680 radnika"
-
-msgid "690 workers"
-msgstr "690 radnika"
-
-msgid "700 workers"
-msgstr "700 radnika"
-
-msgid "710 workers"
-msgstr "710 radnika"
-
-msgid "720 workers"
-msgstr "720 radnika"
-
-msgid "730 workers"
-msgstr "730 radnika"
-
-msgid "740 workers"
-msgstr "740 radnika"
-
-msgid "750 workers"
-msgstr "750 radnika"
-
-msgid "760 workers"
-msgstr "760 radnika"
-
-msgid "770 workers"
-msgstr "770 radnika"
-
-msgid "780 workers"
-msgstr "780 radnika"
-
-msgid "790 workers"
-msgstr "790 radnika"
-
-msgid "800 workers"
-msgstr "800 radnika"
-
-msgid "810 workers"
-msgstr "810 radnika"
-
-msgid "820 workers"
-msgstr "820 radnika"
-
-msgid "830 workers"
-msgstr "830 radnika"
-
-msgid "840 workers"
-msgstr "840 radnika"
-
-msgid "850 workers"
-msgstr "850 radnika"
-
-msgid "860 workers"
-msgstr "860 radnika"
-
-msgid "870 workers"
-msgstr "870 radnika"
-
-msgid "880 workers"
-msgstr "880 radnika"
-
-msgid "890 workers"
-msgstr "890 radnika"
-
-msgid "900 workers"
-msgstr "900 radnika"
-
-msgid "910 workers"
-msgstr "910 radnika"
-
-msgid "920 workers"
-msgstr "920 radnika"
-
-msgid "930 workers"
-msgstr "930 radnika"
-
-msgid "940 workers"
-msgstr "940 radnika"
-
-msgid "950 workers"
-msgstr "950 radnika"
-
-msgid "960 workers"
-msgstr "960 radnika"
-
-msgid "970 workers"
-msgstr "970 radnika"
-
-msgid "980 workers"
-msgstr "980 radnika"
-
-msgid "990 workers"
-msgstr "990 radnika"
-
-msgid "1000 workers"
-msgstr "1000 radnika"
+msgid "month"
+msgstr "mjesec"
+
+msgid "months"
+msgstr "mjeseci"
 
 msgid "Balance"
 msgstr "Bilanca"
@@ -1026,6 +732,9 @@ msgstr "radnika su preostala prije nego vaš plan zahtijeva nadogradnju."
 
 msgid "Upgrade"
 msgstr "Nadogradnja"
+
+msgid "Without a date of expiry"
+msgstr "Bez datuma isteka"
 
 msgid "Over limit"
 msgstr "Prekoračenje"
@@ -1144,14 +853,11 @@ msgstr "Ambasadori"
 msgid "Change log"
 msgstr "Zapisnik promjena"
 
-msgid "Without a date of expiry"
-msgstr "Bez datuma isteka"
-
 msgid "FREE"
 msgstr "Besplatno"
 
 msgid "Worker name can only contain<br>letters, numbers, \"_\", \"-\"."
-msgstr "Naziv radnika može sadržavati samo <br> slova, brojeve, \"_ \", \"- \"."
+msgstr "Naziv radnika može sadržavati samo <br> slova, brojeve, \"_\", \"-\"."
 
 msgid "Worker name shouldn't exceed 15 chars."
 msgstr "Naziv radnik ne smije prelaziti 15 znakova"
@@ -1196,7 +902,7 @@ msgid "ASIC's default username is root"
 msgstr "Zadano korisničko ime ASIC-a je root"
 
 msgid "SSH password"
-msgstr "SSH zaporka "
+msgstr "SSH zaporka"
 
 msgid "ASIC's default password is admin"
 msgstr "Zadana lozinka ASIC-a je admin"
@@ -1240,20 +946,14 @@ msgstr "radnici se nadziru"
 msgid "Action for"
 msgstr "Radnja za"
 
-msgid "Max. Temp"
-msgstr "Max. Temp"
-
-msgid "Max. Fans"
-msgstr "Max. Vent"
-
-msgid "Actions"
-msgstr "Radnje"
-
 msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
 msgstr "Imajte na umu da će ova radnja isključiti rudarske sustave i morat ćete biti na lokaciji da biste ih ponovno uključili."
 
 msgid "Finished"
 msgstr "Gotov"
+
+msgid "Error"
+msgstr "Greška"
 
 msgid "Yes, shut it down"
 msgstr "Da, isključite ga"
@@ -1343,7 +1043,7 @@ msgid "Last sync"
 msgstr "Posljednja sinkronizacija"
 
 msgid "Hashrate stats not available yet."
-msgstr "Statistika heša još nije dostupna "
+msgstr "Statistika heša još nije dostupna"
 
 msgid "Estimated monthly"
 msgstr "Mjesečna procjena"
@@ -1353,6 +1053,36 @@ msgstr "Statistika temperature još nije dostupna."
 
 msgid "Make sure the worker is using the correct access key:"
 msgstr "Provjerite koristi li radnik ispravnu pristupnu šifru:"
+
+msgid "Download"
+msgstr ""
+
+msgid "More info about this version:"
+msgstr ""
+
+msgid "Stable version"
+msgstr ""
+
+msgid "Properly tested and working."
+msgstr ""
+
+msgid "Experimental version"
+msgstr ""
+
+msgid "Untested version using latest drivers."
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
+msgstr ""
+
+msgid "ASIC hub"
+msgstr ""
+
+msgid "Installed directly on the ASIC."
+msgstr ""
 
 msgid "Need help?"
 msgstr "Trebate li pomoć?"
@@ -1501,8 +1231,8 @@ msgstr "Promijenite ili ažurirajte grupe i odaberite zadani klijent za svoje ra
 msgid "For"
 msgstr "Za"
 
-msgid "API parameters:"
-msgstr "API parametri"
+msgid "Algorithms:"
+msgstr ""
 
 msgid "Reset to default"
 msgstr "Vrati na zadano"
@@ -1880,7 +1610,7 @@ msgid "is"
 msgstr "je"
 
 msgid "down by"
-msgstr "neaktivan "
+msgstr "neaktivan"
 
 msgid "minutes"
 msgstr "minuta"
@@ -2075,7 +1805,7 @@ msgid "Select coin"
 msgstr "Odaberite coin"
 
 msgid "Select pool"
-msgstr "Odaberite pool "
+msgstr "Odaberite pool"
 
 msgid "Select wallet"
 msgstr "Odaberite wallet"
@@ -2154,6 +1884,30 @@ msgstr "Kada se prebaciti?"
 
 msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
 msgstr "Postavite minimalnu dopuštenu razliku u profitabilnosti coina kako biste aktivirali prekidač (zadana vrijednost je 1%) i minimalno vrijeme rudarenja (zadana vrijednost je 10 minuta)."
+
+msgid "Reward method"
+msgstr ""
+
+msgid "How to handle reward data?"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Ignore outliers"
+msgstr ""
+
+msgid "Apply penalties"
+msgstr ""
+
+msgid "Normal - High risk"
+msgstr ""
+
+msgid "Ignore outliers - Medium risk"
+msgstr ""
+
+msgid "Apply penalties - Low risk"
+msgstr ""
 
 msgid "Client's config"
 msgstr "Konfiguriranje klijenta"
@@ -2354,7 +2108,7 @@ msgid "Full balance statistics by pools & wallets"
 msgstr "Potpuna statistika po poolu i walletu"
 
 msgid "Balance data"
-msgstr "Podatci Bilance "
+msgstr "Podatci Bilance"
 
 msgid "Full workers data"
 msgstr "Potpuni podaci o radnicima"
@@ -2460,6 +2214,9 @@ msgstr "Tjedno"
 
 msgid "Per month"
 msgstr "Mjesečno"
+
+msgid "Estimated daily"
+msgstr ""
 
 msgid "Top coins by algorithms"
 msgstr "Top coini po algoritmima"
@@ -2578,8 +2335,8 @@ msgstr "Izvoz profila (JSON)"
 msgid "Import profiles (JSON)"
 msgstr "Uvoz profila (JSON)"
 
-msgid "Profile name (JSON)"
-msgstr "Naziv profila (JSON)"
+msgid "Profile name"
+msgstr ""
 
 msgid "Please note that this action will delete the overclock profile, but the workers' settings will stay the same."
 msgstr "Imajte na umu da će ova radnja izbrisati profil overclocka, ali postavke radnika ostat će isti."
@@ -2591,7 +2348,7 @@ msgid "for AMD and Nvidia GPUs"
 msgstr "za AMD i Nvidia GPU"
 
 msgid "Please name your profile."
-msgstr "Molimo imenujte svoj profil "
+msgstr "Molimo imenujte svoj profil"
 
 msgid "Unable to OC."
 msgstr "Nije moguće OC."
@@ -3022,14 +2779,8 @@ msgstr "Uvrsti za  5 EUR / mjesečno"
 msgid "Number of workers"
 msgstr "Broj radnika"
 
-msgid "month"
-msgstr "mjesec"
-
 msgid "full price"
 msgstr "puna cijena"
-
-msgid "months"
-msgstr "mjeseci"
 
 msgid "save"
 msgstr "spremi"
@@ -3207,9 +2958,6 @@ msgstr "Uvoz poola (JSON)"
 
 msgid "Pool address"
 msgstr "Adresa poola"
-
-msgid "Used"
-msgstr "Korišten"
 
 msgid "Export wallets (JSON)"
 msgstr "Izvoz walleta (JSON)"
