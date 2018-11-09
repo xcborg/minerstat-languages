@@ -4,13 +4,25 @@ msgstr ""
 msgid "ASIC's default password is"
 msgstr ""
 
+msgid "Idle"
+msgstr ""
+
 msgid "Offline"
 msgstr ""
 
-msgid "Statistics"
+msgid "Switching"
 msgstr ""
 
-msgid "Details"
+msgid "Online"
+msgstr ""
+
+msgid "Without notes"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Mining"
 msgstr ""
 
 msgid "CPU mining disabled"
@@ -28,7 +40,22 @@ msgstr ""
 msgid "CPU mining"
 msgstr ""
 
-msgid "Without notes"
+msgid "Last seen:"
+msgstr ""
+
+msgid "Uptime"
+msgstr ""
+
+msgid "Earnings"
+msgstr ""
+
+msgid "Max. temp"
+msgstr ""
+
+msgid "Max. fans"
+msgstr ""
+
+msgid "Watt"
 msgstr ""
 
 msgid "Delete"
@@ -52,43 +79,25 @@ msgstr ""
 msgid "Config"
 msgstr ""
 
-msgid "Note"
+msgid "Statistics"
 msgstr ""
 
-msgid "Without note"
+msgid "Details"
 msgstr ""
 
-msgid "Idle"
+msgid "Worker"
 msgstr ""
 
-msgid "Switching"
+msgid "Max. Temp"
 msgstr ""
 
-msgid "Online"
+msgid "Max. Fans"
 msgstr ""
 
-msgid "Error"
+msgid "Power"
 msgstr ""
 
-msgid "Mining"
-msgstr ""
-
-msgid "Last seen:"
-msgstr ""
-
-msgid "Uptime"
-msgstr ""
-
-msgid "Earnings"
-msgstr ""
-
-msgid "Max. temp"
-msgstr ""
-
-msgid "Max. fans"
-msgstr ""
-
-msgid "Watt"
+msgid "Actions"
 msgstr ""
 
 msgid "chars left"
@@ -193,13 +202,13 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
+msgid "Without note"
+msgstr ""
+
 msgid "Hardware"
 msgstr ""
 
 msgid "Speed"
-msgstr ""
-
-msgid "Power"
 msgstr ""
 
 msgid "Temp"
@@ -490,9 +499,6 @@ msgstr ""
 msgid "Client"
 msgstr ""
 
-msgid "Worker"
-msgstr ""
-
 msgid "Event"
 msgstr ""
 
@@ -595,6 +601,9 @@ msgstr ""
 msgid "Consumption:"
 msgstr ""
 
+msgid "Estimated daily:"
+msgstr ""
+
 msgid "days"
 msgstr ""
 
@@ -661,313 +670,10 @@ msgstr ""
 msgid "Month"
 msgstr ""
 
-msgid "2 workers"
+msgid "month"
 msgstr ""
 
-msgid "5 workers"
-msgstr ""
-
-msgid "10 workers"
-msgstr ""
-
-msgid "15 workers"
-msgstr ""
-
-msgid "20 workers"
-msgstr ""
-
-msgid "30 workers"
-msgstr ""
-
-msgid "40 workers"
-msgstr ""
-
-msgid "50 workers"
-msgstr ""
-
-msgid "60 workers"
-msgstr ""
-
-msgid "70 workers"
-msgstr ""
-
-msgid "80 workers"
-msgstr ""
-
-msgid "90 workers"
-msgstr ""
-
-msgid "100 workers"
-msgstr ""
-
-msgid "110 workers"
-msgstr ""
-
-msgid "120 workers"
-msgstr ""
-
-msgid "130 workers"
-msgstr ""
-
-msgid "140 workers"
-msgstr ""
-
-msgid "150 workers"
-msgstr ""
-
-msgid "160 workers"
-msgstr ""
-
-msgid "170 workers"
-msgstr ""
-
-msgid "180 workers"
-msgstr ""
-
-msgid "190 workers"
-msgstr ""
-
-msgid "200 workers"
-msgstr ""
-
-msgid "210 workers"
-msgstr ""
-
-msgid "220 workers"
-msgstr ""
-
-msgid "230 workers"
-msgstr ""
-
-msgid "240 workers"
-msgstr ""
-
-msgid "250 workers"
-msgstr ""
-
-msgid "260 workers"
-msgstr ""
-
-msgid "270 workers"
-msgstr ""
-
-msgid "280 workers"
-msgstr ""
-
-msgid "290 workers"
-msgstr ""
-
-msgid "300 workers"
-msgstr ""
-
-msgid "310 workers"
-msgstr ""
-
-msgid "320 workers"
-msgstr ""
-
-msgid "330 workers"
-msgstr ""
-
-msgid "340 workers"
-msgstr ""
-
-msgid "350 workers"
-msgstr ""
-
-msgid "360 workers"
-msgstr ""
-
-msgid "370 workers"
-msgstr ""
-
-msgid "380 workers"
-msgstr ""
-
-msgid "390 workers"
-msgstr ""
-
-msgid "400 workers"
-msgstr ""
-
-msgid "410 workers"
-msgstr ""
-
-msgid "420 workers"
-msgstr ""
-
-msgid "430 workers"
-msgstr ""
-
-msgid "440 workers"
-msgstr ""
-
-msgid "450 workers"
-msgstr ""
-
-msgid "460 workers"
-msgstr ""
-
-msgid "470 workers"
-msgstr ""
-
-msgid "480 workers"
-msgstr ""
-
-msgid "490 workers"
-msgstr ""
-
-msgid "500 workers"
-msgstr ""
-
-msgid "510 workers"
-msgstr ""
-
-msgid "520 workers"
-msgstr ""
-
-msgid "530 workers"
-msgstr ""
-
-msgid "540 workers"
-msgstr ""
-
-msgid "550 workers"
-msgstr ""
-
-msgid "560 workers"
-msgstr ""
-
-msgid "570 workers"
-msgstr ""
-
-msgid "580 workers"
-msgstr ""
-
-msgid "590 workers"
-msgstr ""
-
-msgid "600 workers"
-msgstr ""
-
-msgid "610 workers"
-msgstr ""
-
-msgid "620 workers"
-msgstr ""
-
-msgid "630 workers"
-msgstr ""
-
-msgid "640 workers"
-msgstr ""
-
-msgid "650 workers"
-msgstr ""
-
-msgid "660 workers"
-msgstr ""
-
-msgid "670 workers"
-msgstr ""
-
-msgid "680 workers"
-msgstr ""
-
-msgid "690 workers"
-msgstr ""
-
-msgid "700 workers"
-msgstr ""
-
-msgid "710 workers"
-msgstr ""
-
-msgid "720 workers"
-msgstr ""
-
-msgid "730 workers"
-msgstr ""
-
-msgid "740 workers"
-msgstr ""
-
-msgid "750 workers"
-msgstr ""
-
-msgid "760 workers"
-msgstr ""
-
-msgid "770 workers"
-msgstr ""
-
-msgid "780 workers"
-msgstr ""
-
-msgid "790 workers"
-msgstr ""
-
-msgid "800 workers"
-msgstr ""
-
-msgid "810 workers"
-msgstr ""
-
-msgid "820 workers"
-msgstr ""
-
-msgid "830 workers"
-msgstr ""
-
-msgid "840 workers"
-msgstr ""
-
-msgid "850 workers"
-msgstr ""
-
-msgid "860 workers"
-msgstr ""
-
-msgid "870 workers"
-msgstr ""
-
-msgid "880 workers"
-msgstr ""
-
-msgid "890 workers"
-msgstr ""
-
-msgid "900 workers"
-msgstr ""
-
-msgid "910 workers"
-msgstr ""
-
-msgid "920 workers"
-msgstr ""
-
-msgid "930 workers"
-msgstr ""
-
-msgid "940 workers"
-msgstr ""
-
-msgid "950 workers"
-msgstr ""
-
-msgid "960 workers"
-msgstr ""
-
-msgid "970 workers"
-msgstr ""
-
-msgid "980 workers"
-msgstr ""
-
-msgid "990 workers"
-msgstr ""
-
-msgid "1000 workers"
+msgid "months"
 msgstr ""
 
 msgid "Balance"
@@ -1171,9 +877,6 @@ msgstr ""
 msgid "Unknown error."
 msgstr ""
 
-msgid "Workers 2"
-msgstr ""
-
 msgid "Add your first worker"
 msgstr ""
 
@@ -1243,19 +946,13 @@ msgstr ""
 msgid "Action for"
 msgstr ""
 
-msgid "Max. Temp"
-msgstr ""
-
-msgid "Max. Fans"
-msgstr ""
-
-msgid "Actions"
-msgstr ""
-
 msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
 msgstr ""
 
 msgid "Finished"
+msgstr ""
+
+msgid "Error"
 msgstr ""
 
 msgid "Yes, shut it down"
@@ -1355,6 +1052,36 @@ msgid "Temperature stats not available yet."
 msgstr ""
 
 msgid "Make sure the worker is using the correct access key:"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "More info about this version:"
+msgstr ""
+
+msgid "Stable version"
+msgstr ""
+
+msgid "Properly tested and working."
+msgstr ""
+
+msgid "Experimental version"
+msgstr ""
+
+msgid "Untested version using latest drivers."
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
+msgstr ""
+
+msgid "ASIC hub"
+msgstr ""
+
+msgid "Installed directly on the ASIC."
 msgstr ""
 
 msgid "Need help?"
@@ -2488,6 +2215,9 @@ msgstr ""
 msgid "Per month"
 msgstr ""
 
+msgid "Estimated daily"
+msgstr ""
+
 msgid "Top coins by algorithms"
 msgstr ""
 
@@ -3049,13 +2779,7 @@ msgstr ""
 msgid "Number of workers"
 msgstr ""
 
-msgid "month"
-msgstr ""
-
 msgid "full price"
-msgstr ""
-
-msgid "months"
 msgstr ""
 
 msgid "save"
@@ -3233,9 +2957,6 @@ msgid "Import pools (JSON)"
 msgstr ""
 
 msgid "Pool address"
-msgstr ""
-
-msgid "Used"
 msgstr ""
 
 msgid "Export wallets (JSON)"
