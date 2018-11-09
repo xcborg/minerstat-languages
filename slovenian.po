@@ -4,14 +4,26 @@ msgstr "Privzeto uporabniško ime za ASIC je"
 msgid "ASIC's default password is"
 msgstr "Privzeto geslo za ASIC je"
 
+msgid "Idle"
+msgstr "Nedejaven"
+
 msgid "Offline"
 msgstr "Odsoten"
 
-msgid "Statistics"
-msgstr "Statistika"
+msgid "Switching"
+msgstr "Zamenjavanje"
 
-msgid "Details"
-msgstr "Podrobnosti"
+msgid "Online"
+msgstr "Prisoten"
+
+msgid "Without notes"
+msgstr "Brez zapiskov"
+
+msgid "Note"
+msgstr "Zapiski"
+
+msgid "Mining"
+msgstr "Rudarjenje"
 
 msgid "CPU mining disabled"
 msgstr "CPE rudarjenje onemogočeno"
@@ -28,8 +40,23 @@ msgstr "Zamenjava na bolj donosni kovanec omogočena"
 msgid "CPU mining"
 msgstr "CPE rudarjenje"
 
-msgid "Without notes"
-msgstr "Brez zapiskov"
+msgid "Last seen:"
+msgstr "Nazadnje viden:"
+
+msgid "Uptime"
+msgstr "Čas delovanja"
+
+msgid "Earnings"
+msgstr "Prihodki"
+
+msgid "Max. temp"
+msgstr "Maks. temp."
+
+msgid "Max. fans"
+msgstr "Maks. vent."
+
+msgid "Watt"
+msgstr "Vatov"
 
 msgid "Delete"
 msgstr "Izbriši"
@@ -52,44 +79,26 @@ msgstr "Samodejna izbira kovanca"
 msgid "Config"
 msgstr "Konfiguracija"
 
-msgid "Idle"
-msgstr "Nedejaven"
+msgid "Statistics"
+msgstr "Statistika"
 
-msgid "Switching"
-msgstr "Zamenjavanje"
+msgid "Details"
+msgstr "Podrobnosti"
 
-msgid "Online"
-msgstr "Prisoten"
+msgid "Worker"
+msgstr "Delavec"
 
-msgid "Error"
-msgstr "Napaka"
-
-msgid "Mining"
-msgstr "Rudarjenje"
-
-msgid "Last seen:"
-msgstr "Nazadnje viden:"
-
-msgid "Uptime"
-msgstr "Čas delovanja"
-
-msgid "Earnings"
-msgstr "Prihodki"
-
-msgid "Max. temp"
+msgid "Max. Temp"
 msgstr "Maks. temp."
 
-msgid "Max. fans"
+msgid "Max. Fans"
 msgstr "Maks. vent."
 
-msgid "Watt"
-msgstr "Vatov"
+msgid "Power"
+msgstr "Moč"
 
-msgid "Note"
-msgstr "Zapiski"
-
-msgid "Without note"
-msgstr "Brez zapiskov"
+msgid "Actions"
+msgstr "Akcije"
 
 msgid "chars left"
 msgstr "preostalih znakov"
@@ -113,7 +122,7 @@ msgid "Yes, reboot it"
 msgstr "Da, ponovno zaženi"
 
 msgid "workers"
-msgstr "delavci"
+msgstr "delavcev"
 
 msgid "No, keep them"
 msgstr "Ne, ohrani"
@@ -193,14 +202,14 @@ msgstr "Ned"
 msgid "Zoom"
 msgstr "Pogled"
 
+msgid "Without note"
+msgstr "Brez zapiskov"
+
 msgid "Hardware"
 msgstr "Strojna oprema"
 
 msgid "Speed"
 msgstr "Hitrost"
-
-msgid "Power"
-msgstr "Moč"
 
 msgid "Temp"
 msgstr "Temp."
@@ -276,6 +285,9 @@ msgstr "hitrost rudarjenja"
 
 msgid "Hashrate"
 msgstr "Hitrost rudarjenja"
+
+msgid "Daily average"
+msgstr ""
 
 msgid "No data"
 msgstr "Ni podatkov"
@@ -487,9 +499,6 @@ msgstr "Provizija"
 msgid "Client"
 msgstr "Program"
 
-msgid "Worker"
-msgstr "Delavec"
-
 msgid "Event"
 msgstr "Dogodek"
 
@@ -592,6 +601,9 @@ msgstr "Ni neveljavnih značk ali neznanih bazenov ali kovancev."
 msgid "Consumption:"
 msgstr "Poraba:"
 
+msgid "Estimated daily:"
+msgstr ""
+
 msgid "days"
 msgstr "dni"
 
@@ -658,314 +670,11 @@ msgstr "Mesecev"
 msgid "Month"
 msgstr "Mesec"
 
-msgid "2 workers"
-msgstr "2 delavca"
-
-msgid "5 workers"
-msgstr "5 delavcev"
-
-msgid "10 workers"
-msgstr "10 delavcev"
-
-msgid "15 workers"
-msgstr "15 delavcev"
-
-msgid "20 workers"
-msgstr "20 delavcev"
-
-msgid "30 workers"
-msgstr "30 delavcev"
-
-msgid "40 workers"
-msgstr "40 delavcev"
-
-msgid "50 workers"
-msgstr "50 delavcev"
-
-msgid "60 workers"
-msgstr "60 delavcev"
-
-msgid "70 workers"
-msgstr "70 delavcev"
-
-msgid "80 workers"
-msgstr "80 delavcev"
-
-msgid "90 workers"
-msgstr "90 delavcev"
-
-msgid "100 workers"
-msgstr "100 delavcev"
-
-msgid "110 workers"
-msgstr "110 delavcev"
-
-msgid "120 workers"
-msgstr "120 delavcev"
-
-msgid "130 workers"
-msgstr "130 delavcev"
-
-msgid "140 workers"
-msgstr "140 delavcev"
-
-msgid "150 workers"
-msgstr "150 delavcev"
-
-msgid "160 workers"
-msgstr "160 delavcev"
-
-msgid "170 workers"
-msgstr "170 delavcev"
-
-msgid "180 workers"
-msgstr "180 delavcev"
-
-msgid "190 workers"
-msgstr "190 delavcev"
-
-msgid "200 workers"
-msgstr "200 delavcev"
-
-msgid "210 workers"
-msgstr "210 delavcev"
-
-msgid "220 workers"
-msgstr "220 delavcev"
-
-msgid "230 workers"
-msgstr "230 delavcev"
-
-msgid "240 workers"
-msgstr "240 delavcev"
-
-msgid "250 workers"
-msgstr "250 delavcev"
-
-msgid "260 workers"
-msgstr "260 delavcev"
-
-msgid "270 workers"
-msgstr "270 delavcev"
-
-msgid "280 workers"
-msgstr "280 delavcev"
-
-msgid "290 workers"
-msgstr "290 delavcev"
-
-msgid "300 workers"
-msgstr "300 delavcev"
-
-msgid "310 workers"
-msgstr "310 delavcev"
-
-msgid "320 workers"
-msgstr "320 delavcev"
-
-msgid "330 workers"
-msgstr "330 delavcev"
-
-msgid "340 workers"
-msgstr "340 delavcev"
-
-msgid "350 workers"
-msgstr "350 delavcev"
-
-msgid "360 workers"
-msgstr "360 delavcev"
-
-msgid "370 workers"
-msgstr "370 delavcev"
-
-msgid "380 workers"
-msgstr "380 delavcev"
-
-msgid "390 workers"
-msgstr "390 delavcev"
-
-msgid "400 workers"
-msgstr "400 delavcev"
-
-msgid "410 workers"
-msgstr "410 delavcev"
-
-msgid "420 workers"
-msgstr "420 delavcev"
-
-msgid "430 workers"
-msgstr "430 delavcev"
-
-msgid "440 workers"
-msgstr "440 delavcev"
-
-msgid "450 workers"
-msgstr "450 delavcev"
-
-msgid "460 workers"
-msgstr "460 delavcev"
-
-msgid "470 workers"
-msgstr "470 delavcev"
-
-msgid "480 workers"
-msgstr "480 delavcev"
-
-msgid "490 workers"
-msgstr "490 delavcev"
-
-msgid "500 workers"
-msgstr "500 delavcev"
-
-msgid "510 workers"
-msgstr "510 delavcev"
-
-msgid "520 workers"
-msgstr "520 delavcev"
-
-msgid "530 workers"
-msgstr "530 delavcev"
-
-msgid "540 workers"
-msgstr "540 delavcev"
-
-msgid "550 workers"
-msgstr "550 delavcev"
-
-msgid "560 workers"
-msgstr "560 delavcev"
-
-msgid "570 workers"
-msgstr "570 delavcev"
-
-msgid "580 workers"
-msgstr "580 delavcev"
-
-msgid "590 workers"
-msgstr "590 delavcev"
-
-msgid "600 workers"
-msgstr "600 delavcev"
-
-msgid "610 workers"
-msgstr "610 delavcev"
-
-msgid "620 workers"
-msgstr "620 delavcev"
-
-msgid "630 workers"
-msgstr "630 delavcev"
-
-msgid "640 workers"
-msgstr "640 delavcev"
-
-msgid "650 workers"
-msgstr "650 delavcev"
-
-msgid "660 workers"
-msgstr "660 delavcev"
-
-msgid "670 workers"
-msgstr "670 delavcev"
-
-msgid "680 workers"
-msgstr "680 delavcev"
-
-msgid "690 workers"
-msgstr "690 delavcev"
-
-msgid "700 workers"
-msgstr "700 delavcev"
-
-msgid "710 workers"
-msgstr "710 delavcev"
-
-msgid "720 workers"
-msgstr "720 delavcev"
-
-msgid "730 workers"
-msgstr "730 delavcev"
-
-msgid "740 workers"
-msgstr "740 delavcev"
-
-msgid "750 workers"
-msgstr "750 delavcev"
-
-msgid "760 workers"
-msgstr "760 delavcev"
-
-msgid "770 workers"
-msgstr "770 delavcev"
-
-msgid "780 workers"
-msgstr "780 delavcev"
-
-msgid "790 workers"
-msgstr "790 delavcev"
-
-msgid "800 workers"
-msgstr "800 delavcev"
-
-msgid "810 workers"
-msgstr "810 delavcev"
-
-msgid "820 workers"
-msgstr "820 delavcev"
-
-msgid "830 workers"
-msgstr "830 delavcev"
-
-msgid "840 workers"
-msgstr "840 delavcev"
-
-msgid "850 workers"
-msgstr "850 delavcev"
-
-msgid "860 workers"
-msgstr "860 delavcev"
-
-msgid "870 workers"
-msgstr "870 delavcev"
-
-msgid "880 workers"
-msgstr "880 delavcev"
-
-msgid "890 workers"
-msgstr "890 delavcev"
-
-msgid "900 workers"
-msgstr "900 delavcev"
-
-msgid "910 workers"
-msgstr "910 delavcev"
-
-msgid "920 workers"
-msgstr "920 delavcev"
-
-msgid "930 workers"
-msgstr "930 delavcev"
-
-msgid "940 workers"
-msgstr "940 delavcev"
-
-msgid "950 workers"
-msgstr "950 delavcev"
-
-msgid "960 workers"
-msgstr "960 delavcev"
-
-msgid "970 workers"
-msgstr "970 delavcev"
-
-msgid "980 workers"
-msgstr "980 delavcev"
-
-msgid "990 workers"
-msgstr "990 delavcev"
-
-msgid "1000 workers"
-msgstr "1 000 delavcev"
+msgid "month"
+msgstr "mesec"
+
+msgid "months"
+msgstr "mesecev"
 
 msgid "Balance"
 msgstr "Bilanca"
@@ -1023,6 +732,9 @@ msgstr "prostih delavcev preden bo potrebna nadgradnja."
 
 msgid "Upgrade"
 msgstr "Nadgradi"
+
+msgid "Without a date of expiry"
+msgstr "Brez datuma poteka"
 
 msgid "Over limit"
 msgstr "Prekoračen limit"
@@ -1141,9 +853,6 @@ msgstr "Ambasadorji"
 msgid "Change log"
 msgstr "Dnevnik sprememb"
 
-msgid "Without a date of expiry"
-msgstr "Brez datuma poteka"
-
 msgid "FREE"
 msgstr "BREZPLAČNO"
 
@@ -1237,20 +946,14 @@ msgstr "dodanih delavcev"
 msgid "Action for"
 msgstr "Akcija za"
 
-msgid "Max. Temp"
-msgstr "Maks. temp."
-
-msgid "Max. Fans"
-msgstr "Maks. vent."
-
-msgid "Actions"
-msgstr "Akcije"
-
 msgid "Please note that this action will shutdown your mining machines and you will need to be at the location to turn them back on."
 msgstr "Ta akcija bo ugasnila tvojo napravo. Ponoven zagon bo tako mogoč le iz mesta, kjer se naprava nahaja."
 
 msgid "Finished"
 msgstr "Končano"
+
+msgid "Error"
+msgstr "Napaka"
 
 msgid "Yes, shut it down"
 msgstr "Da, ugasni"
@@ -1350,6 +1053,36 @@ msgstr "Statistika temperatur še ni na voljo."
 
 msgid "Make sure the worker is using the correct access key:"
 msgstr "Poskrbi, da je v programski opremi pravilno naveden ključ za dostop:"
+
+msgid "Download"
+msgstr ""
+
+msgid "More info about this version:"
+msgstr ""
+
+msgid "Stable version"
+msgstr ""
+
+msgid "Properly tested and working."
+msgstr ""
+
+msgid "Experimental version"
+msgstr ""
+
+msgid "Untested version using latest drivers."
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
+msgstr ""
+
+msgid "ASIC hub"
+msgstr ""
+
+msgid "Installed directly on the ASIC."
+msgstr ""
 
 msgid "Need help?"
 msgstr "Potrebuješ pomoč?"
@@ -1498,8 +1231,8 @@ msgstr "Spremeni ali posodobi skupine ter izberi privzeti program za rudarjenje.
 msgid "For"
 msgstr "Za"
 
-msgid "API parameters:"
-msgstr "API parametri:"
+msgid "Algorithms:"
+msgstr ""
 
 msgid "Reset to default"
 msgstr "Ponastavi na privzeto vrednost"
@@ -2152,6 +1885,30 @@ msgstr "Kdaj se naj kovanec zamenja?"
 msgid "Set the minimum allowed difference in coin profitability to trigger switch (default value is 1%) and the minimum mining time (default value is 10 minutes)."
 msgstr "Izberi najmanjšo dovoljeno razliko v donosnosti kovanca, ki bo sprožila ponoven izračun (privzeto 1%) in zamenjavo kovanca in najkrajši dovoljeni čas rudarjenja (privzeto 10 minut)."
 
+msgid "Reward method"
+msgstr ""
+
+msgid "How to handle reward data?"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Ignore outliers"
+msgstr ""
+
+msgid "Apply penalties"
+msgstr ""
+
+msgid "Normal - High risk"
+msgstr ""
+
+msgid "Ignore outliers - Medium risk"
+msgstr ""
+
+msgid "Apply penalties - Low risk"
+msgstr ""
+
 msgid "Client's config"
 msgstr "Konfiguracija programa"
 
@@ -2457,6 +2214,9 @@ msgstr "Na teden"
 
 msgid "Per month"
 msgstr "Na mesec"
+
+msgid "Estimated daily"
+msgstr ""
 
 msgid "Top coins by algorithms"
 msgstr "Top kovanci po algoritmih"
@@ -3019,14 +2779,8 @@ msgstr "Vključi za 5 EUR na mesec"
 msgid "Number of workers"
 msgstr "Število delavcev"
 
-msgid "month"
-msgstr "mesec"
-
 msgid "full price"
 msgstr "polna cena"
-
-msgid "months"
-msgstr "mesecev"
 
 msgid "save"
 msgstr "prihrani"
@@ -3204,9 +2958,6 @@ msgstr "Uvozi bazene (JSON)"
 
 msgid "Pool address"
 msgstr "Naslov bazena"
-
-msgid "Used"
-msgstr "Uporabljeno"
 
 msgid "Export wallets (JSON)"
 msgstr "Izvozi denarnice (JSON)"
