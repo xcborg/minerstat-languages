@@ -382,6 +382,9 @@ msgstr ""
 msgid "Efficiency trigger - Restart"
 msgstr ""
 
+msgid "Earnings trigger - Restart"
+msgstr ""
+
 msgid "Scheduler has started"
 msgstr ""
 
@@ -1051,7 +1054,13 @@ msgstr ""
 msgid "Temperature stats not available yet."
 msgstr ""
 
-msgid "Make sure the worker is using the correct access key:"
+msgid "Download software"
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the correct information to your config.js file."
+msgstr ""
+
+msgid "Access key"
 msgstr ""
 
 msgid "Download"
@@ -1072,6 +1081,21 @@ msgstr ""
 msgid "Untested version using latest drivers."
 msgstr ""
 
+msgid "Need help?"
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Read the tutorial</a> that will guide you through msOS setup."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the correct login information."
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Read the tutorial</a> that will guide you through Windows node setup."
+msgstr ""
+
+msgid "Group/Location"
+msgstr ""
+
 msgid "or"
 msgstr ""
 
@@ -1084,7 +1108,13 @@ msgstr ""
 msgid "Installed directly on the ASIC."
 msgstr ""
 
-msgid "Need help?"
+msgid "for"
+msgstr ""
+
+msgid "For Antminers we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up. If you want to use ASIC node, you can find the tutorial <a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">here</a>."
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">Read the tutorial</a> that will guide you through ASIC node setup."
 msgstr ""
 
 msgid "Previous worker"
@@ -1621,6 +1651,9 @@ msgstr ""
 msgid "Set fans"
 msgstr ""
 
+msgid "Restart profit switch"
+msgstr ""
+
 msgid "Send email"
 msgstr ""
 
@@ -1856,9 +1889,6 @@ msgid "Electricity costs"
 msgstr ""
 
 msgid "What are your electricity costs?"
-msgstr ""
-
-msgid "for"
 msgstr ""
 
 msgid "Update information on your electricity costs."
@@ -2993,9 +3023,6 @@ msgid "Enter the key from the app and confirm your 2FA."
 msgstr ""
 
 msgid "Please note that after you successfully set up 2FA, the system will logged you out."
-msgstr ""
-
-msgid "Access key"
 msgstr ""
 
 msgid "Secret key"
