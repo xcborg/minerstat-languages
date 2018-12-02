@@ -49,6 +49,12 @@ msgstr ""
 msgid "Earnings"
 msgstr ""
 
+msgid "Income"
+msgstr ""
+
+msgid "El. costs"
+msgstr ""
+
 msgid "Max. temp"
 msgstr ""
 
@@ -556,6 +562,9 @@ msgstr ""
 msgid "Unidentified hardware"
 msgstr ""
 
+msgid "Undetected GPUs: "
+msgstr ""
+
 msgid "High temperature for"
 msgstr ""
 
@@ -680,9 +689,6 @@ msgid "months"
 msgstr ""
 
 msgid "Balance"
-msgstr ""
-
-msgid "Income"
 msgstr ""
 
 msgid "Outgo"
@@ -815,6 +821,9 @@ msgid "Tools"
 msgstr ""
 
 msgid "Scheduler"
+msgstr ""
+
+msgid "Config templates"
 msgstr ""
 
 msgid "Market cap"
@@ -1004,6 +1013,21 @@ msgid "This worker is not part of your account."
 msgstr ""
 
 msgid "Back to workers list"
+msgstr ""
+
+msgid "Profit switch not set"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't add any coins to it."
+msgstr ""
+
+msgid "Configure profit switch"
+msgstr ""
+
+msgid "Hashrate info missing in profit switch"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't set algorithms' hashrates."
 msgstr ""
 
 msgid "Profit switch in"
@@ -1264,6 +1288,15 @@ msgstr ""
 msgid "Algorithms:"
 msgstr ""
 
+msgid "Load from template"
+msgstr ""
+
+msgid "No templates"
+msgstr ""
+
+msgid "Create new template"
+msgstr ""
+
 msgid "Reset to default"
 msgstr ""
 
@@ -1340,6 +1373,30 @@ msgid "Supports minerstat for Innosilicon"
 msgstr ""
 
 msgid "Supports minerstat for Dayun"
+msgstr ""
+
+msgid "Electricity costs"
+msgstr ""
+
+msgid "What are your electricity costs?"
+msgstr ""
+
+msgid "Power consumption"
+msgstr ""
+
+msgid "What is the worker's power consumption?"
+msgstr ""
+
+msgid "Number of GPUs"
+msgstr ""
+
+msgid "How many GPUs does the rig hold?"
+msgstr ""
+
+msgid "Additional info"
+msgstr ""
+
+msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
 msgstr ""
 
 msgid "Unavailable"
@@ -1870,9 +1927,6 @@ msgstr ""
 msgid "Algorithm"
 msgstr ""
 
-msgid "Power consumption"
-msgstr ""
-
 msgid "Hashrate and consumption settings"
 msgstr ""
 
@@ -1883,12 +1937,6 @@ msgid "Dual mining"
 msgstr ""
 
 msgid "Update information on hashrate and consumption for dual mining coins."
-msgstr ""
-
-msgid "Electricity costs"
-msgstr ""
-
-msgid "What are your electricity costs?"
 msgstr ""
 
 msgid "Update information on your electricity costs."
@@ -2003,9 +2051,6 @@ msgid "Market Cap"
 msgstr ""
 
 msgid "Price"
-msgstr ""
-
-msgid "Circulating Supply"
 msgstr ""
 
 msgid "Volume (24h)"
@@ -2357,6 +2402,42 @@ msgid "Mount one or more workers at position (0,0)."
 msgstr ""
 
 msgid "Empty slot"
+msgstr ""
+
+msgid "Export templates (JSON)"
+msgstr ""
+
+msgid "Import templates (JSON)"
+msgstr ""
+
+msgid "Add new template"
+msgstr ""
+
+msgid "Template name"
+msgstr ""
+
+msgid "Please note that this action will delete the config template, but the workers' current configuration will stay the same."
+msgstr ""
+
+msgid "Add your first config template"
+msgstr ""
+
+msgid "for easier management of workers' configs"
+msgstr ""
+
+msgid "Please name your template."
+msgstr ""
+
+msgid "Missing client."
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Name your config template"
+msgstr ""
+
+msgid "Config templates is a tool that helps you organize your config templates and switch quickly between them through worker's config page."
 msgstr ""
 
 msgid "Export profiles (JSON)"
