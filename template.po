@@ -37,7 +37,16 @@ msgstr ""
 msgid "Profit switch enabled"
 msgstr ""
 
+msgid "Load from template"
+msgstr ""
+
 msgid "CPU mining"
+msgstr ""
+
+msgid "No templates"
+msgstr ""
+
+msgid "Create new template"
 msgstr ""
 
 msgid "Last seen:"
@@ -76,7 +85,7 @@ msgstr ""
 msgid "Restart software"
 msgstr ""
 
-msgid "Switch miner"
+msgid "Switch"
 msgstr ""
 
 msgid "Profit switch"
@@ -316,6 +325,9 @@ msgstr ""
 msgid "'s notes"
 msgstr ""
 
+msgid "Client"
+msgstr ""
+
 msgid "th"
 msgstr ""
 
@@ -503,9 +515,6 @@ msgid "Wallet"
 msgstr ""
 
 msgid "Fee"
-msgstr ""
-
-msgid "Client"
 msgstr ""
 
 msgid "Event"
@@ -1036,6 +1045,9 @@ msgstr ""
 msgid "Edit config"
 msgstr ""
 
+msgid "Switch miner"
+msgstr ""
+
 msgid "Shut down machine"
 msgstr ""
 
@@ -1157,6 +1169,18 @@ msgid "'s console log"
 msgstr ""
 
 msgid "Close"
+msgstr ""
+
+msgid "Default configuration"
+msgstr ""
+
+msgid "Your worker is online but mining to default settings. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
+msgstr ""
+
+msgid "Add pool and wallet in"
+msgstr ""
+
+msgid "Select default mining client and edit its configuration in"
 msgstr ""
 
 msgid "This worker doesn't exist on your account."
@@ -1286,15 +1310,6 @@ msgid "For"
 msgstr ""
 
 msgid "Algorithms:"
-msgstr ""
-
-msgid "Load from template"
-msgstr ""
-
-msgid "No templates"
-msgstr ""
-
-msgid "Create new template"
 msgstr ""
 
 msgid "Reset to default"
@@ -3047,9 +3062,6 @@ msgid "Telegram ID"
 msgstr ""
 
 msgid "Connect with Telegram"
-msgstr ""
-
-msgid "Switch"
 msgstr ""
 
 msgid "Mobile device ID"
