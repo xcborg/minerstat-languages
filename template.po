@@ -571,6 +571,9 @@ msgstr ""
 msgid "Unidentified hardware"
 msgstr ""
 
+msgid "Low efficiency: "
+msgstr ""
+
 msgid "Undetected GPUs: "
 msgstr ""
 
@@ -697,6 +700,15 @@ msgstr ""
 msgid "months"
 msgstr ""
 
+msgid "Delete benchmark?"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
 msgid "Balance"
 msgstr ""
 
@@ -715,7 +727,7 @@ msgstr ""
 msgid "Please check your inbox and confirm your account to proceed."
 msgstr ""
 
-msgid "Remove"
+msgid "Access key"
 msgstr ""
 
 msgid "Settings"
@@ -886,7 +898,13 @@ msgstr ""
 msgid "Limit reached, upgrade your plan."
 msgstr ""
 
+msgid "Set worker's name."
+msgstr ""
+
 msgid "Invalid ASIC IP."
+msgstr ""
+
+msgid "Duplicated IP."
 msgstr ""
 
 msgid "Unable to add worker."
@@ -919,13 +937,16 @@ msgstr ""
 msgid "SSH username"
 msgstr ""
 
-msgid "ASIC's default username is root"
-msgstr ""
-
 msgid "SSH password"
 msgstr ""
 
-msgid "ASIC's default password is admin"
+msgid "Warning"
+msgstr ""
+
+msgid "Default SSH username and password for <span id=\"asicSystem\">Antminer</span> is <b id=\"asicSSH\">root/admin</b>."
+msgstr ""
+
+msgid "Please note that SSH login is not the same as web login."
 msgstr ""
 
 msgid "Groups / Locations (optional)"
@@ -944,15 +965,6 @@ msgid "Add worker"
 msgstr ""
 
 msgid "Bulk import"
-msgstr ""
-
-msgid "Looking for software?"
-msgstr ""
-
-msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
-msgstr ""
-
-msgid "Learn more"
 msgstr ""
 
 msgid "Limit reached"
@@ -1096,9 +1108,6 @@ msgstr ""
 msgid "Make sure to download the right software and to enter the correct information to your config.js file."
 msgstr ""
 
-msgid "Access key"
-msgstr ""
-
 msgid "Download"
 msgstr ""
 
@@ -1144,6 +1153,9 @@ msgstr ""
 msgid "Installed directly on the ASIC."
 msgstr ""
 
+msgid "Learn more"
+msgstr ""
+
 msgid "for"
 msgstr ""
 
@@ -1181,6 +1193,48 @@ msgid "Add pool and wallet in"
 msgstr ""
 
 msgid "Select default mining client and edit its configuration in"
+msgstr ""
+
+msgid "Please note that first boot might take a little bit longer."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact information to your config.js file."
+msgstr ""
+
+msgid "Don't forget to click [Start mining] on your Windows node software."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact login information."
+msgstr ""
+
+msgid "To connect your Antminer to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer in your local network."
+msgstr ""
+
+msgid "Recommended. Installed directly on the ASIC."
+msgstr ""
+
+msgid "To connect your Dayun to minerstat, you need to install ASIC hub on your ASIC."
+msgstr ""
+
+msgid "Dayun setup"
+msgstr ""
+
+msgid "Make sure to enter the exact login information."
+msgstr ""
+
+msgid "Set up"
+msgstr ""
+
+msgid "For Dayun ASICs we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-hub-a39a9803f0f2\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up."
+msgstr ""
+
+msgid "To connect your Innosilicon to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer in your local network."
+msgstr ""
+
+msgid "For Innosilicon ASICs we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-23-innosilicon-monitoring-a667aff06a76\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up. If you want to use ASIC node, you can find the tutorial <a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">here</a>."
+msgstr ""
+
+msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer on your local network."
 msgstr ""
 
 msgid "This worker doesn't exist on your account."
@@ -1412,6 +1466,18 @@ msgid "Additional info"
 msgstr ""
 
 msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "You have unsaved changes. Are you sure you want to leave this page?"
+msgstr ""
+
+msgid "No, stay on this page"
+msgstr ""
+
+msgid "Yes, leave this page"
 msgstr ""
 
 msgid "Unavailable"
@@ -1913,6 +1979,9 @@ msgid "Select pool"
 msgstr ""
 
 msgid "Select wallet"
+msgstr ""
+
+msgid "Read tutorial"
 msgstr ""
 
 msgid "Coin"
@@ -2968,6 +3037,114 @@ msgstr ""
 msgid "Send message"
 msgstr ""
 
+msgid "Add your first benchmark"
+msgstr ""
+
+msgid "and see what is best to use"
+msgstr ""
+
+msgid "Add new benchmark"
+msgstr ""
+
+msgid "Export benchmarks"
+msgstr ""
+
+msgid "Import benchmarks"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Please note that this action will delete the benchmark and data will not be recoverable."
+msgstr ""
+
+msgid "Wrong speed selected."
+msgstr ""
+
+msgid "Please name your benchmark."
+msgstr ""
+
+msgid "Unknown worker."
+msgstr ""
+
+msgid "Unsupported algorithm."
+msgstr ""
+
+msgid "Unsupported client system."
+msgstr ""
+
+msgid "Unsupported client type."
+msgstr ""
+
+msgid "Select what to benchmark."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Add worker to benchmark"
+msgstr ""
+
+msgid "You can select worker that you want to use in the benchmark."
+msgstr ""
+
+msgid "Benchmark name"
+msgstr ""
+
+msgid "Name yourbenchmark profile"
+msgstr ""
+
+msgid "Benchmark duration"
+msgstr ""
+
+msgid "Select the duration per client"
+msgstr ""
+
+msgid "Fast (45 sec)"
+msgstr ""
+
+msgid "Medium (70 sec)"
+msgstr ""
+
+msgid "Slow (120 sec)"
+msgstr ""
+
+msgid "General information"
+msgstr ""
+
+msgid "Name your benchmark and choose the precision with which you will benchmark your options."
+msgstr ""
+
+msgid "Select algorithm"
+msgstr ""
+
+msgid "Select client"
+msgstr ""
+
+msgid "Benchmark options"
+msgstr ""
+
+msgid "Define algorithm, mining client, and configuration you want to benchmark. Default config is custom config set by minerstat that will work for any algorithm and mining client."
+msgstr ""
+
+msgid "Save and benchmark"
+msgstr ""
+
 msgid "Daily balance statistics"
 msgstr ""
 
@@ -3013,7 +3190,7 @@ msgstr ""
 msgid "Recommendations"
 msgstr ""
 
-msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t- Hynix -> 1500 strap"
 msgstr ""
 
 msgid "Ambassador"
