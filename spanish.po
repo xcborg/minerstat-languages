@@ -37,8 +37,17 @@ msgstr "Cambio de rentabilidad deshabilitado"
 msgid "Profit switch enabled"
 msgstr "Cambio de rentabilidad habilitado"
 
+msgid "Load from template"
+msgstr ""
+
 msgid "CPU mining"
 msgstr "Minado de CPU"
+
+msgid "No templates"
+msgstr ""
+
+msgid "Create new template"
+msgstr ""
 
 msgid "Last seen:"
 msgstr "Visto por última vez:"
@@ -48,6 +57,12 @@ msgstr "Tiempo de actividad"
 
 msgid "Earnings"
 msgstr "Ganancias"
+
+msgid "Income"
+msgstr "Ingreso"
+
+msgid "El. costs"
+msgstr ""
 
 msgid "Max. temp"
 msgstr "Max. temp"
@@ -70,8 +85,8 @@ msgstr "Reiniciar maquina"
 msgid "Restart software"
 msgstr "Reiniciar programa"
 
-msgid "Switch miner"
-msgstr "Cambiar minero"
+msgid "Switch"
+msgstr "Cambiar"
 
 msgid "Profit switch"
 msgstr "Cambio de rentabilidad"
@@ -310,6 +325,9 @@ msgstr "Error de controlador"
 msgid "'s notes"
 msgstr "notas de"
 
+msgid "Client"
+msgstr "Cliente"
+
 msgid "th"
 msgstr "avo"
 
@@ -381,6 +399,9 @@ msgstr "Disparador de eficiencia - Reiniciar ordenador"
 
 msgid "Efficiency trigger - Restart"
 msgstr "Disparador de eficiencia - Reiniciar software"
+
+msgid "Earnings trigger - Restart"
+msgstr ""
 
 msgid "Scheduler has started"
 msgstr "Calendario se ha iniciado"
@@ -496,9 +517,6 @@ msgstr "Billetera"
 msgid "Fee"
 msgstr "Cuota"
 
-msgid "Client"
-msgstr "Cliente"
-
 msgid "Event"
 msgstr "Evento"
 
@@ -547,11 +565,20 @@ msgstr "Estás usando un nombre de usuario y contraseña que no son predetermina
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
 msgstr "Estás usando un nombre de usuario y contraseña que no son predeterminados para este ASIC Dayun. Por favor nota que los inicios de sesion SSH no son los mismo que los de web, esto significa que el nombre de usuario/contraseña predeterminados para Dayun es <b>root/envision</b>.<br><br>Puedes cambiar tu nombre de usuario y contraseña en tu trabajador haciendo click en la opción \"Editar\" en la lista de trabajadores. Si estás seguro que has colocado el nombre de usuario y contraseña predeterminados para tu ASIC, puedes ignorar esta onservación."
 
+msgid "You are using username and password that aren't default for this Spondoolies ASIC. Please note that SSH login is not the same as web login, which means that default Spondoolies username/password is <b>root/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
 msgid "Online, but not mining."
 msgstr "En línea pero no minando"
 
 msgid "Unidentified hardware"
 msgstr "Hardware sin identificar"
+
+msgid "Low efficiency: "
+msgstr ""
+
+msgid "Undetected GPUs: "
+msgstr ""
 
 msgid "High temperature for"
 msgstr "Alta temperatura para"
@@ -576,6 +603,12 @@ msgstr "Pool no definida"
 
 msgid "Tags defined in worker's config are invalid"
 msgstr "Etiquetas definidas en la configuración del trabajador son inválidas"
+
+msgid "Duplicated IP"
+msgstr ""
+
+msgid "This IP was entered in multiple workers"
+msgstr ""
 
 msgid "No issues"
 msgstr "Sin problemas"
@@ -676,11 +709,17 @@ msgstr "mes"
 msgid "months"
 msgstr "meses"
 
+msgid "Delete benchmark?"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Remove"
+msgstr "Remover"
+
 msgid "Balance"
 msgstr "Balance"
-
-msgid "Income"
-msgstr "Ingreso"
 
 msgid "Outgo"
 msgstr "Gastos"
@@ -697,8 +736,8 @@ msgstr "¡Correo electrónico envíado!"
 msgid "Please check your inbox and confirm your account to proceed."
 msgstr "Por favor revisa tu bandeja de entrada y confirma tu cuenta para continuar."
 
-msgid "Remove"
-msgstr "Remover"
+msgid "Access key"
+msgstr "Clave de acceso"
 
 msgid "Settings"
 msgstr "Opciones"
@@ -814,6 +853,9 @@ msgstr "Herramientas"
 msgid "Scheduler"
 msgstr "Calendario"
 
+msgid "Config templates"
+msgstr ""
+
 msgid "Market cap"
 msgstr "Capitalización de mercado"
 
@@ -865,8 +907,14 @@ msgstr "El nombre del trabajador no debe exceder los 15 caracteres."
 msgid "Limit reached, upgrade your plan."
 msgstr "Límite alcanzado, mejora tu plan."
 
+msgid "Set worker's name."
+msgstr ""
+
 msgid "Invalid ASIC IP."
 msgstr "IP del ASIC inválida."
+
+msgid "Duplicated IP."
+msgstr ""
 
 msgid "Unable to add worker."
 msgstr "No se puede agregar trabajador."
@@ -898,14 +946,17 @@ msgstr "Sistema"
 msgid "SSH username"
 msgstr "Nombre de usuario SSH"
 
-msgid "ASIC's default username is root"
-msgstr "El nombre de usuario predeterminado del ASIC es root"
-
 msgid "SSH password"
 msgstr "Contraseña SSH"
 
-msgid "ASIC's default password is admin"
-msgstr "La contraseña predeterminada del ASIC es admin"
+msgid "Warning"
+msgstr ""
+
+msgid "Default SSH username and password for <span id=\"asicSystem\">Antminer</span> is <b id=\"asicSSH\">root/admin</b>."
+msgstr ""
+
+msgid "Please note that SSH login is not the same as web login."
+msgstr ""
 
 msgid "Groups / Locations (optional)"
 msgstr "Grupo / Locación (opcional)"
@@ -924,15 +975,6 @@ msgstr "Añadir trabajador"
 
 msgid "Bulk import"
 msgstr "Importación masiva"
-
-msgid "Looking for software?"
-msgstr "¿Buscando software?"
-
-msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
-msgstr "Si aún no has instalado el software de minerstat en tus equipos de minería, selecciona entre Linux OS, nodo de Windows y nodo ASIC para empezar."
-
-msgid "Learn more"
-msgstr "Aprender más"
 
 msgid "Limit reached"
 msgstr "Límite alcanzado"
@@ -1003,6 +1045,33 @@ msgstr "Este trabajador no es parte de tu cuenta."
 msgid "Back to workers list"
 msgstr "Regresar a la lista de trabajadores"
 
+msgid "Profit switch not set"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't add any coins to it."
+msgstr ""
+
+msgid "Configure profit switch"
+msgstr ""
+
+msgid "Hashrate info missing in profit switch"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't set algorithms' hashrates."
+msgstr ""
+
+msgid "Demo configuration"
+msgstr ""
+
+msgid "Your worker is online but mining to demo configuration. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
+msgstr ""
+
+msgid "Add pool and wallet in"
+msgstr ""
+
+msgid "Select default mining client and edit its configuration in"
+msgstr ""
+
 msgid "Profit switch in"
 msgstr "Cambio de rentabilidad en"
 
@@ -1051,8 +1120,14 @@ msgstr "Estimado mensual"
 msgid "Temperature stats not available yet."
 msgstr "Estadísticas de temperatura no disponibles aún."
 
-msgid "Make sure the worker is using the correct access key:"
-msgstr "Asegurate que el trabajador esté usando la llave de acceso (access key) correcta."
+msgid "Please note that first boot might take a little bit longer."
+msgstr ""
+
+msgid "Download software"
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact information to your config.js file."
+msgstr ""
 
 msgid "Download"
 msgstr ""
@@ -1072,20 +1147,35 @@ msgstr ""
 msgid "Untested version using latest drivers."
 msgstr ""
 
-msgid "or"
-msgstr ""
-
-msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
-msgstr ""
-
-msgid "ASIC hub"
-msgstr ""
-
-msgid "Installed directly on the ASIC."
-msgstr ""
-
 msgid "Need help?"
 msgstr "¿Necesitas ayuda?"
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Read the tutorial</a> that will guide you through msOS setup."
+msgstr ""
+
+msgid "Don't forget to click [Start mining] on your Windows node software."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact login information."
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Read the tutorial</a> that will guide you through Windows node setup."
+msgstr ""
+
+msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC."
+msgstr ""
+
+msgid "Install software"
+msgstr ""
+
+msgid "Make sure to enter a correct command to your SSH client to install ASIC Hub."
+msgstr ""
+
+msgid "Install ASIC Hub"
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read tutorial</a> on how to set up ASIC Hub."
+msgstr ""
 
 msgid "Previous worker"
 msgstr "Trabajador anterior"
@@ -1137,6 +1227,9 @@ msgstr "¿Necesitas más estadísticas?"
 
 msgid "Get minerstat+ to monitor up to 60 days of data."
 msgstr "Adquiere minerstat+ para monitorización de más de 60 días."
+
+msgid "Learn more"
+msgstr "Aprender más"
 
 msgid "Last 3 days"
 msgstr "últimos 3 días"
@@ -1312,6 +1405,48 @@ msgstr "Soporta  minerstat para Innosilicon"
 msgid "Supports minerstat for Dayun"
 msgstr "Soporta minerstat para Dayun"
 
+msgid "Supports minerstat for Spondoolies"
+msgstr ""
+
+msgid "Electricity costs"
+msgstr "Costos eléctricos"
+
+msgid "What are your electricity costs?"
+msgstr "¿Cual son tus costos eléctricos?"
+
+msgid "for"
+msgstr "para"
+
+msgid "Power consumption"
+msgstr "Consumo de poder"
+
+msgid "What is the worker's power consumption?"
+msgstr ""
+
+msgid "Number of GPUs"
+msgstr ""
+
+msgid "How many GPUs does the rig hold?"
+msgstr ""
+
+msgid "Additional info"
+msgstr ""
+
+msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "You have unsaved changes. Are you sure you want to leave this page?"
+msgstr ""
+
+msgid "No, stay on this page"
+msgstr ""
+
+msgid "Yes, leave this page"
+msgstr ""
+
 msgid "Unavailable"
 msgstr "No disponible"
 
@@ -1348,8 +1483,8 @@ msgstr "Guardar"
 msgid "Wallet number limit reached."
 msgstr "Número máximo de billeteras alcanzado."
 
-msgid "Please enter wallet address."
-msgstr "Por favor ingresa la dirección de la billetera."
+msgid "Invalid wallet address."
+msgstr ""
 
 msgid "Wallets monitoring"
 msgstr "Monitorización de billeteras"
@@ -1621,6 +1756,9 @@ msgstr "entonces"
 msgid "Set fans"
 msgstr "Establece ventiladores"
 
+msgid "Restart profit switch"
+msgstr ""
+
 msgid "Send email"
 msgstr "Enviar correo electrónico"
 
@@ -1798,6 +1936,9 @@ msgstr "Opciones de perfil"
 msgid "Define schedule, name your scheduler profile, select the client and edit its config."
 msgstr "Define el calendario, nombre del perfil del calendario, selecciona el cliente y edita su configuración."
 
+msgid "does not exist."
+msgstr ""
+
 msgid "This client is not available."
 msgstr "Este cliente no está disponible."
 
@@ -1809,6 +1950,9 @@ msgstr "Selecciona pool"
 
 msgid "Select wallet"
 msgstr "Selecciona billetera"
+
+msgid "Read tutorial"
+msgstr ""
 
 msgid "Coin"
 msgstr "Moneda"
@@ -1837,9 +1981,6 @@ msgstr "La opcion de autoselección seleccionara el cliente más adecuado y lo c
 msgid "Algorithm"
 msgstr "Algoritmo"
 
-msgid "Power consumption"
-msgstr "Consumo de poder"
-
 msgid "Hashrate and consumption settings"
 msgstr "Configuración de consumo y hashrate"
 
@@ -1851,15 +1992,6 @@ msgstr "Minería dual"
 
 msgid "Update information on hashrate and consumption for dual mining coins."
 msgstr "Actualiza la informacion de hashrate y consumo para la minería dual de monedas."
-
-msgid "Electricity costs"
-msgstr "Costos eléctricos"
-
-msgid "What are your electricity costs?"
-msgstr "¿Cual son tus costos eléctricos?"
-
-msgid "for"
-msgstr "para"
 
 msgid "Update information on your electricity costs."
 msgstr "Actualiza la información del tus costos eléctricos"
@@ -1921,9 +2053,6 @@ msgstr "Se ha alcanzado el limite de Pools"
 msgid "Invalid Key."
 msgstr "Llave inválida"
 
-msgid "Invalid address."
-msgstr "Dirección inválida"
-
 msgid "Add your first pool"
 msgstr "Añade tu primera pool"
 
@@ -1974,9 +2103,6 @@ msgstr "Capitalización del mercado"
 
 msgid "Price"
 msgstr "Precio"
-
-msgid "Circulating Supply"
-msgstr "suministro en circulación"
 
 msgid "Volume (24h)"
 msgstr "Volumen (24h)"
@@ -2140,11 +2266,20 @@ msgstr "Configura la 2FA"
 msgid "Your e-mail is not confirmed. Please check your inbox."
 msgstr "Tu correo electrónico no está confirmado. Por favor revisa tu bandeja de entrada."
 
+msgid "Resend confirmation e-mail"
+msgstr ""
+
 msgid "No wallets available for mining"
 msgstr "No hay billeras disponibles para minar"
 
 msgid "No pools available for mining"
 msgstr "No hay pools disponibles para minar"
+
+msgid "You have enabled profit switch in your config, but didn't set hashrates for the following algorithms: "
+msgstr ""
+
+msgid "Make sure to add the pool and the wallet to which you want to mine in your address editor and to properly configure your worker's config."
+msgstr ""
 
 msgid "Filter your results to examine the issues more closely."
 msgstr "Filtra tus resultados para examinar problemas con mayor detenimiento."
@@ -2164,6 +2299,9 @@ msgstr "Falta del dato de los ventiladores"
 msgid "Speed data missing"
 msgstr "Falta el dato de la velocidad"
 
+msgid "Profit switch errors"
+msgstr ""
+
 msgid "Critical"
 msgstr "Crítico"
 
@@ -2172,6 +2310,9 @@ msgstr "Importante"
 
 msgid "Other"
 msgstr "Otros"
+
+msgid "Duplicated ASIC IPs"
+msgstr ""
 
 msgid "Temporary error."
 msgstr "Error temporal."
@@ -2329,6 +2470,42 @@ msgstr "Monta uno o más trabajadores en la posición (0,0)."
 msgid "Empty slot"
 msgstr "Espacio vacío"
 
+msgid "Export templates (JSON)"
+msgstr ""
+
+msgid "Import templates (JSON)"
+msgstr ""
+
+msgid "Add new template"
+msgstr ""
+
+msgid "Template name"
+msgstr ""
+
+msgid "Please note that this action will delete the config template, but the workers' current configuration will stay the same."
+msgstr ""
+
+msgid "Add your first config template"
+msgstr ""
+
+msgid "for easier management of workers' configs"
+msgstr ""
+
+msgid "Please name your template."
+msgstr ""
+
+msgid "Missing client."
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Name your config template"
+msgstr ""
+
+msgid "Config templates is a tool that helps you organize your config templates and switch quickly between them through worker's config page."
+msgstr ""
+
 msgid "Export profiles (JSON)"
 msgstr "Exportar perfiles (JSON)"
 
@@ -2455,26 +2632,11 @@ msgstr "No ordenes pasadas"
 msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
 msgstr "Mejorando tu cuenta puedes traer más trabajadores, más estadísticas detalladas, más opciones de alertas, y otros beneficios útiles."
 
-msgid "Plans"
-msgstr "Planes"
-
-msgid "Free plan"
-msgstr "Plan gratuito"
-
-msgid "Up to 2 workers"
-msgstr "hasta 2 trabajadores"
-
-msgid "forever"
-msgstr "por siempre"
-
 msgid "Tier plan"
 msgstr "Nivel del plan"
 
 msgid "Up to 1,000 workers"
 msgstr "hasta 1000 trabajadores"
-
-msgid "per worker per month"
-msgstr "por trabajador por mes"
 
 msgid "Custom plan"
 msgstr "plan personalizado"
@@ -2482,17 +2644,11 @@ msgstr "plan personalizado"
 msgid "For more than 1,000 workers"
 msgstr "Para más de 1000 trabajadores"
 
-msgid "Add-ons"
-msgstr "Complementos"
+msgid "minerstat+"
+msgstr ""
 
-msgid "extended stats, themes & advanced features"
-msgstr "Estadísticas extendidas, temas y opciones avanzadas"
-
-msgid "per month"
-msgstr "por mes"
-
-msgid "customized and branded customers' profiles"
-msgstr "Perfiles de clientes personalizados y de marca"
+msgid "Add-on"
+msgstr ""
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
 msgstr "Añade una cantidad ilimitada de clientes y asignales los trabajadores que compres."
@@ -2637,6 +2793,9 @@ msgstr "Ya posees el complemento de Marca blanca. Si estás interesado en algo m
 
 msgid "Billing order"
 msgstr "Orden de facturación"
+
+msgid "Upgrade your plan"
+msgstr ""
 
 msgid "Features"
 msgstr "Caracteristicas"
@@ -2794,6 +2953,33 @@ msgstr "Tu cuenta está totalmente actualizada. Si necesitar más de 1000 trabaj
 msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr "Ya tienes el complemento minerstat+. Si estás interesado en algo más, contáctanos a través de un <a href=\"/billing-order/custom\">formulario de consulta</a>."
 
+msgid "Plans"
+msgstr "Planes"
+
+msgid "Free plan"
+msgstr "Plan gratuito"
+
+msgid "Up to 2 workers"
+msgstr "hasta 2 trabajadores"
+
+msgid "forever"
+msgstr "por siempre"
+
+msgid "per worker per month"
+msgstr "por trabajador por mes"
+
+msgid "Add-ons"
+msgstr "Complementos"
+
+msgid "extended stats, themes & advanced features"
+msgstr "Estadísticas extendidas, temas y opciones avanzadas"
+
+msgid "per month"
+msgstr "por mes"
+
+msgid "customized and branded customers' profiles"
+msgstr "Perfiles de clientes personalizados y de marca"
+
 msgid "Last 6 days"
 msgstr "Últimos 6 días"
 
@@ -2842,6 +3028,126 @@ msgstr "Mensaje para nosotros"
 msgid "Send message"
 msgstr "Enviar"
 
+msgid "Add your first benchmark"
+msgstr ""
+
+msgid "and see what is best to use"
+msgstr ""
+
+msgid "Add new benchmark"
+msgstr ""
+
+msgid "Export benchmarks"
+msgstr ""
+
+msgid "Import benchmarks"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Please note that this action will delete the benchmark and data will not be recoverable."
+msgstr ""
+
+msgid "Wrong speed selected."
+msgstr ""
+
+msgid "Please name your benchmark."
+msgstr ""
+
+msgid "Unknown worker."
+msgstr ""
+
+msgid "Unsupported algorithm."
+msgstr ""
+
+msgid "Unsupported client system."
+msgstr ""
+
+msgid "Unsupported client type."
+msgstr ""
+
+msgid "Select what to benchmark."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Add worker to benchmark"
+msgstr ""
+
+msgid "You can select worker that you want to use in the benchmark."
+msgstr ""
+
+msgid "Benchmark name"
+msgstr ""
+
+msgid "Name yourbenchmark profile"
+msgstr ""
+
+msgid "Benchmark duration"
+msgstr ""
+
+msgid "Select the duration per client"
+msgstr ""
+
+msgid "Slow (120 sec)"
+msgstr ""
+
+msgid "Medium (70 sec)"
+msgstr ""
+
+msgid "Fast (45 sec)"
+msgstr ""
+
+msgid "General information"
+msgstr ""
+
+msgid "Name your benchmark and choose the precision with which you will benchmark your options."
+msgstr ""
+
+msgid "Load all default options"
+msgstr ""
+
+msgid "Select algorithm"
+msgstr ""
+
+msgid "Select client"
+msgstr ""
+
+msgid "Benchmark options"
+msgstr ""
+
+msgid "Define algorithm, mining client, and configuration you want to benchmark. Default config is custom config set by minerstat that will work for any algorithm and mining client."
+msgstr ""
+
+msgid "Save and benchmark"
+msgstr ""
+
+msgid "Restart benchmark"
+msgstr ""
+
+msgid "Export benchmark"
+msgstr ""
+
 msgid "Daily balance statistics"
 msgstr "Estadísticas de balance diario"
 
@@ -2887,8 +3193,8 @@ msgstr "Resultado"
 msgid "Recommendations"
 msgstr "Recomendaciones"
 
-msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
-msgstr "El editor de Strap de Bios para AMD es una herramienta avanzada para la optimización de los GPUs RX y R9. Úsalo bajo tu propio riesgo.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap a 1500 y superior<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap a 1750 y superior<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap para 4GB o 1750 strap para 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgstr ""
 
 msgid "Ambassador"
 msgstr "Embajador"
@@ -2938,9 +3244,6 @@ msgstr "ID de Telegram"
 msgid "Connect with Telegram"
 msgstr "Conectar con Telegram"
 
-msgid "Switch"
-msgstr "Cambiar"
-
 msgid "Mobile device ID"
 msgstr "Id del dispositivo móvil"
 
@@ -2956,14 +3259,14 @@ msgstr "Exportar pools (JSON)"
 msgid "Import pools (JSON)"
 msgstr "Importar pools (JSON)"
 
-msgid "Pool address"
-msgstr "Dirección de pool"
-
 msgid "Export wallets (JSON)"
 msgstr "Exportar billeteras (JSON)"
 
 msgid "Import wallets (JSON)"
 msgstr "Importar billeteras (JSON)"
+
+msgid "Pool address"
+msgstr "Dirección de pool"
 
 msgid "Wallet address"
 msgstr "Dirección de la billetera"
@@ -2994,9 +3297,6 @@ msgstr "Introduce la clave de la aplicación y confirma tu 2FA."
 
 msgid "Please note that after you successfully set up 2FA, the system will logged you out."
 msgstr "Por favor nota que despues de configurar satisfactoriamente tu 2FA, el sistema cerrará sesión."
-
-msgid "Access key"
-msgstr "Clave de acceso"
 
 msgid "Secret key"
 msgstr "Clave secreta"
