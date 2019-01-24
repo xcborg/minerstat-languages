@@ -565,6 +565,9 @@ msgstr ""
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
 msgstr ""
 
+msgid "You are using username and password that aren't default for this Spondoolies ASIC. Please note that SSH login is not the same as web login, which means that default Spondoolies username/password is <b>root/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
 msgid "Online, but not mining."
 msgstr ""
 
@@ -599,6 +602,12 @@ msgid "No pool defined"
 msgstr ""
 
 msgid "Tags defined in worker's config are invalid"
+msgstr ""
+
+msgid "Duplicated IP"
+msgstr ""
+
+msgid "This IP was entered in multiple workers"
 msgstr ""
 
 msgid "No issues"
@@ -1051,13 +1060,22 @@ msgstr ""
 msgid "You have enabled profit switch in your config, but didn't set algorithms' hashrates."
 msgstr ""
 
+msgid "Demo configuration"
+msgstr ""
+
+msgid "Your worker is online but mining to demo configuration. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
+msgstr ""
+
+msgid "Add pool and wallet in"
+msgstr ""
+
+msgid "Select default mining client and edit its configuration in"
+msgstr ""
+
 msgid "Profit switch in"
 msgstr ""
 
 msgid "Edit config"
-msgstr ""
-
-msgid "Switch miner"
 msgstr ""
 
 msgid "Shut down machine"
@@ -1102,10 +1120,13 @@ msgstr ""
 msgid "Temperature stats not available yet."
 msgstr ""
 
+msgid "Please note that first boot might take a little bit longer."
+msgstr ""
+
 msgid "Download software"
 msgstr ""
 
-msgid "Make sure to download the right software and to enter the correct information to your config.js file."
+msgid "Make sure to download the right software and to enter the exact information to your config.js file."
 msgstr ""
 
 msgid "Download"
@@ -1132,37 +1153,28 @@ msgstr ""
 msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Read the tutorial</a> that will guide you through msOS setup."
 msgstr ""
 
-msgid "Make sure to download the right software and to enter the correct login information."
+msgid "Don't forget to click [Start mining] on your Windows node software."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact login information."
 msgstr ""
 
 msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Read the tutorial</a> that will guide you through Windows node setup."
 msgstr ""
 
-msgid "Group/Location"
+msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC."
 msgstr ""
 
-msgid "or"
+msgid "Install software"
 msgstr ""
 
-msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
+msgid "Make sure to enter a correct command to your SSH client to install ASIC Hub."
 msgstr ""
 
-msgid "ASIC hub"
+msgid "Install ASIC Hub"
 msgstr ""
 
-msgid "Installed directly on the ASIC."
-msgstr ""
-
-msgid "Learn more"
-msgstr ""
-
-msgid "for"
-msgstr ""
-
-msgid "For Antminers we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up. If you want to use ASIC node, you can find the tutorial <a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">here</a>."
-msgstr ""
-
-msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">Read the tutorial</a> that will guide you through ASIC node setup."
+msgid "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read tutorial</a> on how to set up ASIC Hub."
 msgstr ""
 
 msgid "Previous worker"
@@ -1181,60 +1193,6 @@ msgid "'s console log"
 msgstr ""
 
 msgid "Close"
-msgstr ""
-
-msgid "Default configuration"
-msgstr ""
-
-msgid "Your worker is online but mining to default settings. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
-msgstr ""
-
-msgid "Add pool and wallet in"
-msgstr ""
-
-msgid "Select default mining client and edit its configuration in"
-msgstr ""
-
-msgid "Please note that first boot might take a little bit longer."
-msgstr ""
-
-msgid "Make sure to download the right software and to enter the exact information to your config.js file."
-msgstr ""
-
-msgid "Don't forget to click [Start mining] on your Windows node software."
-msgstr ""
-
-msgid "Make sure to download the right software and to enter the exact login information."
-msgstr ""
-
-msgid "To connect your Antminer to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer in your local network."
-msgstr ""
-
-msgid "Recommended. Installed directly on the ASIC."
-msgstr ""
-
-msgid "To connect your Dayun to minerstat, you need to install ASIC hub on your ASIC."
-msgstr ""
-
-msgid "Dayun setup"
-msgstr ""
-
-msgid "Make sure to enter the exact login information."
-msgstr ""
-
-msgid "Set up"
-msgstr ""
-
-msgid "For Dayun ASICs we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-hub-a39a9803f0f2\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up."
-msgstr ""
-
-msgid "To connect your Innosilicon to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer in your local network."
-msgstr ""
-
-msgid "For Innosilicon ASICs we recommend using ASIC hub. <a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-23-innosilicon-monitoring-a667aff06a76\" target=\"_blank\" title=\"How to set up ASIC hub\">Read detailed instructions</a> on how to set it up. If you want to use ASIC node, you can find the tutorial <a class=\"tutorial_link\" target=\"_blank\" title=\"ASIC node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-asic-node-aac3c00b981d\">here</a>."
-msgstr ""
-
-msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC (recommended) or ASIC node on a computer on your local network."
 msgstr ""
 
 msgid "This worker doesn't exist on your account."
@@ -1268,6 +1226,9 @@ msgid "Need more stats?"
 msgstr ""
 
 msgid "Get minerstat+ to monitor up to 60 days of data."
+msgstr ""
+
+msgid "Learn more"
 msgstr ""
 
 msgid "Last 3 days"
@@ -1444,10 +1405,16 @@ msgstr ""
 msgid "Supports minerstat for Dayun"
 msgstr ""
 
+msgid "Supports minerstat for Spondoolies"
+msgstr ""
+
 msgid "Electricity costs"
 msgstr ""
 
 msgid "What are your electricity costs?"
+msgstr ""
+
+msgid "for"
 msgstr ""
 
 msgid "Power consumption"
@@ -1516,7 +1483,7 @@ msgstr ""
 msgid "Wallet number limit reached."
 msgstr ""
 
-msgid "Please enter wallet address."
+msgid "Invalid wallet address."
 msgstr ""
 
 msgid "Wallets monitoring"
@@ -1969,6 +1936,9 @@ msgstr ""
 msgid "Define schedule, name your scheduler profile, select the client and edit its config."
 msgstr ""
 
+msgid "does not exist."
+msgstr ""
+
 msgid "This client is not available."
 msgstr ""
 
@@ -2081,9 +2051,6 @@ msgid "Pool number limit reached."
 msgstr ""
 
 msgid "Invalid Key."
-msgstr ""
-
-msgid "Invalid address."
 msgstr ""
 
 msgid "Add your first pool"
@@ -2299,10 +2266,19 @@ msgstr ""
 msgid "Your e-mail is not confirmed. Please check your inbox."
 msgstr ""
 
+msgid "Resend confirmation e-mail"
+msgstr ""
+
 msgid "No wallets available for mining"
 msgstr ""
 
 msgid "No pools available for mining"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't set hashrates for the following algorithms: "
+msgstr ""
+
+msgid "Make sure to add the pool and the wallet to which you want to mine in your address editor and to properly configure your worker's config."
 msgstr ""
 
 msgid "Filter your results to examine the issues more closely."
@@ -2323,6 +2299,9 @@ msgstr ""
 msgid "Speed data missing"
 msgstr ""
 
+msgid "Profit switch errors"
+msgstr ""
+
 msgid "Critical"
 msgstr ""
 
@@ -2330,6 +2309,9 @@ msgid "Important"
 msgstr ""
 
 msgid "Other"
+msgstr ""
+
+msgid "Duplicated ASIC IPs"
 msgstr ""
 
 msgid "Temporary error."
@@ -2650,25 +2632,10 @@ msgstr ""
 msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
 msgstr ""
 
-msgid "Plans"
-msgstr ""
-
-msgid "Free plan"
-msgstr ""
-
-msgid "Up to 2 workers"
-msgstr ""
-
-msgid "forever"
-msgstr ""
-
 msgid "Tier plan"
 msgstr ""
 
 msgid "Up to 1,000 workers"
-msgstr ""
-
-msgid "per worker per month"
 msgstr ""
 
 msgid "Custom plan"
@@ -2677,16 +2644,10 @@ msgstr ""
 msgid "For more than 1,000 workers"
 msgstr ""
 
-msgid "Add-ons"
+msgid "minerstat+"
 msgstr ""
 
-msgid "extended stats, themes & advanced features"
-msgstr ""
-
-msgid "per month"
-msgstr ""
-
-msgid "customized and branded customers' profiles"
+msgid "Add-on"
 msgstr ""
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
@@ -2831,6 +2792,9 @@ msgid "You already own White label add-on. If you are in interested in something
 msgstr ""
 
 msgid "Billing order"
+msgstr ""
+
+msgid "Upgrade your plan"
 msgstr ""
 
 msgid "Features"
@@ -2989,6 +2953,33 @@ msgstr ""
 msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr ""
 
+msgid "Plans"
+msgstr ""
+
+msgid "Free plan"
+msgstr ""
+
+msgid "Up to 2 workers"
+msgstr ""
+
+msgid "forever"
+msgstr ""
+
+msgid "per worker per month"
+msgstr ""
+
+msgid "Add-ons"
+msgstr ""
+
+msgid "extended stats, themes & advanced features"
+msgstr ""
+
+msgid "per month"
+msgstr ""
+
+msgid "customized and branded customers' profiles"
+msgstr ""
+
 msgid "Last 6 days"
 msgstr ""
 
@@ -3064,6 +3055,9 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
+msgid "Export"
+msgstr ""
+
 msgid "Please note that this action will delete the benchmark and data will not be recoverable."
 msgstr ""
 
@@ -3115,19 +3109,22 @@ msgstr ""
 msgid "Select the duration per client"
 msgstr ""
 
-msgid "Fast (45 sec)"
+msgid "Slow (120 sec)"
 msgstr ""
 
 msgid "Medium (70 sec)"
 msgstr ""
 
-msgid "Slow (120 sec)"
+msgid "Fast (45 sec)"
 msgstr ""
 
 msgid "General information"
 msgstr ""
 
 msgid "Name your benchmark and choose the precision with which you will benchmark your options."
+msgstr ""
+
+msgid "Load all default options"
 msgstr ""
 
 msgid "Select algorithm"
@@ -3143,6 +3140,12 @@ msgid "Define algorithm, mining client, and configuration you want to benchmark.
 msgstr ""
 
 msgid "Save and benchmark"
+msgstr ""
+
+msgid "Restart benchmark"
+msgstr ""
+
+msgid "Export benchmark"
 msgstr ""
 
 msgid "Daily balance statistics"
@@ -3256,13 +3259,13 @@ msgstr ""
 msgid "Import pools (JSON)"
 msgstr ""
 
-msgid "Pool address"
-msgstr ""
-
 msgid "Export wallets (JSON)"
 msgstr ""
 
 msgid "Import wallets (JSON)"
+msgstr ""
+
+msgid "Pool address"
 msgstr ""
 
 msgid "Wallet address"
