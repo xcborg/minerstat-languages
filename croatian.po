@@ -37,8 +37,17 @@ msgstr "Prebacivač profita onemogućen"
 msgid "Profit switch enabled"
 msgstr "Prebacivač profita omogućen"
 
+msgid "Load from template"
+msgstr ""
+
 msgid "CPU mining"
 msgstr "CPU rudarenje"
+
+msgid "No templates"
+msgstr ""
+
+msgid "Create new template"
+msgstr ""
 
 msgid "Last seen:"
 msgstr "Zadnji put viđen:"
@@ -48,6 +57,12 @@ msgstr "Neprekinuto vrijeme rada"
 
 msgid "Earnings"
 msgstr "Zarada"
+
+msgid "Income"
+msgstr "Prihod"
+
+msgid "El. costs"
+msgstr ""
 
 msgid "Max. temp"
 msgstr "Max. temp"
@@ -70,8 +85,8 @@ msgstr "Ponovno podizanje stroja"
 msgid "Restart software"
 msgstr "Ponovno pokretanje softvera"
 
-msgid "Switch miner"
-msgstr "Promijeni miner"
+msgid "Switch"
+msgstr "Prekidač"
 
 msgid "Profit switch"
 msgstr "Prebacivač profita"
@@ -310,6 +325,9 @@ msgstr "Greška upravljačkog programa"
 msgid "'s notes"
 msgstr "bilješke"
 
+msgid "Client"
+msgstr "Klijent"
+
 msgid "th"
 msgstr ""
 
@@ -381,6 +399,9 @@ msgstr "Okidač učinkovitost - Ponovno podigni"
 
 msgid "Efficiency trigger - Restart"
 msgstr "Okidač učinkovitost - Ponovno pokreni"
+
+msgid "Earnings trigger - Restart"
+msgstr ""
 
 msgid "Scheduler has started"
 msgstr "Planer je započeo"
@@ -496,9 +517,6 @@ msgstr "Wallet"
 msgid "Fee"
 msgstr "Provizija"
 
-msgid "Client"
-msgstr "Klijent"
-
 msgid "Event"
 msgstr "Događaj"
 
@@ -547,11 +565,20 @@ msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Innosi
 msgid "You are using username and password that aren't default for this Dayun ASIC. Please note that SSH login is not the same as web login, which means that default Dayun username/password is <b>root/envision</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
 msgstr "Upotrebljavate korisničko ime i zaporku koji nisu zadani za ovaj Dayun ASIC. Imajte na umu da SSH prijava nije ista kao prijava na mreži,što znači da je korisničko ime/lozinka Dayun <b>root/envision</b>.<br><br> Možete promijeniti korisničko ime i zaporku vašeg radnika klikom na opciju \"Uredi\" na popisu radnika. Ako ste sigurni da ste promijenili zadano korisničko ime i zaporku za ASIC, možete zanemariti ovu napomenu."
 
+msgid "You are using username and password that aren't default for this Spondoolies ASIC. Please note that SSH login is not the same as web login, which means that default Spondoolies username/password is <b>root/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
+msgstr ""
+
 msgid "Online, but not mining."
 msgstr "Onlline, ali ne rudari"
 
 msgid "Unidentified hardware"
 msgstr "Neidentificirani hardver"
+
+msgid "Low efficiency: "
+msgstr ""
+
+msgid "Undetected GPUs: "
+msgstr ""
 
 msgid "High temperature for"
 msgstr "Visoka temperatura za"
@@ -576,6 +603,12 @@ msgstr "Pool nije definiran"
 
 msgid "Tags defined in worker's config are invalid"
 msgstr "Oznake definirane u konfiguraciji radnika su nevažeće"
+
+msgid "Duplicated IP"
+msgstr ""
+
+msgid "This IP was entered in multiple workers"
+msgstr ""
 
 msgid "No issues"
 msgstr "Nema problema"
@@ -676,11 +709,17 @@ msgstr "mjesec"
 msgid "months"
 msgstr "mjeseci"
 
+msgid "Delete benchmark?"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Remove"
+msgstr "Ukloni"
+
 msgid "Balance"
 msgstr "Bilanca"
-
-msgid "Income"
-msgstr "Prihod"
 
 msgid "Outgo"
 msgstr "Izdatak"
@@ -697,8 +736,8 @@ msgstr "E-mail poslan"
 msgid "Please check your inbox and confirm your account to proceed."
 msgstr "Provjerite svoju pristiglu poštu i potvrdite svoj račun da biste nastavili."
 
-msgid "Remove"
-msgstr "Ukloni"
+msgid "Access key"
+msgstr "Pristupni ključ"
 
 msgid "Settings"
 msgstr "Postavke"
@@ -814,6 +853,9 @@ msgstr "Alati"
 msgid "Scheduler"
 msgstr "Planer"
 
+msgid "Config templates"
+msgstr ""
+
 msgid "Market cap"
 msgstr "Tržišna kapitalizacija"
 
@@ -865,8 +907,14 @@ msgstr "Naziv radnik ne smije prelaziti 15 znakova"
 msgid "Limit reached, upgrade your plan."
 msgstr "Dosegnuto ograničenje, nadogradite svoj plan."
 
+msgid "Set worker's name."
+msgstr ""
+
 msgid "Invalid ASIC IP."
 msgstr "Nevažeći ASIC IP"
+
+msgid "Duplicated IP."
+msgstr ""
 
 msgid "Unable to add worker."
 msgstr "Nije moguće dodati radnika."
@@ -898,14 +946,17 @@ msgstr "Sistem"
 msgid "SSH username"
 msgstr "SSH korisničko ime"
 
-msgid "ASIC's default username is root"
-msgstr "Zadano korisničko ime ASIC-a je root"
-
 msgid "SSH password"
 msgstr "SSH zaporka"
 
-msgid "ASIC's default password is admin"
-msgstr "Zadana lozinka ASIC-a je admin"
+msgid "Warning"
+msgstr ""
+
+msgid "Default SSH username and password for <span id=\"asicSystem\">Antminer</span> is <b id=\"asicSSH\">root/admin</b>."
+msgstr ""
+
+msgid "Please note that SSH login is not the same as web login."
+msgstr ""
 
 msgid "Groups / Locations (optional)"
 msgstr "Grupe / lokacije (po izboru)"
@@ -924,15 +975,6 @@ msgstr "Dodaj radnika"
 
 msgid "Bulk import"
 msgstr "Skupni uvoz"
-
-msgid "Looking for software?"
-msgstr "Tražite softver?"
-
-msgid "If you haven't installed minerstat software to your mining rig yet, select between Linux OS, Windows node, and ASIC node to get started."
-msgstr "Ako još niste instalirali minerstat softver u svoj rudarski sustav, odaberite između Linux OS, Windows čvora i ASIC čvora da biste započeli."
-
-msgid "Learn more"
-msgstr "Saznajte više"
 
 msgid "Limit reached"
 msgstr "Limit dostignut"
@@ -1003,6 +1045,33 @@ msgstr "Ovaj radnik nije dio vašeg računa."
 msgid "Back to workers list"
 msgstr "Natrag na popis radnika"
 
+msgid "Profit switch not set"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't add any coins to it."
+msgstr ""
+
+msgid "Configure profit switch"
+msgstr ""
+
+msgid "Hashrate info missing in profit switch"
+msgstr ""
+
+msgid "You have enabled profit switch in your config, but didn't set algorithms' hashrates."
+msgstr ""
+
+msgid "Demo configuration"
+msgstr ""
+
+msgid "Your worker is online but mining to demo configuration. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
+msgstr ""
+
+msgid "Add pool and wallet in"
+msgstr ""
+
+msgid "Select default mining client and edit its configuration in"
+msgstr ""
+
 msgid "Profit switch in"
 msgstr "Prekidač profita u"
 
@@ -1051,8 +1120,14 @@ msgstr "Mjesečna procjena"
 msgid "Temperature stats not available yet."
 msgstr "Statistika temperature još nije dostupna."
 
-msgid "Make sure the worker is using the correct access key:"
-msgstr "Provjerite koristi li radnik ispravnu pristupnu šifru:"
+msgid "Please note that first boot might take a little bit longer."
+msgstr ""
+
+msgid "Download software"
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact information to your config.js file."
+msgstr ""
 
 msgid "Download"
 msgstr ""
@@ -1072,20 +1147,35 @@ msgstr ""
 msgid "Untested version using latest drivers."
 msgstr ""
 
-msgid "or"
-msgstr ""
-
-msgid "ASIC hub is a special software that you can install on your ASIC machines without running an independent node. All activity can be monitored from the web dashboard or mobile app."
-msgstr ""
-
-msgid "ASIC hub"
-msgstr ""
-
-msgid "Installed directly on the ASIC."
-msgstr ""
-
 msgid "Need help?"
 msgstr "Trebate li pomoć?"
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Read the tutorial</a> that will guide you through msOS setup."
+msgstr ""
+
+msgid "Don't forget to click [Start mining] on your Windows node software."
+msgstr ""
+
+msgid "Make sure to download the right software and to enter the exact login information."
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Read the tutorial</a> that will guide you through Windows node setup."
+msgstr ""
+
+msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC."
+msgstr ""
+
+msgid "Install software"
+msgstr ""
+
+msgid "Make sure to enter a correct command to your SSH client to install ASIC Hub."
+msgstr ""
+
+msgid "Install ASIC Hub"
+msgstr ""
+
+msgid "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read tutorial</a> on how to set up ASIC Hub."
+msgstr ""
 
 msgid "Previous worker"
 msgstr "Prethodni radnik"
@@ -1137,6 +1227,9 @@ msgstr "Trebate više statističkih podataka?"
 
 msgid "Get minerstat+ to monitor up to 60 days of data."
 msgstr "Preuzmite minerstat+ za praćenje do 60 dana podataka."
+
+msgid "Learn more"
+msgstr "Saznajte više"
 
 msgid "Last 3 days"
 msgstr "Posljednja 3 dana"
@@ -1312,6 +1405,48 @@ msgstr "Podržava minerstat za Innosilicon"
 msgid "Supports minerstat for Dayun"
 msgstr "Podržava minerstat za Dayun"
 
+msgid "Supports minerstat for Spondoolies"
+msgstr ""
+
+msgid "Electricity costs"
+msgstr "Troškovi električne energije"
+
+msgid "What are your electricity costs?"
+msgstr "Koji su vaši troškovi za struju?"
+
+msgid "for"
+msgstr "za"
+
+msgid "Power consumption"
+msgstr "Potrošnja struje"
+
+msgid "What is the worker's power consumption?"
+msgstr ""
+
+msgid "Number of GPUs"
+msgstr ""
+
+msgid "How many GPUs does the rig hold?"
+msgstr ""
+
+msgid "Additional info"
+msgstr ""
+
+msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "You have unsaved changes. Are you sure you want to leave this page?"
+msgstr ""
+
+msgid "No, stay on this page"
+msgstr ""
+
+msgid "Yes, leave this page"
+msgstr ""
+
 msgid "Unavailable"
 msgstr "Nedostupno"
 
@@ -1348,8 +1483,8 @@ msgstr "Spremi"
 msgid "Wallet number limit reached."
 msgstr "Dosegnuto je ograničenje broja Walleta"
 
-msgid "Please enter wallet address."
-msgstr "Unesite adresu walleta"
+msgid "Invalid wallet address."
+msgstr ""
 
 msgid "Wallets monitoring"
 msgstr "Praćenje walleta"
@@ -1621,6 +1756,9 @@ msgstr "onda"
 msgid "Set fans"
 msgstr "Postavi ventilatore"
 
+msgid "Restart profit switch"
+msgstr ""
+
 msgid "Send email"
 msgstr "Pošalji e-mail"
 
@@ -1798,6 +1936,9 @@ msgstr "Postavke profila"
 msgid "Define schedule, name your scheduler profile, select the client and edit its config."
 msgstr "Definirajte raspored, imenujte svoj profil planera, odaberite klijenta i uredite njegovu konfiguraciju."
 
+msgid "does not exist."
+msgstr ""
+
 msgid "This client is not available."
 msgstr "Ovaj klijent nije dostupan."
 
@@ -1809,6 +1950,9 @@ msgstr "Odaberite pool"
 
 msgid "Select wallet"
 msgstr "Odaberite wallet"
+
+msgid "Read tutorial"
+msgstr ""
 
 msgid "Coin"
 msgstr "Coin"
@@ -1837,9 +1981,6 @@ msgstr "Opcija Automatski odabir automatski će odabrati najpogodniji klijent i 
 msgid "Algorithm"
 msgstr "Algoritam"
 
-msgid "Power consumption"
-msgstr "Potrošnja struje"
-
 msgid "Hashrate and consumption settings"
 msgstr "Postavke heša i potrošnje"
 
@@ -1851,15 +1992,6 @@ msgstr "Dvono rudarenje"
 
 msgid "Update information on hashrate and consumption for dual mining coins."
 msgstr "Ažurirajte podatke o hešu i potrošnji za dvojno rudarenje coina."
-
-msgid "Electricity costs"
-msgstr "Troškovi električne energije"
-
-msgid "What are your electricity costs?"
-msgstr "Koji su vaši troškovi za struju?"
-
-msgid "for"
-msgstr "za"
 
 msgid "Update information on your electricity costs."
 msgstr "Ažurirajte informacije o troškovima električne energije."
@@ -1921,9 +2053,6 @@ msgstr "Dosegnuto je ograničenje broja poola."
 msgid "Invalid Key."
 msgstr "Nevažeći ključ."
 
-msgid "Invalid address."
-msgstr "Nevažeća adresa."
-
 msgid "Add your first pool"
 msgstr "Dodajte svoj prvi pool"
 
@@ -1974,9 +2103,6 @@ msgstr "Tržišna kapitalizacija"
 
 msgid "Price"
 msgstr "Cijena"
-
-msgid "Circulating Supply"
-msgstr "Cirkulirajuća količina"
 
 msgid "Volume (24h)"
 msgstr "Volumen (24h)"
@@ -2140,11 +2266,20 @@ msgstr "Postavi 2FA"
 msgid "Your e-mail is not confirmed. Please check your inbox."
 msgstr "Vaša e-pošta nije potvrđena. Provjerite svoju pristiglu poštu."
 
+msgid "Resend confirmation e-mail"
+msgstr ""
+
 msgid "No wallets available for mining"
 msgstr "Nema walleta dostupnih za rudarstvo"
 
 msgid "No pools available for mining"
 msgstr "Nema dostupnih poolova za rudarstvo"
+
+msgid "You have enabled profit switch in your config, but didn't set hashrates for the following algorithms: "
+msgstr ""
+
+msgid "Make sure to add the pool and the wallet to which you want to mine in your address editor and to properly configure your worker's config."
+msgstr ""
 
 msgid "Filter your results to examine the issues more closely."
 msgstr "Filtrirajte svoje rezultate kako biste pobliže ispitali probleme."
@@ -2164,6 +2299,9 @@ msgstr "Nedostaju podaci o ventilatorima"
 msgid "Speed data missing"
 msgstr "Nedostaju podaci o brzini"
 
+msgid "Profit switch errors"
+msgstr ""
+
 msgid "Critical"
 msgstr "Kritično"
 
@@ -2172,6 +2310,9 @@ msgstr "Važno"
 
 msgid "Other"
 msgstr "Drugo"
+
+msgid "Duplicated ASIC IPs"
+msgstr ""
 
 msgid "Temporary error."
 msgstr "Privremena greška."
@@ -2329,6 +2470,42 @@ msgstr "Postavite jedan ili više radnika na položaj (0,0)."
 msgid "Empty slot"
 msgstr "Prazan utor"
 
+msgid "Export templates (JSON)"
+msgstr ""
+
+msgid "Import templates (JSON)"
+msgstr ""
+
+msgid "Add new template"
+msgstr ""
+
+msgid "Template name"
+msgstr ""
+
+msgid "Please note that this action will delete the config template, but the workers' current configuration will stay the same."
+msgstr ""
+
+msgid "Add your first config template"
+msgstr ""
+
+msgid "for easier management of workers' configs"
+msgstr ""
+
+msgid "Please name your template."
+msgstr ""
+
+msgid "Missing client."
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Name your config template"
+msgstr ""
+
+msgid "Config templates is a tool that helps you organize your config templates and switch quickly between them through worker's config page."
+msgstr ""
+
 msgid "Export profiles (JSON)"
 msgstr "Izvoz profila (JSON)"
 
@@ -2455,26 +2632,11 @@ msgstr "Nema prošlih naloga"
 msgid "Upgrading your account can bring you more workers, more detailed statistics, more alerting options, and other useful benefits."
 msgstr "Nadogradnja vašeg računa može vam donijeti više radnika, detaljniju statistiku, više opcija upozorenja i druge korisne pogodnosti."
 
-msgid "Plans"
-msgstr "Planovi"
-
-msgid "Free plan"
-msgstr "Besplatni plan"
-
-msgid "Up to 2 workers"
-msgstr "Do 2 radnika"
-
-msgid "forever"
-msgstr "zauvijek"
-
 msgid "Tier plan"
 msgstr "Tier plan"
 
 msgid "Up to 1,000 workers"
 msgstr "Do 1.000 radnika"
-
-msgid "per worker per month"
-msgstr "po radniku mjesečno"
 
 msgid "Custom plan"
 msgstr "Plan po naruđbi"
@@ -2482,17 +2644,11 @@ msgstr "Plan po naruđbi"
 msgid "For more than 1,000 workers"
 msgstr "Za više od 1.000 radnika"
 
-msgid "Add-ons"
-msgstr "Dodatak"
+msgid "minerstat+"
+msgstr ""
 
-msgid "extended stats, themes & advanced features"
-msgstr "proširene statistike, teme i napredne značajke"
-
-msgid "per month"
-msgstr "na mjesec"
-
-msgid "customized and branded customers' profiles"
-msgstr "prilagođeni i brandirani profili kupaca"
+msgid "Add-on"
+msgstr ""
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
 msgstr "Dodajte neograničen broj kupaca i dodijelite ih radnicima koje ste kupili."
@@ -2637,6 +2793,9 @@ msgstr "Već posjedujete bijelu oznaku. Ako ste zainteresirani za nešto više, 
 
 msgid "Billing order"
 msgstr "Narudžba naplate"
+
+msgid "Upgrade your plan"
+msgstr ""
 
 msgid "Features"
 msgstr "Značajke"
@@ -2794,6 +2953,33 @@ msgstr "Vaš račun je potpuno nadograđen. Ako trebate više od 1.000 radnika, 
 msgid "You already own minerstat+ add-on. If you are in interested in something more, contact us through <a href=\"/billing-order/custom\">inquiry form</a>."
 msgstr "Već imate minerstat+ dodatak. Ako ste zainteresirani za nešto više, kontaktirajte nas putem <a href=\"/billing-order/custom\">inquiry form</a>."
 
+msgid "Plans"
+msgstr "Planovi"
+
+msgid "Free plan"
+msgstr "Besplatni plan"
+
+msgid "Up to 2 workers"
+msgstr "Do 2 radnika"
+
+msgid "forever"
+msgstr "zauvijek"
+
+msgid "per worker per month"
+msgstr "po radniku mjesečno"
+
+msgid "Add-ons"
+msgstr "Dodatak"
+
+msgid "extended stats, themes & advanced features"
+msgstr "proširene statistike, teme i napredne značajke"
+
+msgid "per month"
+msgstr "na mjesec"
+
+msgid "customized and branded customers' profiles"
+msgstr "prilagođeni i brandirani profili kupaca"
+
 msgid "Last 6 days"
 msgstr "Posljednjih 6 dana"
 
@@ -2842,6 +3028,126 @@ msgstr "Poruka za nas"
 msgid "Send message"
 msgstr "Pošalji poruku"
 
+msgid "Add your first benchmark"
+msgstr ""
+
+msgid "and see what is best to use"
+msgstr ""
+
+msgid "Add new benchmark"
+msgstr ""
+
+msgid "Export benchmarks"
+msgstr ""
+
+msgid "Import benchmarks"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Please note that this action will delete the benchmark and data will not be recoverable."
+msgstr ""
+
+msgid "Wrong speed selected."
+msgstr ""
+
+msgid "Please name your benchmark."
+msgstr ""
+
+msgid "Unknown worker."
+msgstr ""
+
+msgid "Unsupported algorithm."
+msgstr ""
+
+msgid "Unsupported client system."
+msgstr ""
+
+msgid "Unsupported client type."
+msgstr ""
+
+msgid "Select what to benchmark."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Add worker to benchmark"
+msgstr ""
+
+msgid "You can select worker that you want to use in the benchmark."
+msgstr ""
+
+msgid "Benchmark name"
+msgstr ""
+
+msgid "Name yourbenchmark profile"
+msgstr ""
+
+msgid "Benchmark duration"
+msgstr ""
+
+msgid "Select the duration per client"
+msgstr ""
+
+msgid "Slow (120 sec)"
+msgstr ""
+
+msgid "Medium (70 sec)"
+msgstr ""
+
+msgid "Fast (45 sec)"
+msgstr ""
+
+msgid "General information"
+msgstr ""
+
+msgid "Name your benchmark and choose the precision with which you will benchmark your options."
+msgstr ""
+
+msgid "Load all default options"
+msgstr ""
+
+msgid "Select algorithm"
+msgstr ""
+
+msgid "Select client"
+msgstr ""
+
+msgid "Benchmark options"
+msgstr ""
+
+msgid "Define algorithm, mining client, and configuration you want to benchmark. Default config is custom config set by minerstat that will work for any algorithm and mining client."
+msgstr ""
+
+msgid "Save and benchmark"
+msgstr ""
+
+msgid "Restart benchmark"
+msgstr ""
+
+msgid "Export benchmark"
+msgstr ""
+
 msgid "Daily balance statistics"
 msgstr "Statistika dnevne bilance"
 
@@ -2887,8 +3193,8 @@ msgstr "Rezultat"
 msgid "Recommendations"
 msgstr "Preporuka"
 
-msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
-msgstr "AMD BIOS strap editor je napredni alat za optimizaciju RX i R9 GPU-ova. Koristite na vlastiti rizik.Use at your own risk.<br><br>\r\n\t\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t- Hynix -> 1500 strap"
+msgstr ""
 
 msgid "Ambassador"
 msgstr "Ambasador"
@@ -2938,9 +3244,6 @@ msgstr "Telegram ID"
 msgid "Connect with Telegram"
 msgstr "Povezivanje sa Telegramom"
 
-msgid "Switch"
-msgstr "Prekidač"
-
 msgid "Mobile device ID"
 msgstr "Mobilni uređaj ID"
 
@@ -2956,14 +3259,14 @@ msgstr "Izvoz poola (JSON)"
 msgid "Import pools (JSON)"
 msgstr "Uvoz poola (JSON)"
 
-msgid "Pool address"
-msgstr "Adresa poola"
-
 msgid "Export wallets (JSON)"
 msgstr "Izvoz walleta (JSON)"
 
 msgid "Import wallets (JSON)"
 msgstr "Uvoz walleta (JSON)"
+
+msgid "Pool address"
+msgstr "Adresa poola"
 
 msgid "Wallet address"
 msgstr "Adresa walleta"
@@ -2994,9 +3297,6 @@ msgstr "Unesite ključ iz aplikacije i potvrdite svoju 2FA."
 
 msgid "Please note that after you successfully set up 2FA, the system will logged you out."
 msgstr "Imajte na umu da će nakon što uspješno postavite 2FA, sustav će vas odjaviti."
-
-msgid "Access key"
-msgstr "Pristupni ključ"
 
 msgid "Secret key"
 msgstr "Tajni ključ"
