@@ -1325,7 +1325,7 @@ msgid "For"
 msgstr "Csak"
 
 msgid "Algorithms:"
-msgstr ""
+msgstr "Algoritmusok:"
 
 msgid "Reset to default"
 msgstr "Visszaállítás alapértelmezettre"
@@ -1406,7 +1406,7 @@ msgid "Supports minerstat for Dayun"
 msgstr "Támogatja a Dayun-t"
 
 msgid "Supports minerstat for Spondoolies"
-msgstr ""
+msgstr "Támogatja a Spondoolies-t"
 
 msgid "Electricity costs"
 msgstr "Áram költsége"
@@ -1421,31 +1421,31 @@ msgid "Power consumption"
 msgstr "Energia fogyasztás"
 
 msgid "What is the worker's power consumption?"
-msgstr ""
+msgstr "Mi a gép áram fogyasztása?"
 
 msgid "Number of GPUs"
-msgstr ""
+msgstr "GPUk száma"
 
 msgid "How many GPUs does the rig hold?"
-msgstr ""
+msgstr "Mennyi GPU van a rig-ben?"
 
 msgid "Additional info"
-msgstr ""
+msgstr "További információ"
 
 msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
 msgstr ""
 
 msgid "Confirmation"
-msgstr ""
+msgstr "Konfirmáció"
 
 msgid "You have unsaved changes. Are you sure you want to leave this page?"
-msgstr ""
+msgstr "Nem mentett változások vannak. Biztosan el akarja hagyni ezt az oldalt?"
 
 msgid "No, stay on this page"
-msgstr ""
+msgstr "Nem, maradok"
 
 msgid "Yes, leave this page"
-msgstr ""
+msgstr "Igen, elhagyom"
 
 msgid "Unavailable"
 msgstr "Nem érhető el"
@@ -1484,7 +1484,7 @@ msgid "Wallet number limit reached."
 msgstr "Tárca száma korlát elérve."
 
 msgid "Invalid wallet address."
-msgstr ""
+msgstr "Hibás wallet cím."
 
 msgid "Wallets monitoring"
 msgstr "Tárcák monitorozása"
@@ -1757,7 +1757,7 @@ msgid "Set fans"
 msgstr "Ventillátorok beállítása"
 
 msgid "Restart profit switch"
-msgstr ""
+msgstr "Profit switch újraindítás"
 
 msgid "Send email"
 msgstr "Küldjön emailt"
@@ -1937,7 +1937,7 @@ msgid "Define schedule, name your scheduler profile, select the client and edit 
 msgstr "Határozza meg az ütemezést, nevezze el az ütemező profilját, válassza ki a klienst, és módosítsa a konfigurációt."
 
 msgid "does not exist."
-msgstr ""
+msgstr "nem létezik"
 
 msgid "This client is not available."
 msgstr "Ez a kliens nem érhető el."
@@ -1952,7 +1952,7 @@ msgid "Select wallet"
 msgstr "Válasszon tárcát"
 
 msgid "Read tutorial"
-msgstr ""
+msgstr "Tutorial elolvasása"
 
 msgid "Coin"
 msgstr "Érme"
@@ -2018,28 +2018,28 @@ msgid "Set the minimum allowed difference in coin profitability to trigger switc
 msgstr "Állítsa be az érme nyereségességének minimális megengedett különbségét a kapcsoló indításához (az alapértelmezett érték 1%) és a minimális bányászati idő (az alapértelmezett érték 10 perc)."
 
 msgid "Reward method"
-msgstr ""
+msgstr "Díjazási módszer"
 
 msgid "How to handle reward data?"
 msgstr ""
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "Ignore outliers"
-msgstr ""
+msgstr "Kiugrások figyelmen kívül hagyása"
 
 msgid "Apply penalties"
-msgstr ""
+msgstr "Szankciók alkalmazása"
 
 msgid "Normal - High risk"
-msgstr ""
+msgstr "Normal - Magas kockázat"
 
 msgid "Ignore outliers - Medium risk"
-msgstr ""
+msgstr "Kiugrások figyelmen kívül hagyása - Közepes kockázat"
 
 msgid "Apply penalties - Low risk"
-msgstr ""
+msgstr "Szankciók alkalmazása - Alacsony kockázat"
 
 msgid "Client's config"
 msgstr "Kliens beállításai"
@@ -2267,7 +2267,7 @@ msgid "Your e-mail is not confirmed. Please check your inbox."
 msgstr "Az Ön e-mail címe nincs megerősítve. Kérjük ellenőrizze a postafiókját."
 
 msgid "Resend confirmation e-mail"
-msgstr ""
+msgstr "Küldje újra a konfirmációs email-t"
 
 msgid "No wallets available for mining"
 msgstr "Nincs tárca beállítva a bányászathoz"
@@ -2300,7 +2300,7 @@ msgid "Speed data missing"
 msgstr "Sebesség adatok hiányoznak"
 
 msgid "Profit switch errors"
-msgstr ""
+msgstr "Profit switch problémák"
 
 msgid "Critical"
 msgstr "Kritikus"
@@ -2312,7 +2312,7 @@ msgid "Other"
 msgstr "Egyéb"
 
 msgid "Duplicated ASIC IPs"
-msgstr ""
+msgstr "Duplikált ASIC IPk"
 
 msgid "Temporary error."
 msgstr "Ideiglenes hiba."
@@ -2357,7 +2357,7 @@ msgid "Per month"
 msgstr "Havonta"
 
 msgid "Estimated daily"
-msgstr ""
+msgstr "Becsült napi"
 
 msgid "Top coins by algorithms"
 msgstr "Vezető érmék algoritmus szerint"
@@ -2471,40 +2471,40 @@ msgid "Empty slot"
 msgstr "Üres hely"
 
 msgid "Export templates (JSON)"
-msgstr ""
+msgstr "Sablon export (JSON)"
 
 msgid "Import templates (JSON)"
-msgstr ""
+msgstr "Sablon import (JSON)"
 
 msgid "Add new template"
-msgstr ""
+msgstr "Sablon hozzáadás"
 
 msgid "Template name"
-msgstr ""
+msgstr "Sablon név"
 
 msgid "Please note that this action will delete the config template, but the workers' current configuration will stay the same."
-msgstr ""
+msgstr "Kérjük, vegye figyelembe, hogy ez az akció kitörli sablonját, de a gép jelenlegi konfigurációja megmarad."
 
 msgid "Add your first config template"
-msgstr ""
+msgstr "Adja hozzá első sablonját,"
 
 msgid "for easier management of workers' configs"
-msgstr ""
+msgstr "hogy könnyebben kezelhesse gépei konfigjait."
 
 msgid "Please name your template."
-msgstr ""
+msgstr "Kérjük, nevezze el a sablonját."
 
 msgid "Missing client."
-msgstr ""
+msgstr "Hiányzó kliens."
 
 msgid "Template"
-msgstr ""
+msgstr "Sablon"
 
 msgid "Name your config template"
-msgstr ""
+msgstr "Sablonod neve"
 
 msgid "Config templates is a tool that helps you organize your config templates and switch quickly between them through worker's config page."
-msgstr ""
+msgstr "Konfig sablonok egy eszköz ami segít rendezni a konfigjait és gyorsan tud váltani közülök a gép konfigurációs oldalon."
 
 msgid "Export profiles (JSON)"
 msgstr "Profilok exportálása (JSON)"
@@ -2645,10 +2645,10 @@ msgid "For more than 1,000 workers"
 msgstr "1000 gép felett"
 
 msgid "minerstat+"
-msgstr ""
+msgstr "minerstat+"
 
 msgid "Add-on"
-msgstr ""
+msgstr "Bővítmény"
 
 msgid "Add unlimited amount of customers and assign them the workers you bought."
 msgstr "Adjon hozzá korlátlan mennyiségű ügyfelet és rendelje hozzá azokat a gépeket, amiket megvásárolt."
@@ -2795,7 +2795,7 @@ msgid "Billing order"
 msgstr "Számlkázási megbízás"
 
 msgid "Upgrade your plan"
-msgstr ""
+msgstr "Frissítse csomagját"
 
 msgid "Features"
 msgstr "Jellemzők"
