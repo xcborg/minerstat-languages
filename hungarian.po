@@ -38,16 +38,16 @@ msgid "Profit switch enabled"
 msgstr "Profit kapcsoló engedélyezve"
 
 msgid "Load from template"
-msgstr ""
+msgstr "Betöltés sablonból"
 
 msgid "CPU mining"
 msgstr "CPU bányászat"
 
 msgid "No templates"
-msgstr ""
+msgstr "Nincsenek sablonok"
 
 msgid "Create new template"
-msgstr ""
+msgstr "Új sablon"
 
 msgid "Last seen:"
 msgstr "Utoljára ekkor láttuk:"
@@ -62,7 +62,7 @@ msgid "Income"
 msgstr "Bevétel"
 
 msgid "El. costs"
-msgstr ""
+msgstr "Kiadás"
 
 msgid "Max. temp"
 msgstr "Max. hőmérséklet"
@@ -401,7 +401,7 @@ msgid "Efficiency trigger - Restart"
 msgstr "Hatékonyság trigger - Újratöltés"
 
 msgid "Earnings trigger - Restart"
-msgstr ""
+msgstr "Bevételi trigger - Újraindítás"
 
 msgid "Scheduler has started"
 msgstr "Ütemező elindítva"
@@ -566,7 +566,7 @@ msgid "You are using username and password that aren't default for this Dayun AS
 msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem alapértelmezettek az Dayun ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>root/envision</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a \"Szerkesztés\" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "You are using username and password that aren't default for this Spondoolies ASIC. Please note that SSH login is not the same as web login, which means that default Spondoolies username/password is <b>root/root</b>.<br><br>You can change the username and password of your worker by clicking 'Edit' option on your workers list. If you are sure you have changed the default username and password for your ASIC, you can ignore this remark."
-msgstr ""
+msgstr "Olyan felhasználónevet és jelszót használ, amelyek nem alapértelmezettek az Dayun ASIC számára. Kérjük, vegye figyelembe, hogy az SSH bejelentkezés nem azonos a webes bejelentkezéssel, ami azt jelenti, hogy az alapértelmezett Antminer felhasználónév és jelszó <b>root/root</b>.<br><br>Megváltoztathatja a felhasználónevét és jelszavát kattintson a \"Szerkesztés\" lehetőségre a Gépek listán. Ha biztos benne, hogy megváltoztatta az ASIC alapértelmezett SSH felhasználónevét és jelszavát, vegye figyelmen kívül ezt a megjegyzést."
 
 msgid "Online, but not mining."
 msgstr "Elérhető, de nem bányászik"
@@ -575,10 +575,10 @@ msgid "Unidentified hardware"
 msgstr "Ismeretlen hardver"
 
 msgid "Low efficiency: "
-msgstr ""
+msgstr "Alacsony hatékonyság: "
 
 msgid "Undetected GPUs: "
-msgstr ""
+msgstr "Ismeretlen GPUk: "
 
 msgid "High temperature for"
 msgstr "Magas hőmérséklet"
@@ -605,10 +605,10 @@ msgid "Tags defined in worker's config are invalid"
 msgstr "A worker beállításában definiált címke érvénytelen."
 
 msgid "Duplicated IP"
-msgstr ""
+msgstr "Duplikált IP"
 
 msgid "This IP was entered in multiple workers"
-msgstr ""
+msgstr "Ez az IP több géphez van rendelve"
 
 msgid "No issues"
 msgstr "Nincs probléma"
@@ -635,7 +635,7 @@ msgid "Consumption:"
 msgstr "Fogyasztás"
 
 msgid "Estimated daily:"
-msgstr ""
+msgstr "Becsült napi:"
 
 msgid "days"
 msgstr "napok"
@@ -710,10 +710,10 @@ msgid "months"
 msgstr "hónapok"
 
 msgid "Delete benchmark?"
-msgstr ""
+msgstr "Törli a benchmarkot?"
 
 msgid "default"
-msgstr ""
+msgstr "alapértelmezett"
 
 msgid "Remove"
 msgstr "Eltávolítás"
@@ -854,7 +854,7 @@ msgid "Scheduler"
 msgstr "Ütemező"
 
 msgid "Config templates"
-msgstr ""
+msgstr "Konfig sablonok"
 
 msgid "Market cap"
 msgstr "Piac kapitalizáció"
@@ -908,13 +908,13 @@ msgid "Limit reached, upgrade your plan."
 msgstr "Korlát elérve, frissítse a fiókját."
 
 msgid "Set worker's name."
-msgstr ""
+msgstr "Adja meg a gép nevét."
 
 msgid "Invalid ASIC IP."
 msgstr "Érvénytelen ASIC IP."
 
 msgid "Duplicated IP."
-msgstr ""
+msgstr "Duplikált IP."
 
 msgid "Unable to add worker."
 msgstr "Nem lehet gépet hozzáadni."
@@ -950,13 +950,13 @@ msgid "SSH password"
 msgstr "SSH jelszava"
 
 msgid "Warning"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 msgid "Default SSH username and password for <span id=\"asicSystem\">Antminer</span> is <b id=\"asicSSH\">root/admin</b>."
 msgstr ""
 
 msgid "Please note that SSH login is not the same as web login."
-msgstr ""
+msgstr "Kérjük, vegye figyelembe, hogy a SSH bejelentkezés nem egyezik a web felület jelszavával."
 
 msgid "Groups / Locations (optional)"
 msgstr "Csoportok / Helyek (opcionális)"
@@ -1046,7 +1046,7 @@ msgid "Back to workers list"
 msgstr "Vissza a gépek listájához"
 
 msgid "Profit switch not set"
-msgstr ""
+msgstr "Profit switch nincs beállítva"
 
 msgid "You have enabled profit switch in your config, but didn't add any coins to it."
 msgstr ""
