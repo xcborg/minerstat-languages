@@ -302,7 +302,7 @@ msgid "Hashrate"
 msgstr "Hashrate"
 
 msgid "Daily average"
-msgstr ""
+msgstr "Napi átlag"
 
 msgid "No data"
 msgstr "Nincs adat"
@@ -953,7 +953,7 @@ msgid "Warning"
 msgstr "Figyelmeztetés"
 
 msgid "Default SSH username and password for <span id=\"asicSystem\">Antminer</span> is <b id=\"asicSSH\">root/admin</b>."
-msgstr ""
+msgstr "Alapértelmezett SSH felhasználónév és jelszó <span id=\"asicSystem\">Antminer</span>-hez <b id=\"asicSSH\">root/admin</b>."
 
 msgid "Please note that SSH login is not the same as web login."
 msgstr "Kérjük, vegye figyelembe, hogy a SSH bejelentkezés nem egyezik a web felület jelszavával."
@@ -1049,28 +1049,28 @@ msgid "Profit switch not set"
 msgstr "Profit switch nincs beállítva"
 
 msgid "You have enabled profit switch in your config, but didn't add any coins to it."
-msgstr ""
+msgstr "A profit switch engedélyezve van a konfigban, de nincs hozzáadva semilyen coin."
 
 msgid "Configure profit switch"
-msgstr ""
+msgstr "Konfiguráld a profit switch-et"
 
 msgid "Hashrate info missing in profit switch"
-msgstr ""
+msgstr "Hashrate információ hiányzik a profit switch-ben."
 
 msgid "You have enabled profit switch in your config, but didn't set algorithms' hashrates."
-msgstr ""
+msgstr "A profit switch engedélyezve van a konfigban, de nincs hozzárendelve algoritmusok hashrateje."
 
 msgid "Demo configuration"
-msgstr ""
+msgstr "Demo konfiguráció"
 
 msgid "Your worker is online but mining to demo configuration. Make sure to add pool and wallet to which you want to mine in your address editor and to properly configure it in the worker's config section."
-msgstr ""
+msgstr "A géped online van de demo konfigurációval bányászik. Kérjük adjon hozzá egy pool/wallet-et az address editor-ban és rendelje hozzá a konfig editor szekcióban."
 
 msgid "Add pool and wallet in"
-msgstr ""
+msgstr "Pool és wallet a"
 
 msgid "Select default mining client and edit its configuration in"
-msgstr ""
+msgstr "Válassza ki az alapértemezett klienst és szerkessze a konfigurációját"
 
 msgid "Profit switch in"
 msgstr "Profit kapcsoló be"
@@ -1121,31 +1121,31 @@ msgid "Temperature stats not available yet."
 msgstr "Hőmérséklet statisztika még nem elérhető"
 
 msgid "Please note that first boot might take a little bit longer."
-msgstr ""
+msgstr "Kérjük jegyezze meg az első indítás több időt vehet igénybe."
 
 msgid "Download software"
-msgstr ""
+msgstr "Szoftver letöltése"
 
 msgid "Make sure to download the right software and to enter the exact information to your config.js file."
-msgstr ""
+msgstr "Bizonyosodjon meg róla, hogy a jó szoftvert tölti le és pontosan ezt illeszti be a config.js fájlba."
 
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 msgid "More info about this version:"
-msgstr ""
+msgstr "Több info erről a verzióról:"
 
 msgid "Stable version"
-msgstr ""
+msgstr "Stabil verzió"
 
 msgid "Properly tested and working."
-msgstr ""
+msgstr "Idő tesztelt és működik."
 
 msgid "Experimental version"
-msgstr ""
+msgstr "Kisérleti verzió"
 
 msgid "Untested version using latest drivers."
-msgstr ""
+msgstr "Nem tesztelt és a legfrissebb drivereket használja."
 
 msgid "Need help?"
 msgstr "Szüksége van segítségre?"
@@ -1163,16 +1163,16 @@ msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutoria
 msgstr ""
 
 msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC."
-msgstr ""
+msgstr "Hogy csatlakoztassa az ASIC gépét a minerstat-hoz, telepítenie kell az ASIC hub szoftvert a gépjére."
 
 msgid "Install software"
-msgstr ""
+msgstr "Telepítse a szoftvert"
 
 msgid "Make sure to enter a correct command to your SSH client to install ASIC Hub."
-msgstr ""
+msgstr "Bizonyosodjon meg róla, hogy pontosan használja a parancsot a SSH kliensben mikor az ASIC Hub-ot telepíti."
 
 msgid "Install ASIC Hub"
-msgstr ""
+msgstr "ASIC Hun telepítése"
 
 msgid "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read tutorial</a> on how to set up ASIC Hub."
 msgstr ""
