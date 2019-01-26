@@ -1151,16 +1151,16 @@ msgid "Need help?"
 msgstr "Szüksége van segítségre?"
 
 msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Read the tutorial</a> that will guide you through msOS setup."
-msgstr ""
+msgstr "<a class=\"tutorial_link\" target=\"_blank\" title=\"msOS Tutorial\" href=\"https://cryptocurrencyhub.io/5-steps-to-set-up-minerstat-mining-os-5c8aeae172ec\">Olvassa el a Tutorial-t</a> ami végigvezeti az msOS telepítésén."
 
 msgid "Don't forget to click [Start mining] on your Windows node software."
-msgstr ""
+msgstr "Ne felejtsen el kattintani a [Start mining] gombra a Windows node szoftveren."
 
 msgid "Make sure to download the right software and to enter the exact login information."
-msgstr ""
+msgstr "Bizonyosodjon meg, hogy a megfelelő szoftvert tölti le és a megfelelő belépési adatokat használja."
 
 msgid "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Read the tutorial</a> that will guide you through Windows node setup."
-msgstr ""
+msgstr "<a class=\"tutorial_link\" target=\"_blank\" title=\"Windows node Tutorial\" href=\"https://medium.com/@minerstat/3-steps-to-set-up-windows-node-35028a1fceba\">Olvassa el a Tutorial-t</a> ami végigvezeti a Windows node telepítésén."
 
 msgid "To connect your ASIC to minerstat, you need to install ASIC hub on your ASIC."
 msgstr "Hogy csatlakoztassa az ASIC gépét a minerstat-hoz, telepítenie kell az ASIC hub szoftvert a gépjére."
@@ -1175,7 +1175,7 @@ msgid "Install ASIC Hub"
 msgstr "ASIC Hun telepítése"
 
 msgid "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Read tutorial</a> on how to set up ASIC Hub."
-msgstr ""
+msgstr "<a class=\"tutorial_link\" href=\"https://medium.com/@minerstat/minerstat-mining-tutorial-20-antminer-monitoring-5882f7e362d9\" target=\"_blank\" title=\"How to set up ASIC hub\">Olvassa el a Tutorial-t</a> ami végigvezeti az ASIC Hub telepítésén."
 
 msgid "Previous worker"
 msgstr "Előző gép"
@@ -1433,7 +1433,7 @@ msgid "Additional info"
 msgstr "További információ"
 
 msgid "You can enter additional info about your workers that will be taken into account and shown over the dashboard."
-msgstr ""
+msgstr "Megadhat további információt a gépéről ami felhasználásra kerül és az Irányítópulton is megjelenik."
 
 msgid "Confirmation"
 msgstr "Konfirmáció"
@@ -2021,7 +2021,7 @@ msgid "Reward method"
 msgstr "Díjazási módszer"
 
 msgid "How to handle reward data?"
-msgstr ""
+msgstr "Hogyan kezeljük a díjazási adatokat?"
 
 msgid "Normal"
 msgstr "Normal"
@@ -2276,10 +2276,10 @@ msgid "No pools available for mining"
 msgstr "Nincs pool beállítva a bányászathoz"
 
 msgid "You have enabled profit switch in your config, but didn't set hashrates for the following algorithms: "
-msgstr ""
+msgstr "Engedélyezve van a profit switch a gépe konfigjában, de nem adott meg hashrate adatott a következőkhöz: "
 
 msgid "Make sure to add the pool and the wallet to which you want to mine in your address editor and to properly configure your worker's config."
-msgstr ""
+msgstr "Bizonyosodjon meg, hogy hozzáad pool/wallet címkét amit a gép(e) konfigjában használni fog."
 
 msgid "Filter your results to examine the issues more closely."
 msgstr "Szűrje az eredményeket, hogy közelebbről megvizsgálja a problémákat."
@@ -3029,124 +3029,124 @@ msgid "Send message"
 msgstr "Üzenet küldése"
 
 msgid "Add your first benchmark"
-msgstr ""
+msgstr "Adja hozzá első benchmarkját"
 
 msgid "and see what is best to use"
-msgstr ""
+msgstr "és nézze meg mi a legjobb Önnek."
 
 msgid "Add new benchmark"
-msgstr ""
+msgstr "Benchmark hozzáadása"
 
 msgid "Export benchmarks"
-msgstr ""
+msgstr "Benchmark export"
 
 msgid "Import benchmarks"
-msgstr ""
+msgstr "Benchmark import"
 
 msgid "Created"
-msgstr ""
+msgstr "Hozzáadva"
 
 msgid "Options"
-msgstr ""
+msgstr "Opciók"
 
 msgid "Duration"
-msgstr ""
+msgstr "Idő"
 
 msgid "Status"
-msgstr ""
+msgstr "Státusz"
 
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 msgid "Please note that this action will delete the benchmark and data will not be recoverable."
-msgstr ""
+msgstr "Kérjül, vegye figyelembe, hogy ez az akció törölni fogja a benchmarkja adatait és nem visszaállítható."
 
 msgid "Wrong speed selected."
-msgstr ""
+msgstr "Rossz sebesség kiválasztva."
 
 msgid "Please name your benchmark."
-msgstr ""
+msgstr "Kérjük nevezze el benchmarkját."
 
 msgid "Unknown worker."
-msgstr ""
+msgstr "Ismeretlen gép."
 
 msgid "Unsupported algorithm."
-msgstr ""
+msgstr "Nem támogatott algoritmus."
 
 msgid "Unsupported client system."
-msgstr ""
+msgstr "Nem támogatott kliens."
 
 msgid "Unsupported client type."
-msgstr ""
+msgstr "Nem támogatott kliens típus."
 
 msgid "Select what to benchmark."
-msgstr ""
+msgstr "Válassza ki mit benchmarkoljunk"
 
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 msgid "Pending"
-msgstr ""
+msgstr "Várakozik"
 
 msgid "Configuration"
-msgstr ""
+msgstr "Konfiguráció"
 
 msgid "Add worker to benchmark"
-msgstr ""
+msgstr "Gép hozzáadása a benchmark-hoz"
 
 msgid "You can select worker that you want to use in the benchmark."
-msgstr ""
+msgstr "Ki tudja választani melyik gép vegyen részt ebben a benchmark-ban."
 
 msgid "Benchmark name"
-msgstr ""
+msgstr "Benchmark név"
 
-msgid "Name yourbenchmark profile"
-msgstr ""
+msgid "Name your benchmark profile"
+msgstr "Neve a benchmark profilodnak"
 
 msgid "Benchmark duration"
-msgstr ""
+msgstr "Benchmark időtartam"
 
 msgid "Select the duration per client"
-msgstr ""
+msgstr "Válassza ki az időt kliensenként"
 
 msgid "Slow (120 sec)"
-msgstr ""
+msgstr "Lassú (120 mp)"
 
 msgid "Medium (70 sec)"
-msgstr ""
+msgstr "Közepes (70 mp)"
 
 msgid "Fast (45 sec)"
-msgstr ""
+msgstr "Gyors (45 mp)"
 
 msgid "General information"
-msgstr ""
+msgstr "Általános információ"
 
 msgid "Name your benchmark and choose the precision with which you will benchmark your options."
-msgstr ""
+msgstr "Nevezze el benchmarkját és válasszon ami alapján összehasonlíthatja az értékeket."
 
 msgid "Load all default options"
-msgstr ""
+msgstr "Töltse be az alapértelmezett beállításokat"
 
 msgid "Select algorithm"
-msgstr ""
+msgstr "Válasszon algoritmust"
 
 msgid "Select client"
-msgstr ""
+msgstr "Válasszon klienst"
 
 msgid "Benchmark options"
-msgstr ""
+msgstr "Benchmark beállítások"
 
 msgid "Define algorithm, mining client, and configuration you want to benchmark. Default config is custom config set by minerstat that will work for any algorithm and mining client."
-msgstr ""
+msgstr "Adjon meg algoritmust, bányász klienst és konfigurációt mit szeretne benchmarkolni. Alapértelmezett konfigot a minerstat állította be és minden algoritmussal és klienssel működik."
 
 msgid "Save and benchmark"
-msgstr ""
+msgstr "Mentés és benchmark"
 
 msgid "Restart benchmark"
-msgstr ""
+msgstr "Benchmark újraindítás"
 
 msgid "Export benchmark"
-msgstr ""
+msgstr "Benchmark export"
 
 msgid "Daily balance statistics"
 msgstr "Napi egyenleg statisztikák"
@@ -3194,7 +3194,7 @@ msgid "Recommendations"
 msgstr "Ajánlások"
 
 msgid "AMD BIOS strap editor is an advanced tool for optimization of RX & R9 GPUs. Use at your own risk.<br><br>\r\n\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t- Hynix -> 1500 strap"
-msgstr ""
+msgstr "AMD BIOS strap szerkesztő egy összetett eszköz az RX & R9 videókártyákhoz. Saját felellőségére használja.<br><br>\r\n\t\t\t\t\t\t- 4GB GPUs -> 1500 strap to 1500 and upper<br>\r\n\t\t\t\t\t\t- 8GB GPUs -> 1750 strap to 1750 and upper<br>\r\n\t\t\t\t\t\t- Samsung, Micron -> 1625 strap for 4GB or 1750 strap for 8GB<br>\r\n\t\t\t\t\t\t- Hynix -> 1500 strap"
 
 msgid "Ambassador"
 msgstr "Nagykövet"
